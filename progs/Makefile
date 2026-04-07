@@ -1,0 +1,12 @@
+MOD_SOURCES := lib.cpp
+MOD_HEADERS := lib.h
+PROGRAMS :=\
+  import_fi1 import_fi2 import_no import_se make_nom\
+
+#  map_brd find_object\
+#  make_map update_map\
+#  vmap_diff\
+#  test
+
+MODDIR := /home/sla/mapsoft2/modules
+include $(MODDIR)/Makefile.inc

@@ -1,0 +1,8 @@
+*.o
+*.a
+import_fi1
+import_fi2
+import_no
+import_se
+make_nom
+Makefile.deps
