@@ -111,7 +111,6 @@ main(int argc, char *argv[]){
           if (obj.opts.get("objekttypnr") == "1561" || obj.opts.get("objekttypnr") == "1562" || obj.opts.get("objekttypnr") == "1563"){
              auto b = cnv.frw_acc(obj);
              brd.insert(brd.end(), b.begin(), b.end());
-             continue;
           }
 
           /*****************************************/
