@@ -177,6 +177,22 @@ main(int argc, char *argv[]){
 
         obj.opts = opts;
 
+        // For area objects remove closing segment.
+        // This will affect WGS conversion and joining areas splitted between map sources.
+        // Important for object splitted between map sources.
+        if (obj.get_class() == VMAP2_POLYGON){
+          for (auto & seg: crds){
+            auto n = seg.size();
+            if (n>2 && dist(seg[0],seg[n-1])<10) seg.resize(n-1);
+          }
+        }
+
+        // filter points
+        if (cl == "line:" || cl == "area:"){
+          line_filter_rdp(crds, 10); // m
+          if (crds.npts()==0) continue;
+        }
+
         if (obj.ref_pt != dPoint()) cnv.frw(obj.ref_pt);
         obj.dMultiLine::operator=(cnv.frw_acc(crds));
         vmap.add(obj);

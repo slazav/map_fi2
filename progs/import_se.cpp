@@ -154,6 +154,16 @@ main(int argc, char *argv[]){
               obj.opts.put("textkategori", tr_textcat[c]);
           }
 
+          // For area objects remove closing segment.
+          // This will affect WGS conversion and joining areas splitted between map sources.
+          // Important for object splitted between map sources.
+          if (obj.get_class() == VMAP2_POLYGON){
+            for (auto & seg: obj){
+              auto n = seg.size();
+              if (n>2 && dist(seg[0],seg[n-1])<10) seg.resize(n-1);
+            }
+          }
+
           // filter points
           if (obj.get_class() == VMAP2_LINE ||
               obj.get_class() == VMAP2_POLYGON){

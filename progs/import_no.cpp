@@ -397,12 +397,23 @@ main(int argc, char *argv[]){
       if (table == "place_name_text") obj.set_type("text:1");
       if (table == "presentation_text") obj.set_type("text:2");
 
+      // For area objects remove closing segment.
+      // This will affect WGS conversion and joining areas splitted between map sources.
+      // Important for object splitted between map sources.
+      if (obj.get_class() == VMAP2_POLYGON){
+        for (auto & seg: crds){
+          auto n = seg.size();
+          if (n>2 && dist(seg[0],seg[n-1])<10) seg.resize(n-1);
+        }
+      }
+
       // filter points
       if (obj.get_class() == VMAP2_LINE ||
           obj.get_class() == VMAP2_POLYGON){
         line_filter_rdp(crds, 10); // m
         if (crds.npts()==0) continue;
       }
+
       obj.set_coords(cnv.frw_acc(crds)); // -> WGS84, accurate
       vmap.add(obj);
     }
