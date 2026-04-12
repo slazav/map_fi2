@@ -1,7 +1,7 @@
 MOD_SOURCES := lib.cpp
 MOD_HEADERS := lib.h
 PROGRAMS :=\
-  import_fi1 import_fi2 import_no import_se make_nom\
+  import_fi1 import_fi2 import_no import_se make_nom update_map\
 
 #  map_brd find_object\
 #  make_map update_map\

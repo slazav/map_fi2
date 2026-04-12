@@ -5,4 +5,5 @@ import_fi2
 import_no
 import_se
 make_nom
+update_map
 Makefile.deps
