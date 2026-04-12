@@ -6,6 +6,5 @@ org: $(patsubst %, %.vmap2.gz, ${MAPS})
 
 all: $(patsubst %, %.vmap2, ${MAPS})
 
-
-%.org.vmap2.gz:
+%.vmap2.gz:
 	../progs/make_nom $*
