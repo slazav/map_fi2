@@ -494,8 +494,10 @@ import_no1(VMap2 & vmap, const std::string & fname, const dRect & box, const dMu
       if (t == "hoydetallVann") {
         obj.set_type("text:8");
         obj.set_ref_type("point:0x1000");
-        vmap.add(obj);
-        vmap.add(make_ref_obj(obj, "NO1"));
+//        vmap.add(obj);
+//        vmap.add(make_ref_obj(obj, "NO1"));
+        // use objid instead of place_number which is missing
+        text_buf[oi.opts.get("objid")].emplace(-obj.get_first_pt().y, obj);
         continue;
       }
       // trigs - will be taken from point objects
@@ -669,10 +671,6 @@ import_no1(VMap2 & vmap, const std::string & fname, const dRect & box, const dMu
     std::string nm; // main name
     for (auto o: tt.second){
 
-      // to extra map
-      bool ex = o.second.is_ref_type("point:0x1100") || // отметки высот
-                o.second.is_ref_type("point:0x6508"); // водопады
-
       if (first) {
 
         // Check that same name does not appear near it
@@ -680,6 +678,16 @@ import_no1(VMap2 & vmap, const std::string & fname, const dRect & box, const dMu
         // converted from non-text objects.
         if (vmap.find_nearest(o.second.type, o.second.name, o.second.ref_pt, 1000)!=-1)
           continue;
+
+
+        // water altitude marks: find nearest lake and check its size
+        if (o.second.is_ref_type("point:0x1000")){
+          auto id = vmap.find_nearest("area:0x29", o.second.ref_pt, 1000);
+          if (id==-1) continue; // skip
+          auto rng = vmap.get(id).bbox();
+          auto D = geo_dist_2d(rng.tlc(), rng.brc());
+          if (D < 500) continue; // skip < 500m lakes
+        }
 
         // make reference object
         vmap.add(make_ref_obj(o.second, "NO1"));
