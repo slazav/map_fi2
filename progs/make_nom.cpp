@@ -99,20 +99,7 @@ import_fi1(VMap2 & vmap, const std::string & fname, const dRect & box){
       // Note: not all summits have correct location, I can only filter them manually.
       if (obj.is_ref_type("point:0x1100") && oi.opts.exists("placeeleva"))
         obj.name = oi.opts.get("placeeleva") + " " + obj.name;
-/*
-      if (obj.is_ref_type("point:0x1100") && oi.opts.exists("placeeleva")){
-        VMap2obj obj1 = obj;
-        obj1.opts.put("Source", "FI1");
-        obj1.name = oi.opts.get("placeeleva");
-        obj1.set_type("text:5");
-        obj1.set_ref_type("point:0x0D00");
-        // it could be carry-overs in original objects
-        if (vmap.find_nearest(obj1.ref_type, obj1.name, obj1.ref_pt, 100)==-1){
-          vmap.add(obj1);
-          vmap.add(make_ref_obj(obj1, "FI1"));
-        }
-      }
-*/
+
       if (tinfo.angle) obj.angle = oi.angle;
       if (tinfo.scale.size() && tinfo.scale[0]=='x'){
         obj.scale = oi.scale*str_to_type<double>(tinfo.scale.substr(1));
@@ -866,10 +853,10 @@ dMultiLine read_brd(const std::string & fname){
 
 /************************************************/
 
-const std::string src_dir_fi1 = "/mnt/disk/MAPS_VEC/FI";
-const std::string src_dir_fi2 = "/mnt/disk/MAPS_VEC/FI";
-const std::string src_dir_no = "/mnt/disk/MAPS_VEC/NO";
-const std::string src_dir_se = "/mnt/disk/MAPS_VEC/SE";
+const std::string src_dir_fi1 = "FI";
+const std::string src_dir_fi2 = "FI";
+const std::string src_dir_no = "NO";
+const std::string src_dir_se = "SE";
 
 int
 main(int argc, char *argv[]){
@@ -890,7 +877,7 @@ main(int argc, char *argv[]){
     auto box = nom_to_wgs(name); // WGS84
     ConvGeo cnv("ETRS-TM35FIN");
 
-    // which Finnish maps we can to read?
+    // Finnish maps
     for (const auto & f: file_glob({src_dir_fi1 + "/*.fi1.vmap2.gz"})){
       auto base = file_get_basename(f, ".fi1.vmap2.gz");
       auto brd = cnv.frw_acc(rect_to_line(nom_to_range_fi(base)));
@@ -899,7 +886,7 @@ main(int argc, char *argv[]){
       import_fi1(vmap, f, box);
     }
 
-    // which Finnish detailed maps we can to read?
+    // Finnish detailed maps
     for (const auto & f: file_glob({src_dir_fi2 + "/*.fi2.vmap2.gz"})){
       auto base = file_get_basename(f, ".fi2.vmap2.gz");
       auto brd = cnv.frw_acc(rect_to_line(nom_to_range_fi(base)));
@@ -908,7 +895,7 @@ main(int argc, char *argv[]){
       import_fi2(vmap, f, box);
     }
 
-    // which Norwegian maps we want to read?
+    // Norwegian maps
     for (const auto & f: file_glob({src_dir_no + "/*.vmap2.gz"})){
       auto base = file_get_basename(f, ".vmap2.gz");
       auto brd = read_brd(src_dir_no + "/" + base + ".gpx");
@@ -917,7 +904,7 @@ main(int argc, char *argv[]){
       import_no1(vmap, f, box, brd);
     }
 
-    // which Swedish maps we want to read?
+    // Swedish maps
     for (const auto & f: file_glob({src_dir_se + "/*.vmap2.gz"})){
       auto base = file_get_basename(f, ".vmap2.gz");
       auto brd = read_brd(src_dir_se + "/" + base + ".gpx");
@@ -926,8 +913,11 @@ main(int argc, char *argv[]){
       import_se1(vmap, f, box, brd);
     }
 
+    // join objects
     do_join_lines(vmap, 20, 30);
-    vmap2_export(vmap,  VMap2types(), name + ".vmap2", Opt());
+
+
+    vmap2_export(vmap,  VMap2types(), name + ".vmap2.gz", Opt());
 
   }
   catch(Err & e){
