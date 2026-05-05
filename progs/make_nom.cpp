@@ -613,7 +613,11 @@ import_no1(VMap2 & vmap, const std::string & fname, const dRect & box, const dMu
         else if (rt == "sti")             t = "line:0x2A";    // path
         else if (rt == "barmarksloype")   t = "line:0x2A";    // foot trail
         else if (rt == "gangOgSykkelveg") t = "line:0x2A";    // walking-or-cycling
+        else if (rt == "bilferje")        t = "line:0x42";    // ferry
         else { std::cout << "NO1: unknown type_road: " << rt << "\n"; continue;}
+
+        // tunnels (medium == [UTL])
+        if (oi.opts.get("medium")=="U") t = "line:0x38";
       }
 
       // special type: swamps
