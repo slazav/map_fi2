@@ -9,6 +9,9 @@
 #include "geo_data/geo_io.h"
 #include <regex>
 #include "lib.h"
+#include "poly_cuts.h"
+
+double min_lake_diam=500;
 
 using namespace std;
 
@@ -23,23 +26,6 @@ void usage(bool pod=false){
   pr.head(2, "Options:");
   pr.opts({"HELP","POD"});
   throw Err();
-}
-
-// crop to nom range + 0.01deg
-void
-crop_to_box(VMap2 & vmap, const dRect & box){
-  auto ebox(box);
-  ebox.expand(0.01);
-  vmap.iter_start();
-  while (!vmap.iter_end()){
-    auto p = vmap.iter_get_next();
-    auto id = p.first;
-    auto & o = p.second;
-    bool closed = (o.get_class() == VMAP2_POLYGON);
-    o.set_coords(rect_crop_multi(box, o, closed));
-    if (o.empty()) vmap.del(id);
-    else vmap.put(id, o);
-  }
 }
 
 /************************************************/
@@ -61,15 +47,32 @@ import_fi1(VMap2 & vmap, const std::string & fname, const dRect & box){
   // (for multi-line texts)
   std::map<int, std::multimap<double, VMap2obj> > text_buf;
 
-  // crop map
-  crop_to_box(vmap_src, box);
-
   // process objects
   vmap_src.iter_start();
   while (!vmap_src.iter_end()){
     auto pi = vmap_src.iter_get_next();
     auto ii = pi.first;
     auto oi = pi.second;
+
+    // if object is a polygon and it has cuts option, then save lines _before_ cropping
+    // this probably should be optimized
+    dMultiLine cut_lines;
+    if (oi.is_class(VMAP2_POLYGON) && oi.opts.exists("cuts")){
+      cut_lines = poly_cuts_get_lines(oi, oi.opts.get<iMultiLine>("cuts"));
+      // crop the lines separately, as lines
+      cut_lines = rect_crop_multi(box, cut_lines, false);
+    }
+
+    // crop to range
+    if (oi.get_class() == VMAP2_TEXT){
+      // keep text objects with either coords or ref in the range
+      if (!box.contains(oi.get_first_pt()) && !box.contains(oi.ref_pt)) continue;
+    }
+    else {
+      bool closed = (oi.get_class() == VMAP2_POLYGON);
+      oi.set_coords(rect_crop_multi(box, oi, closed));
+      if (oi.empty()) continue;
+    }
 
     /**********************************/
     // text types
@@ -159,6 +162,14 @@ import_fi1(VMap2 & vmap, const std::string & fname, const dRect & box){
       }
 
       obj.set_type(t);
+
+      // when converting area to line, use cut_lines
+      if (oi.is_class(VMAP2_POLYGON) && obj.is_class(VMAP2_LINE) && oi.opts.exists("cuts")){
+        if (cut_lines.size()==0) continue;
+        obj.dMultiLine::operator=(cut_lines);
+      }
+
+      obj.opts.put("Source_file", fname);
       vmap.add(obj);
     }
   }
@@ -235,9 +246,6 @@ import_fi2(VMap2 & vmap, const std::string & fname, const dRect & box){
   // group labels by reference points, sort by -y coordinate
   std::list<std::multimap<double, VMap2obj> > label_groups;
 
-  // crop map
-  crop_to_box(vmap_src, box);
-
   /********************************************************/
 
   vmap_src.iter_start();
@@ -245,6 +253,17 @@ import_fi2(VMap2 & vmap, const std::string & fname, const dRect & box){
     auto pi = vmap_src.iter_get_next();
     auto ii = pi.first;
     auto oi = pi.second;
+
+    // crop to range
+    if (oi.get_class() == VMAP2_TEXT){
+      // keep text objects with either coords or ref in the range
+      if (!box.contains(oi.get_first_pt()) && !box.contains(oi.ref_pt)) continue;
+    }
+    else {
+      bool closed = (oi.get_class() == VMAP2_POLYGON);
+      oi.set_coords(rect_crop_multi(box, oi, closed));
+      if (oi.empty()) continue;
+    }
 
     /**********************************/
     // text objects
@@ -412,8 +431,7 @@ import_no1(VMap2 & vmap, const std::string & fname, const dRect & box, const dMu
   read_src(vmap_src, fname);
   if (vmap_src.size()==0) return;
 
-  // crop map
-  crop_to_box(vmap_src, box);
+  // crop old map
   crop_to_border(vmap, brd, "NO1");
 
   // We want to sort text objects by place_number field, then by -y coordinate
@@ -425,6 +443,11 @@ import_no1(VMap2 & vmap, const std::string & fname, const dRect & box, const dMu
     auto pi = vmap_src.iter_get_next();
     auto ii = pi.first;
     auto oi = pi.second;
+
+    // crop to range
+    bool closed = (oi.get_class() == VMAP2_POLYGON);
+    oi.set_coords(rect_crop_multi(box, oi, closed));
+    if (oi.empty()) continue;
 
     /********************************/
     // text objects
@@ -494,8 +517,6 @@ import_no1(VMap2 & vmap, const std::string & fname, const dRect & box, const dMu
       if (t == "hoydetallVann") {
         obj.set_type("text:8");
         obj.set_ref_type("point:0x1000");
-//        vmap.add(obj);
-//        vmap.add(make_ref_obj(obj, "NO1"));
         // use objid instead of place_number which is missing
         text_buf[oi.opts.get("objid")].emplace(-obj.get_first_pt().y, obj);
         continue;
@@ -720,8 +741,7 @@ import_se1(VMap2 & vmap, const std::string & fname, const dRect & box, const dMu
   read_src(vmap_src, fname);
   if (vmap_src.size()==0) return;
 
-  // crop map
-  crop_to_box(vmap_src, box);
+  // crop old map
   crop_to_border(vmap, brd, "SE1");
 
   vmap_src.iter_start();
@@ -729,6 +749,11 @@ import_se1(VMap2 & vmap, const std::string & fname, const dRect & box, const dMu
     auto pi = vmap_src.iter_get_next();
     auto ii = pi.first;
     auto oi = pi.second;
+
+    // crop to range
+    bool closed = (oi.get_class() == VMAP2_POLYGON);
+    oi.set_coords(rect_crop_multi(box, oi, closed));
+    if (oi.empty()) continue;
 
     /********************************/
     // text objects

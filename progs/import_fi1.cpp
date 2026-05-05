@@ -9,6 +9,7 @@
 #include "geo_nom/geo_nom_fi.h"
 
 #include "lib.h"
+#include "poly_cuts.h"
 
 using namespace std;
 
@@ -68,6 +69,8 @@ main(int argc, char *argv[]){
 
     if (args.size() != 1) usage();
     std::string pref = args[0];
+
+    auto box = nom_to_range_fi(pref);
 
     /********************************************************/
 
@@ -184,25 +187,49 @@ main(int argc, char *argv[]){
 
         obj.opts = opts;
 
-        // For area objects remove closing segment.
-        // This will affect WGS conversion and joining areas splitted between map sources.
-        // Important for object splitted between map sources.
-        if (obj.get_class() == VMAP2_POLYGON){
-          for (auto & seg: crds){
-            auto n = seg.size();
-            if (n>2 && dist(seg[0],seg[n-1])<10) seg.resize(n-1);
+        // find cuts of polygons (accuracy = 1m)
+        // polygons are closed! it's important for conversions
+        iMultiLine cuts; // (x,y) points where x - point number, z - cut length
+        if (obj.get_class() == VMAP2_POLYGON) cuts = poly_cuts_make_box(crds, box, 1);
+
+        // filter and convert points
+        // process segments separately
+        for (size_t sn = 0; sn < crds.size(); sn++){
+          double acc = 10; // m
+
+          // if cuts segment does not exist process the whole line
+          if (sn>=cuts.size()){
+            if (cl == "line:" || cl == "area:") line_filter_rdp(crds[sn], acc);
+            crds[sn] = cnv.frw_acc(crds[sn]);
+            continue;
           }
+
+          // Split segment into 2*cuts[n] + 1 parts.
+          auto parts = poly_cuts_break_line(crds[sn], cuts[sn]);
+
+          // Process parts (filter + coordinate conversion).
+          for (size_t n = 0; n < parts.size(); n++){
+            line_filter_rdp(parts[n], acc);
+            parts[n] = cnv.frw_acc(parts[n]);
+            // special workaroud: if segment contains two same points,
+            // frw_acc removes one of them (to be fixed?). We want to avoid 1-point lines
+            if (parts[n].size()==1) parts[n].clear();
+          }
+
+          // Join parts and update cuts array for new point numbers
+          poly_cuts_merge_line(parts, crds[sn], cuts[sn]);
+
         }
 
-        // filter points
-        if (cl == "line:" || cl == "area:"){
-          line_filter_rdp(crds, 10); // m
-          if (crds.npts()==0) continue;
-        }
+        // skip empty objects
+        if (crds.npts()==0) continue;
 
-        // convert coordinates
+        // convert ref point
         if (obj.ref_pt != dPoint()) cnv.frw(obj.ref_pt);
-        obj.dMultiLine::operator=(cnv.frw_acc(crds));
+
+        // add object
+        if (cuts.size()) obj.opts.put("cuts", cuts);
+        obj.dMultiLine::operator=(crds);
         vmap.add(obj);
       }
     }
