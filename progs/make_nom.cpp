@@ -318,9 +318,9 @@ import_fi2(VMap2 & vmap, const std::string & fname, const dRect & box){
         // name could be 123.40 or (243.50-245.00)
         // remove fractional part
         obj.name = std::regex_replace(obj.name, std::regex("\\.[0-9]+"), "");
-        vmap.add(obj);
-        vmap.add(make_ref_obj(obj, "FI2"));
-        continue;
+//        vmap.add(obj);
+//        vmap.add(make_ref_obj(obj, "FI2"));
+//        continue;
       }
 
       // We want to combine together text objects with
@@ -415,6 +415,14 @@ import_fi2(VMap2 & vmap, const std::string & fname, const dRect & box){
 //         (geo_dist_2d(i->second.get_first_pt, obj.get_first_pt) > 1000)
 //        vmap.add(i->second);
 //    }
+
+    if (obj.is_ref_type("point:0x1000")){
+      auto id = vmap.find_nearest("area:0x29", obj.ref_pt, 1000);
+      if (id==-1) continue; // skip
+      auto rng = vmap.get(id).bbox();
+      auto D = geo_dist_2d(rng.tlc(), rng.brc());
+      if (D < min_lake_diam) continue; // skip small lakes
+    }
 
     bool lp = false;
     for (auto i = group.begin(); i!=group.end();){
@@ -720,7 +728,7 @@ import_no1(VMap2 & vmap, const std::string & fname, const dRect & box, const dMu
           if (id==-1) continue; // skip
           auto rng = vmap.get(id).bbox();
           auto D = geo_dist_2d(rng.tlc(), rng.brc());
-          if (D < 500) continue; // skip < 500m lakes
+          if (D < min_lake_diam) continue; // skip small lakes
         }
 
         // make reference object
