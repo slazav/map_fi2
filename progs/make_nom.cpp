@@ -98,10 +98,23 @@ import_fi1(VMap2 & vmap, const std::string & fname, const dRect & box){
       // but without "eli" or "-" carry-overs
       obj.name = oi.opts.get("spelling");
 
-      // For summits attach altitude.
+      // Summits
       // Note: not all summits have correct location, I can only filter them manually.
-      if (obj.is_ref_type("point:0x1100") && oi.opts.exists("placeeleva"))
-        obj.name = oi.opts.get("placeeleva") + " " + obj.name;
+      if (obj.is_ref_type("point:0x1100") && oi.opts.exists("placeeleva")){
+        // attach altitude.
+        //obj.name = oi.opts.get("placeeleva") + " " + obj.name;
+
+        // add additional point with altitude
+        VMap2obj obj1 = obj;
+        obj1.name = oi.opts.get("placeeleva");
+        obj1.set_type("text:8");
+        obj1.set_ref_type("point:0x0D00");
+        // it could be carry-overs in original objects
+        if (vmap.find_nearest(obj1.ref_type, obj1.name, obj1.ref_pt, 100)==-1){
+          vmap.add(obj1);
+          vmap.add(make_ref_obj(obj1, "FI1"));
+        }
+      }
 
       if (tinfo.angle) obj.angle = oi.angle;
       if (tinfo.scale.size() && tinfo.scale[0]=='x'){
