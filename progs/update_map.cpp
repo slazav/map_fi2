@@ -233,7 +233,6 @@ vmap_print_diff(VMap2 & vmap1, VMap2 & vmap2){
   double search_dist = 5000; // where we are searching for modified objects [m]
   double match_dist = 10; // which point shift is treated as no change [m].
 
-  std::cout << "DIFF:\n";
   std::set<uint32_t> processed1, processed2;
   std::cout << std::fixed << std::setprecision(5);
 
@@ -257,8 +256,8 @@ vmap_print_diff(VMap2 & vmap1, VMap2 & vmap2){
     double mindist = +INFINITY;
     for (const auto & i2: vmap2.find(o1.type, rng)){
       auto o2 = vmap2.get(i2);
-      if (o2.opts.get("Source")=="")
-        continue; // temporary, select objects with any non-empty Source setting
+//      if (o2.opts.get("Source")=="")
+//        continue; // temporary, select objects with any non-empty Source setting
       if (processed2.count(i2)) continue;
 
       double d = geo_maxdist_2d(o1,o2);
@@ -295,8 +294,8 @@ vmap_print_diff(VMap2 & vmap1, VMap2 & vmap2){
     double mindist = +INFINITY;
     for (const auto & i2: vmap2.find(o1.type, rng)){
       auto o2 = vmap2.get(i2);
-      if (o2.opts.get("Source")=="")
-        continue; // temporary, select objects with any non-empty Source setting
+//      if (o2.opts.get("Source")=="")
+//        continue; // temporary, select objects with any non-empty Source setting
       if (processed2.count(i2)) continue;
 
       double d = geo_maxdist_2d(o1,o2);
@@ -345,8 +344,8 @@ vmap_print_diff(VMap2 & vmap1, VMap2 & vmap2){
     double mindist = +INFINITY;
     for (const auto & i2: vmap2.find(o1.type, rng)){
       auto o2 = vmap2.get(i2);
-      if (o2.opts.get("Source")=="")
-        continue; // temporary, select objects with any non-empty Source setting
+//      if (o2.opts.get("Source")=="")
+//        continue; // temporary, select objects with any non-empty Source setting
       if (processed2.count(i2)) continue;
 
       double d = geo_maxdist_2d(o1,o2);
@@ -403,7 +402,7 @@ vmap_print_diff(VMap2 & vmap1, VMap2 & vmap2){
     // select unprocessed point objects with non-empty Source option
     if (processed2.count(i2)) continue;
     if (!o2.is_class(VMAP2_POINT)) continue;
-    if (o2.opts.get("Source")=="") continue;
+//    if (o2.opts.get("Source")=="") continue;
 
     auto pt2 = o2.get_first_pt();
     std::cout << "add " << o2.print_type()
@@ -420,7 +419,7 @@ vmap_print_diff(VMap2 & vmap1, VMap2 & vmap2){
 int
 main(int argc, char *argv[]){
   try{
-    ms2opt_add_std(options, {"HELP","POD"});
+    ms2opt_add_std(options, {"HELP","POD","OUT"});
     ms2opt_add_vmap2t(options);
     options.add("apply", 0, 'a', "A", "Instead of printing diff, update output file");
     options.add("patch_file",   1, 'p', "A", "File with patch to apply to the input file");
@@ -430,32 +429,34 @@ main(int argc, char *argv[]){
     if (O.exists("help")) usage();
     if (O.exists("pod"))  usage(true);
 
-    if (files.size() != 2) usage();
+    if (files.size() < 1) usage();
 
-    auto ifile = files[0];
-    auto ofile = files[1];
+    auto ofile = O.get("out");
     auto patch_file = O.get("patch_file", "");
 
     bool apply = O.exists("apply");
 
-
     // read file with type information if it's available
     VMap2types types(O);
 
-    // import both files
-    VMap2 vmap1, vmap2;
-    if (!file_exists(ifile)) throw Err() << "Can't find file: " << ifile;
-    vmap2_import(ifile, types, vmap1, Opt());
-    std::cerr << "Reading file: " << ifile << ": " << vmap1.size() << " objects\n";
-
-    if (file_exists(ofile)){
-      vmap2_import(ofile, types, vmap2, Opt());
-      std::cerr << "Reading file: " << ofile << ": " << vmap2.size() << " objects\n";
+    // iread all input files
+    VMap2 vmap1;
+    for (const auto & ifile: files){
+      if (!file_exists(ifile)) throw Err() << "Can't find file: " << ifile;
+      vmap2_import(ifile, types, vmap1, Opt());
+      std::cerr << "Reading source file: " << ifile << ": " << vmap1.size() << " objects\n";
     }
 
-    // filter objects
+    // read output file
+    VMap2 vmap2;
+    if (file_exists(ofile)){
+      vmap2_import(ofile, types, vmap2, Opt());
+      std::cerr << "Reading destination file: " << ofile << ": " << vmap2.size() << " objects\n";
+    }
+
+    // apply patch
     if (patch_file!="") vmap_apply_patch(vmap1, patch_file);
-    std::cerr << "Filtering src file: " << vmap1.size() << " objects\n";
+    std::cerr << "Patching file: " << vmap1.size() << " objects\n";
 
     if (apply){
       O.put("keep_labels", 100);
