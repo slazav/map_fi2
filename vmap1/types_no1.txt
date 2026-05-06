@@ -45,11 +45,13 @@ municipality                -  #
 #unknown type: place_name_text
 #unknown type: presentation_text
 
+
 landuse_boundary           -  # line:0x23 разные природные контуры: леса, болота и т.п.
 data_boundary              -  # граница данных
 fictitious_dividing_line   -  # странные куски километровой сетки
 # track                    -  # ?
 dam                line:0x2C  # плотина
+special_detail_line line:0x2B # может быть валом, рисую как сухую канаву
 
 stream                            river # разные типы рек
 river_bank                    line:0x46 # контур площадных рек - полезен, чтобы избежать стыков

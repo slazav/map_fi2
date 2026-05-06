@@ -6,6 +6,7 @@ holmeISjo  text:3  point:0x2800  0  x1  # sjo/kystkontur/holmeISjo  -- остр�
 nesISjo    text:3  point:0x2800  0  x1  # sjo/kystkontur/nesISjo    -- мыс
 strandISjo text:3  point:0x2800  0  x1  # sjo/kystkontur/strandISjo -- пляж/берег
 vikISjo    text:4  point:0x650C  0  x1  # sjo/kystkontur/vikISjo    -- бухта
+grunneISjo text:3  point:0x2800  0 0.75 # sjo/grunnerISjo/grunneISjo -- подводные мысы?
 
 ## Пресная вода
 eid         text:3  point:0x2800  0  x1     # ferskvann/ferskvannskontur/eid  -- берег, ?

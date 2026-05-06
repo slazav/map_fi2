@@ -22,6 +22,7 @@ area:32418  -  -  # Muu lentoliikennealue, p..llyst.m.t.n
 area:32421  -  area:0x59  # парковка, проезжая зона (D1)
 area:32441  -  area:0x04  # зона аэропорта (D1)
 area:32442  -  area:0x04  # зона аэропорта (D1)
+area:32470  -  -          # гавань? [27.281559,61.473]
 area:32500  -  area:0x58  # карьер (D1)
 area:32611  -  area:0x52  # поле (D1)
 area:32612  -  area:0x56  # сад (D1)
