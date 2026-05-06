@@ -1,0 +1,591 @@
+include common.patch
+
+add point:0x650c [20.917480,68.793021] "Suvijoki"
+
+delete_re_all point:0x2800 "Rr .*" # Delete names of Sweedish border poles
+
+# rapids/waterfalls
+chtype point:0x650c [20.78694,68.91567] "Harakkakoski" point:0x6508
+chtype point:0x650c [20.80137,68.90682] "Harakkaniva" point:0x6508
+move   point:0x6508 [20.78694,68.91567] "Harakkakoski" [20.78572,68.91494]
+move   point:0x6508 [20.80137,68.90682] "Harakkaniva" [20.79911,68.90655]
+
+# delete some unneded/duplicated names
+delete point:0x2800 [20.18066,68.92681] "Måskohytta"
+delete point:0x650c [20.89806,68.97467] "Al.Kilpisjärvi"
+delete point:0x650c [20.30390,68.77365] "Bárdaljávri"
+delete point:0x650c [20.87580,68.89464] "Kiellijärvi"
+delete point:0x650c [20.97416,68.89053] "Mukkavuopio"
+delete point:0x650c [20.85044,68.92421] "Taatsajärvi"
+delete point:0x2800 [20.33259,68.77981] "Partalvare"
+delete point:0x2800 [20.42957,68.78535] "Sieiddisuolu"
+delete point:0x2800 [20.83952,68.76637] "rengärde"
+delete point:0x2800 [20.84117,68.87839] "Rávskkahasvuopmi"
+delete point:0x1100 [20.16540,68.66723] "Beassit"
+
+
+# two-line names
+rename point:0x650c [20.64251,68.81937] "Bajimus Rávdojávri" "Bajimus\\Rávdojávri"
+rename point:0x650c [20.57843,68.86596] "Bajimus Rávskkahasjávri" "Bajimus\\Rávskkahasjávri"
+rename point:0x650c [20.67834,68.79820] "Gaskkamus Rávdojávri" "Gaskkamus\\Rávdojávri"
+rename point:0x650c [20.60050,68.85544] "Gaskkamus Rávskkahasjávri" "Gaskkamus\\Rávskkahasjávri"
+rename point:0x650c [20.69827,68.76966] "Vuolimus Rávdojávri" "Vuolimus\\Rávdojávri"
+rename point:0x650c [20.68703,68.86029] "Vuolimus Rávskkahasjávri" "Vuolimus\\Rávskkahasjávri"
+rename point:0x2c04 [20.93443,68.92485] "Muotkatakan sotamuistomerkki" "Muotkatakan\\sotamuistomerkki"
+
+
+# change type
+chtype point:0x1100 [20.06977,68.73824] "Bumannsberget" point:0x2800
+chtype point:0x1100 [20.02480,68.98045] "Isdalsfjella" point:0x2800
+move   point:0x1100 [20.95718,68.93420] "Laassavaara" [20.94632,68.93892]
+chtype point:0x1100 [20.94632,68.93892] "Laassavaara" point:0x2800
+
+# change type for SE mountains
+chtype point:0x2800 [20.55339,68.77624] "Bajit Luspevárri"     point:0x1100
+chtype point:0x2800 [20.40087,68.83172] "Bajit Sieiddivárri"   point:0x1100
+chtype point:0x2800 [20.39829,68.86342] "Bearraloaivi"         point:0x1100
+chtype point:0x2800 [20.57344,68.71114] "Beikkasvárri"         point:0x1100
+chtype point:0x2800 [20.33256,68.73417] "Biedjogielas"         point:0x1100
+chtype point:0x2800 [20.71576,68.88726] "Boaldovárri"          point:0x1100
+chtype point:0x2800 [20.58175,68.85801] "Buodjučohkka"         point:0x1100
+chtype point:0x2800 [20.70950,68.99093] "Bávvaloaivi"          point:0x1100
+chtype point:0x2800 [20.46651,68.93479] "Bávššatvárri"         point:0x1100
+chtype point:0x2800 [20.95163,68.67960] "Covronjunni"          point:0x1100
+chtype point:0x2800 [20.96489,68.69174] "Covrooaivi"           point:0x1100
+chtype point:0x2800 [20.50885,68.82583] "Davit Jeageloaivi"    point:0x1100
+chtype point:0x2800 [20.77160,68.70877] "Doaresoaivi"          point:0x1100
+chtype point:0x2800 [20.39168,68.88579] "Duolljevárri"         point:0x1100
+chtype point:0x2800 [20.87022,68.77014] "Ganešoaivi"           point:0x1100
+chtype point:0x2800 [20.61232,68.98839] "Geahpeshoŋkkat"       point:0x1100
+chtype point:0x2800 [20.43579,68.67097] "Geatkevárri"          point:0x1100
+chtype point:0x2800 [20.39247,68.67424] "Geavri"               point:0x1100
+chtype point:0x2800 [20.55547,68.89253] "Gieddeoaivi"          point:0x1100
+chtype point:0x2800 [20.85059,68.88612] "Giellevárri"          point:0x1100
+chtype point:0x2800 [20.90035,68.72297] "Gillaroaivi"          point:0x1100
+chtype point:0x2800 [20.48046,68.73346] "Goahtevárri"          point:0x1100
+chtype point:0x2800 [20.37570,68.94975] "Gobmevárri"           point:0x1100
+chtype point:0x2800 [20.90140,68.73912] "Goddečohkat"          point:0x1100
+chtype point:0x2800 [20.79479,68.82600] "Golggotoaivvit"       point:0x1100
+chtype point:0x2800 [20.70345,68.73479] "Guoikalanvárri"       point:0x1100
+chtype point:0x2800 [20.60915,68.68108] "Guovloaivi"           point:0x1100
+chtype point:0x2800 [20.95601,68.70009] "Holgavárri"           point:0x1100
+chtype point:0x2800 [20.60784,68.87932] "Háhttavárri"          point:0x1100
+chtype point:0x2800 [20.23631,68.95832] "Juoksavátnjunni"      point:0x1100
+chtype point:0x2800 [20.82199,68.91366] "Kaarinasvaara"        point:0x1100
+chtype point:0x2800 [20.37293,68.74535] "Kassåive"             point:0x1100
+chtype point:0x2800 [20.61971,68.93064] "Latnjavárri"          point:0x1100
+chtype point:0x2800 [20.74567,68.98225] "Leaibevuomivárri"     point:0x1100
+chtype point:0x2800 [20.39258,68.72864] "Lulit Gassoaivi"      point:0x1100
+chtype point:0x2800 [20.57203,68.81527] "Lulit Jeageloaivi"    point:0x1100
+chtype point:0x2800 [20.85009,68.72540] "Lullehavárri"         point:0x1100
+chtype point:0x2800 [20.51807,68.99860] "Láhkonjoaskevárri"    point:0x1100
+chtype point:0x2800 [20.45851,68.82549] "Mordánvárri"          point:0x1100
+chtype point:0x2800 [20.22086,68.68030] "Másealvárri"          point:0x1100
+chtype point:0x2800 [20.76058,68.91908] "Nilsivaara"           point:0x1100
+chtype point:0x2800 [20.76695,68.89568] "Njaŋggot"             point:0x1100
+chtype point:0x2800 [20.70700,68.71523] "Njárgaroavvi"         point:0x1100
+chtype point:0x2800 [20.65187,68.71644] "Njárgavárri"          point:0x1100
+chtype point:0x2800 [20.65282,68.93087] "Oaggovárri"           point:0x1100
+chtype point:0x2800 [20.46690,68.71723] "Omátvárri"            point:0x1100
+chtype point:0x2800 [20.81660,68.93751] "Ristinasvaara"        point:0x1100
+chtype point:0x2800 [20.46402,68.90818] "Roavgovárri"          point:0x1100
+chtype point:0x2800 [20.81730,68.94782] "Roavvevárri"          point:0x1100
+chtype point:0x2800 [20.64138,68.78415] "Ruoššačohkka"         point:0x1100
+chtype point:0x2800 [20.57992,68.90309] "Ráhkkočohkka"         point:0x1100
+chtype point:0x2800 [20.69173,68.83136] "Rávdoaivvit"          point:0x1100
+chtype point:0x2800 [20.71254,68.81183] "Rávdovárri"           point:0x1100
+chtype point:0x2800 [20.63200,68.84513] "Rávdočohkka"          point:0x1100
+chtype point:0x2800 [20.66096,68.87645] "Rávskkahasvárri"      point:0x1100
+chtype point:0x2800 [20.81823,68.67015] "Skáidevárri"          point:0x1100
+chtype point:0x2800 [20.53355,68.85214] "Snjierttet"           point:0x1100
+chtype point:0x2800 [20.79145,68.95667] "Struvvávárri"         point:0x1100
+chtype point:0x2800 [20.24706,68.70925] "Suolučielgevárri"     point:0x1100
+chtype point:0x2800 [20.51906,68.88375] "Sárjjasvárri"         point:0x1100
+chtype point:0x2800 [20.65316,68.75950] "Uvllávárri"           point:0x1100
+chtype point:0x2800 [20.37001,68.70220] "Virkkalčohkat"        point:0x1100
+chtype point:0x2800 [20.84671,68.97181] "Viđaruovddaš"         point:0x1100
+chtype point:0x2800 [20.50450,68.77587] "Vuojahatvárri"        point:0x1100
+chtype point:0x2800 [20.85111,68.86315] "Vuolit Derpmošvárri"  point:0x1100
+chtype point:0x2800 [20.59374,68.76225] "Vuolit Luspevárri"    point:0x1100
+chtype point:0x2800 [20.40213,68.80075] "Vuolit Sieiddivárri"  point:0x1100
+chtype point:0x2800 [20.91492,68.82550] "Árbuoaivi"            point:0x1100
+chtype point:0x2800 [20.61378,68.82451] "Čalmmasvárri"         point:0x1100
+chtype point:0x2800 [20.33268,68.82611] "Čoalmmivárri"         point:0x1100
+chtype point:0x2800 [20.79401,68.68829] "Čunuvárri"            point:0x1100
+chtype point:0x2800 [20.49135,68.92149] "Čurnovárri"           point:0x1100
+chtype point:0x2800 [20.85263,68.96204] "Čáhcebealvárri"       point:0x1100
+chtype point:0x2800 [20.39442,68.89907] "Šuošmir"              point:0x1100
+
+# add SE altitude marks
+add point:0xd00  [20.327110,68.674354] "1103"
+add point:0xd00  [20.252266,68.998540] "1401"
+add point:0xd00  [20.704594,68.909214] "592"
+add point:0xd00  [20.760612,68.919099] "596"
+add point:0xd00  [20.813942,68.918910] "610"
+add point:0xd00  [20.821468,68.913568] "641"
+add point:0xd00  [20.822182,68.986109] "656"
+add point:0xd00  [20.811367,68.938042] "660"
+add point:0xd00  [20.502548,68.780106] "718"
+add point:0xd00  [20.454140,68.732586] "721"
+add point:0xd00  [20.747558,68.871634] "725"
+add point:0xd00  [20.382426,68.948846] "732"
+add point:0xd00  [20.588551,68.956788] "737"
+add point:0xd00  [20.462551,68.796875] "738"
+add point:0xd00  [20.849819,68.969051] "738"
+add point:0xd00  [20.696354,68.936130] "739"
+add point:0xd00  [20.654379,68.929352] "754"
+add point:0xd00  [20.317747,68.912219] "756"
+add point:0xd00  [20.712147,68.713275] "761"
+add point:0xd00  [20.942001,68.823432] "763"
+add point:0xd00  [20.802269,68.863331] "773"
+add point:0xd00  [20.898039,68.674511] "785"
+add point:0xd00  [20.815830,68.671108] "788"
+add point:0xd00  [20.544777,68.785386] "794"
+add point:0xd00  [20.576637,68.711889] "795"
+add point:0xd00  [20.657043,68.969421] "798"
+add point:0xd00  [20.836659,68.959238] "801"
+add point:0xd00  [20.470448,68.717886] "805"
+add point:0xd00  [20.752316,68.667423] "808"
+add point:0xd00  [20.401268,68.800910] "809"
+add point:0xd00  [20.799007,68.704798] "810"
+add point:0xd00  [20.599194,68.762018] "812"
+add point:0xd00  [20.583401,68.903097] "818"
+add point:0xd00  [20.513363,68.805317] "819"
+add point:0xd00  [20.474224,68.863022] "822"
+add point:0xd00  [20.866299,68.708663] "823"
+add point:0xd00  [20.392685,68.728912] "831"
+add point:0xd00  [20.402641,68.832732] "831"
+add point:0xd00  [20.908275,68.829939] "831"
+add point:0xd00  [20.643311,68.785386] "836"
+add point:0xd00  [20.343590,68.882450] "837"
+add point:0xd00  [20.457435,68.908526] "844"
+add point:0xd00  [20.534083,68.851706] "844"
+add point:0xd00  [20.840378,68.807117] "847"
+add point:0xd00  [20.436115,68.669859] "848"
+add point:0xd00  [20.573101,68.814376] "849"
+add point:0xd00  [20.951418,68.683565] "849"
+add point:0xd00  [20.568466,68.981861] "850"
+add point:0xd00  [20.576878,68.881894] "851"
+add point:0xd00  [20.713362,68.980262] "852"
+add point:0xd00  [20.545292,68.972993] "853"
+add point:0xd00  [20.604163,68.824112] "853"
+add point:0xd00  [20.632839,68.844877] "853"
+add point:0xd00  [20.495130,68.922850] "855"
+add point:0xd00  [20.469589,68.840293] "857"
+add point:0xd00  [20.830936,68.817168] "862"
+add point:0xd00  [20.901772,68.722536] "862"
+add point:0xd00  [20.303764,68.766930] "870"
+add point:0xd00  [20.372156,68.743349] "873"
+add point:0xd00  [20.605827,68.878270] "874"
+add point:0xd00  [20.690002,68.995402] "876"
+add point:0xd00  [20.321789,68.759033] "877"
+add point:0xd00  [20.994100,68.697999] "879"
+add point:0xd00  [20.335384,68.734440] "881"
+add point:0xd00  [20.698929,68.820703] "885"
+add point:0xd00  [20.956936,68.703239] "885"
+add point:0xd00  [20.466328,68.944025] "886"
+add point:0xd00  [20.395775,68.898833] "889"
+add point:0xd00  [20.393669,68.885853] "890"
+add point:0xd00  [20.607593,68.677193] "891"
+add point:0xd00  [20.406246,68.993494] "896"
+add point:0xd00  [20.342045,68.776191] "899"
+add point:0xd00  [20.763302,68.836946] "902"
+add point:0xd00  [20.683136,68.840664] "904"
+add point:0xd00  [20.711803,68.828082] "906"
+add point:0xd00  [20.699349,68.674705] "916"
+add point:0xd00  [20.796019,68.825579] "916"
+add point:0xd00  [20.570183,68.996879] "919"
+add point:0xd00  [20.370884,68.701743] "921"
+add point:0xd00  [20.523102,68.998021] "935"
+add point:0xd00  [20.392685,68.673979] "946"
+add point:0xd00  [20.305481,68.703426] "955"
+add point:0xd00  [20.341187,68.711779] "965"
+add point:0xd00  [20.360968,68.856669] "965"
+add point:0xd00  [20.406246,68.861103] "977"
+add point:0xd00  [20.251923,68.673542] "997"
+
+# add SE mater marks
+add point:0x1000  [20.920544,68.891416] "459"
+add point:0x1000  [20.930157,68.845187] "484"
+add point:0x1000  [20.820293,68.943964] "556"
+add point:0x1000  [20.381093,68.922750] "589"
+add point:0x1000  [20.706263,68.696448] "672"
+add point:0x1000  [20.492420,68.759779] "678"
+add point:0x1000  [20.411708,68.813623] "682"
+add point:0x1000  [20.534477,68.871501] "682"
+add point:0x1000  [20.563660,68.684091] "682"
+add point:0x1000  [20.837116,68.695507] "725"
+add point:0x1000  [20.716438,68.770411] "728"
+add point:0x1000  [20.775318,68.771343] "729"
+add point:0x1000  [20.638106,68.981757] "736"
+add point:0x1000  [20.658356,68.824916] "742"
+add point:0x1000  [20.972214,68.753932] "746"
+add point:0x1000  [20.760555,68.812267] "762"
+add point:0x1000  [20.206604,68.993494] "778"
+add point:0x1000  [20.350800,68.743417] "795"
+add point:0x1000  [20.303593,68.694821] "812"
+
+
+
+# move summits
+move   point:0x1100 [20.05732,68.83338] "Buoššir" [20.05033,68.83793]
+move   point:0x1100 [20.30449,68.78374] "Bárdal" [20.31496,68.78309]
+move   point:0x1100 [20.07074,68.66686] "Derábákti" [20.07262,68.66941]
+move   point:0x1100 [20.07015,68.73695] "Dáččabákti" [20.07016,68.73482]
+move   point:0x1100 [20.24538,68.74275] "Gealbir" [20.24663,68.74196]
+move   point:0x1100 [20.15560,68.70131] "Goahtemuorvárri" [20.15584,68.70009]
+move   point:0x1100 [20.20610,68.71359] "Hurvegielas" [20.21446,68.71048]
+move   point:0x1100 [20.10898,68.79597] "Hárvvesoaivi" [20.12511,68.79408]
+move   point:0x1100 [20.01791,68.77284] "Jalggohas" [20.01714,68.77159]
+move   point:0x1100 [20.10009,68.70572] "Mielggat" [20.10347,68.70414]
+move   point:0x1100 [20.17156,68.96471] "Moskángáisi" [20.17111,68.96103]
+move   point:0x1100 [20.22703,68.69262] "Másealvárri" [20.22041,68.68824]
+move   point:0x1100 [20.29319,68.87911] "Nihkolasnibba" [20.29374,68.88083]
+move   point:0x1100 [20.14859,68.81972] "Rákkasnibba" [20.14451,68.82324]
+move   point:0x1100 [20.23562,68.87408] "Spállogas" [20.22292,68.87242]
+move   point:0x1100 [20.21761,68.88642] "Spállogasnibba" [20.22220,68.88610]
+move   point:0x1100 [20.26072,68.78261] "Sávkavárri" [20.26644,68.78539]
+move   point:0x1100 [20.01062,68.74758] "Unna Nannáš" [20.01364,68.74556]
+move   point:0x1100 [20.13781,68.77159] "Vanasvárri" [20.13143,68.77618]
+move   point:0x1100 [20.12529,68.92456] "Ádjávárdu" [20.14188,68.92300]
+move   point:0x1100 [20.06567,68.90885] "Áslatvárri" [20.06992,68.91100]
+move   point:0x1100 [20.40087,68.83172] "Bajit Sieiddivárri" [20.40253,68.83269]
+move   point:0x1100 [20.39829,68.86342] "Bearraloaivi" [20.40641,68.86110]
+move   point:0x1100 [20.57344,68.71114] "Beikkasvárri" [20.57669,68.71185]
+move   point:0x1100 [20.33256,68.73417] "Biedjogielas" [20.33539,68.73434]
+move   point:0x1100 [20.71576,68.88726] "Boaldovárri" [20.71696,68.88825]
+move   point:0x1100 [20.58175,68.85801] "Buodjučohkka" [20.57893,68.85832]
+move   point:0x1100 [20.70950,68.99093] "Bávvaloaivi" [20.70564,68.98845]
+move   point:0x1100 [20.95163,68.67960] "Covronjunni" [20.95164,68.68346]
+move   point:0x1100 [20.77160,68.70877] "Doaresoaivi" [20.76873,68.70372]
+move   point:0x1100 [20.39168,68.88579] "Duolljevárri" [20.39348,68.88594]
+move   point:0x1100 [20.61232,68.98839] "Geahpeshoŋkkat" [20.61152,68.99105]
+move   point:0x1100 [20.43579,68.67097] "Geatkevárri" [20.43623,68.66989]
+move   point:0x1100 [20.90035,68.72297] "Gillaroaivi" [20.90190,68.72267]
+move   point:0x1100 [20.37570,68.94975] "Gobmevárri" [20.38243,68.94879]
+move   point:0x1100 [20.90140,68.73912] "Goddečohkat" [20.89812,68.73857]
+move   point:0x1100 [20.79479,68.82600] "Golggotoaivvit" [20.79618,68.82558]
+move   point:0x1100 [20.60915,68.68108] "Guovloaivi" [20.60759,68.67719]
+move   point:0x1100 [20.95601,68.70009] "Holgavárri" [20.95716,68.70333]
+move   point:0x1100 [20.60784,68.87932] "Háhttavárri" [20.60627,68.87829]
+move   point:0x1100 [20.23631,68.95832] "Juoksavátnjunni" [20.23785,68.95632]
+move   point:0x1100 [20.37293,68.74535] "Kassåive" [20.37216,68.74335]
+move   point:0x1100 [20.74567,68.98225] "Leaibevuomivárri" [20.74442,68.98113]
+move   point:0x1100 [20.57203,68.81527] "Lulit Jeageloaivi" [20.57318,68.81437]
+move   point:0x1100 [20.85009,68.72540] "Lullehavárri" [20.85985,68.72567]
+move   point:0x1100 [20.51807,68.99860] "Láhkonjoaskevárri" [20.52310,68.99802]
+move   point:0x1100 [20.22086,68.68030] "Másealvárri" [20.21593,68.68010]
+move   point:0x1100 [20.70700,68.71523] "Njárgaroavvi" [20.71189,68.71333]
+move   point:0x1100 [20.65282,68.93087] "Oaggovárri" [20.65454,68.92945]
+move   point:0x1100 [20.46690,68.71723] "Omátvárri" [20.47092,68.71797]
+move   point:0x1100 [20.81660,68.93751] "Ristinasvaara" [20.81110,68.93823]
+move   point:0x1100 [20.46402,68.90818] "Roavgovárri" [20.45788,68.90853]
+move   point:0x1100 [20.64138,68.78415] "Ruoššačohkka" [20.64290,68.78545]
+move   point:0x1100 [20.57992,68.90309] "Ráhkkočohkka" [20.58368,68.90315]
+move   point:0x1100 [20.69173,68.83136] "Rávdoaivvit" [20.71219,68.82821]
+move   point:0x1100 [20.71254,68.81183] "Rávdovárri" [20.71373,68.81298]
+move   point:0x1100 [20.63200,68.84513] "Rávdočohkka" [20.63304,68.84494]
+move   point:0x1100 [20.66096,68.87645] "Rávskkahasvárri" [20.66512,68.87608]
+move   point:0x1100 [20.81823,68.67015] "Skáidevárri" [20.81621,68.67110]
+move   point:0x1100 [20.53355,68.85214] "Snjierttet" [20.53410,68.85164]
+move   point:0x1100 [20.79145,68.95667] "Struvvávárri" [20.79802,68.95967]
+move   point:0x1100 [20.24706,68.70925] "Suolučielgevárri" [20.24642,68.71185]
+move   point:0x1100 [20.51906,68.88375] "Sárjjasvárri" [20.53211,68.88344]
+move   point:0x1100 [20.65316,68.75950] "Uvllávárri" [20.65506,68.75884]
+move   point:0x1100 [20.37001,68.70220] "Virkkalčohkat" [20.37063,68.70179]
+move   point:0x1100 [20.84671,68.97181] "Viđaruovddaš" [20.85049,68.96907]
+move   point:0x1100 [20.50450,68.77587] "Vuojahatvárri" [20.50248,68.78005]
+move   point:0x1100 [20.59374,68.76225] "Vuolit Luspevárri" [20.59908,68.76206]
+move   point:0x1100 [20.40213,68.80075] "Vuolit Sieiddivárri" [20.40137,68.80100]
+move   point:0x1100 [20.91492,68.82550] "Árbuoaivi" [20.90806,68.82984]
+move   point:0x1100 [20.33268,68.82611] "Čoalmmivárri" [20.31927,68.83155]
+move   point:0x1100 [20.79401,68.68829] "Čunuvárri" [20.79254,68.69023]
+move   point:0x1100 [20.49135,68.92149] "Čurnovárri" [20.49507,68.92287]
+move   point:0x1100 [20.85263,68.96204] "Čáhcebealvárri" [20.83688,68.95920]
+move   point:0x1100 [20.39442,68.89907] "Šuošmir" [20.39574,68.89885]
+
+move   point:0x6508 [20.23294,68.88003] "Spállogasgorži" [20.23109,68.87849]
+
+# delete altitude marks
+delete point:0xd00 [20.09573,68.83557] "1001"
+delete point:0xd00 [20.09822,68.98782] "1004"
+delete point:0xd00 [20.13070,68.87326] "1004"
+delete point:0xd00 [20.08341,68.99416] "1005"
+delete point:0xd00 [20.11225,68.87268] "1006"
+delete point:0xd00 [20.09310,68.87815] "1008"
+delete point:0xd00 [20.26775,68.77828] "1008"
+delete point:0xd00 [20.19395,68.84934] "1009"
+delete point:0xd00 [20.20473,68.84872] "1009"
+delete point:0xd00 [20.17197,68.82344] "1013"
+delete point:0xd00 [20.21728,68.77155] "1014"
+delete point:0xd00 [20.24742,68.83546] "1015"
+delete point:0xd00 [20.00116,68.85473] "1017"
+delete point:0xd00 [20.02434,68.82466] "1018"
+delete point:0xd00 [20.17055,68.83673] "1020"
+delete point:0xd00 [20.16302,68.83968] "1021"
+delete point:0xd00 [20.23539,68.77471] "1022"
+delete point:0xd00 [20.19924,68.85560] "1026"
+delete point:0xd00 [20.00905,68.96890] "1030"
+delete point:0xd00 [20.01571,68.85323] "1032"
+delete point:0xd00 [20.12768,68.85784] "1033"
+delete point:0xd00 [20.17417,68.84440] "1034"
+delete point:0xd00 [20.15933,68.94956] "1035"
+delete point:0xd00 [20.02452,68.82840] "1037"
+delete point:0xd00 [20.19992,68.75332] "1038"
+delete point:0xd00 [20.02101,68.96652] "1043"
+delete point:0xd00 [20.06430,68.97965] "1053"
+delete point:0xd00 [20.06598,68.84930] "1053"
+delete point:0xd00 [20.17950,68.85463] "1059"
+delete point:0xd00 [20.21136,68.75852] "1064"
+delete point:0xd00 [20.05723,68.99417] "1071"
+delete point:0xd00 [20.17314,68.84939] "1073"
+delete point:0xd00 [20.13692,68.85217] "1077"
+delete point:0xd00 [20.05186,68.87436] "1083"
+delete point:0xd00 [20.02350,68.84933] "1090"
+delete point:0xd00 [20.05190,68.86256] "1092"
+delete point:0xd00 [20.05122,68.86849] "1099"
+delete point:0xd00 [20.21640,68.74811] "1100"
+delete point:0xd00 [20.23352,68.75213] "1103"
+delete point:0xd00 [20.12506,68.75361] "1105"
+delete point:0xd00 [20.17391,68.76860] "1117"
+delete point:0xd00 [20.17841,68.75609] "1119"
+delete point:0xd00 [20.10777,68.85672] "1127"
+delete point:0xd00 [20.16775,68.76069] "1127"
+delete point:0xd00 [20.07244,68.84135] "1131"
+delete point:0xd00 [20.06868,68.85764] "1137"
+delete point:0xd00 [20.08867,68.85792] "1153"
+delete point:0xd00 [20.01352,68.84434] "1156"
+delete point:0xd00 [19.99800,68.98234] "1221"
+delete point:0xd00 [20.20397,68.97290] "1233"
+delete point:0xd00 [20.13467,68.98105] "1311"
+delete point:0xd00 [20.02404,68.98560] "1322"
+delete point:0xd00 [20.01477,68.98937] "1397"
+delete point:0xd00 [20.01243,68.99823] "1403"
+delete point:0xd00 [20.01743,68.99674] "1420"
+delete point:0xd00 [20.17772,68.97834] "1470"
+delete point:0xd00 [20.21703,68.96107] "1492"
+delete point:0xd00 [20.01740,68.94063] "478"
+delete point:0xd00 [20.04284,68.93528] "528"
+delete point:0xd00 [20.06084,68.93597] "536"
+delete point:0xd00 [20.08159,68.94354] "555"
+delete point:0xd00 [20.08244,68.93765] "565"
+delete point:0xd00 [20.08762,68.92494] "572"
+delete point:0xd00 [20.10244,68.92141] "573"
+delete point:0xd00 [20.11292,68.91364] "575"
+delete point:0xd00 [20.04769,68.93092] "577"
+delete point:0xd00 [20.13466,68.90628] "586"
+delete point:0xd00 [20.06127,68.92526] "590"
+delete point:0xd00 [20.02548,68.94502] "594"
+delete point:0xd00 [20.10904,68.93454] "598"
+delete point:0xd00 [20.07903,68.91940] "605"
+delete point:0xd00 [20.13979,68.93627] "608"
+delete point:0xd00 [20.17880,68.91059] "609"
+delete point:0xd00 [20.19994,68.90816] "609"
+delete point:0xd00 [20.20061,68.90069] "609"
+delete point:0xd00 [20.18078,68.92620] "610"
+delete point:0xd00 [20.15918,68.91683] "614"
+delete point:0xd00 [20.09075,68.95136] "615"
+delete point:0xd00 [20.23692,68.90115] "615"
+delete point:0xd00 [20.20359,68.89773] "616"
+delete point:0xd00 [20.24353,68.92490] "616"
+delete point:0xd00 [20.21093,68.91178] "617"
+delete point:0xd00 [20.24135,68.91788] "624"
+delete point:0xd00 [20.20139,68.92834] "626"
+delete point:0xd00 [20.22851,68.89617] "626"
+delete point:0xd00 [20.26401,68.89598] "626"
+delete point:0xd00 [20.11604,68.92655] "627"
+delete point:0xd00 [20.22625,68.89253] "628"
+delete point:0xd00 [20.12879,68.92390] "630"
+delete point:0xd00 [20.13326,68.89929] "632"
+delete point:0xd00 [20.30628,68.91695] "633"
+delete point:0xd00 [20.26105,68.92185] "636"
+delete point:0xd00 [20.24044,68.91123] "643"
+delete point:0xd00 [20.95718,68.93420] "651"
+delete point:0xd00 [20.08396,68.96035] "652"
+delete point:0xd00 [20.17043,68.93578] "656"
+delete point:0xd00 [20.29535,68.89870] "656"
+delete point:0xd00 [20.04466,68.92271] "657"
+delete point:0xd00 [20.27050,68.88224] "657"
+delete point:0xd00 [20.31373,68.89313] "681"
+delete point:0xd00 [20.28212,68.89062] "683"
+delete point:0xd00 [20.29702,68.89017] "686"
+delete point:0xd00 [20.28991,68.91789] "687"
+delete point:0xd00 [20.24389,68.88089] "690"
+delete point:0xd00 [20.26104,68.86854] "691"
+delete point:0xd00 [20.27904,68.85852] "691"
+delete point:0xd00 [20.28770,68.80304] "692"
+delete point:0xd00 [20.30859,68.82153] "693"
+delete point:0xd00 [20.02761,68.79653] "695"
+delete point:0xd00 [20.25800,68.87234] "695"
+delete point:0xd00 [20.28918,68.87466] "697"
+delete point:0xd00 [20.01232,68.92929] "703"
+delete point:0xd00 [20.07977,68.70107] "705"
+delete point:0xd00 [20.30528,68.88285] "706"
+delete point:0xd00 [20.05676,68.70727] "707"
+delete point:0xd00 [20.31128,68.87798] "712"
+delete point:0xd00 [20.04826,68.78928] "715"
+delete point:0xd00 [20.28326,68.79480] "715"
+delete point:0xd00 [20.13182,68.69103] "723"
+delete point:0xd00 [20.28232,68.91525] "731"
+delete point:0xd00 [20.30748,68.91044] "734"
+delete point:0xd00 [20.30936,68.91314] "734"
+delete point:0xd00 [20.04319,68.69453] "735"
+delete point:0xd00 [20.02727,68.73368] "739"
+delete point:0xd00 [20.02958,68.78257] "739"
+delete point:0xd00 [20.07546,68.80281] "739"
+delete point:0xd00 [20.18162,68.68678] "744"
+delete point:0xd00 [20.10213,68.97467] "749"
+delete point:0xd00 [20.20455,68.81008] "753"
+delete point:0xd00 [20.30474,68.83925] "754"
+delete point:0xd00 [20.01282,68.78345] "758"
+delete point:0xd00 [20.01360,68.91573] "766"
+delete point:0xd00 [20.05037,68.91150] "767"
+delete point:0xd00 [20.01308,68.73297] "768"
+delete point:0xd00 [20.04683,68.77872] "768"
+delete point:0xd00 [20.10165,68.66928] "768"
+delete point:0xd00 [20.31243,68.86495] "768"
+delete point:0xd00 [20.06322,68.68221] "769"
+delete point:0xd00 [20.29737,68.84453] "769"
+delete point:0xd00 [20.04844,68.90838] "770"
+delete point:0xd00 [20.19108,68.93562] "770"
+delete point:0xd00 [20.11080,68.68328] "771"
+delete point:0xd00 [20.04941,68.89509] "779"
+delete point:0xd00 [20.32925,68.82747] "779"
+delete point:0xd00 [20.01559,68.90510] "786"
+delete point:0xd00 [20.12111,68.68561] "788"
+delete point:0xd00 [20.23747,68.86210] "793"
+delete point:0xd00 [20.30785,68.84986] "794"
+delete point:0xd00 [20.02220,68.89868] "795"
+delete point:0xd00 [20.31403,68.84283] "803"
+delete point:0xd00 [20.03996,68.89144] "807"
+delete point:0xd00 [20.14985,68.68199] "812"
+delete point:0xd00 [20.00727,68.80866] "822"
+delete point:0xd00 [20.05298,68.77252] "824"
+delete point:0xd00 [20.27649,68.76434] "827"
+delete point:0xd00 [20.04338,68.76623] "829"
+delete point:0xd00 [20.00507,68.88051] "835"
+delete point:0xd00 [20.25892,68.76690] "838"
+delete point:0xd00 [20.04977,68.76134] "839"
+delete point:0xd00 [20.29246,68.78579] "842"
+delete point:0xd00 [20.07435,68.78915] "846"
+delete point:0xd00 [20.10632,68.82866] "857"
+delete point:0xd00 [20.22948,68.87542] "857"
+delete point:0xd00 [20.23644,68.81407] "857"
+delete point:0xd00 [20.21522,68.88062] "858"
+delete point:0xd00 [20.14893,68.67361] "859"
+delete point:0xd00 [20.12848,68.67225] "865"
+delete point:0xd00 [20.00263,68.82026] "872"
+delete point:0xd00 [20.05093,68.82022] "877"
+delete point:0xd00 [20.09190,68.74385] "879"
+delete point:0xd00 [20.20696,68.86974] "884"
+delete point:0xd00 [20.18659,68.70261] "887"
+delete point:0xd00 [20.20611,68.82537] "888"
+delete point:0xd00 [20.23549,68.71765] "890"
+delete point:0xd00 [20.20146,68.86643] "894"
+delete point:0xd00 [20.01423,68.68736] "895"
+delete point:0xd00 [20.20700,68.78521] "896"
+delete point:0xd00 [20.06826,68.88772] "909"
+delete point:0xd00 [20.10258,68.76223] "909"
+delete point:0xd00 [20.24412,68.82458] "910"
+delete point:0xd00 [20.08437,68.78159] "912"
+delete point:0xd00 [20.15534,68.71940] "912"
+delete point:0xd00 [19.99741,68.82822] "914"
+delete point:0xd00 [20.04465,68.95177] "914"
+delete point:0xd00 [20.23542,68.77969] "915"
+delete point:0xd00 [20.13750,68.82752] "916"
+delete point:0xd00 [20.18008,68.77788] "918"
+delete point:0xd00 [20.16812,68.72359] "920"
+delete point:0xd00 [20.21289,68.69557] "922"
+delete point:0xd00 [20.00470,68.89135] "924"
+delete point:0xd00 [20.10254,68.79028] "927"
+delete point:0xd00 [20.00977,68.86110] "930"
+delete point:0xd00 [20.04003,68.81526] "930"
+delete point:0xd00 [20.08897,68.75872] "932"
+delete point:0xd00 [20.18039,68.87966] "933"
+delete point:0xd00 [20.19526,68.81816] "943"
+delete point:0xd00 [20.15382,68.81676] "945"
+delete point:0xd00 [20.09377,68.75506] "948"
+delete point:0xd00 [20.12219,68.73473] "948"
+delete point:0xd00 [20.23595,68.78595] "948"
+delete point:0xd00 [20.21586,68.70592] "949"
+delete point:0xd00 [20.27330,68.75306] "949"
+delete point:0xd00 [20.12396,68.88522] "950"
+delete point:0xd00 [20.16637,68.88135] "952"
+delete point:0xd00 [20.18289,68.81780] "954"
+delete point:0xd00 [20.20267,68.71238] "959"
+delete point:0xd00 [20.12898,68.76081] "962"
+delete point:0xd00 [19.99729,68.73025] "964"
+delete point:0xd00 [20.25872,68.82996] "965"
+delete point:0xd00 [20.16981,68.82743] "970"
+delete point:0xd00 [20.02301,68.86387] "972"
+delete point:0xd00 [20.13073,68.76994] "972"
+delete point:0xd00 [20.27385,68.74027] "972"
+delete point:0xd00 [20.12171,68.83350] "975"
+delete point:0xd00 [20.04529,68.88094] "979"
+delete point:0xd00 [20.10233,68.80082] "981"
+delete point:0xd00 [20.13637,68.83305] "981"
+delete point:0xd00 [20.22859,68.83163] "985"
+delete point:0xd00 [20.14833,68.78306] "986"
+delete point:0xd00 [20.11109,68.84204] "987"
+delete point:0xd00 [20.19349,68.84089] "989"
+delete point:0xd00 [20.13585,68.84396] "992"
+delete point:0xd00 [20.13807,68.88331] "994"
+delete point:0xd00 [20.60416,68.82411] "853"
+delete point:0xd00 [20.30376,68.76693] "870"
+
+
+# delete water altitude marks
+delete point:0x1000 [20.22013,68.95090] "1011"
+delete point:0x1000 [20.03725,68.99515] "1027"
+delete point:0x1000 [20.89985,68.89179] "458"
+delete point:0x1000 [20.98838,68.89930] "458"
+delete point:0x1000 [20.91647,68.97131] "473"
+delete point:0x1000 [20.98400,68.92041] "528"
+delete point:0x1000 [20.98769,68.94577] "573"
+delete point:0x1000 [20.97708,68.93445] "584"
+delete point:0x1000 [20.19545,68.91925] "592"
+delete point:0x1000 [20.15356,68.92987] "593"
+delete point:0x1000 [20.16532,68.89879] "594"
+delete point:0x1000 [20.18255,68.90753] "594"
+delete point:0x1000 [20.26278,68.89901] "610"
+delete point:0x1000 [20.26439,68.92521] "611"
+delete point:0x1000 [20.29887,68.92619] "617"
+delete point:0x1000 [20.28666,68.88466] "665"
+delete point:0x1000 [20.26534,68.85444] "668"
+delete point:0x1000 [20.28870,68.86578] "669"
+delete point:0x1000 [20.25809,68.85012] "670"
+delete point:0x1000 [20.29706,68.87382] "674"
+delete point:0x1000 [20.01711,68.79368] "675"
+delete point:0x1000 [20.28288,68.85890] "675"
+delete point:0x1000 [20.27777,68.83541] "677"
+delete point:0x1000 [20.29184,68.81743] "679"
+delete point:0x1000 [20.22926,68.80002] "689"
+delete point:0x1000 [20.06966,68.69909] "694"
+delete point:0x1000 [20.16252,68.80347] "700"
+delete point:0x1000 [20.12011,68.81142] "701"
+delete point:0x1000 [20.17328,68.68124] "720"
+delete point:0x1000 [20.00677,68.75551] "725"
+delete point:0x1000 [20.02396,68.74578] "727"
+delete point:0x1000 [20.11493,68.66758] "755"
+delete point:0x1000 [19.99935,68.91887] "759"
+delete point:0x1000 [20.02184,68.89151] "771"
+delete point:0x1000 [20.30464,68.77715] "773"
+delete point:0x1000 [20.13762,68.72756] "832"
+delete point:0x1000 [20.20838,68.87736] "834"
+delete point:0x1000 [20.14924,68.73169] "840"
+delete point:0x1000 [20.25426,68.81717] "840"
+delete point:0x1000 [20.18960,68.78214] "846"
+delete point:0x1000 [20.17453,68.72739] "850"
+delete point:0x1000 [20.09719,68.76565] "852"
+delete point:0x1000 [20.18763,68.87041] "858"
+delete point:0x1000 [20.20546,68.72110] "860"
+delete point:0x1000 [20.10896,68.78706] "870"
+delete point:0x1000 [20.01637,68.85761] "904"
+delete point:0x1000 [20.07642,68.98994] "918"
+delete point:0x1000 [20.12641,68.83781] "927"
+delete point:0x1000 [20.02080,68.97035] "943"
+delete point:0x1000 [20.09700,68.87130] "943"
+delete point:0x1000 [20.08521,68.87501] "945"
+delete point:0x1000 [20.11550,68.87463] "979"
+
+move   point:0x1000 [20.92054,68.89142] "459" [20.91592,68.89493]

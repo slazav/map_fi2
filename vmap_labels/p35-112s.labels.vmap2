@@ -1,0 +1,129 @@
+text:0x2
+name Hollola
+reft point:0x700
+refp 25.512813 60.988606
+crds 25.514599 60.988614
+
+text:0x2
+name Kivimaa
+reft point:0x900
+refp 25.683613 60.998564
+crds 25.685386 60.998564
+
+text:0x2
+scle 1.1
+name Kartano
+opts lang: fin
+reft point:0x900
+refp 25.651273 60.994297
+crds 25.655292 60.993401
+
+text:0x2
+scle 1.1
+name Kiveriö
+opts lang: fin
+reft point:0x900
+refp 25.689594 60.990850
+crds 25.683322 60.988065
+
+text:0x2
+scle 1.1
+name Koiskala
+opts lang: fin
+reft point:0x900
+refp 25.786330 60.987543
+crds 25.778437 60.992715
+
+text:0x2
+scle 1.1
+name Lehmus
+opts lang: fin
+reft point:0x800
+refp 25.797912 60.996183
+crds 25.802819 60.996774
+
+text:0x2
+scle 1.1
+name Metsäpelto
+opts lang: fin
+reft point:0x900
+refp 25.687832 60.996735
+crds 25.684327 60.994931
+
+text:0x2
+scle 1.1
+name Pallas
+opts lang: fin
+reft point:0x900
+refp 25.624941 60.989476
+crds 25.617217 60.987503
+
+text:0x2
+scle 1.1
+name Tapanila
+opts lang: fin
+reft point:0x900
+refp 25.603763 60.987742
+crds 25.598102 60.986058
+
+text:0x2
+scle 2.1
+name Lahti
+opts lang: fin
+reft point:0x700
+refp 25.654988 60.980381
+crds 25.620896 60.995871
+
+text:0x3
+scle 0.75
+name laavu
+opts legend: 1
+reft point:0x2b04
+refp 25.887051 60.992197
+crds 25.888919 60.992208
+
+text:0x3
+scle 0.75
+name rauh.
+reft point:0x6601
+refp 25.820838 60.999541
+crds 25.820246 60.997899
+
+text:0x3
+scle 0.75
+name rauh.
+opts legend: 1
+reft point:0x6601
+refp 25.802143 60.993288
+crds 25.800289 60.993926
+
+text:0x4
+scle 0.9
+algn SE
+name Sammalisto
+opts lang: fin
+reft point:0x650c
+refp 25.880257 60.991013
+crds 25.886004 60.993933
+
+text:0x4
+algn S
+name Pitkäjärvi
+reft point:0x650c
+refp 25.862578 60.994509
+crds 25.862559 60.994520
+
+text:0x8
+algn SE
+name 108
+reft point:0x1000
+refp 25.869600 60.997950
+crds 25.868448 60.997933
+
+text:0x8
+algn SE
+name 110
+reft point:0x1000
+refp 25.885160 60.993130
+crds 25.884258 60.993052
+

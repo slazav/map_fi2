@@ -1,0 +1,48 @@
+include common.patch
+
+delete point:0x650c [26.74000,67.93293] "Kurittukoski" # duplicate
+delete   point:0x2800 [26.73461,67.94962] "Souvasaari" # small river island
+
+# rivers
+move   point:0x650c [26.67669,67.66497] "Ala-Postojoki" [26.64690,67.67567]
+move   point:0x650c [26.18302,68.00521] "Karjalaoja" [26.21040,67.99363]
+move   point:0x650c [26.80292,67.65863] "Mataraoja" [26.84697,67.68207]
+delete point:0x650c [27.49725,67.16324] "Kitinen"
+delete point:0x650c [26.24852,67.65615] "Soasjoki"
+add point:0x650c [26.48407,67.78074] "Ala-Postojoki"
+add point:0x650c [26.62678,67.73457] "Ala-Postojoki"
+add point:0x650c [26.73067,67.87600] "Kitinen"
+add point:0x650c [26.76359,67.67467] "Kitinen"
+add point:0x650c [26.01739,67.87497] "Soasjoki"
+add point:0x650c [26.13317,67.78187] "Soasjoki"
+add point:0x650c [26.19926,67.70129] "Soasjoki"
+
+move   point:0x1000 [26.24110,67.99233] "276" [26.24399,67.99168]
+
+move   point:0x1100 [26.39511,67.92205] "Pomovaara" [26.39900,67.91673]
+move   point:0x1100 [26.33297,67.85166] "Rakkavaara" [26.33357,67.85593]
+move   point:0x1100 [26.01755,67.92613] "Saijanselkä" [26.02341,67.92681]
+move   point:0x1100 [26.49865,67.91242] "Varpupää" [26.50118,67.90876]
+
+chtype point:0x1100 [26.67601,67.71966] "Ilmakkiselkä" point:0x2800
+chtype point:0x1100 [26.98876,67.69625] "Kevitsansarvi" point:0x2800
+chtype point:0x1100 [26.28284,67.98836] "Kolho-Karjala" point:0x2800
+chtype point:0x1100 [26.40269,67.87477] "Pahtavaara" point:0x2800
+chtype point:0x1100 [26.25408,67.82751] "Paistipuolet" point:0x2800
+chtype point:0x1100 [26.24066,67.99934] "Rolli-Karjala" point:0x2800
+chtype point:0x1100 [26.33595,67.86062] "Tunturipäät" point:0x2800
+chtype point:0x1100 [26.68728,67.98071] "Kunnasenvaara" point:0x2800
+
+delete point:0xd00 [26.67601,67.71966] "231"
+delete point:0xd00 [26.98876,67.69625] "232"
+delete point:0xd00 [26.89937,67.97455] "251"
+delete point:0xd00 [26.24066,67.99934] "285"
+delete point:0xd00 [26.40269,67.87477] "292"
+delete point:0xd00 [26.28284,67.98836] "294"
+delete point:0xd00 [26.68728,67.98071] "296"
+delete point:0xd00 [26.49865,67.91242] "330"
+delete point:0xd00 [26.01755,67.92613] "356"
+delete point:0xd00 [26.33297,67.85166] "360"
+delete point:0xd00 [26.25408,67.82751] "368"
+delete point:0xd00 [26.39511,67.92205] "376"
+delete point:0xd00 [26.33595,67.86062] "384"

@@ -1,0 +1,5179 @@
+text:0x1
+name lapinraunio
+opts legend: 1
+reft point:0x6415
+refp 26.830868 61.884211
+crds 26.829128 61.884582
+
+text:0x1
+name lapinraunio
+opts legend: 1
+reft point:0x6415
+refp 26.849818 61.886450
+crds 26.850584 61.886506
+
+text:0x2
+scle 0.75
+name Ahola
+opts lang: fin
+reft point:0x900
+refp 26.694292 61.866923
+crds 26.690999 61.867445
+
+text:0x2
+scle 0.75
+name Ahola
+opts lang: fin
+reft point:0x900
+refp 26.739327 61.699269
+crds 26.737757 61.697546
+
+text:0x2
+scle 0.75
+name Aittolahti
+opts lang: fin
+reft point:0x900
+refp 26.614344 61.717863
+crds 26.609427 61.716415
+
+text:0x2
+scle 0.75
+name Ala-Nikkilä
+opts lang: fin
+reft point:0x900
+refp 26.550861 61.758265
+crds 26.553936 61.757920
+
+text:0x2
+scle 0.75
+name Alaselkä
+opts lang: fin
+reft point:0x900
+refp 26.878734 61.988507
+crds 26.875385 61.986431
+
+text:0x2
+scle 0.75
+name Alatalo
+opts lang: fin
+reft point:0x900
+refp 26.828325 61.894981
+crds 26.829791 61.894723
+
+text:0x2
+scle 0.75
+name Anttila
+opts lang: fin
+reft point:0x900
+refp 26.704142 61.911496
+crds 26.706657 61.911169
+
+text:0x2
+scle 0.75
+name Anttilanmäki
+opts lang: fin
+reft point:0x900
+refp 26.771478 61.988972
+crds 26.772443 61.987448
+
+text:0x2
+scle 0.75
+name Auerlahti
+opts lang: fin
+reft point:0x900
+refp 26.623797 61.923997
+crds 26.626184 61.924964
+
+text:0x2
+scle 0.75
+name Etelämäki
+opts lang: fin
+reft point:0x900
+refp 26.814782 61.967313
+crds 26.816102 61.966499
+
+text:0x2
+scle 0.75
+name Eteläselkä
+opts lang: fin
+reft point:0x900
+refp 26.514106 61.980148
+crds 26.510437 61.978206
+
+text:0x2
+scle 0.75
+name Etelätalo
+opts lang: fin
+reft point:0x900
+refp 26.672352 61.915991
+crds 26.659765 61.916625
+
+text:0x2
+scle 0.75
+name Hanhimäki
+opts lang: fin
+reft point:0x900
+refp 26.592027 61.985130
+crds 26.593236 61.986013
+
+text:0x2
+scle 0.75
+name Hannola
+opts lang: fin
+reft point:0x900
+refp 26.690980 61.905141
+crds 26.686668 61.905803
+
+text:0x2
+scle 0.75
+name Harjula
+opts lang: fin
+reft point:0x900
+refp 26.712282 61.697366
+crds 26.715995 61.696210
+
+text:0x2
+scle 0.75
+name Hiekko
+opts lang: fin
+reft point:0x900
+refp 26.813175 61.949607
+crds 26.803949 61.950295
+
+text:0x2
+scle 0.75
+name Hoila
+opts lang: fin
+reft point:0x900
+refp 26.859054 61.970408
+crds 26.855060 61.968376
+
+text:0x2
+scle 0.75
+name Häkkinen
+opts lang: fin
+reft point:0x900
+refp 26.541543 61.993406
+crds 26.536346 61.993855
+
+text:0x2
+scle 0.75
+name Istruala
+opts lang: fin
+reft point:0x900
+refp 26.981574 61.688291
+crds 26.968748 61.687167
+
+text:0x2
+scle 0.75
+name Jalkala
+opts lang: fin
+reft point:0x900
+refp 26.933205 61.873465
+crds 26.920263 61.873189
+
+text:0x2
+scle 0.75
+name Juntturi
+opts lang: fin
+reft point:0x900
+refp 26.833406 61.716232
+crds 26.833735 61.717092
+
+text:0x2
+scle 0.75
+name Kaivoniemi
+opts lang: fin
+reft point:0x900
+refp 26.827015 61.934856
+crds 26.807266 61.934955
+
+text:0x2
+scle 0.75
+name Kalliokangas
+opts lang: fin
+reft point:0x900
+refp 26.715234 61.974977
+crds 26.714292 61.975783
+
+text:0x2
+scle 0.75
+name Kangas
+opts lang: fin
+reft point:0x900
+refp 26.596707 61.931233
+crds 26.598761 61.931401
+
+text:0x2
+scle 0.75
+name Kankaala
+opts lang: fin
+reft point:0x900
+refp 26.538999 61.977407
+crds 26.538897 61.977820
+
+text:0x2
+scle 0.75
+name Koivuaho
+opts lang: fin
+reft point:0x900
+refp 26.854797 61.879524
+crds 26.838340 61.878519
+
+text:0x2
+scle 0.75
+name Koivumäki
+opts lang: fin
+reft point:0x900
+refp 26.785682 61.960398
+crds 26.787599 61.958840
+
+text:0x2
+scle 0.75
+name Koskela
+opts lang: fin
+reft point:0x900
+refp 26.928575 61.902850
+crds 26.914768 61.901397
+
+text:0x2
+scle 0.75
+name Kotila
+opts lang: fin
+reft point:0x900
+refp 26.880560 61.922028
+crds 26.879101 61.920151
+
+text:0x2
+scle 0.75
+name Kuoppakangas
+opts lang: fin
+reft point:0x900
+refp 26.575396 61.740729
+crds 26.576298 61.741459
+
+text:0x2
+scle 0.75
+name Kyrö
+opts lang: fin
+reft point:0x900
+refp 26.544221 61.946988
+crds 26.546700 61.946843
+
+text:0x2
+scle 0.75
+name Käikkälä
+opts lang: fin
+reft point:0x900
+refp 26.707138 61.904593
+crds 26.708616 61.903259
+
+text:0x2
+scle 0.75
+name Lahdentaus
+opts lang: fin
+reft point:0x900
+refp 26.741262 61.894226
+crds 26.743163 61.894355
+
+text:0x2
+scle 0.75
+name Lahtela
+opts lang: fin
+reft point:0x900
+refp 26.965285 61.958030
+crds 26.952003 61.956914
+
+text:0x2
+scle 0.75
+name Launi
+opts lang: fin
+reft point:0x900
+refp 26.989597 61.759351
+crds 26.986228 61.757763
+
+text:0x2
+scle 0.75
+name Lehtola
+opts lang: fin
+reft point:0x900
+refp 26.976549 61.956445
+crds 26.973654 61.954658
+
+text:0x2
+scle 0.75
+name Leppäniemi
+opts lang: fin
+reft point:0x900
+refp 26.677342 61.949930
+crds 26.670163 61.947537
+
+text:0x2
+scle 0.75
+name Leskelä
+opts lang: fin
+reft point:0x900
+refp 26.655138 61.965714
+crds 26.639797 61.965325
+
+text:0x2
+scle 0.75
+name Liikala
+opts lang: fin
+reft point:0x900
+refp 26.956056 61.987100
+crds 26.957125 61.986544
+
+text:0x2
+scle 0.75
+name Luotijärvi
+opts lang: fin
+reft point:0x900
+refp 26.942976 61.852248
+crds 26.937852 61.850586
+
+text:0x2
+scle 0.75
+name Marjamäki
+opts lang: fin
+reft point:0x900
+refp 26.722413 61.965570
+crds 26.722196 61.966198
+
+text:0x2
+scle 0.75
+name Marjoniemi
+opts lang: fin
+reft point:0x900
+refp 26.884287 61.953015
+crds 26.884972 61.953284
+
+text:0x2
+scle 0.75
+name Marttila
+opts lang: fin
+reft point:0x900
+refp 26.644796 61.886311
+crds 26.641430 61.886976
+
+text:0x2
+scle 0.75
+name Marttila
+opts lang: fin
+reft point:0x900
+refp 26.795649 61.994672
+crds 26.796828 61.995248
+
+text:0x2
+scle 0.75
+name Matti-Kuitunen
+opts lang: fin
+reft point:0x900
+refp 26.509883 61.767942
+crds 26.507845 61.768662
+
+text:0x2
+scle 0.75
+name Mattila
+opts lang: fin
+reft point:0x900
+refp 26.704385 61.992487
+crds 26.690856 61.992700
+
+text:0x2
+scle 0.75
+name Metsälä
+opts lang: fin
+reft point:0x900
+refp 26.556250 61.710140
+crds 26.558066 61.709589
+
+text:0x2
+scle 0.75
+name Männistö
+opts lang: fin
+reft point:0x900
+refp 26.734827 61.899346
+crds 26.735298 61.899850
+
+text:0x2
+scle 0.75
+name Mäntymäki
+opts lang: fin
+reft point:0x900
+refp 26.950159 61.861861
+crds 26.950671 61.862212
+
+text:0x2
+scle 0.75
+name Niemelä
+opts lang: fin
+reft point:0x900
+refp 26.530191 61.819861
+crds 26.519106 61.820146
+
+text:0x2
+scle 0.75
+name Niemelä
+opts lang: fin
+reft point:0x900
+refp 26.732221 61.805930
+crds 26.718695 61.806424
+
+text:0x2
+scle 0.75
+name Niemelä
+opts lang: fin
+reft point:0x900
+refp 26.824784 61.978354
+crds 26.825307 61.977108
+
+text:0x2
+scle 0.75
+name Niemelä
+opts lang: fin
+reft point:0x900
+refp 26.871233 61.894732
+crds 26.872156 61.892472
+
+text:0x2
+scle 0.75
+name Niemelä
+opts lang: fin
+reft point:0x900
+refp 26.967431 61.752977
+crds 26.965004 61.754481
+
+text:0x2
+scle 0.75
+name Niinimäki
+opts lang: fin
+reft point:0x900
+refp 26.694827 61.925725
+crds 26.677923 61.925525
+
+text:0x2
+scle 0.75
+name Niittylä
+opts lang: fin
+reft point:0x900
+refp 26.922513 61.974720
+crds 26.909207 61.973492
+
+text:0x2
+scle 0.75
+name Närväinen
+opts lang: fin
+reft point:0x900
+refp 26.529045 61.733695
+crds 26.531944 61.734771
+
+text:0x2
+scle 0.75
+name Olla
+opts lang: fin
+reft point:0x900
+refp 26.826280 61.772908
+crds 26.819288 61.773132
+
+text:0x2
+scle 0.75
+name Oravala
+opts lang: fin
+reft point:0x900
+refp 26.766289 61.670047
+crds 26.765498 61.668419
+
+text:0x2
+scle 0.75
+name Pajuniemi
+opts lang: fin
+reft point:0x900
+refp 26.660890 61.897524
+crds 26.643098 61.896590
+
+text:0x2
+scle 0.75
+name Palokangas
+opts lang: fin
+reft point:0x900
+refp 27.005804 61.852314
+crds 26.997371 61.850035
+
+text:0x2
+scle 0.75
+name Pauninranta
+opts lang: fin
+reft point:0x900
+refp 26.627351 61.852652
+crds 26.624536 61.852949
+
+text:0x2
+scle 0.75
+name Pesu
+opts lang: fin
+reft point:0x900
+refp 26.984199 61.727415
+crds 26.984899 61.726868
+
+text:0x2
+scle 0.75
+name Piili
+opts lang: fin
+reft point:0x900
+refp 26.780159 61.676495
+crds 26.781345 61.675136
+
+text:0x2
+scle 0.75
+name Pilkka
+opts lang: fin
+reft point:0x900
+refp 26.715583 61.998846
+crds 26.713558 61.997047
+
+text:0x2
+scle 0.75
+name Pohjois-Munakka
+opts lang: fin
+reft point:0x900
+refp 26.962802 61.776118
+crds 26.939877 61.776657
+
+text:0x2
+scle 0.75
+name Puntala
+opts lang: fin
+reft point:0x900
+refp 26.819004 61.959486
+crds 26.820398 61.958967
+
+text:0x2
+scle 0.75
+name Pöyry
+opts lang: fin
+reft point:0x900
+refp 26.668077 61.680154
+crds 26.668262 61.680658
+
+text:0x2
+scle 0.75
+name Ranta-aho
+opts lang: fin
+reft point:0x900
+refp 26.694773 61.934976
+crds 26.696088 61.934871
+
+text:0x2
+scle 0.75
+name Rantala
+opts lang: fin
+reft point:0x900
+refp 26.731952 61.932263
+crds 26.716822 61.931344
+
+text:0x2
+scle 0.75
+name Rasiaho
+opts lang: fin
+reft point:0x900
+refp 26.551222 61.930805
+crds 26.540305 61.931227
+
+text:0x2
+scle 0.75
+name Rautala
+opts lang: fin
+reft point:0x900
+refp 26.655635 61.940295
+crds 26.644811 61.940689
+
+text:0x2
+scle 0.75
+name Rautanen
+opts lang: fin
+reft point:0x900
+refp 26.954667 61.883703
+crds 26.938395 61.882235
+
+text:0x2
+scle 0.75
+name Ravila
+opts lang: fin
+reft point:0x900
+refp 26.550056 61.731710
+crds 26.551886 61.731248
+
+text:0x2
+scle 0.75
+name Ristola
+opts lang: fin
+reft point:0x900
+refp 26.730948 61.691347
+crds 26.727988 61.692391
+
+text:0x2
+scle 0.75
+name Ruokolahti
+opts lang: fin
+reft point:0x900
+refp 26.727545 61.945947
+crds 26.707497 61.944650
+
+text:0x2
+scle 0.75
+name Salapuro
+opts lang: fin
+reft point:0x900
+refp 26.860333 61.974240
+crds 26.859205 61.974733
+
+text:0x2
+scle 0.75
+name Sievälä
+opts lang: fin
+reft point:0x900
+refp 26.676613 61.669352
+crds 26.674209 61.667905
+
+text:0x2
+scle 0.75
+name Sikomäki
+opts lang: fin
+reft point:0x900
+refp 26.528187 61.924312
+crds 26.513382 61.925086
+
+text:0x2
+scle 0.75
+name Suurisuo
+opts lang: fin
+reft point:0x900
+refp 26.618995 61.956466
+crds 26.602021 61.955997
+
+text:0x2
+scle 0.75
+name Syrjälä
+opts lang: fin
+reft point:0x900
+refp 26.955178 61.807495
+crds 26.955524 61.805946
+
+text:0x2
+scle 0.75
+name Tanila
+opts lang: fin
+reft point:0x900
+refp 26.557489 61.922786
+crds 26.558450 61.922107
+
+text:0x2
+scle 0.75
+name Tenhuniemi
+opts lang: fin
+reft point:0x900
+refp 26.715799 61.705342
+crds 26.717653 61.704847
+
+text:0x2
+scle 0.75
+name Tervala
+opts lang: fin
+reft point:0x900
+refp 26.975427 61.767713
+crds 26.973400 61.768394
+
+text:0x2
+scle 0.75
+name Tissari
+opts lang: fin
+reft point:0x900
+refp 26.813650 61.896865
+crds 26.809439 61.895001
+
+text:0x2
+scle 0.75
+name Tornio
+opts lang: fin
+reft point:0x900
+refp 26.775905 61.887674
+crds 26.772517 61.888153
+
+text:0x2
+scle 0.75
+name Tyynelä
+opts lang: fin
+reft point:0x900
+refp 26.510696 61.991828
+crds 26.507195 61.992390
+
+text:0x2
+scle 0.75
+name Tyynelä
+opts lang: fin
+reft point:0x900
+refp 26.845764 61.929136
+crds 26.841297 61.927677
+
+text:0x2
+scle 0.75
+name Uutela
+opts lang: fin
+reft point:0x900
+refp 26.941498 61.998266
+crds 26.935151 61.995874
+
+text:0x2
+scle 0.75
+name Vanha-Puuska
+opts lang: fin
+reft point:0x900
+refp 26.700302 61.883868
+crds 26.680965 61.884101
+
+text:0x2
+scle 0.75
+name Varisniemi
+opts lang: fin
+reft point:0x900
+refp 26.499211 61.686918
+crds 26.501476 61.686537
+
+text:0x2
+scle 0.75
+name Vehmaa
+opts lang: fin
+reft point:0x900
+refp 26.574731 61.994248
+crds 26.575085 61.994886
+
+text:0x2
+scle 0.75
+name Viia
+opts lang: fin
+reft point:0x900
+refp 26.862777 61.943851
+crds 26.864111 61.943655
+
+text:0x2
+scle 0.75
+name Vitikkamäki
+opts lang: fin
+reft point:0x900
+refp 26.571420 61.731393
+crds 26.569632 61.732060
+
+text:0x2
+scle 0.75
+name Voutila
+opts lang: fin
+reft point:0x900
+refp 26.586452 61.960159
+crds 26.585166 61.960792
+
+text:0x2
+scle 0.75
+name Vuorilahti
+opts lang: fin
+reft point:0x900
+refp 26.555264 61.973611
+crds 26.553425 61.971613
+
+text:0x2
+scle 0.75
+algn SE
+name Ala-Launo
+opts lang: fin
+reft point:0x900
+refp 26.647618 61.682167
+crds 26.652502 61.680696
+
+text:0x2
+scle 0.75
+algn SE
+name Härkälä
+opts lang: fin
+reft point:0x900
+refp 26.585618 61.699751
+crds 26.587536 61.700416
+
+text:0x2
+scle 0.75
+algn SE
+name Lajunkangas
+opts lang: fin
+reft point:0x900
+refp 26.992509 61.995030
+crds 26.992983 61.993776
+
+text:0x2
+scle 0.75
+algn SE
+name Raappala
+opts lang: fin
+reft point:0x900
+refp 26.607850 61.703631
+crds 26.610201 61.702368
+
+text:0x2
+scle 0.75
+algn SE
+name Soikasti
+opts lang: fin
+reft point:0x900
+refp 26.853363 61.690708
+crds 26.854857 61.691599
+
+text:0x2
+scle 0.75
+algn SE
+name Säkkisalo
+opts lang: fin
+reft point:0x900
+refp 26.756641 61.797092
+crds 26.756408 61.795597
+
+text:0x2
+scle 0.75
+algn SE
+name Taipale
+opts lang: fin
+reft point:0x900
+refp 26.878163 61.678116
+crds 26.876823 61.677617
+
+text:0x2
+scle 0.75
+algn SE
+name Tähtiniemi
+opts lang: fin
+reft point:0x900
+refp 26.745264 61.852140
+crds 26.746330 61.850573
+
+text:0x2
+name Harjunmaa
+reft point:0x800
+refp 26.876965 61.996985
+crds 26.878761 61.996985
+
+text:0x2
+name Kärnäharju
+reft point:0x900
+refp 26.997555 61.914893
+crds 26.999351 61.914893
+
+text:0x2
+name Pyykkölä
+reft point:0x900
+refp 26.499964 61.958643
+crds 26.501760 61.958643
+
+text:0x2
+name Saari-Kuitunen
+reft point:0x800
+refp 26.509483 61.827683
+crds 26.511279 61.827683
+
+text:0x2
+scle 1.1
+name Eteläkylä
+opts lang: fin
+reft point:0x800
+refp 26.833794 61.760326
+crds 26.815568 61.761731
+
+text:0x2
+scle 1.1
+name Heilanmäki
+opts lang: fin
+reft point:0x800
+refp 26.970706 61.794785
+crds 26.974448 61.794388
+
+text:0x2
+scle 1.1
+name Horjankylä
+opts lang: fin
+reft point:0x800
+refp 26.982054 61.944137
+crds 26.959151 61.941931
+
+text:0x2
+scle 1.1
+name Hurrila
+opts lang: fin
+reft point:0x800
+refp 26.606220 61.685205
+crds 26.607276 61.686445
+
+text:0x2
+scle 1.1
+name Itäkylä
+opts lang: fin
+reft point:0x800
+refp 26.640986 61.910425
+crds 26.641409 61.914111
+
+text:0x2
+scle 1.1
+name Järvenkylä
+opts lang: fin
+reft point:0x800
+refp 26.812328 61.969183
+crds 26.800814 61.972184
+
+text:0x2
+scle 1.1
+name Kaihlamäki
+opts lang: fin
+reft point:0x800
+refp 26.505444 61.988561
+crds 26.505041 61.986379
+
+text:0x2
+scle 1.1
+name Kakriala
+opts lang: fin
+reft point:0x800
+refp 26.869811 61.870447
+crds 26.878123 61.869587
+
+text:0x2
+scle 1.1
+name Kekkola
+opts lang: fin
+reft point:0x800
+refp 26.905254 61.748278
+crds 26.908819 61.745741
+
+text:0x2
+scle 1.1
+name Kerinkannanniemi
+opts lang: fin
+reft point:0x800
+refp 26.697605 61.881653
+crds 26.674942 61.876507
+
+text:0x2
+scle 1.1
+name Keskikylä
+opts lang: fin
+reft point:0x800
+refp 26.844635 61.773216
+crds 26.846512 61.775676
+
+text:0x2
+scle 1.1
+name Kirjala
+opts lang: fin
+reft point:0x800
+refp 26.889308 61.670058
+crds 26.893555 61.670857
+
+text:0x2
+scle 1.1
+name Kolonkylä
+opts lang: fin
+reft point:0x800
+refp 26.956667 61.729465
+crds 26.937458 61.727554
+
+text:0x2
+scle 1.1
+name Komppa
+opts lang: fin
+reft point:0x800
+refp 26.541608 61.770292
+crds 26.541575 61.767666
+
+text:0x2
+scle 1.1
+name Kuitula
+opts lang: fin
+reft point:0x800
+refp 26.512595 61.748587
+crds 26.511918 61.751509
+
+text:0x2
+scle 1.1
+name Luodekylä
+opts lang: fin
+reft point:0x800
+refp 26.629966 61.905640
+crds 26.634004 61.904732
+
+text:0x2
+scle 1.1
+name Mainiemi
+opts lang: fin
+reft point:0x800
+refp 26.535155 61.798997
+crds 26.541332 61.796685
+
+text:0x2
+scle 1.1
+name Marjoniemi
+opts lang: fin
+reft point:0x900
+refp 26.652612 61.974896
+crds 26.652400 61.975084
+
+text:0x2
+scle 1.1
+name Nakertaja
+opts lang: fin
+reft point:0x900
+refp 26.631084 61.992559
+crds 26.613620 61.992631
+
+text:0x2
+scle 1.1
+name Niemikylä
+opts lang: fin
+reft point:0x800
+refp 26.709701 61.892725
+crds 26.707077 61.895099
+
+text:0x2
+scle 1.1
+name Noukkalanmäki
+opts lang: fin
+reft point:0x800
+refp 26.639485 61.700783
+crds 26.642327 61.698931
+
+text:0x2
+scle 1.1
+name Pitkäjärvi
+opts lang: fin
+reft point:0x800
+refp 26.778792 61.899437
+crds 26.759844 61.901384
+
+text:0x2
+scle 1.1
+name Pohjoiskylä
+opts lang: fin
+reft point:0x800
+refp 26.822687 61.798019
+crds 26.813605 61.798160
+
+text:0x2
+scle 1.1
+name Pylvänälä
+opts lang: fin
+reft point:0x800
+refp 26.593069 61.982568
+crds 26.596225 61.977784
+
+text:0x2
+scle 1.1
+name Pylvänälänmäki
+opts lang: fin
+reft point:0x800
+refp 26.569932 61.983740
+crds 26.542727 61.985711
+
+text:0x2
+scle 1.1
+name Rahikaisenkylä
+opts lang: fin
+reft point:0x800
+refp 26.946907 61.790592
+crds 26.948736 61.788233
+
+text:0x2
+scle 1.1
+name Raitamäki
+opts lang: fin
+reft point:0x800
+refp 26.538292 61.962557
+crds 26.541481 61.963292
+
+text:0x2
+scle 1.1
+name Rantokylä
+opts lang: fin
+reft point:0x800
+refp 26.887462 61.996766
+crds 26.890963 61.993551
+
+text:0x2
+scle 1.1
+name Revonkylä
+opts lang: fin
+reft point:0x800
+refp 26.859255 61.997004
+crds 26.836195 61.994914
+
+text:0x2
+scle 1.1
+name Ruokoniemi
+opts lang: fin
+reft point:0x800
+refp 26.559230 61.701991
+crds 26.561585 61.703300
+
+text:0x2
+scle 1.1
+name Saksa
+opts lang: fin
+reft point:0x800
+refp 26.838137 61.987554
+crds 26.845931 61.986581
+
+text:0x2
+scle 1.1
+name Santara
+opts lang: fin
+reft point:0x800
+refp 26.930519 61.840872
+crds 26.934030 61.838279
+
+text:0x2
+scle 1.1
+name Simpiänniemi
+opts lang: fin
+reft point:0x800
+refp 26.663259 61.876279
+crds 26.635428 61.876325
+
+text:0x2
+scle 1.1
+name Sydänmaa
+opts lang: fin
+reft point:0x800
+refp 26.769843 61.878421
+crds 26.774929 61.875558
+
+text:0x2
+scle 1.1
+name Tervaniemi
+opts lang: fin
+reft point:0x900
+refp 26.651741 61.992714
+crds 26.653321 61.991345
+
+text:0x2
+scle 1.1
+name Ukkola
+opts lang: fin
+reft point:0x800
+refp 26.841949 61.942482
+crds 26.845741 61.941222
+
+text:0x2
+scle 1.1
+name Ukonniemi
+opts lang: fin
+reft point:0x800
+refp 26.826946 61.898077
+crds 26.814914 61.901685
+
+text:0x2
+scle 1.1
+name Vaimosniemi
+opts lang: fin
+reft point:0x800
+refp 26.730747 61.935024
+crds 26.730844 61.934800
+
+text:0x2
+scle 1.1
+name Vihikangas
+opts lang: fin
+reft point:0x900
+refp 26.641588 61.976024
+crds 26.619898 61.978794
+
+text:0x2
+scle 1.1
+name Vuojalahti
+opts lang: fin
+reft point:0x800
+refp 26.787737 61.964607
+crds 26.775591 61.966690
+
+text:0x2
+scle 1.1
+algn SE
+name Itäkylä
+opts lang: fin
+reft point:0x800
+refp 26.938775 61.749826
+crds 26.939880 61.751073
+
+text:0x2
+scle 1.1
+algn SE
+name Juurikkalahti
+opts lang: fin
+reft point:0x800
+refp 26.576199 61.744249
+crds 26.574578 61.744444
+
+text:0x2
+scle 1.1
+algn SE
+name Närvälä
+opts lang: fin
+reft point:0x800
+refp 26.993047 61.730185
+crds 26.995644 61.733920
+
+text:0x2
+scle 1.1
+algn SE
+name Pohjoiskylä
+opts lang: fin
+reft point:0x800
+refp 26.908448 61.761983
+crds 26.911767 61.759609
+
+text:0x2
+scle 1.1
+algn SE
+name Vahvamäki
+opts lang: fin
+reft point:0x800
+refp 26.658231 61.674093
+crds 26.656140 61.674470
+
+text:0x2
+scle 1.3
+name Hokka
+opts lang: fin
+reft point:0x800
+refp 26.682398 61.909666
+crds 26.685835 61.913403
+
+text:0x2
+scle 1.3
+name Laitiala
+opts lang: fin
+reft point:0x800
+refp 26.517793 61.942330
+crds 26.501629 61.942991
+
+text:0x2
+scle 1.3
+name Levälahti
+opts lang: fin
+reft point:0x800
+refp 26.621188 61.951752
+crds 26.622493 61.949486
+
+text:0x2
+scle 1.3
+name Luusniemi
+opts lang: fin
+reft point:0x800
+refp 26.968391 61.976623
+crds 26.972894 61.973833
+
+text:0x2
+scle 1.3
+name Läsäkoski
+opts lang: fin
+reft point:0x800
+refp 26.916641 61.910618
+crds 26.887262 61.911302
+
+text:0x2
+scle 1.3
+name Malvaniemi
+opts lang: fin
+reft point:0x800
+refp 26.834485 61.709001
+crds 26.831609 61.709410
+
+text:0x2
+scle 1.3
+name Rauhajärvi
+opts lang: fin
+reft point:0x800
+refp 26.898244 61.934433
+crds 26.889246 61.930936
+
+text:0x2
+scle 1.3
+name Tuukkala
+opts lang: fin
+reft point:0x800
+refp 26.572898 61.721656
+crds 26.575171 61.724154
+
+text:0x2
+scle 1.3
+name Vanhamäki
+opts lang: fin
+reft point:0x800
+refp 26.939791 61.807519
+crds 26.938273 61.810349
+
+text:0x2
+scle 1.3
+algn SE
+name Hämeenmäki
+opts lang: fin
+reft point:0x800
+refp 26.592042 61.683230
+crds 26.588877 61.684412
+
+text:0x2
+scle 1.3
+algn SE
+name Pöyry
+opts lang: fin
+reft point:0x800
+refp 26.760988 61.674390
+crds 26.749797 61.668322
+
+text:0x2
+scle 1.3
+algn SE
+name Suonsalmi
+opts lang: fin
+reft point:0x800
+refp 26.679318 61.709305
+crds 26.677705 61.709399
+
+text:0x2
+scle 1.6
+name Kangasniemi
+opts lang: fin
+reft point:0x700
+refp 26.642473 61.988644
+crds 26.646265 61.984490
+
+text:0x3
+scle 0.75
+name Aittoniemi
+opts lang: fin
+reft point:0x2800
+refp 26.723628 61.776589
+crds 26.718799 61.778508
+
+text:0x3
+scle 0.75
+name Eteläniemi
+opts lang: fin
+reft point:0x2800
+refp 26.748649 61.786714
+crds 26.742737 61.789505
+
+text:0x3
+scle 0.75
+name Haapasaari
+opts lang: fin
+reft point:0x2800
+refp 26.707112 61.728376
+crds 26.708976 61.729199
+
+text:0x3
+scle 0.75
+name Halmeniemi
+opts lang: fin
+reft point:0x2800
+refp 26.860933 61.859601
+crds 26.860987 61.860194
+
+text:0x3
+scle 0.75
+name Hanisneva
+opts lang: fin
+reft point:0x2800
+refp 26.891068 61.980433
+crds 26.885842 61.980473
+
+text:0x3
+scle 0.75
+name Haukkaniemi
+opts lang: fin
+reft point:0x2800
+refp 26.537420 61.887805
+crds 26.531027 61.886832
+
+text:0x3
+scle 0.75
+name Heikinsaari
+opts lang: fin
+reft point:0x2800
+refp 26.755910 61.815127
+crds 26.754338 61.814747
+
+text:0x3
+scle 0.75
+name Herasalo
+opts lang: fin
+reft point:0x2800
+refp 26.776756 61.916945
+crds 26.768126 61.915513
+
+text:0x3
+scle 0.75
+name Hernesaari
+opts lang: fin
+reft point:0x2800
+refp 26.608703 61.865790
+crds 26.601885 61.865573
+
+text:0x3
+scle 0.75
+name Herrasaari
+opts lang: fin
+reft point:0x2800
+refp 26.772665 61.750324
+crds 26.759333 61.748605
+
+text:0x3
+scle 0.75
+name Hirsisaari
+opts lang: fin
+reft point:0x2800
+refp 26.658539 61.820133
+crds 26.655831 61.819695
+
+text:0x3
+scle 0.75
+name Hoikansaari
+opts lang: fin
+reft point:0x2800
+refp 26.571445 61.838365
+crds 26.562039 61.839046
+
+text:0x3
+scle 0.75
+name Hoikkasaari
+opts lang: fin
+reft point:0x2800
+refp 26.621358 61.875032
+crds 26.621249 61.876109
+
+text:0x3
+scle 0.75
+name Honkasaari
+opts lang: fin
+reft point:0x2800
+refp 26.572918 61.818457
+crds 26.564922 61.815935
+
+text:0x3
+scle 0.75
+name Honkasaari
+opts lang: fin
+reft point:0x2800
+refp 26.603637 61.807952
+crds 26.603788 61.806288
+
+text:0x3
+scle 0.75
+name Huhtisaari
+opts lang: fin
+reft point:0x2800
+refp 26.561149 61.901226
+crds 26.557782 61.901206
+
+text:0x3
+scle 0.75
+name Huvilasaari
+opts lang: fin
+reft point:0x2800
+refp 26.950599 61.683761
+crds 26.945555 61.681117
+
+text:0x3
+scle 0.75
+name Häikkä
+opts lang: fin
+reft point:0x2800
+refp 26.771509 61.727629
+crds 26.774772 61.727532
+
+text:0x3
+scle 0.75
+name Häntäniemi
+opts lang: fin
+reft point:0x2800
+refp 26.868773 61.732378
+crds 26.871118 61.726927
+
+text:0x3
+scle 0.75
+name Iso Eräsaari
+opts lang: fin
+reft point:0x2800
+refp 26.518373 61.865683
+crds 26.519882 61.863956
+
+text:0x3
+scle 0.75
+name Iso Tähtisaari
+opts lang: fin
+reft point:0x2800
+refp 26.748413 61.843316
+crds 26.742718 61.846122
+
+text:0x3
+scle 0.75
+name Iso-Mykärä
+opts lang: fin
+reft point:0x2800
+refp 26.762630 61.713821
+crds 26.761698 61.712097
+
+text:0x3
+scle 0.75
+name Iso-Reponen
+opts lang: fin
+reft point:0x2800
+refp 26.529632 61.876158
+crds 26.512512 61.875775
+
+text:0x3
+scle 0.75
+name Jaakonsaari
+opts lang: fin
+reft point:0x2800
+refp 26.770082 61.830083
+crds 26.769384 61.832065
+
+text:0x3
+scle 0.75
+name Kalhosaari
+opts lang: fin
+reft point:0x2800
+refp 26.536941 61.702996
+crds 26.532290 61.697837
+
+text:0x3
+scle 0.75
+name Karhusaari
+opts lang: fin
+reft point:0x2800
+refp 26.629260 61.829901
+crds 26.620949 61.829725
+
+text:0x3
+scle 0.75
+name Katossaari
+opts lang: fin
+reft point:0x2800
+refp 26.607681 61.820948
+crds 26.606604 61.823583
+
+text:0x3
+scle 0.75
+name Kauppilanniemi
+opts lang: fin
+reft point:0x2800
+refp 26.894597 61.815017
+crds 26.896247 61.815117
+
+text:0x3
+scle 0.75
+name Komurinsaari
+opts lang: fin
+reft point:0x2800
+refp 26.742527 61.820693
+crds 26.723866 61.821859
+
+text:0x3
+scle 0.75
+name Korkeasaari
+opts lang: fin
+reft point:0x2800
+refp 26.525677 61.707902
+crds 26.529250 61.708713
+
+text:0x3
+scle 0.75
+name Kortesaari
+opts lang: fin
+reft point:0x2800
+refp 26.718983 61.866069
+crds 26.711167 61.864788
+
+text:0x3
+scle 0.75
+name Kuivaniemi
+opts lang: fin
+reft point:0x2800
+refp 26.667118 61.784817
+crds 26.653486 61.783716
+
+text:0x3
+scle 0.75
+name Kuivaniemi
+opts lang: fin
+reft point:0x2800
+refp 26.811785 61.692864
+crds 26.803270 61.694880
+
+text:0x3
+scle 0.75
+name Kuivasaari
+opts lang: fin
+reft point:0x2800
+refp 26.751699 61.822101
+crds 26.751047 61.820619
+
+text:0x3
+scle 0.75
+name Kuivisto
+opts lang: fin
+reft point:0x2800
+refp 26.565991 61.832057
+crds 26.561640 61.831267
+
+text:0x3
+scle 0.75
+name Kumpunen
+opts lang: fin
+reft point:0x2800
+refp 26.824149 61.857163
+crds 26.810740 61.856831
+
+text:0x3
+scle 0.75
+name Kurkelansuo
+opts lang: fin
+reft point:0x2800
+refp 26.840119 61.694453
+crds 26.830080 61.695284
+
+text:0x3
+scle 0.75
+name Kurkiniemi
+opts lang: fin
+reft point:0x2800
+refp 26.689030 61.887415
+crds 26.687920 61.887836
+
+text:0x3
+scle 0.75
+name Laamasaaret
+opts lang: fin
+reft point:0x2800
+refp 26.592197 61.909639
+crds 26.584443 61.911680
+
+text:0x3
+scle 0.75
+name Lahdenkangas
+opts lang: fin
+reft point:0x2800
+refp 26.630783 61.692092
+crds 26.626423 61.694826
+
+text:0x3
+scle 0.75
+name Lamposaari
+opts lang: fin
+reft point:0x2800
+refp 26.729111 61.885445
+crds 26.728842 61.883569
+
+text:0x3
+scle 0.75
+name Lehmäsaari
+opts lang: fin
+reft point:0x2800
+refp 26.608733 61.945293
+crds 26.603852 61.944094
+
+text:0x3
+scle 0.75
+name Lehtinen
+opts lang: fin
+reft point:0x2800
+refp 26.572945 61.880660
+crds 26.575894 61.876335
+
+text:0x3
+scle 0.75
+name Liukonniemi
+opts lang: fin
+reft point:0x2800
+refp 26.852411 61.672464
+crds 26.844776 61.673802
+
+text:0x3
+scle 0.75
+name Maariansaari
+opts lang: fin
+reft point:0x2800
+refp 26.708473 61.674431
+crds 26.711177 61.670908
+
+text:0x3
+scle 0.75
+name Mankeli
+opts lang: fin
+reft point:0x2800
+refp 26.567752 61.868737
+crds 26.573005 61.869507
+
+text:0x3
+scle 0.75
+name Mannetsaari
+opts lang: fin
+reft point:0x2800
+refp 26.756581 61.826112
+crds 26.755327 61.824001
+
+text:0x3
+scle 0.75
+name Marttisensaari
+opts lang: fin
+reft point:0x2800
+refp 26.719802 61.886709
+crds 26.719667 61.888988
+
+text:0x3
+scle 0.75
+name Mikonniemi
+opts lang: fin
+reft point:0x2800
+refp 26.734665 61.874140
+crds 26.733813 61.875942
+
+text:0x3
+scle 0.75
+name Mustasaari
+opts lang: fin
+reft point:0x2800
+refp 26.543340 61.815957
+crds 26.539864 61.811590
+
+text:0x3
+scle 0.75
+name Mällönen
+opts lang: fin
+reft point:0x2800
+refp 26.777750 61.827368
+crds 26.777007 61.827699
+
+text:0x3
+scle 0.75
+name Niittysaari
+opts lang: fin
+reft point:0x2800
+refp 26.777618 61.761746
+crds 26.780389 61.759557
+
+text:0x3
+scle 0.75
+name Nipuli
+opts lang: fin
+reft point:0x2800
+refp 26.765158 61.734393
+crds 26.759348 61.736492
+
+text:0x3
+scle 0.75
+name Noukansaari
+opts lang: fin
+reft point:0x2800
+refp 26.994570 61.897655
+crds 26.983879 61.900095
+
+text:0x3
+scle 0.75
+name Nuotniemi
+opts lang: fin
+reft point:0x2800
+refp 26.808186 61.921829
+crds 26.807785 61.922026
+
+text:0x3
+scle 0.75
+name Ollinsaari
+opts lang: fin
+reft point:0x2800
+refp 26.718351 61.858387
+crds 26.709674 61.857911
+
+text:0x3
+scle 0.75
+name Otonsaari
+opts lang: fin
+reft point:0x2800
+refp 26.733350 61.798206
+crds 26.720439 61.798100
+
+text:0x3
+scle 0.75
+name Paavalinsaari
+opts lang: fin
+reft point:0x2800
+refp 26.618511 61.880794
+crds 26.613610 61.880529
+
+text:0x3
+scle 0.75
+name Pauninniemi
+opts lang: fin
+reft point:0x2800
+refp 26.767563 61.929492
+crds 26.759992 61.933356
+
+text:0x3
+scle 0.75
+name Pauninsaari
+opts lang: fin
+reft point:0x2800
+refp 26.777468 61.811252
+crds 26.777751 61.809006
+
+text:0x3
+scle 0.75
+name Penttisensaari
+opts lang: fin
+reft point:0x2800
+refp 26.568354 61.940650
+crds 26.571718 61.939835
+
+text:0x3
+scle 0.75
+name Petäikkösaari
+opts lang: fin
+reft point:0x2800
+refp 26.878670 61.731678
+crds 26.877841 61.733313
+
+text:0x3
+scle 0.75
+name Petäinen
+opts lang: fin
+reft point:0x2800
+refp 26.791984 61.832864
+crds 26.792947 61.833335
+
+text:0x3
+scle 0.75
+name Pieni Selkäsaari
+opts lang: fin
+reft point:0x2800
+refp 26.667327 61.753249
+crds 26.669309 61.753643
+
+text:0x3
+scle 0.75
+name Pieni-Mökärä
+opts lang: fin
+reft point:0x2800
+refp 26.572261 61.890152
+crds 26.569572 61.890673
+
+text:0x3
+scle 0.75
+name Pisminsuo
+opts lang: fin
+reft point:0x2800
+refp 26.789308 61.921102
+crds 26.787070 61.919994
+
+text:0x3
+scle 0.75
+name Pohisniemi
+opts lang: fin
+reft point:0x2800
+refp 26.575245 61.905299
+crds 26.575819 61.905067
+
+text:0x3
+scle 0.75
+name Puikkosensaari
+opts lang: fin
+reft point:0x2800
+refp 26.558200 61.864300
+crds 26.542414 61.864114
+
+text:0x3
+scle 0.75
+name Pukkisaaret
+opts lang: fin
+reft point:0x2800
+refp 26.790830 61.740429
+crds 26.775314 61.738142
+
+text:0x3
+scle 0.75
+name Pukkisaari
+opts lang: fin
+reft point:0x2800
+refp 26.508220 61.674001
+crds 26.503295 61.676116
+
+text:0x3
+scle 0.75
+name Pukkisaari
+opts lang: fin
+reft point:0x2800
+refp 26.782228 61.846165
+crds 26.778298 61.843835
+
+text:0x3
+scle 0.75
+name Purinsaari
+opts lang: fin
+reft point:0x2800
+refp 26.568664 61.825524
+crds 26.563304 61.826035
+
+text:0x3
+scle 0.75
+name Päistäinen
+opts lang: fin
+reft point:0x2800
+refp 26.601795 61.843176
+crds 26.598804 61.843598
+
+text:0x3
+scle 0.75
+name Rasisaaret
+opts lang: fin
+reft point:0x2800
+refp 26.613217 61.812251
+crds 26.616211 61.809580
+
+text:0x3
+scle 0.75
+name Riuttanen
+opts lang: fin
+reft point:0x2800
+refp 26.603248 61.877673
+crds 26.597591 61.880026
+
+text:0x3
+scle 0.75
+name Riuttasaari
+opts lang: fin
+reft point:0x2800
+refp 26.932806 61.993901
+crds 26.925047 61.990963
+
+text:0x3
+scle 0.75
+name Ruokosaari
+opts lang: fin
+reft point:0x2800
+refp 26.534739 61.713667
+crds 26.526292 61.717619
+
+text:0x3
+scle 0.75
+name Sammakkosaaret
+opts lang: fin
+reft point:0x2800
+refp 26.816578 61.868522
+crds 26.806391 61.865799
+
+text:0x3
+scle 0.75
+name Saunasaari
+opts lang: fin
+reft point:0x2800
+refp 26.791574 61.700265
+crds 26.795363 61.699671
+
+text:0x3
+scle 0.75
+name Selkäsaaret
+opts lang: fin
+reft point:0x2800
+refp 26.783866 61.799677
+crds 26.775985 61.801316
+
+text:0x3
+scle 0.75
+name Selkäsaari
+opts lang: fin
+reft point:0x2800
+refp 26.573089 61.811638
+crds 26.566146 61.805903
+
+text:0x3
+scle 0.75
+name Sikosaari
+opts lang: fin
+reft point:0x2800
+refp 26.578927 61.865891
+crds 26.577350 61.865904
+
+text:0x3
+scle 0.75
+name Suuri Selkäsaari
+opts lang: fin
+reft point:0x2800
+refp 26.666897 61.759772
+crds 26.663268 61.762366
+
+text:0x3
+scle 0.75
+name Suuriniemi
+opts lang: fin
+reft point:0x2800
+refp 26.911914 61.683948
+crds 26.911851 61.685446
+
+text:0x3
+scle 0.75
+name Säkkisalo
+reft point:0x2b04
+refp 26.744432 61.785343
+crds 26.742388 61.783628
+
+text:0x3
+scle 0.75
+name Talvisaari
+opts lang: fin
+reft point:0x2800
+refp 26.949908 61.679067
+crds 26.947296 61.676239
+
+text:0x3
+scle 0.75
+name Tanelinsaari
+opts lang: fin
+reft point:0x2800
+refp 26.581130 61.822835
+crds 26.573153 61.822730
+
+text:0x3
+scle 0.75
+name Tapiola
+reft point:0x2b04
+refp 26.760271 61.885940
+crds 26.761497 61.886147
+
+text:0x3
+scle 0.75
+name Torikka
+opts lang: fin
+reft point:0x2800
+refp 26.775025 61.714964
+crds 26.775945 61.718415
+
+text:0x3
+scle 0.75
+name Tourunen
+opts lang: fin
+reft point:0x2800
+refp 26.615019 61.887918
+crds 26.611981 61.887551
+
+text:0x3
+scle 0.75
+name Tupasaari
+opts lang: fin
+reft point:0x2800
+refp 26.621005 61.820546
+crds 26.618334 61.820242
+
+text:0x3
+scle 0.75
+name Ulpansaari
+opts lang: fin
+reft point:0x2800
+refp 26.543790 61.826520
+crds 26.538271 61.827860
+
+text:0x3
+scle 0.75
+name Utrunniemi
+opts lang: fin
+reft point:0x2800
+refp 26.560185 61.911389
+crds 26.566885 61.909885
+
+text:0x3
+scle 0.75
+name Vanhasaari
+opts lang: fin
+reft point:0x2800
+refp 26.734530 61.771325
+crds 26.732209 61.770279
+
+text:0x3
+scle 0.75
+name Varissaari
+opts lang: fin
+reft point:0x2800
+refp 26.803946 61.829211
+crds 26.800392 61.827950
+
+text:0x3
+scle 0.75
+name Vehkasaari
+opts lang: fin
+reft point:0x2800
+refp 26.555539 61.821157
+crds 26.549002 61.817438
+
+text:0x3
+scle 0.75
+name Vehkasaari
+opts lang: fin
+reft point:0x2800
+refp 26.602572 61.759780
+crds 26.595542 61.755461
+
+text:0x3
+scle 0.75
+name Vehkasaari
+opts lang: fin
+reft point:0x2800
+refp 26.755942 61.729899
+crds 26.750747 61.727662
+
+text:0x3
+scle 0.75
+name Vehkasaari
+opts lang: fin
+reft point:0x2800
+refp 26.807903 61.815605
+crds 26.802974 61.814979
+
+text:0x3
+scle 0.75
+name Vehmassalo
+opts lang: fin
+reft point:0x2800
+refp 26.603637 61.849086
+crds 26.601313 61.852380
+
+text:0x3
+scle 0.75
+name Viitanen
+opts lang: fin
+reft point:0x2800
+refp 26.841445 61.822324
+crds 26.838446 61.823175
+
+text:0x3
+scle 0.75
+name Viitasaari
+opts lang: fin
+reft point:0x2800
+refp 26.607420 61.906624
+crds 26.599266 61.907435
+
+text:0x3
+scle 0.75
+name Viitasaari
+opts lang: fin
+reft point:0x2800
+refp 26.642174 61.824300
+crds 26.644125 61.825404
+
+text:0x3
+scle 0.75
+name Viitasaari
+opts lang: fin
+reft point:0x2800
+refp 26.839612 61.915149
+crds 26.840089 61.914871
+
+text:0x3
+scle 0.75
+name Viitasenniemi
+opts lang: fin
+reft point:0x2800
+refp 26.868857 61.814716
+crds 26.866871 61.812737
+
+text:0x3
+scle 0.75
+name Viransaari
+opts lang: fin
+reft point:0x2800
+refp 26.728048 61.868088
+crds 26.726256 61.868776
+
+text:0x3
+scle 0.75
+name Virokassaari
+opts lang: fin
+reft point:0x2800
+refp 26.582427 61.830744
+crds 26.577627 61.830069
+
+text:0x3
+scle 0.75
+name Vuohisaari
+opts lang: fin
+reft point:0x2800
+refp 26.656298 61.850834
+crds 26.654409 61.852706
+
+text:0x3
+scle 0.75
+name Vuojasaari
+opts lang: fin
+reft point:0x2800
+refp 26.801056 61.941093
+crds 26.801691 61.940116
+
+text:0x3
+scle 0.75
+name Vänkkäänsilta
+reft point:0x2800
+refp 26.862625 61.808375
+crds 26.864852 61.808439
+
+text:0x3
+scle 0.75
+name Vääräsaari
+opts lang: fin
+reft point:0x2800
+refp 26.762618 61.830761
+crds 26.755416 61.831825
+
+text:0x3
+scle 0.75
+name Ylänteenniemi
+opts lang: fin
+reft point:0x2800
+refp 26.696684 61.968845
+crds 26.677706 61.973153
+
+text:0x3
+scle 0.75
+name hiidenkirnu
+opts legend: 1
+reft point:0x6601
+refp 26.513353 61.912105
+crds 26.516458 61.911080
+
+text:0x3
+scle 0.75
+name kota
+opts legend: 1
+reft point:0x2b04
+refp 26.676849 61.956817
+crds 26.676162 61.956285
+
+text:0x3
+scle 0.75
+name kota
+opts legend: 1
+reft point:0x2b04
+refp 26.684742 61.923070
+crds 26.683990 61.923366
+
+text:0x3
+scle 0.75
+name leirikeskus
+opts legend: 1
+reft point:0x2b04
+refp 26.790815 61.932839
+crds 26.791224 61.932936
+
+text:0x3
+scle 0.75
+name leppäniemen lomakartano
+opts legend: 1
+reft point:0x2b04
+refp 26.679956 61.950385
+crds 26.680674 61.950265
+
+text:0x3
+scle 0.75
+name lintutorni
+opts legend: 1
+reft point:0x6606
+refp 26.676482 61.956873
+crds 26.674976 61.957201
+
+text:0x3
+scle 0.75
+name lintutorni
+opts legend: 1
+reft point:0x6606
+refp 26.909551 61.999214
+crds 26.909827 61.999471
+
+text:0x3
+scle 0.75
+name museo
+opts legend: 1
+reft point:0x2b04
+refp 26.513192 61.748655
+crds 26.512628 61.749620
+
+text:0x3
+scle 0.75
+name mylly
+opts legend: 1
+reft point:0x2b04
+refp 26.970134 61.841563
+crds 26.971434 61.842502
+
+text:0x3
+scle 0.75
+name saha
+opts legend: 1
+reft point:0x2b04
+refp 26.783321 61.967776
+crds 26.783973 61.967875
+
+text:0x3
+scle 0.75
+algn SE
+name Eteläniemi
+opts lang: fin
+reft point:0x2800
+refp 26.706790 61.768164
+crds 26.701721 61.765234
+
+text:0x3
+scle 0.75
+algn SE
+name Haapaniemi
+opts lang: fin
+reft point:0x2800
+refp 26.818840 61.845832
+crds 26.820352 61.850190
+
+text:0x3
+scle 0.75
+algn SE
+name Hiekkasaari
+opts lang: fin
+reft point:0x2800
+refp 26.683721 61.729383
+crds 26.689818 61.731664
+
+text:0x3
+scle 0.75
+algn SE
+name Hietasaari
+opts lang: fin
+reft point:0x2800
+refp 26.516477 61.709907
+crds 26.514823 61.708904
+
+text:0x3
+scle 0.75
+algn SE
+name Hoikka
+opts lang: fin
+reft point:0x2800
+refp 26.749704 61.754887
+crds 26.748729 61.752835
+
+text:0x3
+scle 0.75
+algn SE
+name Kaijanniemi
+opts lang: fin
+reft point:0x2800
+refp 26.808958 61.706958
+crds 26.811425 61.704987
+
+text:0x3
+scle 0.75
+algn SE
+name Kohosaari
+opts lang: fin
+reft point:0x2800
+refp 26.547435 61.692434
+crds 26.546646 61.689345
+
+text:0x3
+scle 0.75
+algn SE
+name Korkeasaari
+opts lang: fin
+reft point:0x2800
+refp 26.789944 61.836854
+crds 26.789217 61.837556
+
+text:0x3
+scle 0.75
+algn SE
+name Kotkatsaari
+opts lang: fin
+reft point:0x2800
+refp 26.725187 61.843810
+crds 26.719826 61.841453
+
+text:0x3
+scle 0.75
+algn SE
+name Lamposaari
+opts lang: fin
+reft point:0x2800
+refp 26.551580 61.673783
+crds 26.546959 61.672414
+
+text:0x3
+scle 0.75
+algn SE
+name Matinsaari
+opts lang: fin
+reft point:0x2800
+refp 26.799735 61.840422
+crds 26.795524 61.840224
+
+text:0x3
+scle 0.75
+algn SE
+name Onkisaari
+opts lang: fin
+reft point:0x2800
+refp 26.816403 61.824814
+crds 26.814281 61.824074
+
+text:0x3
+scle 0.75
+algn SE
+name Pauninsaari
+opts lang: fin
+reft point:0x2800
+refp 26.725108 61.759399
+crds 26.722815 61.757584
+
+text:0x3
+scle 0.75
+algn SE
+name Pieni Paatsalo
+opts lang: fin
+reft point:0x2800
+refp 26.631653 61.796544
+crds 26.641919 61.789863
+
+text:0x3
+scle 0.75
+algn SE
+name Pieni-Häähkiäinen
+opts lang: fin
+reft point:0x2800
+refp 26.892926 61.712344
+crds 26.895381 61.707888
+
+text:0x3
+scle 0.75
+algn SE
+name Pukkisaari
+opts lang: fin
+reft point:0x2800
+refp 26.614561 61.771677
+crds 26.611487 61.769273
+
+text:0x3
+scle 0.75
+algn SE
+name Pyynsalo
+opts lang: fin
+reft point:0x2800
+refp 26.618117 61.802600
+crds 26.618775 61.798385
+
+text:0x3
+scle 0.75
+algn SE
+name Pöllösaari
+opts lang: fin
+reft point:0x2800
+refp 26.838213 61.830755
+crds 26.839959 61.834551
+
+text:0x3
+scle 0.75
+algn SE
+name Retsinsaari
+opts lang: fin
+reft point:0x2800
+refp 26.938122 61.688969
+crds 26.934882 61.689097
+
+text:0x3
+scle 0.75
+algn SE
+name Riuttanen
+opts lang: fin
+reft point:0x2800
+refp 26.587950 61.802486
+crds 26.587658 61.799498
+
+text:0x3
+scle 0.75
+algn SE
+name Ryysänsaari
+opts lang: fin
+reft point:0x2800
+refp 26.628863 61.815587
+crds 26.626951 61.814552
+
+text:0x3
+scle 0.75
+algn SE
+name Tupasaari
+opts lang: fin
+reft point:0x2800
+refp 26.662415 61.729871
+crds 26.667791 61.732329
+
+text:0x3
+scle 0.75
+algn SE
+name Tähtisaari
+opts lang: fin
+reft point:0x2800
+refp 26.758555 61.840562
+crds 26.759369 61.837823
+
+text:0x3
+scle 0.8
+name Haapaniemi
+opts lang: fin
+reft point:0x2800
+refp 26.767063 61.957523
+crds 26.770249 61.957179
+
+text:0x3
+scle 0.8
+name Haapasaari
+opts lang: fin
+reft point:0x2800
+refp 26.560448 61.875856
+crds 26.548351 61.875072
+
+text:0x3
+scle 0.8
+name Halmesaari
+opts lang: fin
+reft point:0x2800
+refp 26.582890 61.844161
+crds 26.574307 61.844457
+
+text:0x3
+scle 0.8
+name Haukiniemi
+opts lang: fin
+reft point:0x2800
+refp 26.793166 61.846092
+crds 26.788051 61.853282
+
+text:0x3
+scle 0.8
+name Hälväsensuo
+opts lang: fin
+reft point:0x2800
+refp 26.884036 61.863921
+crds 26.878638 61.864437
+
+text:0x3
+scle 0.8
+name Iikansaari
+opts lang: fin
+reft point:0x2800
+refp 26.783501 61.746591
+crds 26.784759 61.746620
+
+text:0x3
+scle 0.8
+name Iso-Mökärä
+opts lang: fin
+reft point:0x2800
+refp 26.589551 61.882712
+crds 26.579652 61.882802
+
+text:0x3
+scle 0.8
+name Itäsuo
+opts lang: fin
+reft point:0x2800
+refp 26.936917 61.907628
+crds 26.932502 61.907940
+
+text:0x3
+scle 0.8
+name Kaurasaari
+opts lang: fin
+reft point:0x2800
+refp 26.617679 61.871289
+crds 26.609452 61.871105
+
+text:0x3
+scle 0.8
+name Kenkunsaari
+opts lang: fin
+reft point:0x2800
+refp 26.576777 61.853690
+crds 26.573105 61.852241
+
+text:0x3
+scle 0.8
+name Koukkuniemi
+opts lang: fin
+reft point:0x2800
+refp 26.944543 61.700467
+crds 26.935046 61.705353
+
+text:0x3
+scle 0.8
+name Lapinsalo
+opts lang: fin
+reft point:0x2800
+refp 26.837120 61.868477
+crds 26.833963 61.868903
+
+text:0x3
+scle 0.8
+name Lehmisaari
+opts lang: fin
+reft point:0x2800
+refp 26.770965 61.739751
+crds 26.750671 61.740675
+
+text:0x3
+scle 0.8
+name Mainiemi
+opts lang: fin
+reft point:0x2800
+refp 26.534154 61.807509
+crds 26.534424 61.808615
+
+text:0x3
+scle 0.8
+name Mesiäniemi
+opts lang: fin
+reft point:0x2800
+refp 26.605964 61.928066
+crds 26.600228 61.925537
+
+text:0x3
+scle 0.8
+name Mielevänsaari
+opts lang: fin
+reft point:0x2800
+refp 26.753955 61.760799
+crds 26.756475 61.764701
+
+text:0x3
+scle 0.8
+name Murhoniemi
+opts lang: fin
+reft point:0x2800
+refp 26.609624 61.935165
+crds 26.606478 61.936941
+
+text:0x3
+scle 0.8
+name Mäkelänsuo
+opts lang: fin
+reft point:0x2800
+refp 26.928106 61.891947
+crds 26.923371 61.891945
+
+text:0x3
+scle 0.8
+name Orassaari
+opts lang: fin
+reft point:0x2800
+refp 26.957913 61.708009
+crds 26.951636 61.708689
+
+text:0x3
+scle 0.8
+name Otonniemi
+opts lang: fin
+reft point:0x2800
+refp 26.735899 61.810460
+crds 26.727606 61.810964
+
+text:0x3
+scle 0.8
+name Panninsaari
+opts lang: fin
+reft point:0x2800
+refp 26.631296 61.755176
+crds 26.626414 61.758976
+
+text:0x3
+scle 0.8
+name Partinsaari
+opts lang: fin
+reft point:0x2800
+refp 26.800221 61.736746
+crds 26.799710 61.736655
+
+text:0x3
+scle 0.8
+name Pehesaari
+opts lang: fin
+reft point:0x2800
+refp 26.646284 61.742545
+crds 26.649076 61.737912
+
+text:0x3
+scle 0.8
+name Pieni Säkkisalo
+opts lang: fin
+reft point:0x2800
+refp 26.768679 61.784497
+crds 26.765759 61.791469
+
+text:0x3
+scle 0.8
+name Pisminniemi
+opts lang: fin
+reft point:0x2800
+refp 26.785280 61.925501
+crds 26.785932 61.927539
+
+text:0x3
+scle 0.8
+name Pohjaniemi
+opts lang: fin
+reft point:0x2800
+refp 26.970285 61.913050
+crds 26.958582 61.912329
+
+text:0x3
+scle 0.8
+name Rämiäinen
+opts lang: fin
+reft point:0x2800
+refp 26.632003 61.857510
+crds 26.622787 61.859288
+
+text:0x3
+scle 0.8
+name Siekkisensaari
+opts lang: fin
+reft point:0x2800
+refp 26.612014 61.838387
+crds 26.605648 61.838871
+
+text:0x3
+scle 0.8
+name Sikoniemenkangas
+opts lang: fin
+reft point:0x2800
+refp 26.868469 61.883011
+crds 26.866890 61.887648
+
+text:0x3
+scle 0.8
+name Sikosaari
+opts lang: fin
+reft point:0x2800
+refp 26.854052 61.900108
+crds 26.842866 61.900338
+
+text:0x3
+scle 0.8
+name Sikosalo
+opts lang: fin
+reft point:0x2800
+refp 26.949593 61.973540
+crds 26.941144 61.974290
+
+text:0x3
+scle 0.8
+name Soisalo
+opts lang: fin
+reft point:0x2800
+refp 26.778170 61.821706
+crds 26.772493 61.822307
+
+text:0x3
+scle 0.8
+name Suurolansaari
+opts lang: fin
+reft point:0x2800
+refp 26.667516 61.965161
+crds 26.662917 61.965608
+
+text:0x3
+scle 0.8
+name Tihuniemi
+opts lang: fin
+reft point:0x2800
+refp 26.692907 61.678830
+crds 26.687069 61.681881
+
+text:0x3
+scle 0.8
+name Tiihosenniemi
+opts lang: fin
+reft point:0x2800
+refp 26.905470 61.838750
+crds 26.894530 61.842837
+
+text:0x3
+scle 0.8
+name Varasniemi
+opts lang: fin
+reft point:0x2800
+refp 26.773957 61.705890
+crds 26.764295 61.704667
+
+text:0x3
+scle 0.8
+name Vilkonsuo
+opts lang: fin
+reft point:0x2800
+refp 26.826007 61.677063
+crds 26.820825 61.678313
+
+text:0x3
+scle 0.8
+name Vintinniemi
+opts lang: fin
+reft point:0x2800
+refp 26.695211 61.722877
+crds 26.683625 61.720133
+
+text:0x3
+scle 0.8
+algn SE
+name Mäntyniemi
+opts lang: fin
+reft point:0x2800
+refp 26.737282 61.724139
+crds 26.735712 61.735407
+
+text:0x3
+scle 0.8
+algn SE
+name Savisalo
+opts lang: fin
+reft point:0x2800
+refp 26.906780 61.688960
+crds 26.904309 61.691476
+
+text:0x3
+scle 0.8
+algn SE
+name Sileäniemi
+opts lang: fin
+reft point:0x2800
+refp 26.989141 61.712726
+crds 26.987941 61.711200
+
+text:0x3
+scle 0.8
+algn S
+name Iso-Häähkiäinen
+opts lang: fin
+reft point:0x2800
+refp 26.881858 61.719334
+crds 26.885575 61.719955
+
+text:0x3
+scle 0.8
+algn S
+name Metjänsuo
+opts lang: fin
+reft point:0x2800
+refp 26.612749 61.737977
+crds 26.613546 61.734740
+
+text:0x3
+scle 0.96
+name Hakniemi
+opts lang: fin
+reft point:0x2800
+refp 26.851002 61.811674
+crds 26.843494 61.811208
+
+text:0x3
+scle 0.96
+name Ihottu
+opts lang: fin
+reft point:0x2800
+refp 26.587197 61.813341
+crds 26.583744 61.813183
+
+text:0x3
+scle 0.96
+name Iso Paatsalo
+opts lang: fin
+reft point:0x2800
+refp 26.639004 61.804972
+crds 26.637722 61.810756
+
+text:0x3
+scle 0.96
+name Iso Säkkisalo
+opts lang: fin
+reft point:0x2800
+refp 26.747820 61.797642
+crds 26.745837 61.803295
+
+text:0x3
+scle 0.96
+name Koveronsaari
+opts lang: fin
+reft point:0x2800
+refp 26.600609 61.832198
+crds 26.589071 61.826304
+
+text:0x3
+scle 0.96
+name Puukonsaari
+opts lang: fin
+reft point:0x2800
+refp 26.692050 61.793185
+crds 26.689486 61.791788
+
+text:0x3
+scle 0.96
+name Pääskynsaari
+opts lang: fin
+reft point:0x2800
+refp 26.914322 61.714396
+crds 26.897448 61.722846
+
+text:0x3
+scle 0.96
+name Viljakkalansaari
+opts lang: fin
+reft point:0x2800
+refp 26.859814 61.842614
+crds 26.843086 61.841676
+
+text:0x3
+scle 0.96
+name Vuorisalo
+opts lang: fin
+reft point:0x2800
+refp 26.588981 61.899723
+crds 26.584692 61.898993
+
+text:0x3
+name Korpisaari
+reft point:0x2800
+refp 26.505887 61.718322
+crds 26.507899 61.724064
+
+text:0x3
+scle 1.12
+name Väisälänsaari
+opts lang: fin
+reft point:0x2800
+refp 26.847971 61.780444
+crds 26.828504 61.785051
+
+text:0x3
+angl -304.629
+scle 0.75
+algn S
+name Eteissaari
+opts lang: fin
+reft point:0x2800
+refp 26.522087 61.799293
+crds 26.520156 61.797156
+
+text:0x3
+angl -299.635
+scle 0.75
+algn S
+name Muurahaissaari
+opts lang: fin
+reft point:0x2800
+refp 26.514742 61.703575
+crds 26.511006 61.702159
+
+text:0x3
+angl -294.644
+scle 0.75
+algn S
+name Suuri Vuohisaari
+opts lang: fin
+reft point:0x2800
+refp 26.500718 61.809851
+crds 26.506012 61.810310
+
+text:0x3
+angl -289.633
+scle 0.8
+algn S
+name Räyskynsaari
+opts lang: fin
+reft point:0x2800
+refp 26.521596 61.807700
+crds 26.515855 61.805295
+
+text:0x3
+angl -286.686
+scle 0.75
+name luontopolku
+opts legend: 1
+reft point:0x2800
+refp 26.569532 61.710999
+crds 26.569407 61.711835
+
+text:0x3
+angl -285.451
+scle 0.75
+name luontopolku
+opts legend: 1
+reft point:0x2800
+refp 26.559833 61.689677
+crds 26.560086 61.694860
+
+text:0x3
+angl -284.634
+scle 0.75
+algn S
+name Iso Lamposaari
+opts lang: fin
+reft point:0x2800
+refp 26.515082 61.815457
+crds 26.512179 61.814057
+
+text:0x3
+angl -40.1772
+scle 0.96
+algn S
+name Iso-Sarvuli
+opts lang: fin
+reft point:0x2800
+refp 26.550304 61.844363
+crds 26.546956 61.843810
+
+text:0x4
+scle 0.75
+name Juonikoski
+reft point:0x6508
+refp 26.876322 61.957665
+crds 26.877562 61.958077
+
+text:0x4
+scle 0.75
+name Läsänkoski
+reft point:0x6508
+refp 26.890953 61.900896
+crds 26.890789 61.900254
+
+text:0x4
+scle 0.825
+name Etelälampi
+opts lang: fin
+reft point:0x650c
+refp 26.946103 61.769992
+crds 26.946103 61.765120
+
+text:0x4
+scle 0.825
+name Etelälampi
+opts lang: fin
+reft point:0x650c
+refp 26.951217 61.722777
+crds 26.944992 61.724345
+
+text:0x4
+scle 0.825
+name Haukilampi
+opts lang: fin
+reft point:0x650c
+refp 26.562480 61.930545
+crds 26.562660 61.928590
+
+text:0x4
+scle 0.825
+name Haukilampi
+opts lang: fin
+reft point:0x650c
+refp 26.975335 61.693773
+crds 26.976884 61.695092
+
+text:0x4
+scle 0.825
+name Haukkalahti
+opts lang: fin
+reft point:0x650c
+refp 26.971953 61.857937
+crds 26.970969 61.854797
+
+text:0x4
+scle 0.825
+name Kaalilampi
+opts lang: fin
+reft point:0x650c
+refp 26.771131 61.681729
+crds 26.764482 61.684239
+
+text:0x4
+scle 0.825
+name Laurinlampi
+opts lang: fin
+reft point:0x650c
+refp 26.645781 61.893170
+crds 26.636046 61.891412
+
+text:0x4
+scle 0.825
+name Miellampi
+opts lang: fin
+reft point:0x650c
+refp 26.662790 61.866616
+crds 26.662562 61.866696
+
+text:0x4
+scle 0.825
+name Munalahti
+opts lang: fin
+reft point:0x650c
+refp 26.724841 61.899362
+crds 26.725127 61.897147
+
+text:0x4
+scle 0.825
+name Myllylahti
+opts lang: fin
+reft point:0x650c
+refp 26.664569 61.886433
+crds 26.657625 61.883329
+
+text:0x4
+scle 0.825
+name Rutkottomanlahti
+opts lang: fin
+reft point:0x650c
+refp 26.508695 61.934824
+crds 26.505833 61.932812
+
+text:0x4
+scle 0.825
+name Vaivaislampi
+opts lang: fin
+reft point:0x650c
+refp 26.965399 61.874922
+crds 26.964223 61.873378
+
+text:0x4
+scle 0.825
+name Valkeislampi
+opts lang: fin
+reft point:0x650c
+refp 26.872908 61.784678
+crds 26.869360 61.782013
+
+text:0x4
+scle 0.825
+name Valkeistenlampi
+opts lang: fin
+reft point:0x650c
+refp 26.762995 61.858031
+crds 26.760354 61.858144
+
+text:0x4
+scle 0.825
+name Vehkolampi
+opts lang: fin
+reft point:0x650c
+refp 26.634362 61.895401
+crds 26.628622 61.895125
+
+text:0x4
+scle 0.825
+name Välivesi
+opts lang: fin
+reft point:0x650c
+refp 26.989940 61.921039
+crds 26.981224 61.918157
+
+text:0x4
+scle 0.825
+algn SE
+name Säynetlampi
+opts lang: fin
+reft point:0x650c
+refp 26.994723 61.684640
+crds 26.991623 61.683590
+
+text:0x4
+scle 0.825
+algn S
+name Haukkalahti
+opts lang: fin
+reft point:0x650c
+refp 26.971953 61.857937
+crds 26.981181 61.850645
+
+text:0x4
+scle 0.9
+name Enolahti
+opts lang: fin
+reft point:0x650c
+refp 26.951022 61.667241
+crds 26.946075 61.667652
+
+text:0x4
+scle 0.9
+name Etelä-Hiisilampi
+opts lang: fin
+reft point:0x650c
+refp 26.742793 61.992564
+crds 26.734655 61.991481
+
+text:0x4
+scle 0.9
+name Hakoslampi
+opts lang: fin
+reft point:0x650c
+refp 26.790097 61.991846
+crds 26.788126 61.992624
+
+text:0x4
+scle 0.9
+name Halmelampi
+opts lang: fin
+reft point:0x650c
+refp 26.503655 61.913252
+crds 26.504824 61.912789
+
+text:0x4
+scle 0.9
+name Haukilahti
+opts lang: fin
+reft point:0x650c
+refp 26.772352 61.861708
+crds 26.772070 61.861313
+
+text:0x4
+scle 0.9
+name Haukiselkä
+opts lang: fin
+reft point:0x650c
+refp 26.780523 61.840249
+crds 26.768835 61.841935
+
+text:0x4
+scle 0.9
+name Hianselkä
+opts lang: fin
+reft point:0x650c
+refp 26.731320 61.887154
+crds 26.732022 61.887353
+
+text:0x4
+scle 0.9
+name Hietajärvi
+opts lang: fin
+reft point:0x650c
+refp 26.794669 61.905138
+crds 26.790248 61.906154
+
+text:0x4
+scle 0.9
+name Hietalampi
+opts lang: fin
+reft point:0x650c
+refp 26.824500 61.795976
+crds 26.819963 61.793664
+
+text:0x4
+scle 0.9
+name Hiisilampi
+opts lang: fin
+reft point:0x650c
+refp 26.936108 61.803440
+crds 26.935187 61.800273
+
+text:0x4
+scle 0.9
+name Jokilampi
+opts lang: fin
+reft point:0x650c
+refp 26.754227 61.859353
+crds 26.750523 61.857004
+
+text:0x4
+scle 0.9
+name Kalatonlampi
+opts lang: fin
+reft point:0x650c
+refp 26.923445 61.718206
+crds 26.905602 61.720476
+
+text:0x4
+scle 0.9
+name Kilpuilampi
+opts lang: fin
+reft point:0x650c
+refp 26.983701 61.703169
+crds 26.971811 61.704639
+
+text:0x4
+scle 0.9
+name Kolonlampi
+opts lang: fin
+reft point:0x650c
+refp 26.952107 61.734272
+crds 26.953214 61.732130
+
+text:0x4
+scle 0.9
+name Kortteenlampi
+opts lang: fin
+reft point:0x650c
+refp 26.787126 61.682078
+crds 26.790032 61.681822
+
+text:0x4
+scle 0.9
+name Kyrönsalmi
+opts lang: fin
+reft point:0x650c
+refp 26.552610 61.941389
+crds 26.549281 61.941082
+
+text:0x4
+scle 0.9
+name Käärelampi
+opts lang: fin
+reft point:0x650c
+refp 26.923444 61.870553
+crds 26.928080 61.870753
+
+text:0x4
+scle 0.9
+name Leppäselkä
+opts lang: fin
+reft point:0x650c
+refp 26.667454 61.956843
+crds 26.666987 61.957775
+
+text:0x4
+scle 0.9
+name Liinalampi
+opts lang: fin
+reft point:0x650c
+refp 26.757886 61.677525
+crds 26.756412 61.677986
+
+text:0x4
+scle 0.9
+name Lutakonlampi
+opts lang: fin
+reft point:0x650c
+refp 26.811128 61.800157
+crds 26.812804 61.801972
+
+text:0x4
+scle 0.9
+name Matslampi
+opts lang: fin
+reft point:0x650c
+refp 26.841072 61.703732
+crds 26.832233 61.705835
+
+text:0x4
+scle 0.9
+name Murtosenlahti
+opts lang: fin
+reft point:0x650c
+refp 26.910792 61.862380
+crds 26.901885 61.861216
+
+text:0x4
+scle 0.9
+name Mustalampi
+opts lang: fin
+reft point:0x650c
+refp 26.748590 61.979044
+crds 26.739714 61.980005
+
+text:0x4
+scle 0.9
+name Mustalampi
+opts lang: fin
+reft point:0x650c
+refp 26.933704 61.792546
+crds 26.930171 61.794598
+
+text:0x4
+scle 0.9
+name Mökäränselkä
+opts lang: fin
+reft point:0x650c
+refp 26.602161 61.883772
+crds 26.602631 61.884204
+
+text:0x4
+scle 0.9
+name Nikinlampi
+opts lang: fin
+reft point:0x650c
+refp 26.573792 61.924991
+crds 26.573431 61.923536
+
+text:0x4
+scle 0.9
+name Osonlampi
+opts lang: fin
+reft point:0x650c
+refp 26.914475 61.788775
+crds 26.908253 61.789223
+
+text:0x4
+scle 0.9
+name Paananselkä
+opts lang: fin
+reft point:0x650c
+refp 26.877722 61.817758
+crds 26.871882 61.818548
+
+text:0x4
+scle 0.9
+name Pieni-Montonen
+opts lang: fin
+reft point:0x650c
+refp 26.945353 61.744418
+crds 26.952433 61.742377
+
+text:0x4
+scle 0.9
+name Piesanlampi
+opts lang: fin
+reft point:0x650c
+refp 26.949790 61.900948
+crds 26.950531 61.901352
+
+text:0x4
+scle 0.9
+name Pilkanselkä
+opts lang: fin
+reft point:0x650c
+refp 26.723922 61.923184
+crds 26.721179 61.923304
+
+text:0x4
+scle 0.9
+name Pirttilampi
+opts lang: fin
+reft point:0x650c
+refp 26.618490 61.914524
+crds 26.618571 61.917154
+
+text:0x4
+scle 0.9
+name Pitkäjärvi
+opts lang: fin
+reft point:0x650c
+refp 26.787247 61.902766
+crds 26.779740 61.901687
+
+text:0x4
+scle 0.9
+name Pitkälahti
+opts lang: fin
+reft point:0x650c
+refp 26.763684 61.968159
+crds 26.756666 61.968354
+
+text:0x4
+scle 0.9
+name Pitkälampi
+opts lang: fin
+reft point:0x650c
+refp 26.771006 61.690927
+crds 26.773728 61.690230
+
+text:0x4
+scle 0.9
+name Puutelahti
+opts lang: fin
+reft point:0x650c
+refp 26.896940 61.879787
+crds 26.895453 61.881203
+
+text:0x4
+scle 0.9
+name Pyytysenlampi
+opts lang: fin
+reft point:0x650c
+refp 26.758059 61.867319
+crds 26.759768 61.867519
+
+text:0x4
+scle 0.9
+name Päälahti
+opts lang: fin
+reft point:0x650c
+refp 26.905933 61.940810
+crds 26.907112 61.941457
+
+text:0x4
+scle 0.9
+name Pöllöselkä
+opts lang: fin
+reft point:0x650c
+refp 26.855535 61.823847
+crds 26.852549 61.823696
+
+text:0x4
+scle 0.9
+name Raitalampi
+opts lang: fin
+reft point:0x650c
+refp 26.529252 61.968868
+crds 26.517913 61.968595
+
+text:0x4
+scle 0.9
+name Sarkasenlampi
+opts lang: fin
+reft point:0x650c
+refp 26.634879 61.941399
+crds 26.636758 61.943575
+
+text:0x4
+scle 0.9
+name Sikolampi
+opts lang: fin
+reft point:0x650c
+refp 26.521534 61.928525
+crds 26.508451 61.928640
+
+text:0x4
+scle 0.9
+name Syvälampi
+opts lang: fin
+reft point:0x650c
+refp 26.943282 61.952989
+crds 26.944065 61.952245
+
+text:0x4
+scle 0.9
+name Säkkisalonsalmi
+opts lang: fin
+reft point:0x650c
+refp 26.732692 61.786684
+crds 26.724051 61.792795
+
+text:0x4
+scle 0.9
+name Säynätjärvi
+opts lang: fin
+reft point:0x650c
+refp 26.972587 61.829529
+crds 26.959435 61.829579
+
+text:0x4
+scle 0.9
+name Tampianlahti
+opts lang: fin
+reft point:0x650c
+refp 26.578154 61.953745
+crds 26.564268 61.958718
+
+text:0x4
+scle 0.9
+name Tujunlampi
+opts lang: fin
+reft point:0x650c
+refp 26.984642 61.674356
+crds 26.971338 61.678122
+
+text:0x4
+scle 0.9
+name Tukionlampi
+opts lang: fin
+reft point:0x650c
+refp 26.909608 61.774478
+crds 26.911536 61.776342
+
+text:0x4
+scle 0.9
+name Tuomalahti
+opts lang: fin
+reft point:0x650c
+refp 26.675844 61.873826
+crds 26.675378 61.872981
+
+text:0x4
+scle 0.9
+name Törönselkä
+opts lang: fin
+reft point:0x650c
+refp 26.631888 61.870260
+crds 26.628740 61.869696
+
+text:0x4
+scle 0.9
+name Ukonsalmi
+opts lang: fin
+reft point:0x650c
+refp 26.839913 61.890347
+crds 26.840216 61.890599
+
+text:0x4
+scle 0.9
+name Vehkoselkä
+opts lang: fin
+reft point:0x650c
+refp 26.525711 61.880173
+crds 26.524399 61.881452
+
+text:0x4
+scle 0.9
+name Viitalampi
+opts lang: fin
+reft point:0x650c
+refp 26.981901 61.741736
+crds 26.981679 61.738094
+
+text:0x4
+scle 0.9
+name Vuorilahti
+opts lang: fin
+reft point:0x650c
+refp 26.560863 61.976752
+crds 26.560741 61.975980
+
+text:0x4
+scle 0.9
+name Vänkkäänlahti
+opts lang: fin
+reft point:0x650c
+refp 26.862759 61.803907
+crds 26.855913 61.802743
+
+text:0x4
+scle 0.9
+algn SE
+name Ellampi
+opts lang: fin
+reft point:0x650c
+refp 26.571040 61.761381
+crds 26.567053 61.760483
+
+text:0x4
+scle 0.9
+algn SE
+name Iso-Päistäre
+opts lang: fin
+reft point:0x650c
+refp 26.876363 61.773734
+crds 26.873761 61.772798
+
+text:0x4
+scle 0.9
+algn SE
+name Kotalampi
+opts lang: fin
+reft point:0x650c
+refp 26.919152 61.668213
+crds 26.917769 61.668998
+
+text:0x4
+scle 0.9
+algn SE
+name Lannoo
+opts lang: fin
+reft point:0x650c
+refp 26.996087 61.799695
+crds 26.991579 61.798906
+
+text:0x4
+scle 0.9
+algn SE
+name Syylampi
+opts lang: fin
+reft point:0x650c
+refp 26.588106 61.673287
+crds 26.587616 61.675585
+
+text:0x4
+scle 0.9
+algn SE
+name Uimalampi
+opts lang: fin
+reft point:0x650c
+refp 26.552564 61.787004
+crds 26.550470 61.785488
+
+text:0x4
+scle 0.9
+algn SE
+name Vasaranlampi
+opts lang: fin
+reft point:0x650c
+refp 26.830528 61.778889
+crds 26.828037 61.778157
+
+text:0x4
+scle 0.9
+algn SE
+name Vitkolampi
+opts lang: fin
+reft point:0x650c
+refp 26.614695 61.711026
+crds 26.618715 61.708852
+
+text:0x4
+scle 0.9
+algn S
+name Eskolanselkä
+opts lang: fin
+reft point:0x650c
+refp 26.792094 61.757821
+crds 26.791399 61.757440
+
+text:0x4
+scle 0.9
+algn S
+name Kurjenselkä
+opts lang: fin
+reft point:0x650c
+refp 26.835545 61.807897
+crds 26.839656 61.806915
+
+text:0x4
+scle 0.9
+algn S
+name Soisalonselkä
+opts lang: fin
+reft point:0x650c
+refp 26.797602 61.821378
+crds 26.801850 61.821638
+
+text:0x4
+scle 0.9
+algn S
+name Sulamalampi
+opts lang: fin
+reft point:0x650c
+refp 26.855992 61.710371
+crds 26.853004 61.711972
+
+text:0x4
+scle 0.9
+algn S
+name Varaslahti
+opts lang: fin
+reft point:0x650c
+refp 26.780037 61.698892
+crds 26.779822 61.698619
+
+text:0x4
+scle 0.9
+algn S
+name Vilkonlahti
+opts lang: fin
+reft point:0x650c
+refp 26.835742 61.685977
+crds 26.836492 61.685981
+
+text:0x4
+name Hölönselkä
+opts lang: fin
+reft point:0x650c
+refp 26.535571 61.859290
+crds 26.531833 61.859000
+
+text:0x4
+name Iso-Montonen
+opts lang: fin
+reft point:0x650c
+refp 26.961640 61.751432
+crds 26.966660 61.748373
+
+text:0x4
+name Kirokas
+opts lang: fin
+reft point:0x650c
+refp 26.988937 61.804101
+crds 26.986124 61.805579
+
+text:0x4
+name Kirvesjärvi
+opts lang: fin
+reft point:0x650c
+refp 26.972865 61.773240
+crds 26.967488 61.777794
+
+text:0x4
+name Kolmipohja
+opts lang: fin
+reft point:0x650c
+refp 26.988605 61.830527
+crds 26.982382 61.831818
+
+text:0x4
+name Kotkainen
+opts lang: fin
+reft point:0x650c
+refp 26.750464 61.915545
+crds 26.745468 61.916675
+
+text:0x4
+name Kärääselkä
+opts lang: fin
+reft point:0x650c
+refp 26.759685 61.945756
+crds 26.758223 61.942810
+
+text:0x4
+name Lapassalmi
+opts lang: fin
+reft point:0x650c
+refp 26.649330 61.998316
+crds 26.639918 61.998588
+
+text:0x4
+name Lapinsalonselkä
+opts lang: fin
+reft point:0x650c
+refp 26.822494 61.887140
+crds 26.817435 61.887358
+
+text:0x4
+name Luotijärvi
+opts lang: fin
+reft point:0x650c
+refp 26.954740 61.847416
+crds 26.945856 61.845250
+
+text:0x4
+name Niittulevä
+opts lang: fin
+reft point:0x650c
+refp 26.919434 61.985468
+crds 26.917295 61.986463
+
+text:0x4
+name Palijärvi
+opts lang: fin
+reft point:0x650c
+refp 26.806936 61.987115
+crds 26.804529 61.987623
+
+text:0x4
+name Pauninselkä
+opts lang: fin
+reft point:0x650c
+refp 26.591619 61.860240
+crds 26.591619 61.860240
+
+text:0x4
+name Petäinen
+opts lang: fin
+reft point:0x650c
+refp 26.874325 61.952091
+crds 26.868259 61.949285
+
+text:0x4
+name Piipanselkä
+opts lang: fin
+reft point:0x650c
+refp 26.510519 61.874422
+crds 26.505434 61.872663
+
+text:0x4
+name Pohjalampi
+opts lang: fin
+reft point:0x650c
+refp 26.963297 61.931829
+crds 26.954930 61.936680
+
+text:0x4
+name Pääskynselkä
+opts lang: fin
+reft point:0x650c
+refp 26.896962 61.698294
+crds 26.888815 61.698862
+
+text:0x4
+name Ruovedenselkä
+opts lang: fin
+reft point:0x650c
+refp 26.669753 61.978599
+crds 26.664505 61.978954
+
+text:0x4
+name Sammakkoselkä
+opts lang: fin
+reft point:0x650c
+refp 26.821379 61.863145
+crds 26.806295 61.862846
+
+text:0x4
+name Syväjärvi
+opts lang: fin
+reft point:0x650c
+refp 26.760375 61.993736
+crds 26.752945 61.999340
+
+text:0x4
+name Särkiselkä
+opts lang: fin
+reft point:0x650c
+refp 26.585518 61.944749
+crds 26.580965 61.947472
+
+text:0x4
+name Säynätlampi
+opts lang: fin
+reft point:0x650c
+refp 26.640363 61.954469
+crds 26.634666 61.954409
+
+text:0x4
+name Tervaselkä
+opts lang: fin
+reft point:0x650c
+refp 26.948725 61.979524
+crds 26.940941 61.980795
+
+text:0x4
+name Valkeajärvi
+opts lang: fin
+reft point:0x650c
+refp 26.947789 61.969097
+crds 26.943733 61.966646
+
+text:0x4
+name Valkjärvi
+opts lang: fin
+reft point:0x650c
+refp 26.919706 61.766911
+crds 26.918586 61.770089
+
+text:0x4
+name Viikarinlahti
+opts lang: fin
+reft point:0x650c
+refp 26.978583 61.991027
+crds 26.965144 61.997502
+
+text:0x4
+name Vuojalahti
+opts lang: fin
+reft point:0x650c
+refp 26.772577 61.969466
+crds 26.766619 61.970758
+
+text:0x4
+algn S
+name Eteläselkä
+opts lang: fin
+reft point:0x650c
+refp 26.855033 61.737398
+crds 26.842948 61.736209
+
+text:0x4
+algn S
+name Haukkalahti
+reft point:0x650c
+refp 26.971953 61.857937
+crds 26.971953 61.857937
+
+text:0x4
+algn S
+name Haukkalahti
+reft point:0x650c
+refp 26.971953 61.857937
+crds 26.971953 61.857937
+
+text:0x4
+algn S
+name Haukkalahti
+reft point:0x650c
+refp 26.971953 61.857937
+crds 26.971953 61.857937
+
+text:0x4
+algn S
+name Haukkalahti
+reft point:0x650c
+refp 26.971953 61.857937
+crds 26.971953 61.857937
+
+text:0x4
+algn S
+name Likoselkä
+opts lang: fin
+reft point:0x650c
+refp 26.964107 61.713601
+crds 26.968165 61.714466
+
+text:0x4
+algn S
+name Lutakonselkä
+opts lang: fin
+reft point:0x650c
+refp 26.784006 61.793280
+crds 26.786927 61.793279
+
+text:0x4
+algn S
+name Mainiemenselkä
+opts lang: fin
+reft point:0x650c
+refp 26.562328 61.805431
+crds 26.568658 61.802916
+
+text:0x4
+algn S
+name Pesäjärvi
+opts lang: fin
+reft point:0x650c
+refp 26.981554 61.844910
+crds 26.983225 61.844421
+
+text:0x4
+algn S
+name Uimaniemenselkä
+opts lang: fin
+reft point:0x650c
+refp 26.593717 61.793691
+crds 26.598988 61.792913
+
+text:0x4
+scle 1.2
+name Haukkaselkä
+opts lang: fin
+reft point:0x650c
+refp 26.553869 61.891628
+crds 26.558206 61.894235
+
+text:0x4
+scle 1.2
+name Konnanselkä
+opts lang: fin
+reft point:0x650c
+refp 26.579464 61.912607
+crds 26.574466 61.913471
+
+text:0x4
+scle 1.2
+algn S
+name Karttuunselkä
+opts lang: fin
+reft point:0x650c
+refp 26.649098 61.772954
+crds 26.654698 61.772642
+
+text:0x4
+scle 1.2
+algn S
+name Simpiänselkä
+opts lang: fin
+reft point:0x650c
+refp 26.693835 61.821338
+crds 26.696012 61.820865
+
+text:0x4
+scle 1.35
+name Rauhajärvi
+opts lang: fin
+reft point:0x650c
+refp 26.975429 61.905154
+crds 26.969170 61.904938
+
+text:0x4
+scle 1.35
+name Vuojaselkä
+opts lang: fin
+reft point:0x650c
+refp 26.840337 61.911138
+crds 26.839543 61.910097
+
+text:0x4
+scle 1.8
+algn S
+name Puula
+opts lang: fin
+reft point:0x650c
+refp 26.693815 61.810112
+crds 26.696109 61.812858
+
+text:0x4
+angl -345.162
+algn SE
+name Tuukkalanlahti
+opts lang: fin
+reft point:0x650c
+refp 26.563607 61.717980
+crds 26.567036 61.716963
+
+text:0x4
+angl -319.364
+scle 0.9
+algn S
+name Kotilampi
+opts lang: fin
+reft point:0x650c
+refp 26.825817 61.714141
+crds 26.821063 61.713369
+
+text:0x4
+angl -313.24
+scle 0.9
+name Saksanjoki
+opts lang: fin
+reft point:0x650c
+refp 26.837257 61.974691
+crds 26.849411 61.965678
+
+text:0x4
+angl -304.345
+scle 0.825
+algn S
+name Haukkalahti
+opts lang: fin
+reft point:0x650c
+refp 26.853897 61.721631
+crds 26.842578 61.726953
+
+text:0x4
+angl -299.511
+scle 0.9
+algn S
+name Ilveslahti
+opts lang: fin
+reft point:0x650c
+refp 26.651736 61.712247
+crds 26.651367 61.714097
+
+text:0x4
+angl -299.322
+scle 0.9
+name Kuivalahti
+opts lang: fin
+reft point:0x650c
+refp 26.869903 61.742474
+crds 26.865724 61.744434
+
+text:0x4
+angl -295.198
+algn S
+name Särkilampi
+opts lang: fin
+reft point:0x650c
+refp 26.520701 61.751963
+crds 26.523900 61.754547
+
+text:0x4
+angl -294.335
+scle 0.9
+algn S
+name Pitkälahti
+opts lang: fin
+reft point:0x650c
+refp 26.847643 61.796757
+crds 26.848741 61.796798
+
+text:0x4
+angl -284.353
+scle 0.9
+name Rantolahti
+opts lang: fin
+reft point:0x650c
+refp 26.831718 61.744900
+crds 26.831347 61.746219
+
+text:0x4
+angl -284.284
+scle 0.9
+algn S
+name Myllylahti
+opts lang: fin
+reft point:0x650c
+refp 26.904963 61.800165
+crds 26.908852 61.801243
+
+text:0x4
+angl -284.238
+scle 0.9
+algn S
+name Santaranlahti
+opts lang: fin
+reft point:0x650c
+refp 26.959393 61.817923
+crds 26.961879 61.816015
+
+text:0x4
+angl -279.533
+scle 0.9
+name Pihlajalahti
+opts lang: fin
+reft point:0x650c
+refp 26.622024 61.691431
+crds 26.623948 61.688842
+
+text:0x4
+angl -279.487
+scle 0.825
+algn S
+name Särkilahti
+opts lang: fin
+reft point:0x650c
+refp 26.676643 61.702581
+crds 26.676732 61.700891
+
+text:0x4
+angl -279.462
+scle 0.9
+algn S
+name Tentunlahti
+opts lang: fin
+reft point:0x650c
+refp 26.706212 61.709683
+crds 26.705191 61.710742
+
+text:0x4
+angl -279.256
+name Santaranjärvi
+opts lang: fin
+reft point:0x650c
+refp 26.939080 61.834722
+crds 26.939289 61.836106
+
+text:0x4
+angl -274.278
+scle 0.9
+algn S
+name Heposalmi
+opts lang: fin
+reft point:0x650c
+refp 26.917715 61.831319
+crds 26.917912 61.836355
+
+text:0x4
+angl -84.4478
+scle 0.9
+name Purunlahti
+opts lang: fin
+reft point:0x650c
+refp 26.717923 61.716994
+crds 26.720399 61.714557
+
+text:0x4
+angl -79.357
+scle 0.9
+name Kantturanselkä
+opts lang: fin
+reft point:0x650c
+refp 26.827164 61.844596
+crds 26.828030 61.842808
+
+text:0x4
+angl -79.307
+scle 0.9
+name Vanhosalmi
+opts lang: fin
+reft point:0x650c
+refp 26.881231 61.764262
+crds 26.884670 61.764582
+
+text:0x4
+angl -74.6146
+scle 0.9
+algn S
+name Hölönlahti
+opts lang: fin
+reft point:0x650c
+refp 26.527939 61.847877
+crds 26.533737 61.847225
+
+text:0x4
+angl -69.5064
+algn S
+name Porttisalmi
+opts lang: fin
+reft point:0x650c
+refp 26.650340 61.795391
+crds 26.654021 61.794177
+
+text:0x4
+angl -69.3919
+scle 0.9
+algn S
+name Rokkasenselkä
+opts lang: fin
+reft point:0x650c
+refp 26.783627 61.779828
+crds 26.783917 61.778039
+
+text:0x4
+angl -39.6393
+scle 0.9
+algn S
+name Puulansalmi
+opts lang: fin
+reft point:0x650c
+refp 26.498477 61.849505
+crds 26.507214 61.846737
+
+text:0x4
+angl -10.2119
+algn S
+name Iso-Hietanen
+reft point:0x650c
+refp 26.503418 61.902070
+crds 26.507817 61.902225
+
+text:0x5
+name Aholanmäki
+opts lang: fin
+reft point:0x1100
+refp 26.949419 61.872431
+crds 26.944498 61.871819
+
+text:0x5
+name Antteronmäki
+opts lang: fin
+reft point:0x1100
+refp 26.560692 61.777868
+crds 26.556648 61.778456
+
+text:0x5
+name Hasanmäki
+opts lang: fin
+reft point:0x1100
+refp 26.747464 61.688687
+crds 26.743213 61.689287
+
+text:0x5
+name Herranmäki
+opts lang: fin
+reft point:0x1100
+refp 26.603886 61.675236
+crds 26.597024 61.674061
+
+text:0x5
+name Hullanvuori
+opts lang: fin
+reft point:0x1100
+refp 26.820394 61.791340
+crds 26.812837 61.790361
+
+text:0x5
+name Iikanmäki
+opts lang: fin
+reft point:0x1100
+refp 26.635382 61.707476
+crds 26.629378 61.708159
+
+text:0x5
+name Ilvesmäki
+opts lang: fin
+reft point:0x1100
+refp 26.660781 61.716775
+crds 26.662152 61.716925
+
+text:0x5
+name Ilvesvuori
+opts lang: fin
+reft point:0x1100
+refp 26.857260 61.849340
+crds 26.852069 61.849900
+
+text:0x5
+name Kokkovuori
+opts lang: fin
+reft point:0x1100
+refp 26.556067 61.791134
+crds 26.552196 61.792026
+
+text:0x5
+name Linnavuori
+opts lang: fin
+reft point:0x1100
+refp 26.763278 61.693480
+crds 26.757475 61.692345
+
+text:0x5
+name Mustikkavuori
+opts lang: fin
+reft point:0x1100
+refp 26.713431 61.880747
+crds 26.711428 61.879459
+
+text:0x5
+name Mäkrämäki
+opts lang: fin
+reft point:0x1100
+refp 26.651043 61.689991
+crds 26.648930 61.690672
+
+text:0x5
+name Naurismäki
+opts lang: fin
+reft point:0x1100
+refp 26.858910 61.770854
+crds 26.858342 61.771488
+
+text:0x5
+name Paavonvuori
+opts lang: fin
+reft point:0x1100
+refp 26.538741 61.906150
+crds 26.532874 61.906624
+
+text:0x5
+name Revonmäki
+opts lang: fin
+reft point:0x1100
+refp 26.976863 61.822055
+crds 26.970413 61.821327
+
+text:0x5
+name Sokkasenmäki
+opts lang: fin
+reft point:0x1100
+refp 26.855560 61.752110
+crds 26.855852 61.752482
+
+text:0x5
+name Soppiomäki
+opts lang: fin
+reft point:0x1100
+refp 26.613628 61.672366
+crds 26.609957 61.670915
+
+text:0x5
+name Torninmäki
+opts lang: fin
+reft point:0x1100
+refp 26.975267 61.871541
+crds 26.970953 61.871370
+
+text:0x5
+name Utrunvuori
+opts lang: fin
+reft point:0x1100
+refp 26.544919 61.911654
+crds 26.539635 61.912515
+
+text:0x5
+name Vattuvuori
+opts lang: fin
+reft point:0x1100
+refp 26.730951 61.959351
+crds 26.728132 61.959184
+
+text:0x6
+name 115
+reft point:0xd00
+refp 26.730951 61.959351
+crds 26.728132 61.959184
+
+text:0x6
+name 135
+reft point:0xd00
+refp 26.544919 61.911654
+crds 26.539635 61.912515
+
+text:0x6
+name 142
+reft point:0xd00
+refp 26.713431 61.880747
+crds 26.713171 61.878063
+
+text:0x6
+name 150
+reft point:0xd00
+refp 26.651043 61.689991
+crds 26.652161 61.689715
+
+text:0x6
+name 151
+reft point:0xd00
+refp 26.560692 61.777868
+crds 26.561809 61.777457
+
+text:0x6
+name 151
+reft point:0xd00
+refp 26.635382 61.707476
+crds 26.636958 61.707385
+
+text:0x6
+name 151
+reft point:0xd00
+refp 26.976863 61.822055
+crds 26.970413 61.821327
+
+text:0x6
+name 154
+reft point:0xd00
+refp 26.556067 61.791134
+crds 26.557770 61.790877
+
+text:0x6
+name 158
+reft point:0xd00
+refp 26.660781 61.716775
+crds 26.662024 61.716035
+
+text:0x6
+name 160
+reft point:0xd00
+refp 26.763278 61.693480
+crds 26.764102 61.693150
+
+text:0x6
+name 160
+reft point:0xd00
+refp 26.820394 61.791340
+crds 26.812837 61.790361
+
+text:0x6
+name 162
+reft point:0xd00
+refp 26.949419 61.872431
+crds 26.944498 61.871819
+
+text:0x6
+name 167
+reft point:0xd00
+refp 26.538741 61.906150
+crds 26.532874 61.906624
+
+text:0x6
+name 168
+reft point:0xd00
+refp 26.975267 61.871541
+crds 26.970953 61.871370
+
+text:0x6
+name 176
+reft point:0xd00
+refp 26.747464 61.688687
+crds 26.748740 61.688463
+
+text:0x6
+name 177
+reft point:0xd00
+refp 26.613628 61.672366
+crds 26.614650 61.672067
+
+text:0x6
+name 180
+reft point:0xd00
+refp 26.603886 61.675236
+crds 26.605098 61.674883
+
+text:0x6
+name 182
+reft point:0xd00
+refp 26.858910 61.770854
+crds 26.857987 61.769614
+
+text:0x8
+name (94-94)
+reft point:0x1000
+refp 26.513013 61.876619
+crds 26.513013 61.876619
+
+text:0x8
+name (94-94)
+reft point:0x1000
+refp 26.514097 61.936133
+crds 26.513949 61.935986
+
+text:0x8
+name (94-94)
+reft point:0x1000
+refp 26.584777 61.944195
+crds 26.584777 61.944195
+
+text:0x8
+name (94-94)
+reft point:0x1000
+refp 26.585272 61.870642
+crds 26.585272 61.870642
+
+text:0x8
+name (94-94)
+reft point:0x1000
+refp 26.587360 61.912985
+crds 26.587360 61.912985
+
+text:0x8
+name (94-94)
+reft point:0x1000
+refp 26.858516 61.904242
+crds 26.858516 61.904242
+
+text:0x8
+name 100
+reft point:0x1000
+refp 26.768050 61.694180
+crds 26.769243 61.693896
+
+text:0x8
+name 100
+reft point:0x1000
+refp 26.785970 61.684290
+crds 26.784778 61.684722
+
+text:0x8
+name 100
+reft point:0x1000
+refp 26.825844 61.795393
+crds 26.825844 61.795393
+
+text:0x8
+name 100
+reft point:0x1000
+refp 26.917263 61.996335
+crds 26.918126 61.996107
+
+text:0x8
+name 100
+reft point:0x1000
+refp 26.920651 61.984589
+crds 26.920651 61.984589
+
+text:0x8
+name 100
+reft point:0x1000
+refp 26.948266 61.968910
+crds 26.948266 61.968910
+
+text:0x8
+name 100
+reft point:0x1000
+refp 26.977081 61.990360
+crds 26.977128 61.990111
+
+text:0x8
+name 100
+reft point:0x1000
+refp 26.981395 61.905414
+crds 26.962789 61.905307
+
+text:0x8
+name 101
+reft point:0x1000
+refp 26.944107 61.951846
+crds 26.943806 61.952809
+
+text:0x8
+name 101
+reft point:0x1000
+refp 26.965782 61.930554
+crds 26.967022 61.930240
+
+text:0x8
+name 101
+reft point:0x1000
+refp 26.977280 61.911491
+crds 26.977280 61.911491
+
+text:0x8
+name 102
+reft point:0x1000
+refp 26.936970 61.830630
+crds 26.936428 61.831295
+
+text:0x8
+name 102
+reft point:0x1000
+refp 26.950718 61.900052
+crds 26.950510 61.900303
+
+text:0x8
+name 103
+reft point:0x1000
+refp 26.983570 61.740300
+crds 26.983144 61.739282
+
+text:0x8
+name 104
+reft point:0x1000
+refp 26.921174 61.944087
+crds 26.921174 61.944087
+
+text:0x8
+name 105
+reft point:0x1000
+refp 26.652620 61.891870
+crds 26.649959 61.892461
+
+text:0x8
+name 105
+reft point:0x1000
+refp 26.770675 61.681715
+crds 26.770507 61.682519
+
+text:0x8
+name 106
+reft point:0x1000
+refp 26.954280 61.734170
+crds 26.955108 61.733688
+
+text:0x8
+name 106
+reft point:0x1000
+refp 26.964719 61.874011
+crds 26.964719 61.874011
+
+text:0x8
+name 107
+reft point:0x1000
+refp 26.531662 61.967887
+crds 26.530588 61.967847
+
+text:0x8
+name 108
+reft point:0x1000
+refp 26.684399 61.917792
+crds 26.684399 61.917792
+
+text:0x8
+name 108
+reft point:0x1000
+refp 26.764120 61.675780
+crds 26.762333 61.674778
+
+text:0x8
+name 109
+reft point:0x1000
+refp 26.875830 61.951478
+crds 26.875830 61.951478
+
+text:0x8
+name 110
+reft point:0x1000
+refp 26.503267 61.912570
+crds 26.502693 61.912755
+
+text:0x8
+name 110
+reft point:0x1000
+refp 26.974480 61.771940
+crds 26.975193 61.771294
+
+text:0x8
+name 112
+reft point:0x1000
+refp 26.893107 61.949478
+crds 26.893535 61.949805
+
+text:0x8
+name 112
+reft point:0x1000
+refp 26.976542 61.938994
+crds 26.976542 61.938994
+
+text:0x8
+name 113
+reft point:0x1000
+refp 26.534409 61.918257
+crds 26.534958 61.918481
+
+text:0x8
+name 113
+reft point:0x1000
+refp 26.832150 61.777510
+crds 26.832891 61.776787
+
+text:0x8
+name 115
+reft point:0x1000
+refp 26.790846 61.990701
+crds 26.790248 61.991827
+
+text:0x8
+name 115
+reft point:0x1000
+refp 26.926760 61.767180
+crds 26.928041 61.766733
+
+text:0x8
+name 118
+reft point:0x1000
+refp 26.809988 61.986065
+crds 26.809988 61.986065
+
+text:0x8
+name 119
+reft point:0x1000
+refp 26.948380 61.768350
+crds 26.949332 61.768159
+
+text:0x8
+name 120
+reft point:0x1000
+refp 26.650077 61.883659
+crds 26.650688 61.883355
+
+text:0x8
+name 122
+reft point:0x1000
+refp 26.979311 61.865991
+crds 26.979311 61.865991
+
+text:0x8
+name 126
+reft point:0x1000
+refp 26.518030 61.927675
+crds 26.517996 61.927675
+
+text:0x8
+name 127
+reft point:0x1000
+refp 26.659621 61.883090
+crds 26.659356 61.883392
+
+text:0x8
+name 128
+reft point:0x1000
+refp 26.937930 61.791730
+crds 26.938482 61.792299
+
+text:0x8
+name 130
+reft point:0x1000
+refp 26.503721 61.926128
+crds 26.501484 61.925810
+
+text:0x8
+name 140
+reft point:0x1000
+refp 26.709181 61.907761
+crds 26.709592 61.907821
+
+text:0x8
+name 142
+reft point:0x1000
+refp 26.941950 61.804060
+crds 26.943000 61.803338
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.514312 61.877016
+crds 26.514087 61.877302
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.516063 61.936414
+crds 26.516063 61.936414
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.585936 61.944880
+crds 26.585936 61.944880
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.585976 61.871092
+crds 26.585976 61.871092
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.588291 61.913688
+crds 26.588291 61.913688
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.650280 61.742520
+crds 26.652077 61.742522
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.659650 61.810220
+crds 26.661449 61.810219
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.671540 61.690010
+crds 26.673339 61.690007
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.753770 61.914670
+crds 26.753770 61.914670
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.755290 61.768470
+crds 26.756410 61.768226
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.775664 61.861167
+crds 26.775664 61.861167
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.780236 61.938155
+crds 26.780586 61.938165
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.785230 61.820190
+crds 26.787022 61.820193
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.790993 61.902136
+crds 26.790993 61.902136
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.793520 61.701340
+crds 26.794504 61.701324
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.794970 61.787440
+crds 26.796766 61.787440
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.857474 61.905039
+crds 26.857474 61.905039
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.869940 61.706780
+crds 26.870949 61.706791
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.872310 61.733020
+crds 26.872995 61.733527
+
+text:0x8
+name 94
+reft point:0x1000
+refp 26.876960 61.815990
+crds 26.878000 61.815893
+
+text:0x8
+name 95
+reft point:0x1000
+refp 26.555600 61.782700
+crds 26.557106 61.782181
+
+text:0x8
+name 95
+reft point:0x1000
+refp 26.755139 61.857898
+crds 26.754511 61.856961
+
+text:0x8
+name 95
+reft point:0x1000
+refp 26.765036 61.857519
+crds 26.765036 61.857519
+
+text:0x8
+name 95
+reft point:0x1000
+refp 26.800762 61.905882
+crds 26.800762 61.905882
+
+text:0x8
+name 95
+reft point:0x1000
+refp 26.842640 61.702730
+crds 26.842949 61.701760
+
+text:0x8
+name 95
+reft point:0x1000
+refp 26.877490 61.771330
+crds 26.876339 61.770376
+
+text:0x8
+name 95
+reft point:0x1000
+refp 26.956610 61.849800
+crds 26.957154 61.850106
+
+text:0x8
+name 95
+reft point:0x1000
+refp 26.987230 61.703040
+crds 26.988306 61.702499
+
+text:0x8
+name 96
+reft point:0x1000
+refp 26.663171 61.865915
+crds 26.663062 61.866154
+
+text:0x8
+name 96
+reft point:0x1000
+refp 26.756972 61.866931
+crds 26.756972 61.866931
+
+text:0x8
+name 96
+reft point:0x1000
+refp 26.828910 61.754540
+crds 26.828404 61.753443
+
+text:0x8
+name 96
+reft point:0x1000
+refp 26.875860 61.845740
+crds 26.875893 61.844766
+
+text:0x8
+name 97
+reft point:0x1000
+refp 26.525585 61.895925
+crds 26.525158 61.895876
+
+text:0x8
+name 97
+reft point:0x1000
+refp 26.566481 61.921442
+crds 26.565232 61.920757
+
+text:0x8
+name 97
+reft point:0x1000
+refp 26.572984 61.924487
+crds 26.572773 61.924270
+
+text:0x8
+name 97
+reft point:0x1000
+refp 26.633814 61.941218
+crds 26.633814 61.941218
+
+text:0x8
+name 97
+reft point:0x1000
+refp 26.635108 61.894652
+crds 26.635108 61.894652
+
+text:0x8
+name 97
+reft point:0x1000
+refp 26.641837 61.954259
+crds 26.630408 61.954343
+
+text:0x8
+name 97
+reft point:0x1000
+refp 26.876050 61.784540
+crds 26.876312 61.783689
+
+text:0x8
+name 97
+reft point:0x1000
+refp 26.975080 61.828150
+crds 26.974650 61.827026
+
+text:0x8
+name 98
+reft point:0x1000
+refp 26.619506 61.913849
+crds 26.619527 61.913668
+
+text:0x8
+name 98
+reft point:0x1000
+refp 26.893630 61.652080
+crds 26.895426 61.652080
+
+text:0x8
+name 99
+reft point:0x1000
+refp 26.513880 61.901110
+crds 26.515752 61.900125
+
+text:0x8
+name 99
+reft point:0x1000
+refp 26.559860 61.707660
+crds 26.560982 61.707877
+
+text:0x8
+name 99
+reft point:0x1000
+refp 26.914040 61.774280
+crds 26.914715 61.773411
+
+text:0x8
+name 99
+reft point:0x1000
+refp 26.951390 61.745320
+crds 26.952228 61.744094
+
+text:0x8
+name 99
+reft point:0x1000
+refp 26.973560 61.848090
+crds 26.970684 61.847800
+
+text:0x8
+name 99
+reft point:0x1000
+refp 26.988390 61.828470
+crds 26.989455 61.828340
+
+text:0x8
+algn SE
+name 107
+reft point:0x1000
+refp 26.912600 61.787960
+crds 26.912630 61.786896
+
+text:0x8
+algn SE
+name 114
+reft point:0x1000
+refp 26.998300 61.796350
+crds 26.997176 61.796156
+
+text:0x8
+algn SE
+name 95
+reft point:0x1000
+refp 26.569140 61.763090
+crds 26.567649 61.762781
+
+text:0x8
+algn SE
+name 95
+reft point:0x1000
+refp 26.588040 61.677330
+crds 26.587197 61.677382
+
+text:0x8
+algn SE
+name 99
+reft point:0x1000
+refp 26.922690 61.717010
+crds 26.922774 61.715891
+
+text:0x8
+algn SE
+name 99
+reft point:0x1000
+refp 26.959250 61.751350
+crds 26.958700 61.751807
+

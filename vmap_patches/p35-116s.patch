@@ -1,0 +1,5 @@
+include common.patch
+
+move   point:0x1000 [27.53142,60.99227] "75" [27.52684,60.99294]
+delete point:0x800 [27.56521,60.99172] "Kontula"
+delete point:0x650c [27.67344,60.97500] "Kivijärvi"

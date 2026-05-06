@@ -1,0 +1,65 @@
+text:0x2
+scle 0.75
+name Tattarmäki
+opts lang: fin
+reft point:0x900
+refp 28.533776 60.992600
+crds 28.534878 60.993504
+
+text:0x2
+scle 1.1
+name Kotola
+opts lang: fin
+reft point:0x800
+refp 28.562499 60.988216
+crds 28.561420 60.985806
+
+text:0x2
+scle 1.1
+name Laapio
+opts lang: fin
+reft point:0x800
+refp 28.566513 60.996515
+crds 28.567403 60.997366
+
+text:0x2
+scle 1.1
+name Suurkorva
+opts lang: fin
+reft point:0x800
+refp 28.612406 60.984184
+crds 28.615469 60.983449
+
+text:0x2
+scle 1.1
+algn SE
+name Kattelus
+opts lang: fin
+reft point:0x800
+refp 28.593369 60.989393
+crds 28.589040 60.989616
+
+text:0x2
+scle 1.1
+algn SE
+name Kokkila
+opts lang: fin
+reft point:0x800
+refp 28.534521 60.988807
+crds 28.531678 60.986584
+
+text:0x2
+scle 1.3
+name Kontu
+opts lang: fin
+reft point:0x800
+refp 28.673355 60.988027
+crds 28.674810 60.985221
+
+text:0x4
+algn S
+name Saimaan kanava
+reft point:0x650c
+refp 28.508429 60.983346
+crds 28.511145 60.982590
+

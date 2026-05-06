@@ -1,0 +1,73 @@
+rename_re_all *  "Yläi(nen|set|sen) "      Yl.
+rename_re_all *  "Alai(nen|set|sen) "      Al.
+rename_re_all *  "Ylimmäi(nen|set|sen) "   Yl.
+rename_re_all *  "Keskimmäi(nen|set|sen) " Kesk.
+rename_re_all *  "Alimmai(nen|set|sen) "   Al.
+rename_re_all *  "Alempi "                 Al.
+rename_re_all *  "Ylempi "                 Yl.
+rename_re_all *  "Alanen "                 Al.
+rename_re_all *  "Ylinen "                 Yl.
+
+rename_re_all point:0x2b04  "(.*), (autiotupa|varaustupa|vuokratupa)" "$1\\$2"
+
+delete_all  point:0x2b04 "koulu"
+delete_all  point:0x2b04 "opisto"
+delete_all  point:0x2b04 "lukio"
+delete_all  point:0x2b04 "amm.korkeak."
+delete_all  point:0x2b04 "amm.oppil."
+delete_all  point:0x2b04 "kristill.opisto"
+delete_all  point:0x2b04 "yliop."
+delete_all  point:0x2b04 "yliopisto"
+
+delete_all  point:0x2b04 "tervah."
+delete_all  point:0x2b04 "kappeli"
+delete_all  point:0x2b04 "kirkko"
+delete_all  point:0x2b04 "keskussairaala"
+delete_all  point:0x2b04 "terveyskeskus"
+delete_all  point:0x2b04 "terv.as."
+delete_all  point:0x2b04 "terv.as"
+delete_all  point:0x2b04 "jäähalli"
+delete_all  point:0x2b04 "b"  # Polttoaineen jakelupiste
+delete_all  point:0x2b04 "p"  # Posti
+delete_all  point:0x2b04 "huoltoas."
+delete_all  point:0x2b04 "h.as."
+delete_all  point:0x2b04 "h.as"
+
+delete_all  point:0x2b04 "k.talo"    # kaupungintalo
+delete_all  point:0x2b04 "s.talo"    # seurantalo
+delete_all  point:0x2b04 "kylätalo"
+
+delete_all  point:0x2b04 "leirintäalue"
+delete_all  point:0x2b04 "vanhaink." # д/о
+
+delete_all  point:0x2b04 "laivalaituri"
+delete_all  point:0x2b04 "venesatama"
+delete_all  point:0x2b04 "satama"
+
+#delete_all  point:0x2b04  "hotelli"
+#delete_all  point:0x2b04  "mus."
+#delete_all  point:0x2b04  "museo"
+#delete_all  point:0x2b04  "mylly"
+
+delete_all point:0x2800 "val. kuntorata"
+delete_all point:0x2800 "val.kuntorata"
+
+#delete_all  point:0x2b04 * * "kpa"       # Kauppa
+#delete_all  point:0x2b04 * * "leir.alue" # camping
+delete_all  point:0x2800 "erotusaita"
+delete_all point:0x2b04 "tervahauta"
+delete_all point:0x2b04 "tervahautoja"
+delete_all point:0x6415 "pyyntikuopat"
+delete_all point:0x6415 "pyyntikuoppia"
+delete_all point:0x6415 "pyyntikuoppa"
+delete_all point:0x6415 "pyyntikuopia"
+delete_all point:0x6415 "muinainen asuinpaikka"
+delete_all point:0x6415 "muinaisasuinpaikka"
+delete_all point:0x6415 "kivikautinen asuinpaikka"
+delete_all point:0x6415 "kivik. asuinpaikka"
+delete_all point:0x6415 "kivik.asuinpaikka"
+
+rename_all point:0x2800 "Rengärde"  "rengärde"
+rename_all point:0x2800 "Rostu"     "rostu"
+rename_all point:0x6415 "struven ketjun piste" "Struven ketjun piste"
+

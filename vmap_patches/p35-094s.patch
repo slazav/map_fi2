@@ -1,0 +1,9 @@
+include common.patch
+
+delete point:0x2800 [28.53667,61.41837] "Lapinkangas"
+delete point:0x2800 [28.50226,61.41562] "Manninsaari"
+delete point:0x650c [28.80113,61.40929] "Nauksenjärvi"
+
+move   point:0x1000 [28.61176,61.41408] "87" [28.61867,61.40736]
+delete point:0x1000 [28.54726,61.39545] "92"
+

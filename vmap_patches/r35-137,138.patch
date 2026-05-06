@@ -1,0 +1,63 @@
+include common.patch
+
+rename point:0x2800 [26.28610,68.09910] "Kuontalon kalakenttä" "Kuontalon\\kalakenttä"
+rename point:0x2800 [26.87155,68.07778] "Särästölehdon kalakenttä" "Särästölehdon\\kalakenttä"
+
+move   point:0x650c [26.39753,68.35653] "Rullajoki" [26.34802,68.32685]
+move   point:0x650c [27.49725,67.16324] "Kitinen" [26.03582,68.09020]
+add point:0x650c [26.98508,68.17667] "Tankajoki"
+
+move   point:0x1100 [26.16771,68.05763] "Aittakumpu" [26.17039,68.05775]
+move   point:0x1100 [26.89089,68.20847] "Kolvaselkä" [26.89468,68.20699]
+move   point:0x1100 [26.81956,68.30475] "Maanselkä" [26.82532,68.30317]
+move   point:0x1100 [26.88242,68.10037] "Mellanselkä" [26.88311,68.09852]
+move   point:0x1100 [26.49671,68.24666] "Vassamaselkä" [26.50839,68.25000]
+move   point:0x1100 [26.04450,68.10607] "Vesisadeharju" [26.04513,68.10501]
+
+delete point:0xd00 [26.56704,68.10711] "247"
+delete point:0xd00 [26.16771,68.05763] "259"
+delete point:0xd00 [26.04450,68.10607] "260"
+delete point:0xd00 [26.19504,68.07418] "260"
+delete point:0xd00 [26.68369,68.01813] "260"
+delete point:0xd00 [26.66269,68.02089] "263"
+delete point:0xd00 [26.81925,68.22377] "263"
+delete point:0xd00 [26.36596,68.05262] "265"
+delete point:0xd00 [26.25040,68.08397] "266"
+delete point:0xd00 [26.89089,68.20847] "268"
+delete point:0xd00 [26.68768,68.00064] "275"
+delete point:0xd00 [26.59713,68.24813] "279"
+delete point:0xd00 [26.88242,68.10037] "289"
+delete point:0xd00 [26.79161,68.19496] "297"
+delete point:0xd00 [26.57309,68.01507] "305"
+delete point:0xd00 [26.87190,68.25965] "306"
+delete point:0xd00 [26.05255,68.29824] "307"
+delete point:0xd00 [26.37252,68.21863] "307"
+delete point:0xd00 [26.44144,68.01641] "315"
+delete point:0xd00 [26.47153,68.01247] "315"
+delete point:0xd00 [26.49671,68.24666] "317"
+delete point:0xd00 [26.81956,68.30475] "367"
+
+chtype point:0x1100 [26.47153,68.01247] "Hyvässelkä" point:0x2800
+chtype point:0x1100 [26.44144,68.01641] "Juolkusselkä" point:0x2800
+chtype point:0x1100 [26.36596,68.05262] "Kaltiovuomankummut" point:0x2800
+chtype point:0x1100 [26.25040,68.08397] "Kapukkarova" point:0x2800
+chtype point:0x1100 [26.59713,68.24813] "Kurttionkummut" point:0x2800
+chtype point:0x1100 [26.19504,68.07418] "Laitinrova" point:0x2800
+chtype point:0x1100 [26.05255,68.29824] "Luolikkoselkä" point:0x2800
+chtype point:0x1100 [26.57309,68.01507] "Mustaselkä" point:0x2800
+chtype point:0x1100 [26.79161,68.19496] "Mäkäräharjut" point:0x2800
+chtype point:0x1100 [26.56704,68.10711] "Rovasenkumpu" point:0x2800
+chtype point:0x1100 [26.87190,68.25965] "Tunkaharjut" point:0x2800
+chtype point:0x1100 [26.37252,68.21863] "Tämäkkäselkä" point:0x2800
+
+move   point:0x1000 [26.13052,68.10610] "245" [26.13744,68.10687]
+move   point:0x1000 [26.00288,68.05504] "246" [26.03112,68.06148]
+move   point:0x1000 [26.23567,68.15365] "249" [26.24068,68.15492]
+move   point:0x1000 [26.65533,68.14119] "253" [26.65723,68.13953]
+move   point:0x1000 [26.17777,68.18737] "255" [26.17930,68.18687]
+move   point:0x1000 [26.91543,68.15175] "255" [26.91260,68.15099]
+move   point:0x1000 [26.26577,68.26902] "285" [26.26766,68.26956]
+delete point:0x1000 [26.09463,68.09537] "251"
+
+move   point:0x1000 [26.44742,68.12810] "(234-245)" [26.51090,68.09394]
+move   point:0x1000 [26.44984,68.12902] "244" [26.51090,68.09394]

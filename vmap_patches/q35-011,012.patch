@@ -1,0 +1,42 @@
+include common.patch
+
+rename point:0x1100 [29.01883,67.87168] "Iikan Junnun Saihomaa" "Iikan Junnun\\Saihomaa"
+rename point:0x1100 [29.06295,67.82767] "Maaimmainen Sotajoensuunvaara" "Maaimmainen\\Sotajoensuunvaara"
+rename point:0x1100 [29.08584,67.81471] "Rannimmainen Sotajoensuunvaara" "Rannimmainen\\Sotajoensuunvaara"
+rename point:0x1100 [29.01164,67.69555] "Maaimmainen Sotatunturi" "Maaimmainen\\Sotatunturi"
+
+# chtype
+chtype point:0x1100 [29.44999,67.75310] "Ainiharjut" point:0x2800
+chtype point:0x1100 [29.06930,67.92986] "Hangasselkä" point:0x2800
+chtype point:0x1100 [29.05329,67.86275] "Kärekelehto" point:0x2800
+chtype point:0x1100 [29.37767,67.97051] "Matalasuvannonvaara" point:0x2800
+chtype point:0x1100 [29.53976,67.85797] "Pikkuojanvaara" point:0x2800
+chtype point:0x1100 [29.74708,67.76257] "Pirunkuru" point:0x2800
+chtype point:0x1100 [29.53140,67.73789] "Pommituskukkulat" point:0x2800
+chtype point:0x1100 [29.00905,67.93457] "Seitainseljät" point:0x2800
+chtype point:0x1100 [29.37299,67.74200] "Suurkovantuore" point:0x2800
+chtype point:0x1100 [29.60015,67.68865] "Värriötunturit" point:0x2800
+chtype point:0x1100 [29.63551,67.76190] "Raippavaarat" point:0x2800
+
+move   point:0x1100 [29.27376,67.71821] "Pieni Saijanvaara" [29.27260,67.72221]
+move   point:0x1100 [29.55065,67.82406] "Saihonmurusta" [29.58183,67.83202]
+
+delete point:0xd00 [29.01334,67.92495] "267"
+delete point:0xd00 [29.00905,67.93457] "281"
+delete point:0xd00 [29.44999,67.75310] "281"
+delete point:0xd00 [29.05335,67.86274] "283"
+delete point:0xd00 [29.06930,67.92986] "286"
+delete point:0xd00 [29.37767,67.97051] "298"
+delete point:0xd00 [29.74708,67.76257] "298"
+delete point:0xd00 [29.37299,67.74200] "309"
+delete point:0xd00 [29.53140,67.73789] "316"
+delete point:0xd00 [29.53976,67.85797] "316"
+delete point:0xd00 [29.51550,67.70866] "332"
+delete point:0xd00 [29.63551,67.76190] "335"
+delete point:0xd00 [29.55065,67.82406] "341"
+delete point:0xd00 [29.27376,67.71821] "351"
+
+# duplicates?
+delete point:0x2800 [29.20812,67.90354] "Metsopalo"
+delete point:0x2800 [29.39653,67.87506] "Sokliaapa"
+delete point:0x650c [29.39116,67.96249] "Nuortti"

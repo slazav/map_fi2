@@ -1,0 +1,15 @@
+include common.patch
+
+chtype point:0x1100 [29.16140,68.01505] "Kangas-Rakitsat" point:0x2800
+
+move   point:0x1100 [29.24389,68.04408] "Korvatunturinmurusta" [29.25534,68.04476]
+
+delete point:0xd00 [29.16140,68.01505] "286"
+delete point:0xd00 [29.24389,68.04408] "363"
+
+#add point:0xd00 [29.00070,68.00718] "267"
+#add point:0xd00 [29.00007,68.04120] "308"
+#add point:0x1100 [29.00031,68.07460] "Kuusi-Mantoselkä"
+#add point:0x1100 [29.00070,68.00718] "Kuusi-Mantoselkä"
+#add point:0x1100 [29.00007,68.04120] "Mantoselkä"
+#add point:0x1100 [29.01125,68.13042] "Pieni Juuoivanhäntä"

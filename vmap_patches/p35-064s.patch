@@ -1,0 +1,262 @@
+include common.patch
+
+delete point:0x2800 [25.48527,62.01330] "Lahdenvuoren tunneli"
+delete point:0x2800 [25.49731,62.17267] "Ohensaari"
+delete point:0x2800 [25.68148,62.12865] "luontop."
+delete point:0x2800 [25.65250,62.11479] "val. kuntorata"
+delete point:0x2b04 [25.75858,62.24001] "Paviljonki"
+delete point:0x2b04 [25.81027,62.23374] "Viherlandia"
+delete point:0x2b04 [25.73127,62.23897] "amm.korkeak."
+delete point:0x2b04 [25.74437,62.25162] "amm.korkeak."
+delete point:0x2b04 [25.70807,62.23150] "amm.oppil."
+delete point:0x2b04 [25.72485,62.24734] "amm.oppil."
+delete point:0x2b04 [25.74427,62.25831] "amm.oppil."
+delete point:0x2b04 [25.73985,62.24693] "amm.oppil.\\lukio"
+delete point:0x2b04 [25.85113,62.24381] "b\\p"
+delete point:0x2b04 [25.69850,62.25944] "hotelli"
+delete point:0x2b04 [25.60213,62.03163] "huoltoas."
+delete point:0x2b04 [25.90231,62.22928] "huoltoas."
+delete point:0x2b04 [25.72223,62.23741] "jäähalli"
+delete point:0x2b04 [25.70464,62.23009] "keskussairaala"
+delete point:0x2b04 [25.78414,62.22735] "kristill.opisto"
+delete point:0x2b04 [25.89294,62.04063] "kylätalo"
+delete point:0x2b04 [25.68335,62.12320] "laivalaituri"
+delete point:0x2b04 [25.51798,62.00364] "leirintäalue"
+delete point:0x2b04 [25.69613,62.25574] "leirintäalue"
+delete point:0x2b04 [25.72112,62.24599] "lukio"
+#delete point:0x2b04 [25.75495,62.24186] "matkakeskus"
+delete point:0x2b04 [25.55696,62.01527] "mus."
+delete point:0x2b04 [25.73091,62.23379] "museo"
+delete point:0x2b04 [25.56462,62.01930] "mylly"
+delete point:0x2b04 [25.55484,62.01033] "opisto"
+delete point:0x2b04 [25.67195,62.13745] "posti\\h.as."
+delete point:0x2b04 [25.69659,62.25622] "retk.hotelli"
+delete point:0x2b04 [25.55688,62.01430] "satama"
+delete point:0x2b04 [25.78051,62.14025] "satama"
+delete point:0x2b04 [25.68078,62.12938] "terv.as"
+delete point:0x2b04 [25.70749,62.23362] "terv.as."
+delete point:0x2b04 [25.80062,62.26996] "terv.as."
+delete point:0x2b04 [25.86948,62.24803] "terv.as."
+delete point:0x2b04 [25.72775,62.23624] "uimah."
+delete point:0x2b04 [25.92166,62.16670] "urh."
+delete point:0x2b04 [25.54463,62.01496] "vanh.k."
+delete point:0x2b04 [25.76151,62.15531] "vanhainkoti"
+delete point:0x2b04 [25.76229,62.24622] "vankila"
+delete point:0x2b04 [25.75981,62.15325] "venesatama"
+delete point:0x2b04 [25.73288,62.23404] "yliop."
+delete point:0x2b04 [25.73236,62.23634] "yliopisto"
+delete point:0x2b04 [25.73679,62.23206] "yliopisto"
+delete point:0x2b04 [25.74111,62.22955] "yliopisto"
+
+delete point:0x650c [26.01862,62.02006] "Iso Kuorejärvi"
+delete point:0x650c [25.37911,61.50812] "Päijänne"
+delete point:0x6601 [25.57411,62.01443] "rauh"
+delete point:0x6601 [25.67305,62.13766] "rauh."
+delete point:0x6601 [25.67738,62.18880] "rauh."
+delete point:0x6601 [25.67891,62.21389] "rauh."
+delete point:0x6601 [25.68095,62.12299] "rauh."
+delete point:0x6601 [25.68301,62.25037] "rauh."
+delete point:0x6601 [25.76513,62.24793] "rauh."
+delete point:0x6601 [25.87385,62.24040] "rauh."
+delete point:0x6606 [25.70311,62.23447] "tähtit."
+
+delete point:0x900 [25.83264,62.25108] "Asmalampi"
+delete point:0x900 [25.79439,62.24394] "Halssila"
+delete point:0x900 [25.69879,62.27136] "Haukkala"
+delete point:0x900 [25.77054,62.27881] "Heinälampi"
+delete point:0x900 [25.76268,62.25814] "Holsti"
+delete point:0x900 [25.88438,62.23523] "Hupeli"
+delete point:0x900 [25.83577,62.24323] "Jyskä"
+delete point:0x900 [25.79402,62.26187] "Kangasvuori"
+delete point:0x900 [25.71771,62.21723] "Keljo"
+delete point:0x900 [25.71312,62.18884] "Keljonkangas"
+delete point:0x900 [25.69169,62.24657] "Kortemäki"
+delete point:0x900 [25.71056,62.24732] "Kortepohja"
+delete point:0x900 [25.85307,62.25174] "Kotimäki"
+delete point:0x900 [25.71000,62.22677] "Kukkumäki"
+delete point:0x900 [25.76939,62.22688] "Kuokkala"
+delete point:0x900 [25.79198,62.22323] "Kuokkalanpelto"
+delete point:0x900 [25.68045,62.23795] "Köhniö"
+delete point:0x900 [25.70258,62.25289] "Laajavuori"
+delete point:0x900 [25.76595,62.26922] "Lahjaharju"
+delete point:0x900 [25.75704,62.26451] "Lohikoski"
+delete point:0x900 [25.71924,62.27167] "Mannila"
+delete point:0x900 [25.69721,62.22021] "Myllyjärvi"
+delete point:0x900 [25.72793,62.24316] "Mäki-Matti"
+delete point:0x900 [25.65959,62.23274] "Mäyrämäki"
+delete point:0x900 [25.88364,62.23228] "Mörtti"
+delete point:0x900 [25.73417,62.24772] "Nisula"
+delete point:0x900 [26.00072,62.14426] "Pirttirinne"
+delete point:0x900 [25.79485,62.26612] "Pupuhuhta"
+delete point:0x900 [25.75290,62.21181] "Ristikivi"
+delete point:0x900 [25.73028,62.22195] "Ristonmaa"
+delete point:0x900 [25.74872,62.27715] "Ritoniemi"
+delete point:0x900 [25.70806,62.24301] "Savela"
+delete point:0x900 [25.77547,62.25952] "Seppälä"
+delete point:0x900 [25.82006,62.27114] "Sulku"
+delete point:0x900 [25.79039,62.22805] "Sulkula"
+delete point:0x900 [25.71302,62.17726] "Sääksvuori"
+delete point:0x900 [25.75262,62.22019] "Tikka"
+delete point:0x900 [25.76024,62.24909] "Tourula"
+delete point:0x900 [25.78305,62.25238] "Tuohimutka"
+delete point:0x900 [25.88630,62.25396] "Tölskä"
+delete point:0x900 [25.86967,62.24786] "Vaajakoski"
+delete point:0x900 [25.86718,62.23750] "Varaslahti"
+delete point:0x900 [25.81739,62.22968] "Väinölä"
+delete point:0x900 [25.83082,62.27355] "Vääräjärvi"
+delete point:0x900 [25.65019,62.22847] "Ylä-Mäyrämäki"
+delete point:0x900 [25.80545,62.23093] "Äijälä"
+delete point:0x900 [25.80120,62.23393] "Äijälänranta"
+
+delete point:0x1100 [25.99937,62.06125] "Kylkisvuori"
+
+move   point:0x1100 [25.82091,62.06392] "Haukkavuori" [25.82506,62.06630]
+move   point:0x1100 [25.95018,62.09463] "Heiskasenmäki" [25.95389,62.09440]
+move   point:0x1100 [25.56268,62.09497] "Hirvivuori" [25.56475,62.09423]
+move   point:0x1100 [25.91243,62.08068] "Honkavuori" [25.91482,62.07993]
+move   point:0x1100 [25.91152,62.11782] "Hyppyriäisenmäki" [25.90926,62.11540]
+move   point:0x1100 [25.66043,62.08794] "Härkövuori" [25.65268,62.08960]
+move   point:0x1100 [25.98244,62.22773] "Härkövuori" [25.98814,62.22768]
+move   point:0x1100 [25.82252,62.09104] "Isonvehmaanmäki" [25.83012,62.09210]
+move   point:0x1100 [25.59111,62.03558] "Kaakonmäki" [25.59283,62.03824]
+move   point:0x1100 [25.89779,62.24089] "Kanavuori" [25.90147,62.23972]
+move   point:0x1100 [25.62955,62.08084] "Karismäki" [25.63328,62.08152]
+move   point:0x1100 [25.75202,62.16810] "Kinkoriutta" [25.75555,62.17059]
+move   point:0x1100 [25.88963,62.07721] "Koiramäki" [25.89252,62.07672]
+move   point:0x1100 [25.90223,62.25420] "Koskenvuori" [25.90418,62.25415]
+move   point:0x1100 [25.53998,62.00267] "Lahdenvuori" [25.54186,62.00301]
+move   point:0x1100 [25.64655,62.08199] "Lautakkomäki" [25.64967,62.08204]
+move   point:0x1100 [25.86424,62.08639] "Lehdenmäki" [25.86844,62.08618]
+move   point:0x1100 [25.94549,62.10688] "Lehtivuori" [25.94808,62.10553]
+move   point:0x1100 [25.83026,62.15048] "Lepokallio" [25.83256,62.15122]
+move   point:0x1100 [25.74126,62.09098] "Lullinvuori" [25.73790,62.09213]
+move   point:0x1100 [25.95413,62.17604] "Luolavuori" [25.96356,62.17458]
+move   point:0x1100 [25.97152,62.25758] "Mehtovuori" [25.97404,62.25816]
+move   point:0x1100 [25.81476,62.08817] "Mustavuori" [25.82218,62.08905]
+move   point:0x1100 [25.85333,62.11974] "Mustavuori" [25.85758,62.11930]
+move   point:0x1100 [25.82401,62.13616] "Mustikkavuori" [25.83004,62.13615]
+move   point:0x1100 [25.88905,62.17975] "Mäyrävuori" [25.88990,62.18165]
+move   point:0x1100 [25.70643,62.00791] "Neihtyenmäki" [25.71163,62.00752]
+move   point:0x1100 [25.94865,62.19358] "Niskasenmäki" [25.95188,62.19248]
+move   point:0x1100 [25.86861,62.16578] "Palstonvuori" [25.87373,62.16644]
+move   point:0x1100 [25.97201,62.17148] "Pankkovuori" [25.97564,62.17130]
+move   point:0x1100 [25.69389,62.16680] "Partastenmäet" [25.69665,62.16758]
+move   point:0x1100 [25.79308,62.00319] "Pyhävuori" [25.79495,62.00147]
+move   point:0x1100 [25.68887,62.10440] "Riihivuori" [25.69113,62.10656]
+move   point:0x1100 [25.54243,62.05638] "Roninmäki" [25.54310,62.05735]
+move   point:0x1100 [25.50025,62.07214] "Saarekkeenmäki" [25.50127,62.07256]
+move   point:0x1100 [25.86957,62.25834] "Savonmäki" [25.87333,62.26084]
+move   point:0x1100 [25.86959,62.09286] "Soimamäki" [25.87222,62.09274]
+move   point:0x1100 [25.90857,62.07122] "Tervamäki" [25.91200,62.07089]
+move   point:0x1100 [25.95402,62.07369] "Vaaterinvuori" [25.96067,62.07376]
+move   point:0x1100 [25.93000,62.11519] "Viitasenvuori" [25.93166,62.11380]
+move   point:0x1100 [25.98873,62.02871] "Vällyvuori" [25.99245,62.02796]
+
+move   point:0x1000 [25.71849,62.26213] "(93-94)" [25.71369,62.26024]
+move   point:0x1000 [25.73215,62.27557] "(93-94)" [25.73038,62.27744]
+move   point:0x1000 [25.83522,62.07121] "100" [25.83984,62.07216]
+move   point:0x1000 [25.64748,62.02507] "106" [25.64683,62.02298]
+move   point:0x1000 [25.67706,62.26775] "106" [25.67792,62.26633]
+move   point:0x1000 [25.88739,62.14780] "112" [25.89046,62.15072]
+move   point:0x1000 [25.64960,62.26556] "114" [25.65307,62.26612]
+move   point:0x1000 [25.96519,62.04500] "117" [25.96670,62.03903]
+move   point:0x1000 [25.72884,62.17389] "120" [25.72892,62.17088]
+move   point:0x1000 [25.66162,62.02635] "121" [25.66329,62.02555]
+move   point:0x1000 [25.73045,62.02886] "121" [25.73507,62.02874]
+move   point:0x1000 [25.60779,62.06806] "122" [25.60611,62.06745]
+move   point:0x1000 [25.83687,62.05677] "122" [25.84891,62.05866]
+move   point:0x1000 [25.63213,62.06516] "125" [25.65168,62.07204]
+move   point:0x1000 [25.88212,62.09479] "127" [25.88291,62.09746]
+move   point:0x1000 [25.87104,62.27054] "131" [25.86872,62.27022]
+move   point:0x1000 [25.90614,62.09076] "131" [25.90814,62.08673]
+move   point:0x1000 [25.98523,62.00707] "138" [25.98810,62.00572]
+move   point:0x1000 [25.51553,62.01167] "140" [25.51707,62.01398]
+move   point:0x1000 [25.98915,62.03811] "160" [25.98843,62.03805]
+move   point:0x1000 [25.66493,62.20500] "192" [25.65936,62.20481]
+move   point:0x1000 [25.77544,62.23866] "78" [25.77625,62.23279]
+move   point:0x1000 [25.78638,62.18534] "78" [25.80646,62.19175]
+move   point:0x1000 [25.81303,62.17426] "78" [25.80172,62.16965]
+move   point:0x1000 [25.90181,62.01871] "78" [25.89709,62.01530]
+move   point:0x1000 [25.90731,62.21631] "80" [25.91011,62.21436]
+move   point:0x1000 [25.93399,62.15967] "80" [25.95129,62.15826]
+move   point:0x1000 [25.93599,62.21666] "80" [25.91366,62.21092]
+move   point:0x1000 [25.94200,62.25832] "80" [25.93522,62.26288]
+move   point:0x1000 [25.97441,62.20790] "80" [25.97850,62.20722]
+move   point:0x1000 [25.99266,62.27844] "80" [25.98659,62.27654]
+move   point:0x1000 [25.91074,62.12568] "82" [25.90884,62.12385]
+move   point:0x1000 [25.94102,62.03694] "82" [25.94933,62.03442]
+move   point:0x1000 [25.89415,62.19064] "83" [25.89710,62.19046]
+move   point:0x1000 [25.96712,62.18001] "83" [25.97082,62.17997]
+move   point:0x1000 [25.98879,62.10744] "85" [25.99457,62.10711]
+move   point:0x1000 [25.98044,62.23397] "88" [25.98573,62.23363]
+move   point:0x1000 [25.56436,62.12332] "90" [25.55130,62.11692]
+move   point:0x1000 [25.66076,62.13204] "90" [25.65920,62.13049]
+
+delete point:0xd00 [25.94865,62.19358] "100"
+delete point:0xd00 [25.81476,62.08817] "105"
+delete point:0xd00 [25.70643,62.00791] "120"
+delete point:0xd00 [25.59111,62.03558] "129"
+delete point:0xd00 [25.91152,62.11782] "133"
+delete point:0xd00 [25.82401,62.13616] "134"
+delete point:0xd00 [25.87320,62.00556] "134"
+delete point:0xd00 [25.97201,62.17148] "140"
+delete point:0xd00 [25.68887,62.10440] "141"
+delete point:0xd00 [25.79308,62.00319] "146"
+delete point:0xd00 [25.83026,62.15048] "147"
+delete point:0xd00 [25.98244,62.22773] "147"
+delete point:0xd00 [25.96621,62.15188] "149"
+delete point:0xd00 [25.88905,62.17975] "151"
+delete point:0xd00 [25.97152,62.25758] "151"
+delete point:0xd00 [25.86861,62.16578] "153"
+delete point:0xd00 [25.75202,62.16810] "156"
+delete point:0xd00 [25.87696,62.04625] "157"
+delete point:0xd00 [25.90857,62.07122] "157"
+delete point:0xd00 [25.53998,62.00267] "159"
+delete point:0xd00 [25.62955,62.08084] "159"
+delete point:0xd00 [25.66043,62.08794] "160"
+delete point:0xd00 [25.54243,62.05638] "162"
+delete point:0xd00 [25.82091,62.06392] "164"
+delete point:0xd00 [25.90223,62.25420] "165"
+delete point:0xd00 [25.85333,62.11974] "166"
+delete point:0xd00 [25.95402,62.07369] "166"
+delete point:0xd00 [25.82078,62.10913] "167"
+delete point:0xd00 [25.64655,62.08199] "168"
+delete point:0xd00 [25.98873,62.02871] "173"
+delete point:0xd00 [25.74126,62.09098] "175"
+delete point:0xd00 [25.69389,62.16680] "177"
+delete point:0xd00 [25.89779,62.24089] "178"
+delete point:0xd00 [25.88778,62.16485] "179"
+delete point:0xd00 [25.86959,62.09286] "181"
+delete point:0xd00 [25.82252,62.09104] "183"
+delete point:0xd00 [25.93000,62.11519] "184"
+delete point:0xd00 [25.50025,62.07214] "196"
+delete point:0xd00 [25.86957,62.25834] "196"
+delete point:0xd00 [25.91243,62.08068] "196"
+delete point:0xd00 [25.94549,62.10688] "197"
+delete point:0xd00 [25.95018,62.09463] "198"
+delete point:0xd00 [25.88963,62.07721] "201"
+delete point:0xd00 [25.86424,62.08639] "202"
+delete point:0xd00 [25.99937,62.06125] "212"
+delete point:0xd00 [25.56268,62.09497] "213"
+delete point:0xd00 [25.67010,62.05020] "222"
+delete point:0xd00 [25.95413,62.17604] "91"
+
+delete point:0x1000 [25.83145,62.27033] "122"
+delete point:0x1000 [25.99691,62.07269] "123"
+delete point:0x1000 [25.65743,62.07285] "125"
+delete point:0x1000 [25.66871,62.24195] "126"
+delete point:0x1000 [25.51396,62.00154] "128"
+delete point:0x1000 [25.81722,62.27276] "128"
+delete point:0x1000 [25.90743,62.08359] "132"
+delete point:0x1000 [25.65172,62.03372] "141"
+delete point:0x1000 [25.88714,62.08324] "143"
+delete point:0x1000 [25.98929,62.03165] "152"
+delete point:0x1000 [25.49773,62.01074] "155"
+delete point:0x1000 [25.91184,62.08486] "156"
+delete point:0x1000 [25.64822,62.20185] "195"
+delete point:0x1000 [25.64760,62.21740] "203"
+delete point:0x1000 [25.85892,62.13403] "78"
+delete point:0x1000 [25.99745,62.19051] "85"
+delete point:0x1000 [25.70974,62.26427] "94"
+delete point:0x1000 [25.73197,62.27210] "94"
+

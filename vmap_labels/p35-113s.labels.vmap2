@@ -1,0 +1,115 @@
+text:0x1
+name kalliomaalaus
+opts legend: 1
+reft point:0x6415
+refp 26.206345 60.993482
+crds 26.203265 60.994300
+
+text:0x1
+algn SE
+name kalliomaalaus
+opts legend: 1
+reft point:0x6415
+refp 26.248093 60.996360
+crds 26.249453 60.994484
+
+text:0x2
+scle 0.75
+name Korkeamäki
+opts lang: fin
+reft point:0x900
+refp 26.469360 60.994100
+crds 26.469116 60.992098
+
+text:0x2
+scle 0.75
+name Myllylä
+opts lang: fin
+reft point:0x900
+refp 26.226296 60.999125
+crds 26.229850 60.998457
+
+text:0x2
+scle 0.75
+algn SE
+name Joentausta
+opts lang: fin
+reft point:0x900
+refp 26.005883 60.994179
+crds 26.011098 60.991146
+
+text:0x2
+scle 0.75
+algn SE
+name Sikaro
+opts lang: fin
+reft point:0x900
+refp 26.049014 60.994796
+crds 26.048698 60.995455
+
+text:0x2
+name Metsäpelto
+reft point:0x900
+refp 26.177982 60.999916
+crds 26.176793 60.997481
+
+text:0x3
+scle 0.75
+name rauh.
+reft point:0x6601
+refp 26.326472 60.999727
+crds 26.328386 60.999035
+
+text:0x3
+scle 0.75
+name rautak. kalmisto
+opts legend: 1
+reft point:0x6601
+refp 26.149834 60.998956
+crds 26.151903 60.998688
+
+text:0x4
+algn S
+name Soilahti
+opts lang: fin
+reft point:0x650c
+refp 26.085292 60.992812
+crds 26.086767 60.993151
+
+text:0x4
+angl -274.991
+algn S
+name Salmi
+opts lang: fin
+reft point:0x650c
+refp 26.118330 60.998220
+crds 26.118726 60.995639
+
+text:0x4
+angl -14.9163
+algn S
+name Kotojärvi
+opts lang: fin
+reft point:0x650c
+refp 26.199563 60.996510
+crds 26.200973 60.997042
+
+text:0x5
+name Leronvuori
+opts lang: fin
+reft point:0x1100
+refp 26.364965 60.996350
+crds 26.364236 60.996999
+
+text:0x6
+name 122
+reft point:0xd00
+refp 26.364965 60.996350
+crds 26.366337 60.996038
+
+text:0x8
+name 75
+reft point:0x1000
+refp 26.190590 60.996230
+crds 26.191359 60.996558
+

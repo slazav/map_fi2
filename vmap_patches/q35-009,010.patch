@@ -1,0 +1,58 @@
+include common.patch
+
+rename point:0x1100 [28.91710,67.71884] "Rannimmainen Sotatunturi" "Rannimmainen\\Sotatunturi"
+delete point:0x650c [28.16783,67.96650] "Raavaskoski" # дубль
+
+# long rivers
+move point:0x650c [28.48124,67.65208] "Kairijoki" [28.42695,67.67054]
+move point:0x650c [27.58588,67.93984] "Lokan tekojärvi" [28.03855,67.98181]
+add point:0x650c [28.14823,67.85915] "Kairijoki"
+add point:0x650c [28.30704,67.72642] "Kairijoki"
+add point:0x650c [28.31539,67.85307] "Kairijoki"
+add point:0x650c [28.34262,67.80775] "Kairijoki"
+
+move   point:0x1000 [28.03732,67.98017] "(240-245)" [28.03992,67.97681]
+move   point:0x1000 [28.06120,67.93954] "257" [28.05683,67.94050]
+move   point:0x1000 [28.24687,67.96730] "249" [28.25166,67.96726]
+move   point:0x1000 [28.05683,67.94050] "257" [28.05548,67.94053]
+
+delete point:0x1000 [28.04098,67.98178] "244"
+
+move   point:0x1100 [28.76096,67.90607] "Heiniseljänlaki" [28.76367,67.90617]
+move   point:0x1100 [28.68833,67.90370] "Karhanavaara" [28.68479,67.90277]
+move   point:0x1100 [28.08812,67.75703] "Löytinkivaara" [28.11146,67.75849]
+move   point:0x1100 [28.38425,67.95072] "Mukkajoenrovat" [28.38740,67.95347]
+move   point:0x1100 [28.35243,67.81688] "Satkovaaransatko" [28.36745,67.81606]
+move   point:0x1100 [28.48505,67.94388] "Taltukkaselkä" [28.48397,67.94264]
+move   point:0x1100 [28.31702,67.77076] "Vasavaara" [28.33246,67.76957]
+
+
+delete point:0xd00 [28.32767,67.97205] "255"
+delete point:0xd00 [28.23664,67.97201] "258"
+delete point:0xd00 [28.70730,67.96693] "264"
+delete point:0xd00 [28.35243,67.81688] "277"
+delete point:0xd00 [28.31702,67.77076] "285"
+delete point:0xd00 [28.83297,67.80896] "288"
+delete point:0xd00 [28.75791,67.96680] "289"
+delete point:0xd00 [28.38425,67.95072] "291"
+delete point:0xd00 [28.76096,67.90607] "299"
+delete point:0xd00 [28.48505,67.94388] "311"
+delete point:0xd00 [28.57285,67.80135] "332"
+delete point:0xd00 [28.08812,67.75703] "348"
+delete point:0xd00 [28.53135,67.81989] "370"
+delete point:0xd00 [28.68833,67.90370] "379"
+delete point:0xd00 [28.50774,67.82986] "387"
+delete point:0xd00 [28.51238,67.83754] "392"
+
+chtype point:0x1100 [28.23664,67.97201] "Alimmaisenlamminharju" point:0x2800
+chtype point:0x1100 [28.57285,67.80135] "Kirakkavaarat" point:0x2800
+chtype point:0x1100 [28.53135,67.81989] "Kivihaaranmurusta" point:0x2800
+chtype point:0x1100 [28.83297,67.80896] "Kuttusvaarat" point:0x2800
+chtype point:0x1100 [28.75791,67.96680] "Murrikkoharjut" point:0x2800
+chtype point:0x1100 [28.50774,67.82986] "Purat" point:0x2800
+chtype point:0x1100 [28.51238,67.83754] "Urakkaselkä" point:0x2800
+chtype point:0x1100 [28.32767,67.97205] "Ylimmäisenlamminharju" point:0x2800
+chtype point:0x1100 [28.70730,67.96693] "Ätimysvaaranharjut" point:0x2800
+
+
+

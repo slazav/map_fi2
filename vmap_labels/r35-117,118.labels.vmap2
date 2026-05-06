@@ -1,0 +1,715 @@
+text:0x3
+scle 0.75
+name Ahvenlampi\\autiotupa
+reft point:0x2b04
+refp 28.581424 68.680122
+crds 28.577523 68.683713
+
+text:0x3
+scle 0.75
+name Artankämppä\\autiotupa
+reft point:0x2b04
+refp 28.316982 68.679645
+crds 28.314697 68.683425
+
+text:0x3
+scle 0.75
+name Kolttakuru
+reft point:0x2800
+refp 28.621377 68.691874
+crds 28.603892 68.688395
+
+text:0x3
+scle 0.75
+name Pyhäniemi
+reft point:0x2800
+refp 28.020192 68.668774
+crds 28.014935 68.670159
+
+text:0x3
+scle 0.825
+name Kontosselkä
+reft point:0x2800
+refp 28.589620 68.734896
+crds 28.582356 68.733090
+
+text:0x3
+scle 0.825
+name Tunturipäänmorosto
+reft point:0x2800
+refp 28.284460 68.721891
+crds 28.277151 68.722548
+
+text:0x3
+scle 0.9
+name Tsarmitunturin erämaa-alue
+reft point:0x2800
+refp 28.296682 68.698170
+crds 28.312688 68.715478
+
+text:0x3
+angl -69.7047
+scle 0.75
+algn S
+name Rautakuru
+reft point:0x2800
+refp 28.176151 68.714187
+crds 28.175386 68.716268
+
+text:0x3
+angl -49.5443
+scle 0.75
+algn S
+name Keinokuru
+reft point:0x2800
+refp 28.352546 68.697841
+crds 28.351745 68.699859
+
+text:0x3
+angl -4.47602
+scle 0.75
+algn S
+name Pahakuru
+reft point:0x2800
+refp 28.423759 68.669458
+crds 28.425108 68.671365
+
+text:0x4
+scle 0.75
+name Akalauttalompola
+reft point:0x650c
+refp 28.579598 68.706467
+crds 28.539370 68.703479
+
+text:0x4
+scle 0.75
+name Joukhaisenmunalampi
+reft point:0x650c
+refp 28.256892 68.706676
+crds 28.256387 68.708609
+
+text:0x4
+scle 0.75
+name Jäkälännostojärvi
+reft point:0x650c
+refp 28.154761 68.684701
+crds 28.156250 68.685799
+
+text:0x4
+scle 0.75
+name Jäänuottajärvi
+reft point:0x650c
+refp 28.665823 68.727488
+crds 28.670248 68.729294
+
+text:0x4
+scle 0.75
+name Kahden Uulan Haukkumalammet
+reft point:0x650c
+refp 28.292376 68.675267
+crds 28.296366 68.674395
+
+text:0x4
+scle 0.75
+name Kalaton Kampajärvi
+reft point:0x650c
+refp 28.498029 68.723079
+crds 28.500337 68.725801
+
+text:0x4
+scle 0.75
+name Kuiva Paloselkäjärvi
+reft point:0x650c
+refp 28.030691 68.740617
+crds 28.047943 68.740170
+
+text:0x4
+scle 0.75
+name Kuohanajärvi
+reft point:0x650c
+refp 28.052473 68.691726
+crds 28.060786 68.698346
+
+text:0x4
+scle 0.75
+name Metsokaarajärvi
+reft point:0x650c
+refp 28.197131 68.708759
+crds 28.200353 68.710152
+
+text:0x4
+scle 0.75
+name Paltsajärvet
+reft point:0x650c
+refp 28.519158 68.736186
+crds 28.524016 68.737293
+
+text:0x4
+scle 0.75
+name Perätysjärvet
+reft point:0x650c
+refp 27.999340 68.692094
+crds 28.005808 68.691326
+
+text:0x4
+scle 0.75
+name Pikku Martinjärvi
+reft point:0x650c
+refp 28.198979 68.735367
+crds 28.202700 68.732344
+
+text:0x4
+scle 0.75
+name Ristijärvet
+reft point:0x650c
+refp 28.544235 68.689954
+crds 28.546785 68.687780
+
+text:0x4
+scle 0.75
+name Riutulompola
+reft point:0x650c
+refp 28.652155 68.723614
+crds 28.657465 68.723575
+
+text:0x4
+scle 0.75
+name Syrjäjärvi
+reft point:0x650c
+refp 28.215630 68.739498
+crds 28.213542 68.736832
+
+text:0x4
+scle 0.75
+name Talasjärvenlompolat
+reft point:0x650c
+refp 28.364035 68.728926
+crds 28.375473 68.727240
+
+text:0x4
+scle 0.75
+name Talasvaaranlampi
+reft point:0x650c
+refp 28.377861 68.730867
+crds 28.378104 68.732502
+
+text:0x4
+scle 0.75
+name Ulkuselkäjärvet
+reft point:0x650c
+refp 28.109652 68.711337
+crds 28.113898 68.711242
+
+text:0x4
+scle 0.75
+name Yl.Ahmajärvi
+reft point:0x650c
+refp 28.666503 68.736361
+crds 28.676317 68.735515
+
+text:0x4
+scle 0.75
+algn SE
+name Hentin Matin Tupalammet
+reft point:0x650c
+refp 28.206716 68.724508
+crds 28.204496 68.723898
+
+text:0x4
+scle 0.75
+algn SE
+name Kampa-Ahvenjärvi
+reft point:0x650c
+refp 28.493068 68.703061
+crds 28.488837 68.704011
+
+text:0x4
+scle 0.75
+algn SE
+name Tammukkalammet
+reft point:0x650c
+refp 28.324658 68.727867
+crds 28.324223 68.728646
+
+text:0x4
+scle 0.75
+algn SE
+name Vuopajajärvi
+reft point:0x650c
+refp 28.073196 68.678183
+crds 28.070729 68.679285
+
+text:0x4
+scle 0.825
+name Asentolammet
+reft point:0x650c
+refp 28.455047 68.673747
+crds 28.455541 68.675312
+
+text:0x4
+scle 0.825
+name Illeppijärvi
+reft point:0x650c
+refp 28.623621 68.724702
+crds 28.623969 68.722666
+
+text:0x4
+scle 0.825
+name Kalaton Nilijärvi
+reft point:0x650c
+refp 28.424670 68.694998
+crds 28.434108 68.692163
+
+text:0x4
+scle 0.825
+name Kissamökinjärvet
+reft point:0x650c
+refp 28.219281 68.724032
+crds 28.220138 68.725879
+
+text:0x4
+scle 0.825
+name Kuovdâjáávráš
+opts lang: smn
+reft point:0x650c
+refp 28.609661 68.739527
+crds 28.600317 68.736060
+
+text:0x4
+scle 0.825
+name Nuottamajärvi
+reft point:0x650c
+refp 28.141211 68.670295
+crds 28.142037 68.669115
+
+text:0x4
+scle 0.825
+name Puhallusjärvi
+reft point:0x650c
+refp 28.198374 68.688235
+crds 28.203731 68.689355
+
+text:0x4
+scle 0.825
+name Taivaljärvi
+reft point:0x650c
+refp 28.090410 68.691692
+crds 28.092675 68.694555
+
+text:0x4
+scle 0.825
+name Vanhajärvi
+reft point:0x650c
+refp 28.182582 68.676726
+crds 28.184065 68.674004
+
+text:0x4
+scle 0.825
+algn SE
+name Ahvenjärvi
+reft point:0x650c
+refp 28.605802 68.674754
+crds 28.609738 68.670703
+
+text:0x4
+scle 0.825
+algn SE
+name Kutujärvi
+reft point:0x650c
+refp 28.132761 68.679497
+crds 28.139871 68.681604
+
+text:0x4
+scle 0.85
+name Kontosjärvi
+reft point:0x650c
+refp 28.593626 68.728957
+crds 28.597024 68.728924
+
+text:0x4
+scle 0.9
+name Al.Nilijärvi
+reft point:0x650c
+refp 28.394558 68.715487
+crds 28.409621 68.716772
+
+text:0x4
+scle 0.9
+name Kampajärvi
+reft point:0x650c
+refp 28.468729 68.715568
+crds 28.464625 68.709486
+
+text:0x4
+scle 0.9
+name Kyörtisjärvi
+reft point:0x650c
+refp 28.249778 68.704298
+crds 28.256967 68.703321
+
+text:0x4
+scle 0.9
+name Spálččájävri
+opts lang: smn
+reft point:0x650c
+refp 28.494708 68.737543
+crds 28.488795 68.732183
+
+text:0x4
+scle 0.9
+name Stuárrab Marttinjävri
+opts lang: smn
+reft point:0x650c
+refp 28.180164 68.740628
+crds 28.163091 68.740154
+
+text:0x4
+scle 0.9
+name Taimenjärvet
+reft point:0x650c
+refp 28.137872 68.729109
+crds 28.138737 68.732527
+
+text:0x4
+scle 0.9
+name Yl.Nilijärvi
+reft point:0x650c
+refp 28.417457 68.709181
+crds 28.420090 68.702768
+
+text:0x4
+scle 0.9
+algn SE
+name Iso Saarijärvi
+reft point:0x650c
+refp 28.092481 68.678570
+crds 28.086297 68.672727
+
+text:0x4
+scle 0.9
+algn SE
+name Riutujärvet
+reft point:0x650c
+refp 28.659401 68.716417
+crds 28.668477 68.707798
+
+text:0x4
+name Talâsjävri
+opts lang: smn
+reft point:0x650c
+refp 28.342421 68.741141
+crds 28.353139 68.738286
+
+text:0x4
+angl -56.0401
+scle 0.825
+algn S
+name Ruijanjoki
+reft point:0x650c
+refp 28.166041 68.751207
+crds 28.119419 68.733832
+
+text:0x4
+angl -50.4546
+scle 0.9
+algn S
+name Kampajoki
+reft point:0x650c
+refp 28.549785 68.714222
+crds 28.549077 68.715333
+
+text:0x4
+angl -40.9087
+scle 0.9
+algn S
+name Akalauttajoki
+reft point:0x650c
+refp 28.529917 68.688369
+crds 28.500658 68.682374
+
+text:0x5
+scle 0.8
+name 401 Hukkamorosto
+reft point:0x1100
+refp 28.358172 68.680857
+crds 28.351056 68.679390
+
+text:0x5
+name 198 Luusuavaara
+reft point:0x1100
+refp 28.118173 68.674509
+crds 28.107741 68.675578
+
+text:0x5
+name 231 Rytivaara
+reft point:0x1100
+refp 28.243966 68.735043
+crds 28.242964 68.736519
+
+text:0x5
+name 234 Kouvasvaara
+reft point:0x1100
+refp 28.164764 68.679907
+crds 28.160439 68.680986
+
+text:0x5
+name 239 Peuranampumavaara
+reft point:0x1100
+refp 28.595573 68.722741
+crds 28.575832 68.724945
+
+text:0x5
+name 253 Metsokaaravaara
+reft point:0x1100
+refp 28.216485 68.704434
+crds 28.202541 68.701863
+
+text:0x5
+name 256 Niliselkä
+reft point:0x1100
+refp 28.410700 68.719801
+crds 28.403299 68.720971
+
+text:0x5
+name 269 Ahvenselkä
+reft point:0x1100
+refp 28.615524 68.681676
+crds 28.600255 68.679785
+
+text:0x5
+name 277 Kuusikkovaara
+reft point:0x1100
+refp 28.548142 68.701152
+crds 28.535617 68.699147
+
+text:0x5
+name 277 Ulkuselkä
+reft point:0x1100
+refp 28.128134 68.713797
+crds 28.120838 68.715063
+
+text:0x5
+name 290 Puhallusvaara
+reft point:0x1100
+refp 28.179142 68.692325
+crds 28.174410 68.693528
+
+text:0x5
+name 291 Madevaara
+reft point:0x1100
+refp 28.278293 68.732760
+crds 28.273681 68.733898
+
+text:0x5
+name 296 Pikku Kalliovaara
+reft point:0x1100
+refp 28.066993 68.710338
+crds 28.063616 68.711725
+
+text:0x5
+name 297 Kampaselkä
+reft point:0x1100
+refp 28.507080 68.709932
+crds 28.501315 68.707689
+
+text:0x5
+name 300 Vanhanpäänmorosto
+reft point:0x1100
+refp 28.271222 68.670182
+crds 28.268726 68.671834
+
+text:0x5
+name 306 Kostia Talasvaara
+reft point:0x1100
+refp 28.436963 68.729739
+crds 28.429076 68.727514
+
+text:0x5
+name 310 Iso Kalliovaara
+reft point:0x1100
+refp 28.098647 68.702783
+crds 28.088521 68.700442
+
+text:0x5
+name 310 Sakiavaara
+reft point:0x1100
+refp 28.258966 68.722899
+crds 28.241691 68.720098
+
+text:0x5
+name 315 Pahtavaara
+reft point:0x1100
+refp 28.635255 68.694336
+crds 28.623701 68.695572
+
+text:0x5
+name 320 Talasvaara
+reft point:0x1100
+refp 28.386992 68.737114
+crds 28.390664 68.736646
+
+text:0x5
+name 339 Kampaselkä
+reft point:0x1100
+refp 28.450480 68.699450
+crds 28.444890 68.696996
+
+text:0x5
+name 345 Ahmamorosto
+reft point:0x1100
+refp 28.287501 68.687732
+crds 28.279687 68.689216
+
+text:0x5
+name 349 Kuohana
+reft point:0x1100
+refp 28.035478 68.708562
+crds 28.031748 68.709470
+
+text:0x5
+name 353 Seitapää
+reft point:0x1100
+refp 28.591351 68.687906
+crds 28.576331 68.689381
+
+text:0x5
+name 395 Sarmitunturi
+reft point:0x1100
+refp 28.318070 68.703699
+crds 28.303470 68.705143
+
+text:0x5
+name 421 Santapää
+reft point:0x1100
+refp 28.543732 68.669272
+crds 28.521751 68.672049
+
+text:0x5
+name 440 Vanhapää
+reft point:0x1100
+refp 28.238506 68.681607
+crds 28.237955 68.678900
+
+text:0x5
+algn SE
+name 401 Kontospää
+reft point:0x1100
+refp 28.705882 68.732479
+crds 28.702596 68.731504
+
+text:0x8
+name 142
+reft point:0x1000
+refp 28.196690 68.736520
+crds 28.197097 68.737120
+
+text:0x8
+name 145
+reft point:0x1000
+refp 27.996270 68.680840
+crds 27.998068 68.680577
+
+text:0x8
+name 149
+reft point:0x1000
+refp 28.060100 68.691080
+crds 28.059835 68.689527
+
+text:0x8
+name 159
+reft point:0x1000
+refp 28.000280 68.700620
+crds 28.000734 68.699205
+
+text:0x8
+name 160
+reft point:0x1000
+refp 28.098180 68.678040
+crds 28.100211 68.678189
+
+text:0x8
+name 167
+reft point:0x1000
+refp 28.147340 68.728490
+crds 28.147237 68.727013
+
+text:0x8
+name 167
+reft point:0x1000
+refp 28.353430 68.736640
+crds 28.350404 68.735179
+
+text:0x8
+name 197
+reft point:0x1000
+refp 28.401390 68.711790
+crds 28.401259 68.710056
+
+text:0x8
+name 197
+reft point:0x1000
+refp 28.668260 68.734310
+crds 28.670228 68.734074
+
+text:0x8
+name 199
+reft point:0x1000
+refp 28.571510 68.733430
+crds 28.572633 68.733844
+
+text:0x8
+name 201
+reft point:0x1000
+refp 28.672380 68.722420
+crds 28.673890 68.720969
+
+text:0x8
+name 207
+reft point:0x1000
+refp 28.425770 68.711190
+crds 28.426901 68.711861
+
+text:0x8
+name 208
+reft point:0x1000
+refp 28.659180 68.717990
+crds 28.661324 68.718011
+
+text:0x8
+name 223
+reft point:0x1000
+refp 28.429220 68.694960
+crds 28.427673 68.695968
+
+text:0x8
+name 229
+reft point:0x1000
+refp 28.198521 68.687966
+crds 28.198521 68.687966
+
+text:0x8
+name 236
+reft point:0x1000
+refp 28.486840 68.712550
+crds 28.488479 68.711267
+
+text:0x8
+name 242
+reft point:0x1000
+refp 28.510640 68.721470
+crds 28.510413 68.720159
+
+text:0x8
+algn SE
+name 189
+reft point:0x1000
+refp 28.256000 68.700820
+crds 28.253730 68.700254
+
+text:0x8
+algn SE
+name 194
+reft point:0x1000
+refp 28.034289 68.739505
+crds 28.034771 68.737419
+

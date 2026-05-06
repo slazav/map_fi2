@@ -1,0 +1,78 @@
+include common.patch
+
+
+# long rivers
+move point:0x650c [27.54568,67.21332] "Luiro" [27.98488,68.17495]
+move point:0x650c [26.90203,68.42436] "Sotajoki" [27.04548,68.32815]
+move point:0x650c [28.28077,68.41626] "Suomujoki" [27.61360,68.26448]
+add point:0x650c [27.79139,68.28883] "Suomujoki"
+move point:0x650c [26.94375,68.08997] "Tankajoki" [27.01536,68.21120]
+add point:0x650c [27.04543,68.13053] "Tankajoki"
+add point:0x650c [27.35348,68.25162] "Tankajoki"
+
+delete point:0x2800 [27.10055,68.17707] "Koilliskairan luontokeskus"
+delete point:0x2800 [27.37709,68.32961] "Tievatupa"
+
+# chtype
+chtype point:0x1100 [27.90995,68.21569] "Ampupäät" point:0x2800
+chtype point:0x1100 [27.89737,68.29503] "Juromapäät" point:0x2800
+chtype point:0x1100 [27.81665,68.12599] "Orposenkummut" point:0x2800
+chtype point:0x1100 [27.26753,68.11358] "Pauttiselkä" point:0x2800
+chtype point:0x1100 [27.77351,68.22610] "Pikkutunturit" point:0x2800
+chtype point:0x1100 [27.97116,68.07534] "Rohkarsikonmaa" point:0x2800
+chtype point:0x1100 [27.37882,68.14347] "Seinätunturi" point:0x2800
+chtype point:0x1100 [27.83923,68.23374] "Tuiskupäät" point:0x2800
+chtype point:0x1100 [27.82520,68.25256] "Tuiskutunturit" point:0x2800
+chtype point:0x1100 [27.34155,68.19029] "Ulkupuanniemi" point:0x2800
+chtype point:0x1100 [27.93227,68.23269] "Vasanlyömäpäät" point:0x2800
+chtype point:0x1100 [27.50184,68.02510] "Viitanuppi" point:0x2800
+chtype point:0x1100 [27.41302,68.13718] "Nattaset" point:0x2800
+
+move   point:0x1100 [27.15925,68.18419] "Iso Tankavaara" [27.16779,68.18249]
+move   point:0x1100 [27.25283,68.03908] "Pahtavaara" [27.25566,68.03521]
+move   point:0x1100 [27.34703,68.29876] "Iso Vuomaselkä" [27.34984,68.29814]
+move   point:0x1100 [27.21696,68.11638] "Palo-Kiimaselkä" [27.21315,68.11530]
+move   point:0x1100 [27.30880,68.29836] "Pikku Vuomaselkä" [27.30720,68.29923]
+move   point:0x1100 [27.84234,68.28268] "Tampakkopää" [27.85670,68.28135]
+
+# duplicates?!
+delete point:0x1100 [27.00818,68.28341] "Niemi-Sotavaara"
+delete point:0x2800 [27.44497,68.11727] "Ruijanpolku"
+
+move   point:0x1000 [27.82158,68.30993] "186" [27.82360,68.31054]
+move   point:0x1000 [27.98099,68.10570] "247" [27.99370,68.10282]
+move   point:0x1000 [27.55673,68.23548] "279" [27.56771,68.23546]
+move   point:0x1000 [27.45400,68.13634] "286" [27.45764,68.13421]
+move   point:0x1000 [27.38729,68.12841] "324" [27.39204,68.12556]
+
+delete point:0x1000 [27.81657,68.30390] "187"
+delete point:0x1000 [27.23773,68.06419] "245"
+delete point:0x1000 [27.22310,68.07528] "247"
+delete point:0x1000 [27.03160,68.11173] "248"
+delete point:0x1000 [27.64114,68.31122] "347"
+
+delete point:0xd00 [27.97116,68.07534] "256"
+delete point:0xd00 [27.15171,68.06550] "267"
+delete point:0xd00 [27.81665,68.12599] "269"
+delete point:0xd00 [27.06777,68.14902] "270"
+delete point:0xd00 [27.50184,68.02510] "280"
+delete point:0xd00 [27.21696,68.11638] "288"
+delete point:0xd00 [27.26753,68.11358] "302"
+delete point:0xd00 [27.25283,68.03908] "325"
+delete point:0xd00 [27.30880,68.29836] "330"
+delete point:0xd00 [27.34155,68.19029] "337"
+delete point:0xd00 [27.34703,68.29876] "354"
+delete point:0xd00 [27.89737,68.29503] "368"
+delete point:0xd00 [27.41302,68.13718] "375"
+delete point:0xd00 [27.84234,68.28268] "396"
+delete point:0xd00 [27.15925,68.18419] "421"
+delete point:0xd00 [27.82520,68.25256] "423"
+delete point:0xd00 [27.77351,68.22610] "431"
+delete point:0xd00 [27.37882,68.14347] "456"
+delete point:0xd00 [27.83923,68.23374] "460"
+delete point:0xd00 [27.93227,68.23269] "465"
+delete point:0xd00 [27.90995,68.21569] "477"
+
+
+
+

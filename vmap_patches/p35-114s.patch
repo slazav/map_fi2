@@ -1,0 +1,3 @@
+include common.patch
+
+delete point:0x900 [26.77753,61.00075] "Kumpula"

@@ -1,0 +1,24 @@
+include common.patch
+exit
+
+delete point:0x2800 [27.67567,64.88422] "kuntorata"
+move point:0x1100 [27.82656,64.90953] "280 Vantasvaara" [27.83275,64.90980]
+move point:0x1100 [27.68255,64.88603] "214 Vattuvaara" [27.69036,64.88628]
+rename point:0x1100 [27.69036,64.88628] "214 Vattuvaara" "Vattuvaara"
+move point:0x1100 [27.71279,64.90145] "239 Aittovaara" [27.71800,64.90309]
+rename point:0x1100 [27.71800,64.90309] "239 Aittovaara" "Aittovaara"
+move point:0x1000 [27.57382,64.89021] "137" [27.58818,64.88796]
+move point:0x1000 [27.63252,64.88118] "137" [27.63565,64.87959]
+move point:0x1000 [27.76693,64.89926] "180" [27.76710,64.89467]
+delete point:0x1000 [27.51994,64.89854] "130"
+delete point:0x1000 [27.78009,64.86916] "164"
+delete point:0x1000 [27.76103,64.89084] "181"
+delete point:0x1000 [27.79178,64.93603] "182"
+delete point:0x1000 [27.79770,64.87134] "182"
+delete point:0x1000 [27.80163,64.87737] "198"
+delete point:0x1000 [27.82861,64.87304] "207"
+delete point:0x1000 [27.97589,64.90508] "239"
+delete point:0x1000 [27.97402,64.90991] "244"
+delete point:0x1000 [27.98401,64.91482] "245"
+delete point:0x1000 [27.98299,64.91291] "249"
+delete point:0x1000 [27.92726,64.88556] "275"

@@ -1,0 +1,5 @@
+include common.patch
+
+move   point:0x1000 [26.20098,60.99578] "75" [26.19059,60.99623]
+delete point:0x1000 [26.08457,60.99543] "74"
+delete point:0x6601 [26.11533,60.99874] "kivik. asuinpaikka"

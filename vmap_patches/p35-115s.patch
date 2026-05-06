@@ -1,0 +1,13 @@
+include common.patch
+
+move   point:0x1000 [27.23254,60.99678] "73" [27.23183,60.99471]
+move   point:0x1000 [27.26927,60.99713] "76" [27.35676,60.99864]
+
+delete point:0x800 [27.30756,60.99122] "Livonkylä"
+delete point:0x800 [27.07862,61.00058] "Mauno"
+delete point:0xd00 [27.01629,61.00066] "123"
+delete point:0x1000 [27.11899,60.99929] "104"
+delete point:0x1000 [27.35367,60.99740] "76"
+delete point:0x1100 [27.01629,61.00066] "Ristimäki"
+delete point:0x650c [27.09025,61.00159] "Hangasjärvi"
+

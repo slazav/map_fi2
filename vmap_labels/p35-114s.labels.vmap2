@@ -1,0 +1,65 @@
+text:0x2
+scle 0.75
+name Matikka
+opts lang: fin
+reft point:0x900
+refp 26.803106 60.992857
+crds 26.798894 60.995104
+
+text:0x2
+scle 0.75
+name Savisto
+opts lang: fin
+reft point:0x900
+refp 26.675330 60.998604
+crds 26.677562 60.998134
+
+text:0x2
+scle 0.75
+algn SE
+name Ojapelto
+opts lang: fin
+reft point:0x900
+refp 26.648897 60.994068
+crds 26.646594 60.993926
+
+text:0x2
+name Sopenharju
+reft point:0x900
+refp 26.744236 60.999784
+crds 26.746032 60.999784
+
+text:0x2
+scle 1.1
+name Multamäki
+opts lang: fin
+reft point:0x800
+refp 26.755937 60.997096
+crds 26.756283 60.993040
+
+text:0x2
+scle 1.1
+algn SE
+name Sydänmaa
+opts lang: fin
+reft point:0x800
+refp 26.726398 60.991655
+crds 26.737103 60.993625
+
+text:0x3
+scle 0.75
+name lava
+opts legend: 1
+reft point:0x2b04
+refp 26.983781 60.994854
+crds 26.986003 60.995594
+
+text:0x3
+scle 0.75
+algn SE
+name Nielassaari
+opts lang: fin
+reft point:0x2800
+refp 26.546079 60.995655
+crds 26.547827 60.997535
+

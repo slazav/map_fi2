@@ -1,0 +1,25 @@
+# move across map boundary
+add point:0x1100 [19.19843,68.67043] "Čoalbmoaivi"
+
+move point:0x1100 [19.93530,68.64177] "Julosvárri" [19.95305,68.64402]
+
+delete point:0xd00 [19.91243,68.61675] "574"
+delete point:0xd00 [19.93930,68.60728] "625"
+delete point:0xd00 [19.98817,68.60719] "625"
+delete point:0xd00 [19.98528,68.60320] "636"
+delete point:0xd00 [19.96861,68.60292] "652"
+delete point:0xd00 [19.92814,68.62586] "718"
+delete point:0xd00 [19.91161,68.65940] "723"
+delete point:0xd00 [19.93680,68.66047] "764"
+delete point:0xd00 [19.95314,68.66292] "778"
+delete point:0xd00 [19.97137,68.66328] "785"
+delete point:0xd00 [19.91807,68.59608] "810"
+delete point:0xd00 [19.98663,68.64127] "813"
+delete point:0xd00 [19.93401,68.65181] "915"
+delete point:0xd00 [19.91506,68.63850] "957"
+delete point:0xd00 [19.91684,68.64404] "962"
+delete point:0x1000 [19.95002,68.60885] "597"
+delete point:0x1000 [19.94012,68.61958] "598"
+delete point:0x1000 [19.98558,68.60833] "620"
+delete point:0x1000 [19.96899,68.65764] "767"
+delete point:0x1000 [19.97557,68.64083] "792"

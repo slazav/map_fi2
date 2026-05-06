@@ -1,0 +1,38 @@
+include common.patch
+
+# big rivers
+move point:0x650c [27.54568,67.21332] "Luiro" [27.25560,67.74913]
+add point:0x650c [27.64905,67.76344] "Luiro"
+move point:0x650c [27.40730,67.59817] "Pessijoki" [27.44718,67.66812]
+
+
+move   point:0x1100 [27.48866,67.78414] "Iso Hanhivaara" [27.47935,67.78191]
+move   point:0x1100 [27.20707,67.80726] "Keskilaki" [27.19557,67.80554]
+move   point:0x1100 [27.08357,67.94778] "Ruosselkä" [27.08699,67.94421]
+
+delete point:0xd00 [27.28234,67.72131] "233"
+delete point:0xd00 [27.42243,67.85678] "255"
+delete point:0xd00 [27.36145,67.72166] "258"
+delete point:0xd00 [27.26752,67.81828] "269"
+delete point:0xd00 [27.29054,67.83798] "274"
+delete point:0xd00 [27.19153,67.96575] "288"
+delete point:0xd00 [27.30848,67.87322] "289"
+delete point:0xd00 [27.19961,67.87590] "291"
+delete point:0xd00 [27.48866,67.78414] "291"
+delete point:0xd00 [27.10250,67.90157] "304"
+delete point:0xd00 [27.08357,67.94778] "339"
+delete point:0xd00 [27.19276,67.80094] "384"
+delete point:0xd00 [27.20707,67.80726] "389"
+delete point:0xd00 [27.97132,67.84369] "401"
+
+chtype point:0x1100 [27.36145,67.72166] "Haaravuotsonharjut" point:0x2800
+chtype point:0x1100 [27.30848,67.87322] "Kaitaselkä" point:0x2800
+chtype point:0x1100 [27.19961,67.87590] "Karinkiselkä" point:0x2800
+chtype point:0x1100 [27.19276,67.80094] "Koitelainen" point:0x2800
+chtype point:0x1100 [27.29054,67.83798] "Koitelaisenvosat" point:0x2800
+chtype point:0x1100 [27.10250,67.90157] "Maaselkä" point:0x2800
+chtype point:0x1100 [27.42243,67.85678] "Palsokka" point:0x2800
+chtype point:0x1100 [27.19153,67.96575] "Pirra-likan selkä" point:0x2800
+chtype point:0x1100 [27.26752,67.81828] "Rykimäselkä" point:0x2800
+chtype point:0x1100 [27.97132,67.84369] "Vuoltisvaaranselkä" point:0x2800
+chtype point:0x1100 [27.28234,67.72131] "Ämpärikummut" point:0x2800

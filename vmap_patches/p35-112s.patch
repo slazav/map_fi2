@@ -1,0 +1,22 @@
+include common.patch
+
+move   point:0x1000 [25.86369,60.99375] "108" [25.86960,60.99795]
+move   point:0x1000 [25.88054,60.99021] "110" [25.88516,60.99313]
+delete point:0x900 [25.58584,61.00127] "Jalkaranta"
+delete point:0x900 [26.00588,60.99418] "Joentausta"
+delete point:0x900 [25.55585,60.98996] "Koneharju"
+delete point:0x900 [25.56768,60.98866] "Likolampi"
+delete point:0x900 [25.74916,60.99569] "Myllypohja"
+delete point:0x900 [25.57333,60.98625] "Pirttiharju"
+delete point:0x900 [25.51370,60.98882] "Salpakangas"
+delete point:0x1000 [25.50324,60.99669] "144"
+delete point:0x2b04 [25.56915,60.99369] "keskussairaala"
+delete point:0x2b04 [25.59048,60.99189] "sairaala"
+delete point:0x2b04 [25.64805,60.99381] "satama"
+delete point:0x2b04 [25.56210,60.99356] "terv.huolto-oppil."
+delete point:0x2b04 [25.50913,60.99127] "terv.k."
+delete point:0x2b04 [25.66885,60.99759] "uimah."
+delete point:0x2b04 [25.69833,60.99247] "urh."
+delete point:0x2b04 [25.63860,60.99068] "venesatama"
+delete point:0x650c [25.88948,61.00107] "Ahvenlammi"
+delete point:0x6601 [25.77682,60.98942] "rauh."

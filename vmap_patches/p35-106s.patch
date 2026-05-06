@@ -1,0 +1,71 @@
+include common.patch
+
+move   point:0x1000 [28.77910,61.15694] "(42-43)" [28.76734,61.15652]
+move   point:0x1000 [28.66168,61.29314] "103" [28.65991,61.29471]
+move   point:0x1000 [28.65776,61.28656] "104" [28.66470,61.28826]
+move   point:0x1000 [28.68097,61.03701] "35" [28.68405,61.04123]
+move   point:0x1000 [28.59624,61.02408] "46" [28.59794,61.02257]
+move   point:0x1000 [28.66782,61.06413] "49" [28.67029,61.06265]
+move   point:0x1000 [28.56409,61.00173] "55" [28.57474,61.00037]
+move   point:0x1000 [28.67533,61.07638] "69" [28.67806,61.07623]
+move   point:0x1000 [28.57536,61.18575] "75" [28.59263,61.17242]
+move   point:0x1000 [28.57597,61.26376] "75" [28.57212,61.25101]
+move   point:0x1000 [28.69436,61.32486] "75" [28.68471,61.32221]
+move   point:0x1000 [28.70284,61.20019] "75" [28.70954,61.19698]
+move   point:0x1000 [28.71597,61.29352] "75" [28.70616,61.29267]
+move   point:0x1000 [28.76340,61.24344] "75" [28.74703,61.23595]
+move   point:0x1000 [28.59183,61.23299] "76" [28.59356,61.23176]
+move   point:0x1000 [28.62035,61.29915] "78" [28.65024,61.30786]
+move   point:0x1000 [28.64802,61.27880] "93" [28.65099,61.27691]
+move   point:0x1000 [28.66093,61.27730] "93" [28.66134,61.27524]
+
+move   point:0x1100 [28.70401,61.08830] "Ollivuori" [28.70598,61.08866]
+
+delete point:0x800 [28.76916,61.33530] "Alakylä"
+delete point:0x800 [28.78550,61.13473] "Vallinkoski"
+
+delete point:0x900 [28.81356,61.26864] "Anteroisenmäki"
+delete point:0x900 [28.78895,61.15735] "Kupari"
+
+delete point:0xd00 [28.67600,61.15660] "110"
+delete point:0xd00 [28.66693,61.04631] "59"
+delete point:0xd00 [28.67062,61.09597] "88"
+delete point:0xd00 [28.63812,61.04342] "91"
+delete point:0xd00 [28.70401,61.08830] "91"
+delete point:0xd00 [28.60040,61.08942] "93"
+delete point:0xd00 [28.71065,61.10002] "98"
+delete point:0xd00 [28.68700,61.00376] "99"
+
+delete point:0x1000 [28.67041,61.28785] "103"
+delete point:0x1000 [28.66686,61.29926] "104"
+delete point:0x1000 [28.60634,61.28343] "75"
+delete point:0x1000 [28.63739,61.30518] "78"
+delete point:0x1000 [28.64600,61.31207] "78"
+delete point:0x1000 [28.69096,61.27472] "82"
+delete point:0x1000 [28.67374,61.27072] "87"
+delete point:0x1000 [28.68567,61.26931] "92"
+delete point:0x1000 [28.64408,61.27511] "97"
+delete point:0x1000 [28.64461,61.27637] "97"
+delete point:0x1000 [28.65376,61.28381] "97"
+
+delete point:0x2800 [28.79025,61.24958] "Vatavalkama"
+delete point:0x2800 [28.73009,61.19385] "ajoharjoittelurata"
+delete point:0x2800 [28.69021,61.18123] "kuntor."
+delete point:0x2800 [28.49903,61.10934] "kuntorata"
+delete point:0x2800 [28.75325,61.22552] "luontop."
+delete point:0x2800 [28.74863,61.15903] "val. kuntorata"
+delete point:0x2800 [28.75618,61.18126] "val. kuntorata"
+
+delete point:0x2b04 [28.54153,61.14328] "amm.oppil."
+delete point:0x2b04 [28.76876,61.16863] "hot."
+delete point:0x2b04 [28.72463,61.21182] "hotelli"
+delete point:0x2b04 [28.73762,61.20034] "jäähalli"
+delete point:0x2b04 [28.77829,61.19303] "kaupungintalo"
+delete point:0x2b04 [28.50276,61.11790] "kirjasto"
+delete point:0x2b04 [28.50614,61.10928] "palvelutalo"
+delete point:0x2b04 [28.54104,61.13138] "radioasema"
+delete point:0x2b04 [28.77961,61.18605] "uimahalli"
+
+delete point:0x650c [28.79176,61.26947] "Kyläjärvi"
+delete point:0x6601 [28.50878,61.11832] "rauh."
+

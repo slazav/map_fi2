@@ -1,0 +1,178 @@
+text:0x2
+scle 0.75
+algn SE
+name Hiekkala
+opts lang: fin
+reft point:0x900
+refp 28.019084 60.998067
+crds 28.017079 60.997393
+
+text:0x2
+scle 0.75
+algn SE
+name Metsälä
+opts lang: fin
+reft point:0x900
+refp 28.394544 60.996442
+crds 28.393161 60.996596
+
+text:0x2
+scle 0.75
+algn SE
+name Uusitalo
+opts lang: fin
+reft point:0x900
+refp 28.061671 60.992085
+crds 28.062932 60.993261
+
+text:0x2
+scle 1.1
+name Hanmäki
+opts lang: fin
+reft point:0x800
+refp 28.306807 60.999097
+crds 28.309723 60.997490
+
+text:0x2
+scle 1.1
+name Metsä-Kansola
+opts lang: fin
+reft point:0x800
+refp 28.461647 60.990674
+crds 28.460792 60.992505
+
+text:0x2
+scle 1.1
+name Mäkelä
+opts lang: fin
+reft point:0x800
+refp 28.273452 60.988701
+crds 28.275622 60.990435
+
+text:0x2
+scle 1.1
+name Nikku
+opts lang: fin
+reft point:0x800
+refp 28.489828 60.997748
+crds 28.485580 60.998393
+
+text:0x2
+scle 1.1
+name Sipari
+opts lang: fin
+reft point:0x800
+refp 28.022956 60.995453
+crds 28.025956 60.998263
+
+text:0x2
+scle 1.1
+algn SE
+name Hölttä
+opts lang: fin
+reft point:0x800
+refp 28.319617 60.991009
+crds 28.314768 60.991689
+
+text:0x2
+scle 1.1
+algn SE
+name Martti
+opts lang: fin
+reft point:0x800
+refp 28.366814 60.998199
+crds 28.364050 60.997396
+
+text:0x3
+scle 0.75
+algn S
+name Selinpäisensuo
+opts lang: fin
+reft point:0x2800
+refp 28.394779 60.991251
+crds 28.393182 60.992712
+
+text:0x3
+scle 0.8
+algn S
+name Salmannonsuo
+opts lang: fin
+reft point:0x2800
+refp 28.075213 60.993629
+crds 28.076201 60.995758
+
+text:0x3
+scle 0.96
+algn S
+name Suurisuo
+opts lang: fin
+reft point:0x2800
+refp 28.214726 60.987562
+crds 28.220391 60.992973
+
+text:0x3
+angl -329.534
+scle 0.75
+algn S
+name Hyötsuo
+opts lang: fin
+reft point:0x2800
+refp 28.426124 60.997943
+crds 28.428921 60.997789
+
+text:0x4
+scle 0.9
+name Vihtosenjärvi
+opts lang: fin
+reft point:0x650c
+refp 28.326526 60.993250
+crds 28.334091 60.994992
+
+text:0x4
+algn S
+name Kaislanen
+opts lang: fin
+reft point:0x650c
+refp 28.143972 60.988378
+crds 28.147518 60.989086
+
+text:0x4
+scle 1.2
+algn S
+name Hanhijärvi
+opts lang: fin
+reft point:0x650c
+refp 28.185875 60.998221
+crds 28.188976 60.998257
+
+text:0x5
+name Karkeisenmäki
+opts lang: fin
+reft point:0x1100
+refp 28.242821 60.992575
+crds 28.240331 60.993350
+
+text:0x6
+name 88
+reft point:0xd00
+refp 28.242821 60.992575
+crds 28.244044 60.992342
+
+text:0x8
+name 56
+reft point:0x1000
+refp 28.334710 60.993980
+crds 28.335941 60.994122
+
+text:0x8
+name 58
+reft point:0x1000
+refp 28.155180 60.991790
+crds 28.154417 60.992345
+
+text:0x8
+name 59
+reft point:0x1000
+refp 28.178200 60.997540
+crds 28.179150 60.997029
+

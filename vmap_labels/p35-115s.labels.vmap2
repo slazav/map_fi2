@@ -1,0 +1,90 @@
+text:0x2
+scle 1.1
+name Kohopää
+opts lang: fin
+reft point:0x800
+refp 27.120617 60.996217
+crds 27.120714 60.998135
+
+text:0x2
+scle 1.1
+algn SE
+name Uitto
+opts lang: fin
+reft point:0x800
+refp 27.391930 60.997418
+crds 27.390312 60.998256
+
+text:0x3
+scle 0.75
+algn S
+name Vetosuo
+opts lang: fin
+reft point:0x2800
+refp 27.189023 60.998272
+crds 27.191788 60.997263
+
+text:0x3
+angl -344.819
+scle 0.8
+algn S
+name Leppisuo
+opts lang: fin
+reft point:0x2800
+refp 27.459945 60.997756
+crds 27.457848 60.997105
+
+text:0x3
+angl -295.039
+scle 0.75
+algn S
+name Hujakangas
+reft point:0x2800
+refp 27.196404 60.999329
+crds 27.203291 60.996115
+
+text:0x4
+scle 0.825
+name Mäkilampi
+opts lang: fin
+reft point:0x650c
+refp 27.024006 60.993511
+crds 27.028787 60.993083
+
+text:0x4
+scle 0.825
+algn SE
+name Luomasenjärvi
+opts lang: fin
+reft point:0x650c
+refp 27.265180 60.997937
+crds 27.269682 60.998780
+
+text:0x4
+scle 0.825
+algn S
+name Kipolampi
+reft point:0x650c
+refp 27.350572 60.999026
+crds 27.348561 60.998759
+
+text:0x4
+scle 0.825
+algn S
+name Vuorisenjärvi
+reft point:0x650c
+refp 27.229062 60.996998
+crds 27.228203 60.996959
+
+text:0x8
+name 73
+reft point:0x1000
+refp 27.231830 60.994710
+crds 27.232768 60.994425
+
+text:0x8
+name 76
+reft point:0x1000
+refp 27.356760 60.998640
+crds 27.357861 60.998519
+

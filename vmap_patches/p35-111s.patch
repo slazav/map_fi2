@@ -1,0 +1,5 @@
+include common.patch
+
+move   point:0x1000 [25.46833,60.99475] "142" [25.45937,60.99815]
+delete point:0x900 [25.49199,60.99829] "Tiilikangas"
+delete point:0xd00 [25.24903,60.98753] "137"

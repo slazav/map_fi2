@@ -1,0 +1,291 @@
+text:0x3
+scle 0.75
+name Rakitsanoja\\avoin kammi
+reft point:0x2b04
+refp 29.188790 68.046255
+crds 29.192948 68.044495
+
+text:0x3
+scle 0.75
+name Rauhanpaalu
+reft point:0x2c04
+refp 29.257819 68.046925
+crds 29.265589 68.046832
+
+text:0x3
+scle 0.75
+name Vieriharju\\autiotupa
+reft point:0x2b04
+refp 29.061309 68.030449
+crds 29.066420 68.028279
+
+text:0x3
+angl -335.427
+scle 0.9
+algn S
+name Yli-Vieriaapa
+reft point:0x2800
+refp 29.052511 68.037715
+crds 29.044789 68.039654
+
+text:0x3
+angl -25.302
+scle 0.9
+algn S
+name Kangas-Rakitsat
+reft point:0x2800
+refp 29.161405 68.015045
+crds 29.175019 68.017552
+
+text:0x3
+angl -10.2764
+scle 0.9
+algn S
+name Rakitsanaapa
+reft point:0x2800
+refp 29.198768 68.056915
+crds 29.201823 68.058219
+
+text:0x4
+algn S
+name Ätimysoja
+reft point:0x650c
+refp 29.343663 68.010913
+crds 29.386455 68.011601
+
+text:0x4
+angl -86.4509
+algn S
+name Vierihaara
+reft point:0x650c
+refp 29.060713 68.017408
+crds 29.056965 68.020161
+
+text:0x4
+angl -66.4113
+scle 0.825
+algn S
+name Vierihaara
+reft point:0x650c
+refp 29.060713 68.017408
+crds 29.047698 68.054874
+
+text:0x4
+angl -56.6178
+scle 0.825
+algn S
+name Rakitsanhaara
+reft point:0x650c
+refp 29.117457 68.046835
+crds 29.123533 68.053177
+
+text:0x4
+angl -13.72
+scle 0.9
+algn S
+name Rakitsanoja
+reft point:0x650c
+refp 29.101925 68.011800
+crds 29.088603 68.012855
+
+text:0x4
+angl -10.1679
+algn S
+name Paadesjoki
+reft point:0x650c
+refp 29.323122 68.054773
+crds 29.319004 68.051303
+
+text:0x4
+angl -9.46944
+scle 0.9
+algn S
+name Yl.Vittaoja
+reft point:0x650c
+refp 29.053641 68.117201
+crds 29.029852 68.112711
+
+text:0x5
+scle 0.8
+name Korvatunturinrakitsat
+reft point:0x1100
+refp 29.226153 68.069518
+crds 29.222123 68.070710
+
+text:0x5
+scle 0.8
+name Rakitsat
+reft point:0x1100
+refp 29.185511 68.067126
+crds 29.184845 68.068711
+
+text:0x5
+name Iso Kolsanmurusta
+reft point:0x1100
+refp 29.267892 68.003493
+crds 29.265012 68.004538
+
+text:0x5
+name Korvatunturinmurusta
+reft point:0x1100
+refp 29.255340 68.044760
+crds 29.239661 68.042171
+
+text:0x5
+name Kuruvaara
+reft point:0x1100
+refp 29.130553 68.101277
+crds 29.129033 68.102880
+
+text:0x5
+name Kuusi-Mantoselkä
+reft point:0x1100
+refp 29.000305 68.074601
+crds 28.999447 68.076160
+
+text:0x5
+name Kuusi-Mantoselkä
+reft point:0x1100
+refp 29.000704 68.007183
+crds 28.999270 68.008442
+
+text:0x5
+name Laakiavaara
+reft point:0x1100
+refp 29.207001 68.079640
+crds 29.204830 68.081020
+
+text:0x5
+name Mantoselkä
+reft point:0x1100
+refp 29.000072 68.041199
+crds 28.999219 68.042550
+
+text:0x5
+name Männikkömurusta
+reft point:0x1100
+refp 29.326122 68.043147
+crds 29.328061 68.043523
+
+text:0x5
+name Palo-Vieriharju
+reft point:0x1100
+refp 29.106984 68.040673
+crds 29.108890 68.041593
+
+text:0x5
+algn SE
+name Korvatunturi
+reft point:0x1100
+refp 29.315088 68.074330
+crds 29.309853 68.075995
+
+text:0x5
+algn SE
+name Rautalankamurusta
+reft point:0x1100
+refp 29.383148 68.022138
+crds 29.387247 68.023216
+
+text:0x5
+algn SE
+name Rusinasoppavaara
+reft point:0x1100
+refp 29.189336 68.095496
+crds 29.190007 68.096870
+
+text:0x5
+angl -335.462
+name Pieni Juuoivanhäntä
+reft point:0x1100
+refp 29.011253 68.130421
+crds 29.005626 68.128476
+
+text:0x6
+name 267
+reft point:0xd00
+refp 29.000704 68.007183
+crds 29.004246 68.006904
+
+text:0x6
+name 294
+reft point:0xd00
+refp 29.106984 68.040673
+crds 29.109924 68.040240
+
+text:0x6
+name 308
+reft point:0xd00
+refp 29.000072 68.041199
+crds 29.003241 68.041207
+
+text:0x6
+name 316
+reft point:0xd00
+refp 29.326122 68.043147
+crds 29.328605 68.042030
+
+text:0x6
+name 335
+reft point:0xd00
+refp 29.130553 68.101277
+crds 29.133330 68.101176
+
+text:0x6
+name 341
+reft point:0xd00
+refp 29.000305 68.074601
+crds 29.002895 68.074457
+
+text:0x6
+name 348
+reft point:0xd00
+refp 29.207001 68.079640
+crds 29.209486 68.079653
+
+text:0x6
+name 362
+reft point:0xd00
+refp 29.226153 68.069518
+crds 29.228640 68.069466
+
+text:0x6
+name 364
+reft point:0xd00
+refp 29.185511 68.067126
+crds 29.188273 68.067462
+
+text:0x6
+name 396
+reft point:0xd00
+refp 29.267892 68.003493
+crds 29.271135 68.003271
+
+text:0x6
+algn SE
+name 325
+reft point:0xd00
+refp 29.189336 68.095496
+crds 29.185816 68.095109
+
+text:0x6
+algn SE
+name 394
+reft point:0xd00
+refp 29.383148 68.022138
+crds 29.380182 68.021696
+
+text:0x6
+algn SE
+name 457
+reft point:0xd00
+refp 29.315088 68.074330
+crds 29.309707 68.074361
+
+text:0x6
+angl -335.457
+name 341
+reft point:0xd00
+refp 29.011253 68.130421
+crds 29.011706 68.128992
+

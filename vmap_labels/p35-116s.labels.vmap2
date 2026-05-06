@@ -1,0 +1,114 @@
+text:0x2
+scle 0.75
+algn SE
+name Kangas
+opts lang: fin
+reft point:0x900
+refp 27.919869 60.994723
+crds 27.918232 60.994228
+
+text:0x2
+scle 0.75
+algn SE
+name Karvola
+opts lang: fin
+reft point:0x900
+refp 27.714320 60.992207
+crds 27.710767 60.992401
+
+text:0x2
+name Veikkanen
+reft point:0x800
+refp 27.649943 60.999425
+crds 27.653233 60.997527
+
+text:0x3
+scle 0.75
+name Kaijatsaari
+opts lang: fin
+reft point:0x2800
+refp 27.739344 60.997161
+crds 27.741883 60.996709
+
+text:0x3
+scle 0.8
+name Huuhtsalo
+opts lang: fin
+reft point:0x2800
+refp 27.704409 60.994368
+crds 27.705730 60.996664
+
+text:0x3
+scle 0.8
+name Kotkatsaarensuo
+opts lang: fin
+reft point:0x2800
+refp 27.872559 60.990577
+crds 27.866584 60.992272
+
+text:0x3
+scle 0.8
+name Salosaari
+opts lang: fin
+reft point:0x2800
+refp 27.607250 60.996518
+crds 27.614107 60.998477
+
+text:0x3
+scle 0.8
+name Työsaari
+opts lang: fin
+reft point:0x2800
+refp 27.817523 60.997356
+crds 27.814983 60.995882
+
+text:0x3
+scle 0.8
+algn S
+name Suurisuo
+opts lang: fin
+reft point:0x2800
+refp 27.963176 60.995597
+crds 27.963338 60.995263
+
+text:0x3
+scle 0.8
+algn S
+name Virolaissuo
+opts lang: fin
+reft point:0x2800
+refp 27.899965 60.995979
+crds 27.900541 60.997741
+
+text:0x3
+angl -45.2669
+scle 0.75
+algn S
+name Rönänsuo
+opts lang: fin
+reft point:0x2800
+refp 27.587762 60.998956
+crds 27.587228 60.997091
+
+text:0x4
+name Laukaslampi
+opts lang: fin
+reft point:0x650c
+refp 27.532318 60.992356
+crds 27.539129 60.993986
+
+text:0x4
+algn S
+name Meteliselkä
+opts lang: fin
+reft point:0x650c
+refp 27.763170 60.995054
+crds 27.764703 60.995151
+
+text:0x8
+algn SE
+name 75
+reft point:0x1000
+refp 27.526840 60.992940
+crds 27.525812 60.992221
+

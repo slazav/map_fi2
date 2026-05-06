@@ -1,0 +1,5181 @@
+text:0x2
+scle 0.75
+name Alapmoen
+opts Source: NO1
+reft point:0x900
+refp 19.034264 68.996258
+crds 19.035437 68.993361
+
+text:0x2
+scle 0.75
+name Bjørkåsen
+opts Source: NO1
+reft point:0x900
+refp 19.095812 68.858489
+crds 19.097866 68.858598
+
+text:0x2
+scle 0.75
+name Dividalen
+opts Source: NO1
+reft point:0x900
+refp 19.521875 68.926778
+crds 19.523685 68.928874
+
+text:0x2
+scle 0.75
+name Dørum
+opts Source: NO1
+reft point:0x900
+refp 19.699005 68.968363
+crds 19.697212 68.969481
+
+text:0x2
+scle 0.75
+name Frihetsli
+opts Source: NO1
+reft point:0x900
+refp 19.712368 68.778192
+crds 19.720367 68.777473
+
+text:0x2
+scle 0.75
+name Heimly
+opts Source: NO1
+reft point:0x900
+refp 19.663661 68.977494
+crds 19.667659 68.977880
+
+text:0x2
+scle 0.75
+name Jutulstad
+opts Source: NO1
+reft point:0x900
+refp 19.258634 68.994391
+crds 19.260246 68.993209
+
+text:0x2
+scle 0.75
+name Kirkesjorda
+opts Source: NO1
+reft point:0x900
+refp 19.053573 68.888216
+crds 19.068818 68.890858
+
+text:0x2
+scle 0.75
+name Luneborg
+opts Source: NO1
+reft point:0x900
+refp 19.534357 68.917965
+crds 19.537451 68.917776
+
+text:0x2
+scle 0.75
+name Rosta
+opts Source: NO1
+reft point:0x900
+refp 19.660049 68.973861
+crds 19.663247 68.973999
+
+text:0x2
+scle 0.75
+name Sandeggen
+opts Source: NO1
+reft point:0x900
+refp 19.017915 68.904849
+crds 19.035361 68.899814
+
+text:0x2
+scle 0.75
+name Solbakken
+opts Source: NO1
+reft point:0x900
+refp 19.500647 68.948225
+crds 19.503314 68.947860
+
+text:0x2
+scle 0.75
+name Stenbakken
+opts Source: NO1
+reft point:0x900
+refp 19.474936 68.976683
+crds 19.482566 68.978119
+
+text:0x2
+scle 0.75
+name Tverrelvmoen
+opts Source: NO1
+reft point:0x900
+refp 19.754423 68.965527
+crds 19.743793 68.958625
+
+text:0x2
+scle 0.75
+name Åsheim
+opts Source: NO1
+reft point:0x900
+refp 19.459618 68.979863
+crds 19.454590 68.983910
+
+text:0x2
+scle 0.75
+algn SE
+name Bjerke
+opts Source: NO1
+reft point:0x900
+refp 19.480794 68.954714
+crds 19.472498 68.955547
+
+text:0x2
+scle 0.75
+algn SE
+name Bjørkmo
+opts Source: NO1
+reft point:0x900
+refp 19.081305 68.863365
+crds 19.073551 68.863220
+
+text:0x2
+scle 0.75
+algn SE
+name Eidsvoll
+opts Source: NO1
+reft point:0x900
+refp 19.601390 68.988765
+crds 19.592970 68.989291
+
+text:0x2
+scle 0.75
+algn SE
+name Fjellheim
+opts Source: NO1
+reft point:0x900
+refp 19.587601 68.993895
+crds 19.584938 68.993936
+
+text:0x2
+scle 0.75
+algn SE
+name Gamnes
+opts Source: NO1
+reft point:0x900
+refp 19.647712 68.970372
+crds 19.644142 68.970650
+
+text:0x2
+scle 0.75
+algn SE
+name Hage
+opts Source: NO1
+reft point:0x900
+refp 19.068395 68.878317
+crds 19.065782 68.876607
+
+text:0x2
+scle 0.75
+algn SE
+name Høgstadgård
+opts Source: NO1
+reft point:0x900
+refp 19.562126 68.853439
+crds 19.556825 68.855737
+
+text:0x2
+scle 0.75
+algn SE
+name Jensvoll
+opts Source: NO1
+reft point:0x900
+refp 19.047737 68.885284
+crds 19.046526 68.883808
+
+text:0x2
+scle 0.75
+algn SE
+name Liatun
+opts Source: NO1
+reft point:0x900
+refp 19.473367 68.968769
+crds 19.469763 68.968396
+
+text:0x2
+scle 0.75
+algn SE
+name Melum
+opts Source: NO1
+reft point:0x900
+refp 19.445938 68.987230
+crds 19.443539 68.986716
+
+text:0x2
+scle 0.75
+algn SE
+name Skogly
+opts Source: NO1
+reft point:0x900
+refp 19.530902 68.898778
+crds 19.525589 68.898933
+
+text:0x2
+scle 0.75
+algn SE
+name Solheim
+opts Source: NO1
+reft point:0x900
+refp 19.664378 68.961066
+crds 19.661486 68.960654
+
+text:0x2
+scle 0.75
+algn SE
+name Stenberg
+opts Source: NO1
+reft point:0x900
+refp 19.504998 68.931162
+crds 19.501375 68.930031
+
+text:0x2
+scle 0.75
+algn SE
+name Svestad
+opts Source: NO1
+reft point:0x900
+refp 19.518030 68.920863
+crds 19.515209 68.919811
+
+text:0x2
+scle 0.75
+algn SE
+name Tillermoen
+opts Source: NO1
+reft point:0x900
+refp 19.127076 68.992412
+crds 19.142617 68.988540
+
+text:0x2
+scle 0.75
+algn SE
+name Åsen
+opts Source: NO1
+reft point:0x900
+refp 19.432184 68.994406
+crds 19.434354 68.995378
+
+text:0x2
+scle 0.75
+algn SE
+name Østlund
+opts Source: NO1
+reft point:0x900
+refp 19.559332 68.859832
+crds 19.577207 68.861945
+
+text:0x2
+scle 0.75
+algn S
+name Alvheim
+opts Source: NO1
+reft point:0x900
+refp 19.189359 68.982575
+crds 19.185069 68.981712
+
+text:0x2
+scle 0.75
+algn S
+name Dahl
+opts Source: NO1
+reft point:0x900
+refp 19.068885 68.884998
+crds 19.082872 68.884140
+
+text:0x2
+scle 0.75
+algn S
+name Lienga
+opts Source: NO1
+reft point:0x900
+refp 19.678263 68.992094
+crds 19.682566 68.995953
+
+text:0x2
+scle 0.75
+algn S
+name Rostamoen
+opts Source: NO1
+reft point:0x900
+refp 19.734046 68.964308
+crds 19.718578 68.959475
+
+text:0x3
+scle 0.75
+name Alapmosetra
+opts Source: NO1
+reft point:0x2800
+refp 19.021679 68.975191
+crds 19.028723 68.975056
+
+text:0x3
+scle 0.75
+name Anjavassbu
+opts Source: NO1
+reft point:0x2b04
+refp 19.770736 68.689321
+crds 19.777319 68.688519
+
+text:0x3
+scle 0.75
+name Bøasætra
+opts Source: NO1
+reft point:0x2800
+refp 19.117477 68.843018
+crds 19.119219 68.842750
+
+text:0x3
+scle 0.75
+name Devdisbua
+opts Source: NO1
+reft point:0x2b04
+refp 19.724639 68.868982
+crds 19.720415 68.865545
+
+text:0x3
+scle 0.75
+name Dividalshytta
+opts Source: NO1
+reft point:0x2b04
+refp 19.821412 68.675920
+crds 19.822184 68.677920
+
+text:0x3
+scle 0.75
+name Fossbua
+opts Source: NO1
+reft point:0x2b04
+refp 19.728340 68.746687
+crds 19.733681 68.746836
+
+text:0x3
+scle 0.75
+name Høgskardhus
+opts Source: NO1
+reft point:0x2b04
+refp 19.572765 68.847797
+crds 19.576110 68.847761
+
+text:0x3
+scle 0.75
+name Jensvollsætra
+opts Source: NO1
+reft point:0x2800
+refp 19.056825 68.827740
+crds 19.058661 68.823799
+
+text:0x3
+scle 0.75
+name Jierdnegaiba
+opts Source: NO1
+reft point:0x2800
+refp 19.279861 68.683891
+crds 19.278458 68.683804
+
+text:0x3
+scle 0.75
+name Jordbrua
+opts Source: NO1
+reft point:0x2800
+refp 19.095216 68.829930
+crds 19.096084 68.829211
+
+text:0x3
+scle 0.75
+name Kirkesjordsætra
+opts Source: NO1
+reft point:0x2800
+refp 19.104191 68.845074
+crds 19.101203 68.847948
+
+text:0x3
+scle 0.75
+name Kutarbakken
+opts Source: NO1
+reft point:0x2800
+refp 19.344693 68.951575
+crds 19.346161 68.950380
+
+text:0x3
+scle 0.75
+name Langmyra
+opts Source: NO1
+reft point:0x2800
+refp 19.784014 68.718014
+crds 19.778403 68.718280
+
+text:0x3
+scle 0.75
+name Lundvangsætra
+opts Source: NO1
+reft point:0x2800
+refp 19.120309 68.840754
+crds 19.120997 68.838710
+
+text:0x3
+scle 0.75
+name Lågdolpa
+opts Source: NO1
+reft point:0x2800
+refp 19.859010 68.973748
+crds 19.847643 68.970398
+
+text:0x3
+scle 0.75
+name Ole Nergårdbua
+opts Source: NO1
+reft point:0x2b04
+refp 19.768601 68.693486
+crds 19.773712 68.693565
+
+text:0x3
+scle 0.75
+name Tindholet
+opts Source: NO1
+reft point:0x2800
+refp 19.086912 68.827852
+crds 19.086546 68.826458
+
+text:0x3
+scle 0.75
+name Tronga
+opts Source: NO1
+reft point:0x2800
+refp 19.755232 68.711248
+crds 19.755232 68.711248
+
+text:0x3
+scle 0.75
+name Voumahytta
+opts Source: NO1
+reft point:0x2b04
+refp 19.487142 68.672318
+crds 19.490142 68.672318
+
+text:0x3
+scle 0.75
+name Øverbygd kirke
+opts Source: NO1
+reft point:0x2800
+refp 19.134903 68.998213
+crds 19.139345 68.998474
+
+text:0x3
+scle 0.75
+name Øverbysætra
+opts Source: NO1
+reft point:0x2800
+refp 19.326229 68.966427
+crds 19.335131 68.965489
+
+text:0x3
+scle 0.75
+algn SE
+name Dolpa
+opts Source: NO1
+reft point:0x2800
+refp 19.921787 68.990491
+crds 19.919041 68.991594
+
+text:0x3
+scle 0.75
+algn SE
+name Elvevollsætra
+opts Source: NO1
+reft point:0x2800
+refp 19.005151 68.973719
+crds 19.029730 68.969461
+
+text:0x3
+scle 0.75
+algn SE
+name Hagesætra
+opts Source: NO1
+reft point:0x2800
+refp 19.052367 68.828378
+crds 19.056836 68.829651
+
+text:0x3
+scle 0.75
+algn SE
+name Heimjordsætra
+opts Source: NO1
+reft point:0x2800
+refp 19.146251 68.862279
+crds 19.146909 68.863049
+
+text:0x3
+scle 0.75
+algn SE
+name Lomboløra
+opts Source: NO1
+reft point:0x2800
+refp 19.543722 68.886609
+crds 19.534689 68.884848
+
+text:0x3
+scle 0.75
+algn SE
+name Ruksesgeadgi
+opts Source: NO1
+reft point:0x2800
+refp 19.320936 68.850394
+crds 19.322701 68.849778
+
+text:0x3
+scle 0.75
+algn SE
+name Sottan
+opts Source: NO1
+reft point:0x2800
+refp 19.053570 68.979373
+crds 19.055252 68.979968
+
+text:0x3
+scle 0.75
+algn SE
+name Veslnesbua
+opts Source: NO1
+reft point:0x2b04
+refp 19.713349 68.761300
+crds 19.712254 68.762801
+
+text:0x3
+scle 0.75
+algn S
+name Botnskardet
+opts Source: NO1
+reft point:0x2800
+refp 19.498570 68.746465
+crds 19.508886 68.747038
+
+text:0x3
+scle 0.75
+algn S
+name Gropa
+opts Source: NO1
+reft point:0x2800
+refp 19.091903 68.969366
+crds 19.095963 68.968834
+
+text:0x3
+scle 0.75
+algn S
+name Steinvollmyran
+opts Source: NO1
+reft point:0x2800
+refp 19.463213 68.947106
+crds 19.462813 68.946701
+
+text:0x3
+scle 0.8
+name Jierttášalbmi
+opts Source: NO1
+reft point:0x2800
+refp 19.921391 68.700952
+crds 19.923187 68.704213
+
+text:0x3
+scle 0.8
+name Storflåan
+opts Source: NO1
+reft point:0x2800
+refp 19.800124 68.721859
+crds 19.795873 68.720581
+
+text:0x3
+scle 0.866667
+name Davimus Riehppi
+opts Source: NO1
+reft point:0x2800
+refp 19.314005 68.717415
+crds 19.316764 68.713373
+
+text:0x3
+scle 0.866667
+name Livassodden
+opts Source: NO1
+reft point:0x2800
+refp 19.009860 68.666574
+crds 19.004532 68.663902
+
+text:0x3
+scle 0.866667
+algn S
+name Hubitdievát
+opts Source: NO1
+reft point:0x2800
+refp 19.391965 68.792850
+crds 19.389197 68.789374
+
+text:0x3
+scle 0.9
+name Jierttáláhku
+opts Source: NO1
+reft point:0x2800
+refp 19.928386 68.671625
+crds 19.926262 68.670158
+
+text:0x3
+algn S
+name Bjørnhaug
+reft point:0x2800
+refp 19.724203 68.977912
+crds 19.724197 68.977915
+
+text:0x3
+angl -356.903
+scle 0.866667
+algn S
+name Gaskkasvággi
+opts Source: NO1
+reft point:0x2800
+refp 19.228328 68.687708
+crds 19.244679 68.688379
+
+text:0x3
+angl -350.616
+scle 1.08333
+algn S
+name Rostadalen
+opts Source: NO1
+reft point:0x2800
+refp 19.883001 68.952079
+crds 19.868804 68.952126
+
+text:0x3
+angl -350.322
+scle 0.866667
+algn S
+name Grønnskaret
+opts Source: NO1
+reft point:0x2800
+refp 19.145302 68.845786
+crds 19.157595 68.843051
+
+text:0x3
+angl -350.196
+scle 0.75
+algn S
+name Ruksesgeadggečahca
+opts Source: NO1
+reft point:0x2800
+refp 19.295936 68.856897
+crds 19.292794 68.856716
+
+text:0x3
+angl -350.041
+scle 0.75
+algn S
+name Davit Gussariehppi
+opts Source: NO1
+reft point:0x2800
+refp 19.455378 68.898266
+crds 19.459188 68.900583
+
+text:0x3
+angl -350.022
+scle 0.75
+algn S
+name Bierdnagohpi
+opts Source: NO1
+reft point:0x2800
+refp 19.476204 68.797718
+crds 19.479080 68.797776
+
+text:0x3
+angl -349.941
+scle 0.8
+algn S
+name Várregaska
+opts Source: NO1
+reft point:0x2800
+refp 19.569311 68.944814
+crds 19.567573 68.943246
+
+text:0x3
+angl -345.593
+scle 1.08333
+algn S
+name Sanddalen
+opts Source: NO1
+reft point:0x2800
+refp 19.510013 68.788428
+crds 19.541579 68.787931
+
+text:0x3
+angl -345.329
+scle 0.75
+algn S
+name Svartraen
+opts Source: NO1
+reft point:0x2800
+refp 19.147469 68.964737
+crds 19.148058 68.967695
+
+text:0x3
+angl -345.292
+scle 0.75
+algn S
+name Kleiva
+opts Source: NO1
+reft point:0x2800
+refp 19.181951 68.997864
+crds 19.189457 68.997038
+
+text:0x3
+angl -345.246
+scle 0.866667
+algn S
+name Duopmaslatnja
+opts Source: NO1
+reft point:0x2800
+refp 19.241004 68.925613
+crds 19.238141 68.924092
+
+text:0x3
+angl -345.199
+scle 0.866667
+algn S
+name Jierdni
+opts Source: NO1
+reft point:0x2800
+refp 19.293658 68.676437
+crds 19.285378 68.675865
+
+text:0x3
+angl -344.925
+scle 0.8
+algn S
+name Ulebergskaret
+opts Source: NO1
+reft point:0x2800
+refp 19.569833 68.947324
+crds 19.581941 68.948718
+
+text:0x3
+angl -341.668
+scle 0.8
+algn S
+name Ánabollovággi
+opts Source: NO1
+reft point:0x2800
+refp 19.774227 68.827804
+crds 19.774967 68.826400
+
+text:0x3
+angl -340.443
+scle 0.75
+algn S
+name Furuholtet
+opts Source: NO1
+reft point:0x2800
+refp 19.026216 68.986344
+crds 19.025609 68.985665
+
+text:0x3
+angl -339.702
+scle 0.9
+algn S
+name Devddesvuopmi
+opts Source: NO1
+reft point:0x2800
+refp 19.769325 68.873995
+crds 19.769036 68.873583
+
+text:0x3
+angl -335.308
+scle 0.75
+algn S
+name Skredet
+opts Source: NO1
+reft point:0x2800
+refp 19.182239 68.963513
+crds 19.173895 68.964380
+
+text:0x3
+angl -330.587
+scle 1.08333
+algn S
+name Anjavassdalen
+opts Source: NO1
+reft point:0x2800
+refp 19.441341 68.711572
+crds 19.460353 68.711952
+
+text:0x3
+angl -329.697
+scle 0.8
+algn S
+name Loamit
+opts Source: NO1
+reft point:0x2800
+refp 19.826032 68.710839
+crds 19.825276 68.713514
+
+text:0x3
+angl -328.857
+scle 0.9
+algn S
+name Skaktardalen
+opts Source: NO1
+reft point:0x2800
+refp 19.736350 68.762825
+crds 19.745800 68.760285
+
+text:0x3
+angl -324.969
+scle 0.75
+algn S
+name Litlevasskvelven
+opts Source: NO1
+reft point:0x2800
+refp 19.530902 68.981335
+crds 19.533673 68.982798
+
+text:0x3
+angl -324.622
+scle 0.811111
+algn S
+name Likkálatnja
+opts Source: NO1
+reft point:0x2800
+refp 19.905122 68.938670
+crds 19.905081 68.938736
+
+text:0x3
+angl -320.45
+scle 0.75
+algn S
+name Skjerbekkmyran
+opts Source: NO1
+reft point:0x2800
+refp 19.031963 68.978632
+crds 19.021928 68.981372
+
+text:0x3
+angl -320.124
+scle 0.75
+algn S
+name Ovlláriehppi
+opts Source: NO1
+reft point:0x2800
+refp 19.364139 68.704821
+crds 19.368070 68.705751
+
+text:0x3
+angl -316.1
+scle 1.08333
+algn S
+name Benelvdalen
+opts Source: NO1
+reft point:0x2800
+refp 19.311441 68.963084
+crds 19.311163 68.960524
+
+text:0x3
+angl -315.093
+scle 0.75
+algn S
+name Sanddalsbotn
+opts Source: NO1
+reft point:0x2800
+refp 19.410091 68.794599
+crds 19.400666 68.795856
+
+text:0x3
+angl -313.569
+scle 0.9
+algn S
+name Nohllevággi
+opts Source: NO1
+reft point:0x2800
+refp 19.825162 68.794794
+crds 19.831020 68.793808
+
+text:0x3
+angl -311.6
+scle 1.3
+algn S
+name Kirkesdalen
+opts Source: NO1
+reft point:0x2800
+refp 19.018934 68.916937
+crds 19.018934 68.916937
+
+text:0x3
+angl -310.347
+scle 0.916667
+algn S
+name Sprutmyran
+opts Source: NO1
+reft point:0x2800
+refp 19.120788 68.980132
+crds 19.128177 68.979167
+
+text:0x3
+angl -309.558
+scle 0.8
+algn S
+name Trollelvskardet
+opts Source: NO1
+reft point:0x2800
+refp 19.965793 68.979009
+crds 19.973976 68.977227
+
+text:0x3
+angl -308.666
+scle 1.08333
+algn S
+name Langdalen
+opts Source: NO1
+reft point:0x2800
+refp 19.308251 68.891595
+crds 19.297850 68.901185
+
+text:0x3
+angl -303.627
+scle 0.8
+algn S
+name Ruollavággi
+opts Source: NO1
+reft point:0x2800
+refp 19.961062 68.972696
+crds 19.948350 68.977595
+
+text:0x3
+angl -297.631
+scle 0.8
+name Gilovággi
+opts Source: NO1
+reft point:0x2800
+refp 19.767423 68.785833
+crds 19.767423 68.785833
+
+text:0x3
+angl -296.496
+scle 0.866667
+name Luotnavággi
+opts Source: NO1
+reft point:0x2800
+refp 19.061947 68.693739
+crds 19.060266 68.692324
+
+text:0x3
+angl -295.261
+scle 0.811111
+algn S
+name Rebisorda
+opts Source: NO1
+reft point:0x2800
+refp 19.223850 68.939206
+crds 19.220348 68.939263
+
+text:0x3
+angl -292.769
+scle 1.3
+algn S
+name Dividalen
+opts Source: NO1
+reft point:0x2800
+refp 19.556818 68.884437
+crds 19.581461 68.878039
+
+text:0x3
+angl -290.028
+scle 0.9
+algn S
+name Giimmariehppi
+opts Source: NO1
+reft point:0x2800
+refp 19.467865 68.736986
+crds 19.471781 68.737095
+
+text:0x3
+angl -289.714
+scle 0.75
+algn S
+name Likkášalbmi
+opts Source: NO1
+reft point:0x2800
+refp 19.806846 68.922197
+crds 19.810553 68.924172
+
+text:0x3
+angl -287.599
+algn S
+name Sørdalen
+opts Source: NO1
+reft point:0x2800
+refp 19.681908 68.944937
+crds 19.694545 68.943607
+
+text:0x3
+angl -287.583
+scle 0.9
+algn S
+name Ávhlevuopmi
+opts Source: NO1
+reft point:0x2800
+refp 19.669124 68.940511
+crds 19.664992 68.940052
+
+text:0x3
+angl -285.284
+scle 0.866667
+algn S
+name Revelvskardet
+opts Source: NO1
+reft point:0x2800
+refp 19.199371 68.971998
+crds 19.197772 68.965918
+
+text:0x3
+angl -283.766
+scle 1.08333
+algn S
+name Skjerdalen
+opts Source: NO1
+reft point:0x2800
+refp 19.062490 68.974900
+crds 19.066732 68.971830
+
+text:0x3
+angl -283.632
+scle 0.7
+name Haredalen
+opts Source: NO1
+reft point:0x2800
+refp 19.852359 68.992911
+crds 19.845156 68.999468
+
+text:0x3
+angl -282.724
+scle 0.866667
+algn S
+name Revelvdalen
+opts Source: NO1
+reft point:0x2800
+refp 19.230555 68.940293
+crds 19.239325 68.940946
+
+text:0x3
+angl -275.415
+scle 0.866667
+algn S
+name Čunočahca
+opts Source: NO1
+reft point:0x2800
+refp 19.062920 68.744236
+crds 19.056289 68.743830
+
+text:0x3
+angl -85.3559
+scle 0.9
+algn S
+name Alappskardet
+opts Source: NO1
+reft point:0x2800
+refp 19.108950 68.932995
+crds 19.117811 68.933944
+
+text:0x3
+angl -83.6377
+scle 0.75
+name Skjerdalen
+opts Source: NO1
+reft point:0x2800
+refp 19.774374 68.759382
+crds 19.780139 68.755949
+
+text:0x3
+angl -80.4617
+scle 0.866667
+algn S
+name Svensaskardet
+opts Source: NO1
+reft point:0x2800
+refp 18.998713 68.874005
+crds 19.007767 68.872764
+
+text:0x3
+angl -80.3112
+scle 0.8
+algn S
+name Kugruba
+opts Source: NO1
+reft point:0x2800
+refp 19.177127 68.882804
+crds 19.169242 68.882915
+
+text:0x3
+angl -80.2359
+scle 0.866667
+algn S
+name Iccariehppi
+opts Source: NO1
+reft point:0x2800
+refp 19.242246 68.890931
+crds 19.249945 68.888611
+
+text:0x3
+angl -75.3525
+scle 0.9
+algn S
+name Sauskardet
+opts Source: NO1
+reft point:0x2800
+refp 19.122388 68.815327
+crds 19.121999 68.812258
+
+text:0x3
+angl -75.257
+scle 0.75
+algn S
+name Máttačahca
+opts Source: NO1
+reft point:0x2800
+refp 19.215950 68.742586
+crds 19.223526 68.742889
+
+text:0x3
+angl -74.6465
+scle 0.866667
+algn S
+name Gironriehppi
+opts Source: NO1
+reft point:0x2800
+refp 19.880390 68.883951
+crds 19.879672 68.881401
+
+text:0x3
+angl -70.4393
+scle 1.08333
+algn S
+name Altevasskardet
+opts Source: NO1
+reft point:0x2800
+refp 19.028877 68.799765
+crds 19.026668 68.802198
+
+text:0x3
+angl -70.2113
+scle 0.866667
+algn S
+name Lappskardet
+opts Source: NO1
+reft point:0x2800
+refp 19.276775 68.823671
+crds 19.271422 68.820971
+
+text:0x3
+angl -55.3925
+scle 0.75
+algn S
+name Vesljordsætra
+opts Source: NO1
+reft point:0x2800
+refp 19.075100 68.898611
+crds 19.078131 68.900941
+
+text:0x3
+angl -55.0929
+scle 0.75
+algn S
+name Suppelvskardet
+opts Source: NO1
+reft point:0x2800
+refp 19.394348 68.856244
+crds 19.398701 68.852788
+
+text:0x3
+angl -49.9324
+scle 0.866667
+algn S
+name Orusgorsa
+opts Source: NO1
+reft point:0x2800
+refp 19.558509 68.704317
+crds 19.573494 68.708295
+
+text:0x3
+angl -49.9218
+scle 0.9
+algn S
+name Idjariehppi
+opts Source: NO1
+reft point:0x2800
+refp 19.580910 68.759523
+crds 19.585302 68.756738
+
+text:0x3
+angl -47.6042
+scle 0.9
+name Guovdelasvuopmi
+opts Source: NO1
+reft point:0x2800
+refp 19.297989 68.932334
+crds 19.297989 68.932334
+
+text:0x3
+angl -45.3295
+scle 1.08333
+algn S
+name Strømskardet
+opts Source: NO1
+reft point:0x2800
+refp 19.147704 68.683385
+crds 19.145038 68.686546
+
+text:0x3
+angl -45.3274
+scle 0.866667
+algn S
+name Sivertskaret
+opts Source: NO1
+reft point:0x2800
+refp 19.144679 68.911408
+crds 19.150049 68.908814
+
+text:0x3
+angl -39.9043
+scle 0.866667
+algn S
+name Orusgorsa
+opts Source: NO1
+reft point:0x2800
+refp 19.591935 68.766809
+crds 19.587763 68.767992
+
+text:0x3
+angl -39.2134
+scle 0.75
+algn S
+name Nattfossdalen
+opts Source: NO1
+reft point:0x2800
+refp 19.542204 68.749008
+crds 19.555346 68.749778
+
+text:0x3
+angl -34.5605
+scle 0.9
+algn S
+name Áslatčahca
+opts Source: NO1
+reft point:0x2800
+refp 19.969931 68.873358
+crds 19.973701 68.871284
+
+text:0x3
+angl -30.0272
+scle 0.9
+algn S
+name Høgskardet
+opts Source: NO1
+reft point:0x2800
+refp 19.470630 68.822956
+crds 19.468695 68.825185
+
+text:0x3
+angl -26.7295
+scle 0.866667
+algn S
+name Gaskkasvággi
+opts Source: NO1
+reft point:0x2800
+refp 19.249573 68.758677
+crds 19.252302 68.761819
+
+text:0x3
+angl -26.6993
+scle 0.9
+algn S
+name Čuohpadanvággi
+opts Source: NO1
+reft point:0x2800
+refp 19.483702 68.818602
+crds 19.488151 68.816761
+
+text:0x3
+angl -26.5703
+scle 0.866667
+algn S
+name Tverrelvdalen
+opts Source: NO1
+reft point:0x2800
+refp 19.852398 68.985337
+crds 19.873499 68.987357
+
+text:0x3
+angl -24.87
+scle 0.916667
+algn S
+name Saratrøa
+opts Source: NO1
+reft point:0x2800
+refp 19.632709 68.936462
+crds 19.638391 68.937705
+
+text:0x3
+angl -20.3467
+scle 0.75
+algn S
+name Bjørkåssætra
+opts Source: NO1
+reft point:0x2800
+refp 19.134062 68.858729
+crds 19.130643 68.855465
+
+text:0x3
+angl -20.2679
+scle 0.75
+algn S
+name Sávzariehppi
+opts Source: NO1
+reft point:0x2800
+refp 19.230893 68.866945
+crds 19.215249 68.866664
+
+text:0x3
+angl -20.009
+scle 0.75
+algn S
+name Lulit Gussariehppi
+opts Source: NO1
+reft point:0x2800
+refp 19.473356 68.865757
+crds 19.492817 68.865189
+
+text:0x3
+angl -15.134
+scle 0.866667
+algn S
+name Beagašančahca
+opts Source: NO1
+reft point:0x2800
+refp 19.350481 68.817423
+crds 19.356176 68.817059
+
+text:0x3
+angl -14.8043
+scle 0.9
+algn S
+name Buoiddesorda
+opts Source: NO1
+reft point:0x2800
+refp 19.707117 68.828641
+crds 19.709908 68.828624
+
+text:0x3
+angl -10.4045
+scle 0.866667
+algn S
+name Geađggesbahta
+opts Source: NO1
+reft point:0x2800
+refp 19.076324 68.831534
+crds 19.070437 68.833112
+
+text:0x3
+angl -10.1176
+scle 0.75
+name Reinmerkarodden
+opts Source: NO1
+reft point:0x2800
+refp 19.368390 68.829868
+crds 19.374005 68.829942
+
+text:0x3
+angl -9.55945
+scle 0.75
+algn S
+name Fjellfrøsskardet
+opts Source: NO1
+reft point:0x2800
+refp 19.971244 68.996753
+crds 19.971507 68.994148
+
+text:0x3
+angl -5.37928
+scle 0.75
+algn S
+name Kvelvet
+opts Source: NO1
+reft point:0x2800
+refp 19.094474 68.866598
+crds 19.095790 68.866541
+
+text:0x3
+angl -5.33445
+scle 1.08333
+algn S
+name Lappskardet
+opts Source: NO1
+reft point:0x2800
+refp 19.157902 68.864885
+crds 19.143914 68.867366
+
+text:0x3
+angl -4.73244
+scle 0.9
+name Gárasvuopmi
+opts Source: NO1
+reft point:0x2800
+refp 19.930181 68.776400
+crds 19.931378 68.776330
+
+text:0x4
+scle 0.75
+name Alapvatnet
+opts Source: NO1
+reft point:0x650c
+refp 19.112233 68.951534
+crds 19.111936 68.949947
+
+text:0x4
+scle 0.75
+name Brennskogtjønna
+opts Source: NO1
+reft point:0x650c
+refp 19.590105 68.859374
+crds 19.598282 68.859902
+
+text:0x4
+scle 0.75
+name Gaskkasjávri
+opts Source: NO1
+reft point:0x650c
+refp 19.259703 68.695513
+crds 19.250788 68.690539
+
+text:0x4
+scle 0.75
+name Grunnvatnet
+opts Source: NO1
+reft point:0x650c
+refp 19.136288 68.954004
+crds 19.132462 68.955192
+
+text:0x4
+scle 0.75
+name Kugrubtjørna
+opts Source: NO1
+reft point:0x650c
+refp 19.178876 68.876951
+crds 19.180195 68.878076
+
+text:0x4
+scle 0.75
+name Langfjelltjønna
+opts Source: NO1
+reft point:0x650c
+refp 19.373897 68.935603
+crds 19.382549 68.933197
+
+text:0x4
+scle 0.75
+name Midttjønna
+opts Source: NO1
+reft point:0x650c
+refp 19.420391 68.987920
+crds 19.421102 68.990053
+
+text:0x4
+scle 0.75
+name Máttajávri
+opts Source: NO1
+reft point:0x650c
+refp 19.234756 68.774726
+crds 19.244113 68.776469
+
+text:0x4
+scle 0.75
+name Oppivatnet
+opts Source: NO1
+reft point:0x650c
+refp 19.072748 68.947445
+crds 19.075710 68.946354
+
+text:0x4
+scle 0.75
+name Riittájávri
+opts Source: NO1
+reft point:0x650c
+refp 19.977074 68.788388
+crds 19.973340 68.787155
+
+text:0x4
+scle 0.75
+name Rutvatnet
+opts Source: NO1
+reft point:0x650c
+refp 19.279027 68.949914
+crds 19.284120 68.948161
+
+text:0x4
+scle 0.75
+name Råttjønna
+opts Source: NO1
+reft point:0x650c
+refp 19.480581 68.982628
+crds 19.477011 68.984552
+
+text:0x4
+scle 0.75
+name Sivertvatnet
+opts Source: NO1
+reft point:0x650c
+refp 19.162905 68.922159
+crds 19.163882 68.922965
+
+text:0x4
+scle 0.75
+name Skjerbekktjønna
+opts Source: NO1
+reft point:0x650c
+refp 19.037832 68.972548
+crds 19.027579 68.971507
+
+text:0x4
+scle 0.75
+name Tjønna
+opts Source: NO1
+reft point:0x650c
+refp 19.534798 68.952140
+crds 19.538398 68.954012
+
+text:0x4
+scle 0.75
+name Tømmertjønna
+opts Source: NO1
+reft point:0x650c
+refp 19.289484 68.997801
+crds 19.297620 68.998297
+
+text:0x4
+scle 0.75
+name Veslvatnet
+opts Source: NO1
+reft point:0x650c
+refp 19.488847 68.992631
+crds 19.491659 68.992801
+
+text:0x4
+scle 0.75
+name Čavárejávrrit
+opts Source: NO1
+reft point:0x650c
+refp 19.605283 68.943804
+crds 19.601095 68.944863
+
+text:0x4
+scle 0.75
+algn SE
+name Beassetjávri
+opts Source: NO1
+reft point:0x650c
+refp 19.994461 68.672014
+crds 19.986794 68.675612
+
+text:0x4
+scle 0.75
+algn SE
+name Bjørkmotjønna
+opts Source: NO1
+reft point:0x650c
+refp 19.711949 68.755388
+crds 19.716789 68.754548
+
+text:0x4
+scle 0.75
+algn SE
+name Gádjajávri
+opts Source: NO1
+reft point:0x650c
+refp 19.984597 68.803839
+crds 19.994831 68.806099
+
+text:0x4
+scle 0.75
+algn SE
+name Jierdnejávri
+opts Source: NO1
+reft point:0x650c
+refp 19.290465 68.692622
+crds 19.302713 68.696345
+
+text:0x4
+scle 0.75
+algn SE
+name Nedre Divifossen
+opts Source: NO1
+reft point:0x6508
+refp 19.606260 68.831590
+crds 19.608894 68.829376
+
+text:0x4
+scle 0.75
+algn SE
+name Neråstjønna
+opts Source: NO1
+reft point:0x650c
+refp 19.393186 68.998806
+crds 19.424183 68.997923
+
+text:0x4
+scle 0.75
+algn SE
+name Ryplarstjønna
+opts Source: NO1
+reft point:0x650c
+refp 19.446598 68.979611
+crds 19.455660 68.976500
+
+text:0x4
+scle 0.75
+algn SE
+name Storbekkvatnet
+opts Source: NO1
+reft point:0x650c
+refp 19.175036 68.945718
+crds 19.190361 68.944848
+
+text:0x4
+scle 0.75
+algn SE
+name Øvre Divifoss
+opts Source: NO1
+reft point:0x6508
+refp 19.746920 68.732070
+crds 19.743561 68.731482
+
+text:0x4
+scle 0.75
+algn S
+name Bjønnbekktjønna
+opts Source: NO1
+reft point:0x650c
+refp 19.645375 68.803408
+crds 19.638659 68.803656
+
+text:0x4
+scle 0.75
+algn S
+name Tomasfossen
+opts Source: NO1
+reft point:0x6508
+refp 19.775390 68.962760
+crds 19.786734 68.965570
+
+text:0x4
+scle 0.75
+algn S
+name Unna Vuomajávrráš
+opts Source: NO1
+reft point:0x650c
+refp 19.430824 68.678600
+crds 19.425217 68.677158
+
+text:0x4
+scle 0.75
+algn S
+name Urdvatnet
+opts Source: NO1
+reft point:0x650c
+refp 19.158648 68.949578
+crds 19.154980 68.947151
+
+text:0x4
+scle 0.75
+algn S
+name Vidjebukta
+opts Source: NO1
+reft point:0x650c
+refp 19.663264 68.979895
+crds 19.649643 68.980287
+
+text:0x4
+scle 0.8
+name Fremste Lappskardvatn
+opts Source: NO1
+reft point:0x650c
+refp 19.223850 68.842905
+crds 19.223206 68.843967
+
+text:0x4
+scle 0.8
+name Indre Lappskardvatn
+opts Source: NO1
+reft point:0x650c
+refp 19.278215 68.814240
+crds 19.281080 68.819210
+
+text:0x4
+scle 0.8
+name Lappskardvatn
+opts Source: NO1
+reft point:0x650c
+refp 19.276450 68.835958
+crds 19.263995 68.840702
+
+text:0x4
+scle 0.833333
+algn S
+name Likkájiehkki
+opts Source: NO1
+reft point:0x650c
+refp 19.893169 68.927284
+crds 19.893811 68.921710
+
+text:0x4
+scle 0.9
+name Golggotjávrrit
+opts Source: NO1
+reft point:0x650c
+refp 19.912910 68.744100
+crds 19.913728 68.740893
+
+text:0x4
+scle 0.916667
+name Anjavatnet
+opts Source: NO1
+reft point:0x650c
+refp 19.396101 68.723529
+crds 19.378757 68.726257
+
+text:0x4
+scle 0.916667
+name Høgskardvatnet
+opts Source: NO1
+reft point:0x650c
+refp 19.443868 68.810643
+crds 19.440200 68.807468
+
+text:0x4
+scle 0.916667
+name Sauskardvatnet
+opts Source: NO1
+reft point:0x650c
+refp 19.124628 68.798716
+crds 19.124840 68.794017
+
+text:0x4
+scle 0.916667
+name Storvatnet
+opts Source: NO1
+reft point:0x650c
+refp 19.332491 68.982599
+crds 19.315112 68.985289
+
+text:0x4
+scle 0.916667
+name Vuomajávri
+opts Source: NO1
+reft point:0x650c
+refp 19.512731 68.667836
+crds 19.514595 68.667591
+
+text:0x4
+scle 0.916667
+algn SE
+name Geibbaluobbalat
+opts Source: NO1
+reft point:0x650c
+refp 19.429652 68.673139
+crds 19.434265 68.671445
+
+text:0x4
+scle 0.916667
+algn SE
+name Gárasjávri
+opts Source: NO1
+reft point:0x650c
+refp 19.917499 68.773537
+crds 19.917499 68.773537
+
+text:0x4
+scle 0.916667
+algn SE
+name Strømskardvatnan
+opts Source: NO1
+reft point:0x650c
+refp 19.182256 68.712024
+crds 19.182256 68.712024
+
+text:0x4
+scle 0.916667
+algn S
+name Lulimus Riehpejávri
+opts Source: NO1
+reft point:0x650c
+refp 19.425754 68.826765
+crds 19.436931 68.834440
+
+text:0x4
+scle 0.916667
+algn S
+name Tindtjønna
+opts Source: NO1
+reft point:0x650c
+refp 19.117931 68.771742
+crds 19.146459 68.773544
+
+text:0x4
+scle 0.916667
+algn S
+name Áslatjávri
+opts Source: NO1
+reft point:0x650c
+refp 19.980055 68.896597
+crds 19.979625 68.902645
+
+text:0x4
+scle 1.06667
+algn S
+name Dødesvatnet
+opts Source: NO1
+reft point:0x650c
+refp 19.695938 68.881686
+crds 19.694856 68.878126
+
+text:0x4
+angl -358.857
+scle 0.916667
+algn S
+name Fiskløyselva
+opts Source: NO1
+reft point:0x650c
+refp 19.233946 68.683296
+crds 19.207495 68.688279
+
+text:0x4
+angl -358.325
+scle 0.916667
+algn S
+name Kvennelva
+opts Source: NO1
+reft point:0x650c
+refp 19.732488 68.790327
+crds 19.711128 68.794617
+
+text:0x4
+angl -356.588
+scle 0.916667
+algn S
+name Alapelva
+opts Source: NO1
+reft point:0x650c
+refp 19.024452 68.991212
+crds 19.015187 68.990138
+
+text:0x4
+angl -356.499
+scle 0.916667
+algn S
+name Sæterelva
+opts Source: NO1
+reft point:0x650c
+refp 19.001510 68.826260
+crds 19.015354 68.831370
+
+text:0x4
+angl -353.583
+scle 0.916667
+algn S
+name Tverrelva
+opts Source: NO1
+reft point:0x650c
+refp 19.617524 68.932532
+crds 19.643157 68.929574
+
+text:0x4
+angl -353.582
+scle 1.2
+algn S
+name Rostaelva
+opts Source: NO1
+reft point:0x650c
+refp 19.791532 68.963491
+crds 19.840268 68.963301
+
+text:0x4
+angl -353.58
+scle 0.916667
+algn S
+name Beagašanjohka
+opts Source: NO1
+reft point:0x650c
+refp 19.356244 68.807486
+crds 19.374679 68.808070
+
+text:0x4
+angl -353.521
+scle 0.75
+algn S
+name Brubekkan
+opts Source: NO1
+reft point:0x650c
+refp 19.101022 68.885790
+crds 19.102243 68.885302
+
+text:0x4
+angl -341.114
+scle 0.916667
+algn S
+name Benelva
+opts Source: NO1
+reft point:0x650c
+refp 19.301179 68.974797
+crds 19.303827 68.974998
+
+text:0x4
+angl -340.669
+scle 0.75
+algn S
+name Tverrelva
+opts Source: NO1
+reft point:0x650c
+refp 19.490613 68.922412
+crds 19.452446 68.924447
+
+text:0x4
+angl -340.606
+scle 0.75
+algn S
+name Máttajohka
+opts Source: NO1
+reft point:0x650c
+refp 19.302831 68.764591
+crds 19.317722 68.764133
+
+text:0x4
+angl -337.732
+scle 1.06667
+algn S
+name Devddesvuomejohka
+opts Source: NO1
+reft point:0x650c
+refp 19.779673 68.864743
+crds 19.774761 68.863195
+
+text:0x4
+angl -334.707
+scle 0.75
+name Åsbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.088156 68.982346
+crds 19.087571 68.981603
+
+text:0x4
+angl -334.634
+scle 0.75
+algn S
+name Rutbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.297649 68.953979
+crds 19.312562 68.952577
+
+text:0x4
+angl -328.538
+scle 1.2
+algn S
+name Anjavasselva
+opts Source: NO1
+reft point:0x650c
+refp 19.500950 68.692498
+crds 19.531468 68.681853
+
+text:0x4
+angl -327.579
+scle 0.75
+algn S
+name Tømmerelva
+opts Source: NO1
+reft point:0x650c
+refp 19.681734 68.988256
+crds 19.689798 68.984590
+
+text:0x4
+angl -324.35
+scle 0.75
+algn S
+name Veslelva
+opts Source: NO1
+reft point:0x650c
+refp 19.282050 68.987493
+crds 19.283672 68.987981
+
+text:0x4
+angl -323.824
+scle 0.75
+name Skjerbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.008098 68.980092
+crds 19.003922 68.982555
+
+text:0x4
+angl -319.285
+scle 0.916667
+algn S
+name Skaktarelva
+opts Source: NO1
+reft point:0x650c
+refp 19.814199 68.735950
+crds 19.801740 68.740751
+
+text:0x4
+angl -318.662
+scle 0.75
+algn S
+name Neråsbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.409520 68.992883
+crds 19.402383 68.992533
+
+text:0x4
+angl -314.527
+scle 0.75
+algn S
+name Bjønnelva
+opts Source: NO1
+reft point:0x650c
+refp 19.781559 68.984844
+crds 19.776192 68.982839
+
+text:0x4
+angl -312.66
+scle 1.2
+algn S
+name Divielva
+opts Source: NO1
+reft point:0x650c
+refp 19.652719 68.818268
+crds 19.619437 68.822178
+
+text:0x4
+angl -308.71
+scle 0.75
+algn S
+name Storbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.691444 68.956244
+crds 19.696588 68.955318
+
+text:0x4
+angl -307.642
+scle 0.916667
+algn S
+name Ruollajohka
+opts Source: NO1
+reft point:0x650c
+refp 19.991579 68.958096
+crds 19.976192 68.964212
+
+text:0x4
+angl -300.148
+scle 0.916667
+algn S
+name Sandelvvatnet
+opts Source: NO1
+reft point:0x650c
+refp 19.359515 68.834192
+crds 19.342342 68.833880
+
+text:0x4
+angl -299.62
+scle 0.916667
+algn S
+name Leađđojohka
+opts Source: NO1
+reft point:0x650c
+refp 19.384058 68.816409
+crds 19.391966 68.819656
+
+text:0x4
+angl -299.57
+scle 0.916667
+algn S
+name Linkojávrrit
+opts Source: NO1
+reft point:0x650c
+refp 19.952509 68.791183
+crds 19.961848 68.787406
+
+text:0x4
+angl -299.006
+scle 0.75
+algn S
+name Storbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.075537 68.975262
+crds 19.070686 68.976681
+
+text:0x4
+angl -297.609
+scle 0.916667
+algn S
+name Čievččasjohka
+opts Source: NO1
+reft point:0x650c
+refp 19.878012 68.844706
+crds 19.877414 68.839670
+
+text:0x4
+angl -297.464
+scle 0.75
+algn S
+name Kvannbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.076393 68.980660
+crds 19.078414 68.978712
+
+text:0x4
+angl -292.759
+scle 1.2
+algn S
+name Divielva
+opts Source: NO1
+reft point:0x650c
+refp 19.652719 68.818268
+crds 19.513102 68.911784
+
+text:0x4
+angl -287.588
+scle 0.75
+algn S
+name Tverrelva
+opts Source: NO1
+reft point:0x650c
+refp 19.786068 68.956803
+crds 19.789997 68.947915
+
+text:0x4
+angl -287.532
+scle 1.2
+algn S
+name Divielva
+opts Source: NO1
+reft point:0x650c
+refp 19.652719 68.818268
+crds 19.751846 68.702424
+
+text:0x4
+angl -283.95
+scle 0.75
+algn S
+name Revelva
+opts Source: NO1
+reft point:0x650c
+refp 19.209501 68.974546
+crds 19.208141 68.974283
+
+text:0x4
+angl -282.632
+scle 0.75
+algn S
+name Vollelva
+opts Source: NO1
+reft point:0x650c
+refp 19.800846 68.989531
+crds 19.804353 68.988688
+
+text:0x4
+angl -279.614
+scle 0.916667
+algn S
+name Sørdalselva
+opts Source: NO1
+reft point:0x650c
+refp 19.673093 68.955743
+crds 19.661275 68.954598
+
+text:0x4
+angl -278.209
+scle 0.916667
+algn S
+name Gárasjohka
+opts Source: NO1
+reft point:0x650c
+refp 19.910508 68.789834
+crds 19.919327 68.790425
+
+text:0x4
+angl -277.691
+scle 0.75
+algn S
+name Rasbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.622460 68.767526
+crds 19.627097 68.764799
+
+text:0x4
+angl -271.815
+scle 0.75
+algn S
+name Trebekkan
+opts Source: NO1
+reft point:0x650c
+refp 19.340283 68.938363
+crds 19.337393 68.929754
+
+text:0x4
+angl -83.5196
+scle 0.75
+name Storbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.760538 68.949543
+crds 19.759499 68.945991
+
+text:0x4
+angl -82.598
+scle 1.06667
+algn S
+name Čunojohka
+opts Source: NO1
+reft point:0x650c
+refp 19.047576 68.812474
+crds 19.044755 68.814060
+
+text:0x4
+angl -77.627
+scle 0.75
+algn S
+name Sávzariehpejohka
+opts Source: NO1
+reft point:0x650c
+refp 19.138779 68.816588
+crds 19.134343 68.808400
+
+text:0x4
+angl -76.1101
+scle 0.75
+algn S
+name Sprutbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.116756 68.973967
+crds 19.122652 68.971326
+
+text:0x4
+angl -75.6115
+scle 0.75
+algn S
+name Storbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.418494 68.983802
+crds 19.412003 68.975148
+
+text:0x4
+angl -73.6594
+scle 0.75
+algn S
+name Henrikelva
+opts Source: NO1
+reft point:0x650c
+refp 19.373594 68.991383
+crds 19.385059 68.992901
+
+text:0x4
+angl -62.6173
+scle 0.75
+name Geimmojohka
+opts Source: NO1
+reft point:0x650c
+refp 19.422881 68.716994
+crds 19.425296 68.719850
+
+text:0x4
+angl -61.6232
+scle 0.75
+algn S
+name Gáicanjira
+opts Source: NO1
+reft point:0x650c
+refp 19.402398 68.705857
+crds 19.392513 68.705828
+
+text:0x4
+angl -59.365
+scle 0.75
+algn S
+name Storbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.186128 68.951741
+crds 19.193443 68.954237
+
+text:0x4
+angl -55.5916
+scle 0.916667
+algn S
+name Gironjohka
+opts Source: NO1
+reft point:0x650c
+refp 19.848361 68.873045
+crds 19.859413 68.882401
+
+text:0x4
+angl -54.604
+scle 0.916667
+algn S
+name Tverrelva
+opts Source: NO1
+reft point:0x650c
+refp 19.091906 68.900241
+crds 19.094251 68.899267
+
+text:0x4
+angl -45.4898
+scle 0.75
+algn S
+name Sivertskardelva
+opts Source: NO1
+reft point:0x650c
+refp 19.140829 68.914044
+crds 19.135741 68.914501
+
+text:0x4
+angl -44.9927
+scle 0.75
+algn S
+name Svensatverrelva
+opts Source: NO1
+reft point:0x650c
+refp 19.003908 68.882321
+crds 19.011025 68.882773
+
+text:0x4
+angl -43.2231
+scle 0.75
+algn S
+name Klevbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.692116 68.803341
+crds 19.696550 68.801268
+
+text:0x4
+angl -40.6189
+scle 0.75
+algn S
+name Storbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.529022 68.860023
+crds 19.516657 68.856842
+
+text:0x4
+angl -36.7966
+scle 0.75
+algn S
+name Per Andersa-bekken
+opts Source: NO1
+reft point:0x650c
+refp 19.186346 68.969773
+crds 19.180945 68.971445
+
+text:0x4
+angl -36.2234
+scle 0.916667
+algn S
+name Tverrelva
+opts Source: NO1
+reft point:0x650c
+refp 19.832386 68.989249
+crds 19.831951 68.989235
+
+text:0x4
+angl -33.7356
+scle 0.916667
+algn S
+name Nattfosselva
+opts Source: NO1
+reft point:0x650c
+refp 19.548841 68.752442
+crds 19.548546 68.754103
+
+text:0x4
+angl -33.0672
+scle 0.75
+algn S
+name Steinvollbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.429324 68.950050
+crds 19.425629 68.948979
+
+text:0x4
+angl -30.4676
+scle 0.75
+algn S
+name Tverrelva
+opts Source: NO1
+reft point:0x650c
+refp 19.066649 68.856132
+crds 19.066653 68.857545
+
+text:0x4
+angl -29.6317
+scle 0.75
+algn S
+name Labekken
+opts Source: NO1
+reft point:0x650c
+refp 19.043118 68.871044
+crds 19.048549 68.871303
+
+text:0x4
+angl -29.5764
+scle 0.916667
+algn S
+name Sleppelva
+opts Source: NO1
+reft point:0x650c
+refp 19.677897 68.823592
+crds 19.683116 68.820926
+
+text:0x4
+angl -28.5225
+scle 0.75
+algn S
+name Njirranjohka
+opts Source: NO1
+reft point:0x650c
+refp 19.340156 68.721303
+crds 19.344728 68.720752
+
+text:0x4
+angl -27.8299
+scle 0.916667
+algn S
+name Dødeselva
+opts Source: NO1
+reft point:0x650c
+refp 19.629051 68.855391
+crds 19.627809 68.850519
+
+text:0x4
+angl -26.9032
+scle 0.916667
+algn S
+name Høgskarelva
+opts Source: NO1
+reft point:0x650c
+refp 19.521338 68.831069
+crds 19.521436 68.833852
+
+text:0x4
+angl -26.7158
+scle 0.75
+algn S
+name Sagbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.519651 68.953935
+crds 19.508635 68.952741
+
+text:0x4
+angl -26.5819
+scle 0.916667
+algn S
+name Aslakelva
+opts Source: NO1
+reft point:0x650c
+refp 19.920439 68.859848
+crds 19.930865 68.857771
+
+text:0x4
+angl -26.5644
+scle 0.916667
+algn S
+name Bjellebekken
+opts Source: NO1
+reft point:0x650c
+refp 19.746732 68.900429
+crds 19.793375 68.910098
+
+text:0x4
+angl -25.6714
+scle 0.916667
+algn S
+name Suppelva
+opts Source: NO1
+reft point:0x650c
+refp 19.505694 68.871739
+crds 19.503527 68.873018
+
+text:0x4
+angl -24.5853
+scle 0.75
+algn S
+name Skjerbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.689417 68.757804
+crds 19.683974 68.758392
+
+text:0x4
+angl -21.8373
+scle 0.75
+algn S
+name Lappskardelva
+opts Source: NO1
+reft point:0x650c
+refp 19.109805 68.855398
+crds 19.111230 68.854944
+
+text:0x4
+angl -21.7828
+scle 0.75
+algn S
+name Lombolbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.562654 68.887226
+crds 19.564589 68.888305
+
+text:0x4
+angl -18.8972
+scle 0.75
+algn S
+name Hagembekken
+opts Source: NO1
+reft point:0x650c
+refp 19.776832 68.712970
+crds 19.792783 68.714968
+
+text:0x4
+angl -17.6478
+scle 0.75
+algn S
+name Gambekken
+opts Source: NO1
+reft point:0x650c
+refp 19.777362 68.730767
+crds 19.793309 68.729969
+
+text:0x4
+angl -16.6291
+scle 1.06667
+algn S
+name Sandelva
+opts Source: NO1
+reft point:0x650c
+refp 19.483925 68.787762
+crds 19.473705 68.782336
+
+text:0x4
+angl -14.3189
+scle 0.75
+algn SE
+name Thomasbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.494181 68.940080
+crds 19.489633 68.939991
+
+text:0x4
+angl -14.0738
+scle 0.75
+algn S
+name Bjønnbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.633986 68.797983
+crds 19.629877 68.798564
+
+text:0x4
+angl -13.7698
+scle 0.75
+algn S
+name Slettbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.528745 68.930593
+crds 19.536094 68.934550
+
+text:0x4
+angl -11.131
+scle 0.916667
+algn S
+name Benelva
+opts Source: NO1
+reft point:0x650c
+refp 19.301179 68.974797
+crds 19.281634 68.925109
+
+text:0x4
+angl -10.6695
+scle 0.75
+algn S
+name Skredbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.573979 68.895650
+crds 19.560962 68.895538
+
+text:0x4
+angl -9.98427
+scle 0.75
+algn S
+name Tomasbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.105334 68.875545
+crds 19.109966 68.876575
+
+text:0x4
+angl -5.90854
+scle 0.75
+algn S
+name Rommabekken
+opts Source: NO1
+reft point:0x650c
+refp 19.430164 68.957350
+crds 19.444610 68.958568
+
+text:0x4
+angl -5.58893
+scle 0.75
+algn S
+name Geibbajohka
+opts Source: NO1
+reft point:0x650c
+refp 19.438535 68.668763
+crds 19.458723 68.673524
+
+text:0x4
+angl -5.53679
+scle 0.75
+algn S
+name Sagelva
+opts Source: NO1
+reft point:0x650c
+refp 19.009132 68.928140
+crds 19.007640 68.930553
+
+text:0x4
+angl -4.57157
+scle 0.916667
+algn S
+name Kuelva
+opts Source: NO1
+reft point:0x650c
+refp 19.503083 68.898581
+crds 19.495237 68.899333
+
+text:0x4
+angl -0.658105
+scle 0.75
+algn S
+name Storbekken
+opts Source: NO1
+reft point:0x650c
+refp 19.506522 68.959608
+crds 19.508305 68.960530
+
+text:0x5
+scle 0.8
+name Godjit
+opts Source: NO1
+reft point:0x1100
+refp 19.699240 68.904760
+crds 19.701658 68.903398
+
+text:0x5
+scle 0.8
+algn S
+name Brattkammen
+opts Source: NO1
+reft point:0x1100
+refp 19.205510 68.996990
+crds 19.208209 68.998366
+
+text:0x5
+scle 0.8
+algn S
+name Skaktaråsen
+opts Source: NO1
+reft point:0x1100
+refp 19.776970 68.739420
+crds 19.775394 68.740995
+
+text:0x5
+scle 0.8
+algn S
+name Skjeggefjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.330690 68.994490
+crds 19.335119 68.996425
+
+text:0x5
+scle 0.9
+algn S
+name Skarhaugen
+opts Source: NO1
+reft point:0x1100
+refp 19.078790 68.990960
+crds 19.082043 68.989219
+
+text:0x5
+scle 0.9
+algn S
+name Sæteråsen
+opts Source: NO1
+reft point:0x1100
+refp 19.098670 68.987680
+crds 19.103404 68.989808
+
+text:0x5
+name 1027
+opts Source: NO1
+reft point:0xf00
+refp 19.951220 68.968190
+crds 19.954220 68.968190
+
+text:0x5
+name 1031
+opts Source: NO1
+reft point:0xf00
+refp 19.029099 68.873466
+crds 19.032099 68.873466
+
+text:0x5
+name 1065
+opts Source: NO1
+reft point:0xf00
+refp 19.031537 68.683307
+crds 19.034537 68.683307
+
+text:0x5
+name 1085
+opts Source: NO1
+reft point:0xf00
+refp 19.058066 68.838951
+crds 19.061066 68.838951
+
+text:0x5
+name 1094
+opts Source: NO1
+reft point:0xf00
+refp 19.860527 68.898103
+crds 19.864142 68.897850
+
+text:0x5
+name 1096
+opts Source: NO1
+reft point:0xf00
+refp 19.141920 68.962605
+crds 19.144920 68.962605
+
+text:0x5
+name 1140
+opts Source: NO1
+reft point:0xf00
+refp 19.652289 68.763330
+crds 19.655289 68.763330
+
+text:0x5
+name 1178
+opts Source: NO1
+reft point:0xf00
+refp 19.754409 68.931739
+crds 19.757409 68.931739
+
+text:0x5
+name 1182
+opts Source: NO1
+reft point:0xf00
+refp 19.824686 68.937847
+crds 19.820788 68.939134
+
+text:0x5
+name 1196
+opts Source: NO1
+reft point:0xf00
+refp 19.967418 68.913441
+crds 19.970224 68.913030
+
+text:0x5
+name 1200
+opts Source: NO1
+reft point:0xf00
+refp 19.118389 68.881636
+crds 19.117707 68.879281
+
+text:0x5
+name 1210
+opts Source: NO1
+reft point:0xf00
+refp 19.501929 68.845281
+crds 19.505563 68.845149
+
+text:0x5
+name 1260
+opts Source: NO1
+reft point:0xf00
+refp 19.765797 68.925582
+crds 19.768797 68.925582
+
+text:0x5
+name 1294
+opts Source: NO1
+reft point:0xf00
+refp 19.067304 68.911058
+crds 19.070304 68.911058
+
+text:0x5
+name 1327
+opts Source: NO1
+reft point:0xf00
+refp 19.243545 68.727388
+crds 19.246545 68.727388
+
+text:0x5
+name 1361
+opts Source: NO1
+reft point:0xf00
+refp 19.272159 68.947070
+crds 19.276048 68.946457
+
+text:0x5
+name 1372
+opts Source: NO1
+reft point:0xf00
+refp 19.015158 68.814203
+crds 19.018158 68.814203
+
+text:0x5
+name 1375
+opts Source: NO1
+reft point:0xf00
+refp 19.435792 68.855495
+crds 19.438792 68.855495
+
+text:0x5
+name 1425
+opts Source: NO1
+reft point:0xf00
+refp 19.130017 68.942782
+crds 19.134513 68.941809
+
+text:0x5
+name 1428
+opts Source: NO1
+reft point:0xf00
+refp 19.967193 68.702135
+crds 19.971032 68.701635
+
+text:0x5
+name 1464
+opts Source: NO1
+reft point:0xf00
+refp 19.613861 68.744263
+crds 19.616861 68.744263
+
+text:0x5
+name 1480
+opts Source: NO1
+reft point:0xf00
+refp 19.212691 68.891382
+crds 19.215691 68.891382
+
+text:0x5
+name 1486
+opts Source: NO1
+reft point:0xf00
+refp 19.010474 68.946500
+crds 19.013474 68.946500
+
+text:0x5
+name 1491
+opts Source: NO1
+reft point:0xf00
+refp 19.038997 68.949028
+crds 19.041997 68.949028
+
+text:0x5
+name 1498
+opts Source: NO1
+reft point:0xf00
+refp 19.105225 68.818560
+crds 19.108225 68.818560
+
+text:0x5
+name 1503
+opts Source: NO1
+reft point:0xf00
+refp 19.862793 68.922301
+crds 19.865793 68.922301
+
+text:0x5
+name 1505
+opts Source: NO1
+reft point:0xf00
+refp 19.336392 68.896138
+crds 19.339392 68.896138
+
+text:0x5
+name 1636
+opts Source: NO1
+reft point:0xf00
+refp 19.159056 68.797656
+crds 19.162056 68.797656
+
+text:0x5
+name 1677
+opts Source: NO1
+reft point:0xf00
+refp 19.102125 68.788057
+crds 19.105125 68.788057
+
+text:0x5
+name 1682
+opts Source: NO1
+reft point:0xf00
+refp 19.447172 68.743871
+crds 19.450172 68.743871
+
+text:0x5
+name 1717
+opts Source: NO1
+reft point:0xf00
+refp 19.488593 68.749364
+crds 19.491593 68.749364
+
+text:0x5
+name 281
+opts Source: NO1
+reft point:0xf00
+refp 19.103317 68.988415
+crds 19.106482 68.988421
+
+text:0x5
+name 383
+opts Source: NO1
+reft point:0xf00
+refp 19.094030 68.864597
+crds 19.097030 68.864597
+
+text:0x5
+name 447
+opts Source: NO1
+reft point:0xf00
+refp 19.330741 68.994626
+crds 19.335245 68.994533
+
+text:0x5
+name 453
+opts Source: NO1
+reft point:0xf00
+refp 19.505492 68.997292
+crds 19.509260 68.997243
+
+text:0x5
+name 509
+opts Source: NO1
+reft point:0xf00
+refp 19.042533 68.977797
+crds 19.045533 68.977797
+
+text:0x5
+name 593
+opts Source: NO1
+reft point:0xf00
+refp 19.825894 68.971402
+crds 19.829503 68.970235
+
+text:0x5
+name 680
+opts Source: NO1
+reft point:0xf00
+refp 19.132162 68.853150
+crds 19.135162 68.853150
+
+text:0x5
+name 689
+opts Source: NO1
+reft point:0xf00
+refp 19.719600 68.717055
+crds 19.723817 68.716110
+
+text:0x5
+name 695
+opts Source: NO1
+reft point:0xf00
+refp 19.566262 68.974588
+crds 19.569262 68.974588
+
+text:0x5
+name 763
+opts Source: NO1
+reft point:0xf00
+refp 19.779902 68.888136
+crds 19.784180 68.887583
+
+text:0x5
+name 784
+opts Source: NO1
+reft point:0xf00
+refp 19.560471 68.927848
+crds 19.563471 68.927848
+
+text:0x5
+name 792
+opts Source: NO1
+reft point:0xf00
+refp 19.475030 68.904912
+crds 19.478030 68.904912
+
+text:0x5
+name 848
+opts Source: NO1
+reft point:0xf00
+refp 19.606670 68.885425
+crds 19.609670 68.885425
+
+text:0x5
+name 853
+opts Source: NO1
+reft point:0xf00
+refp 19.480696 68.878616
+crds 19.484582 68.878436
+
+text:0x5
+name 855
+opts Source: NO1
+reft point:0xf00
+refp 19.074323 68.667829
+crds 19.077323 68.667829
+
+text:0x5
+name 90
+opts Source: NO1
+reft point:0xf00
+refp 19.029297 68.897236
+crds 19.027393 68.894931
+
+text:0x5
+name 935
+opts Source: NO1
+reft point:0xf00
+refp 19.755395 68.773439
+crds 19.756253 68.771027
+
+text:0x5
+name Bajit Riiddagierdu
+reft point:0x1100
+refp 19.246220 68.794080
+crds 19.248018 68.794082
+
+text:0x5
+name Bangfjellet
+reft point:0x1100
+refp 19.500870 68.804050
+crds 19.502965 68.804450
+
+text:0x5
+name Beagašangáisi
+opts Source: NO1
+reft point:0x1100
+refp 19.276430 68.848890
+crds 19.279421 68.847595
+
+text:0x5
+name Gamnesfjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.566450 68.974720
+crds 19.567783 68.976234
+
+text:0x5
+name Gironoaivi
+opts Source: NO1
+reft point:0x1100
+refp 19.860610 68.898100
+crds 19.855266 68.895976
+
+text:0x5
+name Gråhøgda
+opts Source: NO1
+reft point:0x1100
+refp 19.129950 68.942780
+crds 19.132716 68.943319
+
+text:0x5
+name Gáicačahca
+opts Source: NO1
+reft point:0x1100
+refp 19.334457 68.798922
+crds 19.336642 68.799372
+
+text:0x5
+name Høgskardfjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.465250 68.846080
+crds 19.456924 68.843271
+
+text:0x5
+name Høgskartinden
+opts Source: NO1
+reft point:0x1100
+refp 19.501920 68.845270
+crds 19.503963 68.843017
+
+text:0x5
+name Jerta
+opts Source: NO1
+reft point:0x1100
+refp 19.967200 68.702020
+crds 19.971069 68.703368
+
+text:0x5
+name Kuelvaksla
+opts Source: NO1
+reft point:0x1100
+refp 19.480610 68.878600
+crds 19.483476 68.880288
+
+text:0x5
+name Langfjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.402580 68.935200
+crds 19.407005 68.937456
+
+text:0x5
+name Låglikka
+opts Source: NO1
+reft point:0x1100
+refp 19.967360 68.913440
+crds 19.965481 68.911111
+
+text:0x5
+name Midtfjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.081960 68.938240
+crds 19.085155 68.939107
+
+text:0x5
+name Máttaoalgi
+opts Source: NO1
+reft point:0x1100
+refp 19.260690 68.742830
+crds 19.265520 68.743132
+
+text:0x5
+name Nesen
+opts Source: NO1
+reft point:0x1100
+refp 19.719550 68.716990
+crds 19.723233 68.718023
+
+text:0x5
+name Njuolasčohkka
+opts Source: NO1
+reft point:0x1100
+refp 19.007070 68.779870
+crds 18.999347 68.781023
+
+text:0x5
+name Skrubben
+reft point:0x1100
+refp 19.606570 68.885440
+crds 19.604425 68.887090
+
+text:0x5
+name Storfjellet
+reft point:0x1100
+refp 19.816910 68.769290
+crds 19.815173 68.770609
+
+text:0x5
+name Tverrfjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.121300 68.917960
+crds 19.121491 68.919550
+
+text:0x5
+algn SE
+name 624
+opts Source: NO1
+reft point:0xf00
+refp 19.777043 68.739384
+crds 19.773285 68.739066
+
+text:0x5
+algn SE
+name Bajit Čoarddavárri
+opts Source: NO1
+reft point:0x1100
+refp 19.252290 68.822180
+crds 19.260800 68.819940
+
+text:0x5
+algn SE
+name Bielloaivi
+opts Source: NO1
+reft point:0x1100
+refp 19.841000 68.906720
+crds 19.846725 68.904779
+
+text:0x5
+algn SE
+name Devdisfjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.762720 68.843970
+crds 19.768532 68.841072
+
+text:0x5
+algn SE
+name Goahtemuorgáisi
+opts Source: NO1
+reft point:0x1100
+refp 19.975870 68.988000
+crds 19.985729 68.989407
+
+text:0x5
+algn SE
+name Gråfjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.217350 68.888220
+crds 19.225553 68.886064
+
+text:0x5
+algn SE
+name Høglikka
+opts Source: NO1
+reft point:0x1100
+refp 19.863270 68.922350
+crds 19.876415 68.923901
+
+text:0x5
+algn SE
+name Mannen
+opts Source: NO1
+reft point:0x1100
+refp 19.457120 68.829290
+crds 19.458491 68.830641
+
+text:0x5
+algn SE
+name Mikkelifjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.951100 68.968190
+crds 19.962524 68.965565
+
+text:0x5
+algn SE
+name Regoheapmi
+opts Source: NO1
+reft point:0x1100
+refp 19.976160 68.841990
+crds 19.979323 68.840131
+
+text:0x5
+algn SE
+name Ruten
+opts Source: NO1
+reft point:0x1100
+refp 19.272110 68.947030
+crds 19.282048 68.944792
+
+text:0x5
+algn SE
+name Storvasshøgda
+opts Source: NO1
+reft point:0x1100
+refp 19.312520 68.977240
+crds 19.314501 68.978874
+
+text:0x5
+algn S
+name Alskkesvárri
+opts Source: NO1
+reft point:0x1100
+refp 19.818920 68.836580
+crds 19.827979 68.837897
+
+text:0x5
+algn S
+name Anaskåla
+opts Source: NO1
+reft point:0x1100
+refp 19.755460 68.773500
+crds 19.755317 68.775730
+
+text:0x5
+algn S
+name Beagašanoalgi
+opts Source: NO1
+reft point:0x1100
+refp 19.367530 68.815730
+crds 19.368976 68.813504
+
+text:0x5
+algn S
+name Boalagáisi
+opts Source: NO1
+reft point:0x1100
+refp 19.148870 68.881980
+crds 19.148627 68.883472
+
+text:0x5
+algn S
+name Bærhaugen
+opts Source: NO1
+reft point:0x1100
+refp 19.652090 68.763360
+crds 19.662544 68.765187
+
+text:0x5
+algn S
+name Davit Lomiidgáissit
+opts Source: NO1
+reft point:0x1100
+refp 19.336590 68.896090
+crds 19.338273 68.892862
+
+text:0x5
+algn S
+name Dreggfjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.613860 68.744270
+crds 19.620926 68.741735
+
+text:0x5
+algn S
+name Gaskkasgáisi
+opts Source: NO1
+reft point:0x1100
+refp 19.237360 68.714820
+crds 19.251197 68.712991
+
+text:0x5
+algn S
+name Gaskkasnjunni
+opts Source: NO1
+reft point:0x1100
+refp 19.234640 68.699360
+crds 19.236591 68.700917
+
+text:0x5
+algn S
+name Geavlletgáisi
+opts Source: NO1
+reft point:0x1100
+refp 19.156160 68.828630
+crds 19.156803 68.830061
+
+text:0x5
+algn S
+name Gråhøgda
+opts Source: NO1
+reft point:0x1100
+refp 19.132420 68.891250
+crds 19.132837 68.892821
+
+text:0x5
+algn S
+name Gárasgielas
+opts Source: NO1
+reft point:0x1100
+refp 19.956760 68.770130
+crds 19.953440 68.771630
+
+text:0x5
+algn S
+name Kirkestinden
+opts Source: NO1
+reft point:0x1100
+refp 19.088040 68.799630
+crds 19.093786 68.801196
+
+text:0x5
+algn S
+name Langfjelltinden
+opts Source: NO1
+reft point:0x1100
+refp 19.347680 68.899640
+crds 19.356400 68.901643
+
+text:0x5
+algn S
+name Lifjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.031700 68.683400
+crds 19.041243 68.685122
+
+text:0x5
+algn S
+name Lifjelltangen
+opts Source: NO1
+reft point:0x1100
+refp 19.070820 68.670140
+crds 19.073915 68.671581
+
+text:0x5
+algn S
+name Likkafjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.832020 68.938140
+crds 19.841731 68.935986
+
+text:0x5
+algn S
+name Likkánjunni
+opts Source: NO1
+reft point:0x1100
+refp 19.754180 68.931740
+crds 19.760250 68.934436
+
+text:0x5
+algn S
+name Litle Jerta
+opts Source: NO1
+reft point:0x1100
+refp 19.874040 68.695480
+crds 19.878066 68.696829
+
+text:0x5
+algn S
+name Middagsfjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.194850 68.949000
+crds 19.202976 68.950130
+
+text:0x5
+algn S
+name Moskánčohkka
+opts Source: NO1
+reft point:0x1100
+refp 19.462020 68.666930
+crds 19.465415 68.667978
+
+text:0x5
+algn S
+name Máttagáisi
+opts Source: NO1
+reft point:0x1100
+refp 19.158840 68.797610
+crds 19.161710 68.799561
+
+text:0x5
+algn S
+name Njuolladas
+opts Source: NO1
+reft point:0x1100
+refp 19.025810 68.759800
+crds 19.028578 68.761425
+
+text:0x5
+algn S
+name Nohlli
+opts Source: NO1
+reft point:0x1100
+refp 19.856090 68.792420
+crds 19.864352 68.792982
+
+text:0x5
+algn S
+name Návdegielas
+opts Source: NO1
+reft point:0x1100
+refp 19.839330 68.819490
+crds 19.847920 68.822421
+
+text:0x5
+algn S
+name Riiddagierdu
+opts Source: NO1
+reft point:0x1100
+refp 19.316870 68.781500
+crds 19.316963 68.783077
+
+text:0x5
+algn S
+name Rubben
+opts Source: NO1
+reft point:0x1100
+refp 19.018380 68.864670
+crds 19.023324 68.865776
+
+text:0x5
+algn S
+name Rundfjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.397670 68.873490
+crds 19.397109 68.874899
+
+text:0x5
+algn S
+name Rundingen
+opts Source: NO1
+reft point:0x1100
+refp 19.825910 68.971360
+crds 19.832528 68.968516
+
+text:0x5
+algn S
+name Sandfjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.486150 68.760720
+crds 19.493563 68.762258
+
+text:0x5
+algn S
+name Skjelhaugen
+opts Source: NO1
+reft point:0x1100
+refp 19.247160 68.981660
+crds 19.251296 68.979511
+
+text:0x5
+algn S
+name Skrubben
+opts Source: NO1
+reft point:0x1100
+refp 19.847040 68.713150
+crds 19.846950 68.714627
+
+text:0x5
+algn S
+name Skáktárnjunni
+opts Source: NO1
+reft point:0x1100
+refp 19.829830 68.765540
+crds 19.828643 68.763332
+
+text:0x5
+algn S
+name Sovrá
+opts Source: NO1
+reft point:0x1100
+refp 19.779930 68.888090
+crds 19.782106 68.889559
+
+text:0x5
+algn S
+name Storfjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.141820 68.962580
+crds 19.147010 68.960461
+
+text:0x5
+algn S
+name Storkletten
+opts Source: NO1
+reft point:0x1100
+refp 19.474720 68.904990
+crds 19.482405 68.906564
+
+text:0x5
+algn S
+name Stuora Nanná
+opts Source: NO1
+reft point:0x1100
+refp 19.974200 68.729680
+crds 19.973797 68.731172
+
+text:0x5
+algn S
+name Stállovárri
+opts Source: NO1
+reft point:0x1100
+refp 19.141670 68.725900
+crds 19.145707 68.727406
+
+text:0x5
+algn S
+name Svortberget
+opts Source: NO1
+reft point:0x1100
+refp 19.576200 68.921950
+crds 19.588657 68.923594
+
+text:0x5
+algn S
+name Totindan
+opts Source: NO1
+reft point:0x1100
+refp 19.464610 68.931940
+crds 19.466491 68.933215
+
+text:0x5
+algn S
+name Tømmerelvfjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.755230 68.988750
+crds 19.752534 68.986302
+
+text:0x5
+algn S
+name Vetlberget
+opts Source: NO1
+reft point:0x1100
+refp 19.559190 68.935840
+crds 19.559470 68.937272
+
+text:0x5
+algn S
+name Vetlruten
+opts Source: NO1
+reft point:0x1100
+refp 19.261390 68.959780
+crds 19.263092 68.961101
+
+text:0x5
+algn S
+name Vuolit Čoarddavárri
+opts Source: NO1
+reft point:0x1100
+refp 19.227200 68.850770
+crds 19.230724 68.851569
+
+text:0x5
+scle 1.2
+name Alapen
+opts Source: NO1
+reft point:0x1100
+refp 19.038870 68.949070
+crds 19.036481 68.946531
+
+text:0x5
+scle 1.2
+name Njunis
+opts Source: NO1
+reft point:0x1100
+refp 19.488620 68.749410
+crds 19.486921 68.751619
+
+text:0x5
+angl -80.4656
+name Grytefjellet
+opts Source: NO1
+reft point:0x1100
+refp 19.001440 68.800570
+crds 19.002569 68.801771
+
+text:0x6
+name 1008
+opts Source: NO1
+reft point:0xd00
+refp 19.252346 68.822273
+crds 19.255490 68.821905
+
+text:0x6
+name 1011
+opts Source: NO1
+reft point:0xd00
+refp 19.636936 68.698396
+crds 19.639936 68.698396
+
+text:0x6
+name 1011
+opts Source: NO1
+reft point:0xd00
+refp 19.847614 68.755953
+crds 19.850614 68.755953
+
+text:0x6
+name 1028
+opts Source: NO1
+reft point:0xd00
+refp 19.293524 68.829824
+crds 19.296524 68.829824
+
+text:0x6
+name 1037
+opts Source: NO1
+reft point:0xd00
+refp 19.024497 68.688743
+crds 19.027497 68.688743
+
+text:0x6
+name 1042
+opts Source: NO1
+reft point:0xd00
+refp 19.806140 68.778905
+crds 19.804525 68.779773
+
+text:0x6
+name 1045
+opts Source: NO1
+reft point:0xd00
+refp 19.569179 68.668081
+crds 19.572179 68.668081
+
+text:0x6
+name 1045
+opts Source: NO1
+reft point:0xd00
+refp 19.829650 68.765527
+crds 19.832650 68.765527
+
+text:0x6
+name 1050
+opts Source: NO1
+reft point:0xd00
+refp 19.336425 68.785267
+crds 19.339425 68.785267
+
+text:0x6
+name 1054
+opts Source: NO1
+reft point:0xd00
+refp 19.038932 68.678000
+crds 19.041932 68.678000
+
+text:0x6
+name 1059
+opts Source: NO1
+reft point:0xd00
+refp 19.018399 68.864672
+crds 19.021979 68.864139
+
+text:0x6
+name 1061
+opts Source: NO1
+reft point:0xd00
+refp 19.007065 68.779749
+crds 19.010055 68.779242
+
+text:0x6
+name 1072
+opts Source: NO1
+reft point:0xd00
+refp 19.840865 68.906591
+crds 19.843865 68.906591
+
+text:0x6
+name 1074
+opts Source: NO1
+reft point:0xd00
+refp 19.187951 68.927240
+crds 19.190951 68.927240
+
+text:0x6
+name 1085
+opts Source: NO1
+reft point:0xd00
+refp 19.816993 68.769188
+crds 19.821085 68.768885
+
+text:0x6
+name 1086
+opts Source: NO1
+reft point:0xd00
+refp 19.122588 68.699963
+crds 19.125588 68.699963
+
+text:0x6
+name 1096
+opts Source: NO1
+reft point:0xd00
+refp 19.976014 68.841845
+crds 19.977062 68.842687
+
+text:0x6
+name 1103
+opts Source: NO1
+reft point:0xd00
+refp 19.918284 68.892838
+crds 19.921284 68.892838
+
+text:0x6
+name 1109
+opts Source: NO1
+reft point:0xd00
+refp 19.408105 68.760370
+crds 19.411105 68.760370
+
+text:0x6
+name 1113
+opts Source: NO1
+reft point:0xd00
+refp 19.896367 68.912655
+crds 19.899367 68.912655
+
+text:0x6
+name 1127
+opts Source: NO1
+reft point:0xd00
+refp 19.557170 68.739349
+crds 19.560170 68.739349
+
+text:0x6
+name 1131
+opts Source: NO1
+reft point:0xd00
+refp 19.337674 68.667352
+crds 19.340674 68.667352
+
+text:0x6
+name 1138
+opts Source: NO1
+reft point:0xd00
+refp 19.325338 68.831398
+crds 19.328338 68.831398
+
+text:0x6
+name 1142
+opts Source: NO1
+reft point:0xd00
+refp 19.025683 68.759816
+crds 19.028683 68.759816
+
+text:0x6
+name 1147
+opts Source: NO1
+reft point:0xd00
+refp 19.276519 68.848994
+crds 19.279519 68.848994
+
+text:0x6
+name 1152
+opts Source: NO1
+reft point:0xd00
+refp 19.974293 68.729688
+crds 19.977929 68.729368
+
+text:0x6
+name 1156
+opts Source: NO1
+reft point:0xd00
+refp 19.196494 68.943515
+crds 19.199494 68.943515
+
+text:0x6
+name 1163
+opts Source: NO1
+reft point:0xd00
+refp 19.975545 68.987998
+crds 19.978545 68.987998
+
+text:0x6
+name 1165
+opts Source: NO1
+reft point:0xd00
+refp 19.145590 68.735908
+crds 19.148590 68.735908
+
+text:0x6
+name 1166
+opts Source: NO1
+reft point:0xd00
+refp 19.500944 68.804048
+crds 19.503351 68.802717
+
+text:0x6
+name 1179
+opts Source: NO1
+reft point:0xd00
+refp 19.324590 68.823647
+crds 19.327590 68.823647
+
+text:0x6
+name 1182
+opts Source: NO1
+reft point:0xd00
+refp 19.316996 68.781451
+crds 19.319945 68.781466
+
+text:0x6
+name 1184
+opts Source: NO1
+reft point:0xd00
+refp 19.177460 68.898168
+crds 19.180460 68.898168
+
+text:0x6
+name 1196
+opts Source: NO1
+reft point:0xd00
+refp 19.202705 68.797325
+crds 19.205705 68.797325
+
+text:0x6
+name 1200
+opts Source: NO1
+reft point:0xd00
+refp 19.832453 68.938098
+crds 19.834895 68.938012
+
+text:0x6
+name 1206
+opts Source: NO1
+reft point:0xd00
+refp 19.168201 68.718210
+crds 19.171201 68.718210
+
+text:0x6
+name 1207
+opts Source: NO1
+reft point:0xd00
+refp 19.235903 68.670581
+crds 19.238903 68.670581
+
+text:0x6
+name 1210
+opts Source: NO1
+reft point:0xd00
+refp 19.125067 68.751302
+crds 19.128067 68.751302
+
+text:0x6
+name 1217
+opts Source: NO1
+reft point:0xd00
+refp 19.279306 68.789085
+crds 19.282306 68.789085
+
+text:0x6
+name 1226
+opts Source: NO1
+reft point:0xd00
+refp 19.234568 68.699384
+crds 19.237568 68.699384
+
+text:0x6
+name 1237
+opts Source: NO1
+reft point:0xd00
+refp 19.926676 68.919414
+crds 19.929676 68.919414
+
+text:0x6
+name 1242
+opts Source: NO1
+reft point:0xd00
+refp 19.211189 68.916118
+crds 19.214189 68.916118
+
+text:0x6
+name 1246
+opts Source: NO1
+reft point:0xd00
+refp 19.156193 68.828605
+crds 19.159193 68.828605
+
+text:0x6
+name 1253
+opts Source: NO1
+reft point:0xd00
+refp 19.355276 68.858404
+crds 19.358276 68.858404
+
+text:0x6
+name 1255
+opts Source: NO1
+reft point:0xd00
+refp 19.308833 68.912320
+crds 19.311833 68.912320
+
+text:0x6
+name 1256
+opts Source: NO1
+reft point:0xd00
+refp 19.356593 68.878405
+crds 19.353561 68.879529
+
+text:0x6
+name 1265
+opts Source: NO1
+reft point:0xd00
+refp 19.269438 68.781998
+crds 19.272438 68.781998
+
+text:0x6
+name 1266
+opts Source: NO1
+reft point:0xd00
+refp 19.132365 68.891281
+crds 19.135365 68.891281
+
+text:0x6
+name 1266
+opts Source: NO1
+reft point:0xd00
+refp 19.576294 68.796770
+crds 19.579294 68.796770
+
+text:0x6
+name 1267
+opts Source: NO1
+reft point:0xd00
+refp 19.401028 68.689342
+crds 19.404028 68.689342
+
+text:0x6
+name 1269
+opts Source: NO1
+reft point:0xd00
+refp 19.063192 68.783474
+crds 19.066192 68.783474
+
+text:0x6
+name 1272
+opts Source: NO1
+reft point:0xd00
+refp 19.230599 68.708377
+crds 19.233599 68.708377
+
+text:0x6
+name 1276
+opts Source: NO1
+reft point:0xd00
+refp 19.043343 68.921973
+crds 19.046343 68.921973
+
+text:0x6
+name 1279
+opts Source: NO1
+reft point:0xd00
+refp 19.148570 68.882087
+crds 19.152085 68.881407
+
+text:0x6
+name 1279
+opts Source: NO1
+reft point:0xd00
+refp 19.874041 68.695477
+crds 19.876887 68.695138
+
+text:0x6
+name 1287
+opts Source: NO1
+reft point:0xd00
+refp 19.141704 68.725888
+crds 19.144704 68.725888
+
+text:0x6
+name 1293
+opts Source: NO1
+reft point:0xd00
+refp 19.237496 68.714819
+crds 19.240496 68.714819
+
+text:0x6
+name 1302
+opts Source: NO1
+reft point:0xd00
+refp 19.246146 68.794079
+crds 19.249047 68.792413
+
+text:0x6
+name 1304
+opts Source: NO1
+reft point:0xd00
+refp 19.261678 68.890381
+crds 19.264625 68.890385
+
+text:0x6
+name 1305
+opts Source: NO1
+reft point:0xd00
+refp 19.378664 68.861644
+crds 19.381664 68.861644
+
+text:0x6
+name 1308
+opts Source: NO1
+reft point:0xd00
+refp 19.014863 68.841933
+crds 19.017863 68.841933
+
+text:0x6
+name 1314
+opts Source: NO1
+reft point:0xd00
+refp 19.290305 68.876591
+crds 19.293305 68.876591
+
+text:0x6
+name 1314
+opts Source: NO1
+reft point:0xd00
+refp 19.793167 68.918904
+crds 19.796167 68.918904
+
+text:0x6
+name 1315
+opts Source: NO1
+reft point:0xd00
+refp 19.373882 68.683799
+crds 19.376882 68.683799
+
+text:0x6
+name 1320
+opts Source: NO1
+reft point:0xd00
+refp 19.260629 68.742772
+crds 19.263453 68.741376
+
+text:0x6
+name 1330
+opts Source: NO1
+reft point:0xd00
+refp 19.320437 68.708925
+crds 19.323437 68.708925
+
+text:0x6
+name 1331
+opts Source: NO1
+reft point:0xd00
+refp 19.290770 68.702079
+crds 19.293770 68.702079
+
+text:0x6
+name 1339
+opts Source: NO1
+reft point:0xd00
+refp 19.397390 68.873528
+crds 19.400390 68.873528
+
+text:0x6
+name 1343
+opts Source: NO1
+reft point:0xd00
+refp 19.485804 68.729244
+crds 19.488804 68.729244
+
+text:0x6
+name 1347
+opts Source: NO1
+reft point:0xd00
+refp 19.427202 68.842051
+crds 19.430202 68.842051
+
+text:0x6
+name 1349
+opts Source: NO1
+reft point:0xd00
+refp 19.465438 68.846104
+crds 19.468281 68.845026
+
+text:0x6
+name 1356
+opts Source: NO1
+reft point:0xd00
+refp 19.183201 68.738137
+crds 19.186201 68.738137
+
+text:0x6
+name 1362
+opts Source: NO1
+reft point:0xd00
+refp 19.529214 68.761850
+crds 19.532214 68.761850
+
+text:0x6
+name 1368
+opts Source: NO1
+reft point:0xd00
+refp 19.148327 68.758311
+crds 19.151327 68.758311
+
+text:0x6
+name 1372
+opts Source: NO1
+reft point:0xd00
+refp 19.575097 68.745036
+crds 19.578097 68.745036
+
+text:0x6
+name 1376
+opts Source: NO1
+reft point:0xd00
+refp 19.292535 68.719995
+crds 19.294665 68.719802
+
+text:0x6
+name 1381
+opts Source: NO1
+reft point:0xd00
+refp 19.233037 68.764185
+crds 19.236037 68.764185
+
+text:0x6
+name 1384
+opts Source: NO1
+reft point:0xd00
+refp 19.327325 68.692423
+crds 19.330325 68.692423
+
+text:0x6
+name 1391
+opts Source: NO1
+reft point:0xd00
+refp 19.352390 68.689368
+crds 19.355390 68.689368
+
+text:0x6
+name 1392
+opts Source: NO1
+reft point:0xd00
+refp 19.082136 68.938167
+crds 19.085847 68.937654
+
+text:0x6
+name 1399
+opts Source: NO1
+reft point:0xd00
+refp 19.253538 68.881569
+crds 19.256538 68.881569
+
+text:0x6
+name 1420
+opts Source: NO1
+reft point:0xd00
+refp 19.347743 68.899742
+crds 19.350743 68.899742
+
+text:0x6
+name 1433
+opts Source: NO1
+reft point:0xd00
+refp 19.040811 68.940400
+crds 19.043811 68.940400
+
+text:0x6
+name 1438
+opts Source: NO1
+reft point:0xd00
+refp 19.216651 68.787218
+crds 19.219651 68.787218
+
+text:0x6
+name 1455
+opts Source: NO1
+reft point:0xd00
+refp 19.164351 68.813378
+crds 19.167351 68.813378
+
+text:0x6
+name 1486
+opts Source: NO1
+reft point:0xd00
+refp 19.217561 68.888086
+crds 19.220561 68.888086
+
+text:0x6
+name 1487
+opts Source: NO1
+reft point:0xd00
+refp 19.102033 68.808880
+crds 19.105033 68.808880
+
+text:0x6
+name 1499
+opts Source: NO1
+reft point:0xd00
+refp 19.001502 68.800548
+crds 19.003926 68.800141
+
+text:0x6
+name 1510
+opts Source: NO1
+reft point:0xd00
+refp 19.205070 68.772319
+crds 19.208070 68.772319
+
+text:0x6
+name 1511
+opts Source: NO1
+reft point:0xd00
+refp 19.088220 68.799654
+crds 19.091290 68.799218
+
+text:0x6
+name 1543
+opts Source: NO1
+reft point:0xd00
+refp 19.486152 68.760607
+crds 19.489152 68.760607
+
+text:0x6
+name 1588
+opts Source: NO1
+reft point:0xd00
+refp 19.167320 68.776648
+crds 19.170320 68.776648
+
+text:0x6
+name 1606
+opts Source: NO1
+reft point:0xd00
+refp 19.527706 68.735238
+crds 19.530706 68.735238
+
+text:0x6
+name 1631
+opts Source: NO1
+reft point:0xd00
+refp 19.147009 68.787853
+crds 19.150009 68.787853
+
+text:0x6
+name 1637
+opts Source: NO1
+reft point:0xd00
+refp 19.509032 68.739910
+crds 19.512032 68.739910
+
+text:0x6
+name 224
+opts Source: NO1
+reft point:0xd00
+refp 19.205486 68.997081
+crds 19.209009 68.996694
+
+text:0x6
+name 243
+opts Source: NO1
+reft point:0xd00
+refp 19.078774 68.990904
+crds 19.081575 68.990453
+
+text:0x6
+name 262
+opts Source: NO1
+reft point:0xd00
+refp 19.247311 68.981563
+crds 19.250311 68.981563
+
+text:0x6
+name 283
+opts Source: NO1
+reft point:0xd00
+refp 19.099125 68.987740
+crds 19.095981 68.985926
+
+text:0x6
+name 331
+opts Source: NO1
+reft point:0xd00
+refp 19.373140 68.978687
+crds 19.376140 68.978687
+
+text:0x6
+name 517
+opts Source: NO1
+reft point:0xd00
+refp 19.531078 68.989368
+crds 19.534078 68.989368
+
+text:0x6
+name 551
+opts Source: NO1
+reft point:0xd00
+refp 19.699155 68.904752
+crds 19.702155 68.904752
+
+text:0x6
+name 626
+opts Source: NO1
+reft point:0xd00
+refp 19.559304 68.935804
+crds 19.562304 68.935804
+
+text:0x6
+name 658
+opts Source: NO1
+reft point:0xd00
+refp 19.560067 68.979541
+crds 19.561303 68.980121
+
+text:0x6
+name 660
+opts Source: NO1
+reft point:0xd00
+refp 19.755305 68.988801
+crds 19.758163 68.988266
+
+text:0x6
+name 690
+opts Source: NO1
+reft point:0xd00
+refp 19.464575 68.931944
+crds 19.468044 68.931682
+
+text:0x6
+name 697
+opts Source: NO1
+reft point:0xd00
+refp 19.037838 68.800622
+crds 19.040838 68.800622
+
+text:0x6
+name 706
+opts Source: NO1
+reft point:0xd00
+refp 19.869437 68.837205
+crds 19.871288 68.835998
+
+text:0x6
+name 708
+opts Source: NO1
+reft point:0xd00
+refp 19.956617 68.770123
+crds 19.959564 68.770040
+
+text:0x6
+name 715
+opts Source: NO1
+reft point:0xd00
+refp 19.261045 68.959700
+crds 19.263994 68.959708
+
+text:0x6
+name 724
+opts Source: NO1
+reft point:0xd00
+refp 19.581190 68.963105
+crds 19.584190 68.963105
+
+text:0x6
+name 771
+opts Source: NO1
+reft point:0xd00
+refp 19.839310 68.819475
+crds 19.842310 68.819475
+
+text:0x6
+name 785
+opts Source: NO1
+reft point:0xd00
+refp 19.818982 68.836530
+crds 19.822666 68.836217
+
+text:0x6
+name 801
+opts Source: NO1
+reft point:0xd00
+refp 19.575866 68.921817
+crds 19.578866 68.921817
+
+text:0x6
+name 808
+opts Source: NO1
+reft point:0xd00
+refp 19.768176 68.815414
+crds 19.771687 68.815050
+
+text:0x6
+name 809
+opts Source: NO1
+reft point:0xd00
+refp 19.475121 68.675511
+crds 19.478121 68.675511
+
+text:0x6
+name 828
+opts Source: NO1
+reft point:0xd00
+refp 19.683909 68.732344
+crds 19.686909 68.732344
+
+text:0x6
+name 832
+opts Source: NO1
+reft point:0xd00
+refp 19.391735 68.668342
+crds 19.394735 68.668342
+
+text:0x6
+name 844
+opts Source: NO1
+reft point:0xd00
+refp 19.594388 68.904365
+crds 19.597204 68.903649
+
+text:0x6
+name 852
+opts Source: NO1
+reft point:0xd00
+refp 19.461860 68.666905
+crds 19.464860 68.666905
+
+text:0x6
+name 885
+opts Source: NO1
+reft point:0xd00
+refp 19.070506 68.670082
+crds 19.073506 68.670082
+
+text:0x6
+name 886
+opts Source: NO1
+reft point:0xd00
+refp 19.969624 68.876249
+crds 19.972624 68.876249
+
+text:0x6
+name 896
+opts Source: NO1
+reft point:0xd00
+refp 19.367729 68.815724
+crds 19.370729 68.815724
+
+text:0x6
+name 900
+opts Source: NO1
+reft point:0xd00
+refp 19.794900 68.803922
+crds 19.797900 68.803922
+
+text:0x6
+name 905
+opts Source: NO1
+reft point:0xd00
+refp 19.762708 68.843969
+crds 19.765708 68.843969
+
+text:0x6
+name 907
+opts Source: NO1
+reft point:0xd00
+refp 19.400474 68.915041
+crds 19.403474 68.915041
+
+text:0x6
+name 915
+opts Source: NO1
+reft point:0xd00
+refp 19.393095 68.938554
+crds 19.396095 68.938554
+
+text:0x6
+name 919
+opts Source: NO1
+reft point:0xd00
+refp 19.196105 68.700216
+crds 19.199105 68.700216
+
+text:0x6
+name 933
+opts Source: NO1
+reft point:0xd00
+refp 19.227062 68.850646
+crds 19.230300 68.850194
+
+text:0x6
+name 935
+opts Source: NO1
+reft point:0xd00
+refp 19.016533 68.724862
+crds 19.015839 68.725571
+
+text:0x6
+name 944
+opts Source: NO1
+reft point:0xd00
+refp 19.194723 68.949005
+crds 19.198398 68.948608
+
+text:0x6
+name 944
+opts Source: NO1
+reft point:0xd00
+refp 19.402592 68.935248
+crds 19.405592 68.935248
+
+text:0x6
+name 945
+opts Source: NO1
+reft point:0xd00
+refp 19.896102 68.892525
+crds 19.899102 68.892525
+
+text:0x6
+name 953
+opts Source: NO1
+reft point:0xd00
+refp 19.022508 68.698966
+crds 19.025508 68.698966
+
+text:0x6
+name 954
+opts Source: NO1
+reft point:0xd00
+refp 19.856081 68.792419
+crds 19.859430 68.791439
+
+text:0x6
+name 964
+opts Source: NO1
+reft point:0xd00
+refp 19.879030 68.672233
+crds 19.882030 68.672233
+
+text:0x6
+name 977
+opts Source: NO1
+reft point:0xd00
+refp 19.121581 68.917909
+crds 19.124781 68.918103
+
+text:0x6
+name 997
+opts Source: NO1
+reft point:0xd00
+refp 19.679147 68.703423
+crds 19.682147 68.703423
+
+text:0x6
+name 998
+opts Source: NO1
+reft point:0xd00
+refp 19.109483 68.942912
+crds 19.112483 68.942912
+
+text:0x6
+algn SE
+name 1323
+opts Source: NO1
+reft point:0xd00
+refp 19.457190 68.829352
+crds 19.453975 68.828967
+
+text:0x6
+algn SE
+name 323
+opts Source: NO1
+reft point:0xd00
+refp 19.312665 68.977348
+crds 19.310354 68.977156
+
+text:0x6
+algn SE
+name 833
+opts Source: NO1
+reft point:0xd00
+refp 19.992760 68.927988
+crds 19.990510 68.927217
+
+text:0x6
+algn S
+name 901
+opts Source: NO1
+reft point:0xd00
+refp 19.846834 68.713171
+crds 19.841608 68.713044
+
+text:0x8
+name 1000
+opts Source: NO1
+reft point:0x1000
+refp 19.135950 68.770890
+crds 19.137759 68.771016
+
+text:0x8
+name 1000
+opts Source: NO1
+reft point:0x1000
+refp 19.379040 68.846900
+crds 19.381248 68.846123
+
+text:0x8
+name 1011
+opts Source: NO1
+reft point:0x1000
+refp 19.195080 68.751610
+crds 19.195650 68.750073
+
+text:0x8
+name 1013
+opts Source: NO1
+reft point:0x1000
+refp 19.141650 68.744250
+crds 19.144027 68.743379
+
+text:0x8
+name 1039
+opts Source: NO1
+reft point:0x1000
+refp 19.177320 68.756950
+crds 19.180730 68.756600
+
+text:0x8
+name 1080
+opts Source: NO1
+reft point:0x1000
+refp 19.296400 68.691950
+crds 19.298708 68.690961
+
+text:0x8
+name 1080
+opts Source: NO1
+reft point:0x1000
+refp 19.547990 68.801080
+crds 19.550025 68.800797
+
+text:0x8
+name 1082
+opts Source: NO1
+reft point:0x1000
+refp 19.564020 68.729560
+crds 19.566651 68.729235
+
+text:0x8
+name 1095
+opts Source: NO1
+reft point:0x1000
+refp 19.520040 68.750100
+crds 19.522451 68.749427
+
+text:0x8
+name 126
+opts Source: NO1
+reft point:0x1000
+refp 19.491710 68.991270
+crds 19.493714 68.991187
+
+text:0x8
+name 255
+opts Source: NO1
+reft point:0x1000
+refp 19.331410 68.981020
+crds 19.333299 68.980328
+
+text:0x8
+name 312
+opts Source: NO1
+reft point:0x1000
+refp 19.599100 68.856990
+crds 19.597379 68.855380
+
+text:0x8
+name 403
+opts Source: NO1
+reft point:0x1000
+refp 19.634420 68.848500
+crds 19.632325 68.849281
+
+text:0x8
+name 414 - 381
+reft point:0x1000
+refp 19.670380 68.870620
+crds 19.672181 68.870622
+
+text:0x8
+name 618
+reft point:0x1000
+refp 19.386060 68.723970
+crds 19.387860 68.723972
+
+text:0x8
+name 666
+opts Source: NO1
+reft point:0x1000
+refp 19.975920 68.789460
+crds 19.978385 68.788953
+
+text:0x8
+name 679
+opts Source: NO1
+reft point:0x1000
+refp 19.444100 68.812630
+crds 19.445806 68.811713
+
+text:0x8
+name 684
+opts Source: NO1
+reft point:0x1000
+refp 19.984440 68.804420
+crds 19.986661 68.805107
+
+text:0x8
+name 705
+opts Source: NO1
+reft point:0x1000
+refp 19.912990 68.745540
+crds 19.915933 68.744274
+
+text:0x8
+name 711
+opts Source: NO1
+reft point:0x1000
+refp 19.376750 68.931200
+crds 19.378358 68.930246
+
+text:0x8
+name 718
+opts Source: NO1
+reft point:0x1000
+refp 19.374120 68.936200
+crds 19.376721 68.935703
+
+text:0x8
+name 726
+opts Source: NO1
+reft point:0x1000
+refp 19.362690 68.832040
+crds 19.366110 68.832168
+
+text:0x8
+name 729
+opts Source: NO1
+reft point:0x1000
+refp 19.818550 68.814590
+crds 19.816085 68.815411
+
+text:0x8
+name 733
+opts Source: NO1
+reft point:0x1000
+refp 19.286670 68.816230
+crds 19.289038 68.816452
+
+text:0x8
+name 740
+opts Source: NO1
+reft point:0x1000
+refp 19.226400 68.840250
+crds 19.228558 68.839314
+
+text:0x8
+name 756
+opts Source: NO1
+reft point:0x1000
+refp 19.944780 68.871880
+crds 19.946705 68.871576
+
+text:0x8
+name 780
+opts Source: NO1
+reft point:0x1000
+refp 19.269650 68.838100
+crds 19.272184 68.837924
+
+text:0x8
+name 794
+opts Source: NO1
+reft point:0x1000
+refp 19.108380 68.950240
+crds 19.109243 68.948686
+
+text:0x8
+name 796
+opts Source: NO1
+reft point:0x1000
+refp 19.184150 68.875690
+crds 19.185799 68.876313
+
+text:0x8
+name 800
+opts Source: NO1
+reft point:0x1000
+refp 19.784620 68.771140
+crds 19.784794 68.771998
+
+text:0x8
+name 805
+opts Source: NO1
+reft point:0x1000
+refp 19.274140 68.753580
+crds 19.273391 68.752007
+
+text:0x8
+name 842
+opts Source: NO1
+reft point:0x1000
+refp 19.433140 68.680130
+crds 19.433477 68.678955
+
+text:0x8
+name 850
+opts Source: NO1
+reft point:0x1000
+refp 19.036000 68.711030
+crds 19.038847 68.711113
+
+text:0x8
+name 861
+opts Source: NO1
+reft point:0x1000
+refp 19.656840 68.696400
+crds 19.659521 68.696421
+
+text:0x8
+name 863
+opts Source: NO1
+reft point:0x1000
+refp 19.212750 68.709580
+crds 19.213379 68.707852
+
+text:0x8
+name 873
+opts Source: NO1
+reft point:0x1000
+refp 19.137700 68.953530
+crds 19.140469 68.953615
+
+text:0x8
+name 874
+opts Source: NO1
+reft point:0x1000
+refp 19.892980 68.896570
+crds 19.895181 68.896108
+
+text:0x8
+name 875
+opts Source: NO1
+reft point:0x1000
+refp 19.983440 68.900240
+crds 19.985987 68.900256
+
+text:0x8
+name 881
+opts Source: NO1
+reft point:0x1000
+refp 19.184740 68.946930
+crds 19.187067 68.946615
+
+text:0x8
+name 885
+opts Source: NO1
+reft point:0x1000
+refp 19.315370 68.716400
+crds 19.317568 68.715645
+
+text:0x8
+name 894
+opts Source: NO1
+reft point:0x1000
+refp 19.390730 68.891710
+crds 19.390905 68.889856
+
+text:0x8
+name 897
+opts Source: NO1
+reft point:0x1000
+refp 19.069030 68.947910
+crds 19.070462 68.948433
+
+text:0x8
+name 897
+opts Source: NO1
+reft point:0x1000
+refp 19.283630 68.738140
+crds 19.283371 68.736562
+
+text:0x8
+name 898
+opts Source: NO1
+reft point:0x1000
+refp 19.263650 68.733490
+crds 19.263881 68.731954
+
+text:0x8
+name 898
+opts Source: NO1
+reft point:0x1000
+refp 19.964690 68.920730
+crds 19.967069 68.920828
+
+text:0x8
+name 904
+opts Source: NO1
+reft point:0x1000
+refp 19.121380 68.793550
+crds 19.123273 68.792320
+
+text:0x8
+name 922
+opts Source: NO1
+reft point:0x1000
+refp 19.204640 68.721880
+crds 19.206893 68.721885
+
+text:0x8
+name 926
+opts Source: NO1
+reft point:0x1000
+refp 19.674430 68.711570
+crds 19.675846 68.710191
+
+text:0x8
+name 927
+opts Source: NO1
+reft point:0x1000
+refp 19.845590 68.764570
+crds 19.847716 68.763653
+
+text:0x8
+name 939
+opts Source: NO1
+reft point:0x1000
+refp 19.150820 68.708810
+crds 19.151414 68.709668
+
+text:0x8
+name 942
+opts Source: NO1
+reft point:0x1000
+refp 19.243580 68.774770
+crds 19.245135 68.773621
+
+text:0x8
+name 943
+opts Source: NO1
+reft point:0x1000
+refp 19.167230 68.931960
+crds 19.169964 68.930766
+
+text:0x8
+name 949
+opts Source: NO1
+reft point:0x1000
+refp 19.305960 68.839820
+crds 19.308067 68.838945
+
+text:0x8
+name 952
+opts Source: NO1
+reft point:0x1000
+refp 19.250920 68.693410
+crds 19.253019 68.691937
+
+text:0x8
+name 953
+opts Source: NO1
+reft point:0x1000
+refp 19.980850 68.997370
+crds 19.983246 68.997741
+
+text:0x8
+name 982
+opts Source: NO1
+reft point:0x1000
+refp 19.286630 68.797250
+crds 19.288885 68.797746
+
+text:0x8
+name 987
+opts Source: NO1
+reft point:0x1000
+refp 19.430110 68.829000
+crds 19.433640 68.828861
+
+text:0x8
+algn SE
+name 1043
+opts Source: NO1
+reft point:0x1000
+refp 19.849640 68.903820
+crds 19.850334 68.902182
+
+text:0x8
+algn SE
+name 1101
+opts Source: NO1
+reft point:0x1000
+refp 19.242170 68.801820
+crds 19.240842 68.802420
+
+text:0x8
+algn SE
+name 163
+opts Source: NO1
+reft point:0x1000
+refp 19.444220 68.981580
+crds 19.441389 68.981038
+
+text:0x8
+algn SE
+name 660
+opts Source: NO1
+reft point:0x1000
+refp 19.946380 68.789420
+crds 19.943941 68.788689
+
+text:0x8
+algn SE
+name 662
+opts Source: NO1
+reft point:0x1000
+refp 19.957220 68.784270
+crds 19.954785 68.783620
+
+text:0x8
+algn SE
+name 665
+opts Source: NO1
+reft point:0x1000
+refp 19.922020 68.772770
+crds 19.919527 68.771837
+
+text:0x8
+algn SE
+name 695
+opts Source: NO1
+reft point:0x1000
+refp 19.801210 68.823670
+crds 19.799057 68.822972
+
+text:0x8
+algn SE
+name 752
+opts Source: NO1
+reft point:0x1000
+refp 19.947990 68.984450
+crds 19.946149 68.984016
+
+text:0x8
+algn SE
+name 756
+opts Source: NO1
+reft point:0x1000
+refp 19.938520 68.988600
+crds 19.940041 68.986681
+
+text:0x8
+algn SE
+name 771
+opts Source: NO1
+reft point:0x1000
+refp 19.279750 68.830900
+crds 19.277550 68.830700
+
+text:0x8
+algn SE
+name 795
+opts Source: NO1
+reft point:0x1000
+refp 19.984550 68.673090
+crds 19.981574 68.672140
+

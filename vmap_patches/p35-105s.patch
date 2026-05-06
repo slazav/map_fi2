@@ -1,0 +1,90 @@
+include common.patch
+
+add    point:0x2b04 [28.05700,61.15742] "laavu"
+rename point:0x2b04 [28.13512,61.09302] "seurakunnan leirikeskus" "leirikeskus"
+
+delete point:0x2800 [28.50121,61.14475] "Pellinniemi"
+delete point:0x2800 [28.15165,61.08573] "kuntorata"
+delete point:0x2800 [28.49903,61.10934] "kuntorata"
+delete point:0x2b04 [28.09155,61.22771] "hotelli"
+delete point:0x2b04 [28.22868,61.05771] "jäähalli"
+delete point:0x2b04 [28.31651,61.06320] "kanavakonttori"
+delete point:0x2b04 [28.19271,61.04769] "l.as"
+delete point:0x2b04 [28.15269,61.05445] "leirintäalue"
+delete point:0x2b04 [28.30350,61.07047] "luotsi"
+delete point:0x2b04 [28.16706,61.05439] "maasotakoulu"
+delete point:0x2b04 [28.13409,61.04862] "posti"
+delete point:0x2b04 [28.08732,61.13045] "sairaala"
+delete point:0x2b04 [28.21083,61.06501] "sairaala"
+delete point:0x2b04 [28.21153,61.05989] "sairaala"
+delete point:0x2b04 [28.48425,61.13343] "satama"
+delete point:0x2b04 [28.17491,61.03200] "sementtitehdas"
+delete point:0x2b04 [28.09327,61.06454] "tekn. yliopisto"
+delete point:0x2b04 [28.14372,61.05559] "tennishalli"
+delete point:0x2b04 [28.18550,61.06805] "venesatama"
+delete point:0x2b04 [28.49011,61.14178] "venesatama"
+delete point:0x2b04 [28.27454,61.07942] "väyläasema"
+
+delete point:0x6415 [28.07978,61.15396] "kivik.asuinpaikka"
+delete point:0x6415 [28.01145,61.19413] "rautakaut. asuinpaikka"
+delete point:0x6415 [28.01733,61.21035] "rautakaut. asuinpaikka"
+
+delete point:0x650c [28.01070,61.34108] "Saimaa"
+delete point:0x650c [28.50843,60.98335] "Saimaan kanava"
+
+delete point:0x6601 [28.06005,61.16332] "rauh."
+delete point:0x6601 [28.06928,61.15526] "rauh."
+delete point:0x6601 [28.15631,61.07565] "rauh."
+delete point:0x6601 [28.15902,61.07675] "rauh."
+
+delete point:0x800 [28.36681,60.99820] "Martti"
+delete point:0x800 [28.48983,60.99775] "Nikku"
+delete point:0x800 [28.49916,61.07844] "Soljola"
+
+delete point:0x900 [27.99719,61.22258] "Kaikkola"
+delete point:0x900 [28.32555,61.07936] "Laihia"
+
+move   point:0x1000 [28.39166,61.04378] "57" [28.39230,61.04283]
+move   point:0x1000 [28.31860,61.00553] "58" [28.31885,61.00397]
+move   point:0x1000 [28.35257,61.02995] "59" [28.35299,61.02755]
+move   point:0x1000 [28.00182,61.20174] "75" [27.99615,61.20020]
+move   point:0x1000 [28.03301,61.03848] "75" [28.03593,61.03656]
+move   point:0x1000 [28.05644,61.10710] "75" [28.04941,61.10661]
+move   point:0x1000 [28.05991,61.04248] "75" [28.05185,61.03839]
+move   point:0x1000 [28.08746,61.14489] "75" [28.09294,61.14479]
+move   point:0x1000 [28.08904,61.20077] "75" [28.08387,61.20226]
+move   point:0x1000 [28.10040,61.12547] "75" [28.10142,61.12199]
+move   point:0x1000 [28.10142,61.15526] "75" [28.10623,61.15321]
+move   point:0x1000 [28.10589,61.12826] "75" [28.14504,61.12657]
+move   point:0x1000 [28.13195,61.18282] "75" [28.14075,61.18230]
+move   point:0x1000 [28.13251,61.06591] "75" [28.11168,61.06589]
+move   point:0x1000 [28.13445,61.11823] "75" [28.22591,61.11491]
+move   point:0x1000 [28.14216,61.20565] "75" [28.15190,61.20159]
+move   point:0x1000 [28.21129,61.14880] "75" [28.22095,61.14837]
+move   point:0x1000 [28.21649,61.26005] "75" [28.18858,61.24823]
+move   point:0x1000 [28.22827,61.11566] "75" [28.28249,61.12924]
+move   point:0x1000 [28.25890,61.16301] "75" [28.26104,61.16475]
+move   point:0x1000 [28.28493,61.13123] "75" [28.29581,61.15103]
+move   point:0x1000 [28.29545,61.15498] "75" [28.28549,61.16706]
+move   point:0x1000 [28.29593,61.16727] "75" [28.36161,61.16770]
+move   point:0x1000 [28.31928,61.11245] "75" [28.30305,61.11144]
+move   point:0x1000 [28.37542,61.31318] "75" [28.34040,61.32278]
+move   point:0x1000 [28.02579,61.03546] "77" [28.02643,61.03379]
+move   point:0x1000 [28.19583,61.29830] "80" [28.20163,61.30085]
+move   point:0x1000 [28.18362,61.17969] "96" [28.18688,61.17759]
+
+delete point:0xd00 [28.32009,61.01668] "105"
+delete point:0xd00 [28.04644,61.10601] "110"
+delete point:0xd00 [28.28212,61.00969] "84"
+delete point:0x1000 [28.39242,61.04349] "(57-56)"
+delete point:0x1000 [28.30928,61.06517] "64"
+delete point:0x1000 [28.36737,61.15880] "75"
+delete point:0x1000 [28.28970,61.31012] "79"
+delete point:0x1000 [28.45672,61.11995] "88"
+delete point:0x1000 [28.18565,61.18801] "89"
+delete point:0x1000 [28.24892,61.15062] "92"
+delete point:0x1000 [28.19294,61.18775] "93"
+delete point:0x1000 [28.19318,61.18263] "94"
+delete point:0x1000 [28.19069,61.18020] "95"
+delete point:0x1000 [28.20305,61.18400] "95"
+delete point:0x1000 [28.19587,61.17151] "97"

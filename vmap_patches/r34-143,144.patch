@@ -1,0 +1,261 @@
+include common.patch
+
+delete point:0x2b04 [23.08393,68.28073] "kylätalo" # too dense
+rename point:0x6508 [23.08010,68.28519] "Kentänkoski" "" # too dense
+rename point:0x6508 [23.07090,68.27986] "Saarukainen" "" # too dense
+delete point:0x2800 [23.06521,68.27695] "Alasaari"
+delete point:0x650c [23.24374,68.14811] "Jalonpolankoski" # duplicate
+
+delete point:0x2b04 [23.28634,68.15664] "leir.alue"
+delete point:0x2b04 [23.87453,68.11095] "majoitusliike"
+delete point:0x2b04 [23.50362,68.10712] "moottorikelkkareitti"
+
+delete point:0x2800 [23.38466,68.08376] "moottorikelkkareitti"
+delete point:0x2800 [23.44430,68.15336] "moottorikelkkareitti"
+delete point:0x2800 [23.25850,68.15497] "Palsarisaari"
+delete point:0x2800 [23.13589,68.13506] "Saivomuotka"
+delete point:0x2800 [23.13648,68.13661] "Kaivosjänkkä"
+delete point:0x2800 [23.14773,68.11214] "Al.Muotkanriipivuoma"
+delete point:0x2800 [23.13568,68.09304] "Yl.Muotkanriipivuoma"
+delete point:0x2800 [23.35366,68.08653] "Alasaari"
+delete point:0x2800 [23.49273,68.02080] "Autioniemi"
+delete point:0x2800 [23.88997,68.10718] "Honkajänkkä"
+delete point:0x2800 [23.90345,68.13506] "Kaakkurijänkkä"
+delete point:0x2800 [23.42354,68.02383] "Kahtovuoma"
+delete point:0x2800 [23.31111,68.13095] "Kenttäsaari"
+delete point:0x2800 [23.14388,68.17237] "Koivusaari"
+delete point:0x2800 [23.34978,68.07136] "Korvenvuoma"
+delete point:0x2800 [23.48570,68.01745] "Kuusisaari"
+delete point:0x2800 [23.09873,68.12904] "Matkajänkkä"
+delete point:0x2800 [23.34276,68.08710] "Mellavuoma"
+delete point:0x2800 [23.40794,68.05900] "Mielmukkavuoma"
+delete point:0x2800 [23.38195,68.03581] "Noijanpolanvuoma"
+delete point:0x2800 [23.26346,68.11731] "Pitkävuoma"
+delete point:0x2800 [23.37614,68.09146] "Ruonavuoma"
+delete point:0x2800 [23.94381,68.14227] "Tohtajajänkkä"
+delete point:0x2800 [23.11431,68.16107] "Voimavuoma"
+
+rename point:0x2b04 [23.94889,68.21806] "Hannukuru\\autiotupa" "Hannukuru\\autio- ja\\varaustupa"
+rename point:0x2b04 [23.94408,68.21773] "Hannukuru\\varaustupa" ""
+
+rename point:0x6508 [23.56666,68.09759] "Könkäsenjärämät" ""
+rename point:0x6508 [23.38083,68.05804] "Noidanpola" "Noidanpolankoski"
+rename point:0x6508 [23.46525,68.02397] "Visanto eli" "Al. Visantokoski"
+
+# big rivers
+add point:0x650c [23.94572,68.32625] "Ounasjoki"
+add point:0x650c [23.87175,68.30442] "Siosjoki"
+add point:0x650c [23.50841,68.01033] "Muonionjoki"
+add point:0x650c [23.09096,68.26134] "Muonionjoki"
+add point:0x650c [23.14553,68.14832] "Muonionjoki"
+delete point:0x650c [23.63008,68.14969] "Siosjoki"
+delete point:0x650c [23.46428,68.02365] "Al.Visantokoski"
+delete point:0x650c [23.14651,68.24777] "Järämänmukka"
+delete point:0x650c [23.13808,68.24197] "Kivimukka"
+delete point:0x650c [23.14357,68.16497] "Kolosuanto"
+delete point:0x650c [23.33949,68.10517] "Kätkäsuvanto"
+delete point:0x650c [23.58150,67.21362] "Muonionjoki"
+delete point:0x650c [23.58150,67.21362] "Muonionjoki"
+delete point:0x650c [23.13735,68.20122] "Muonioälven"
+delete point:0x650c [23.27460,68.15394] "Muonioälven"
+delete point:0x650c [23.40283,68.04094] "Muonioälven"
+delete point:0x650c [23.37151,68.05929] "Noijanpolankoski"
+delete point:0x650c [23.39492,68.04309] "Noijanpolansuanto"
+delete point:0x650c [23.28542,68.15216] "Sonkasuanto"
+
+delete point:0xd00 [23.51733,68.05301] "361"
+delete point:0xd00 [23.40099,68.21155] "326"
+delete point:0xd00 [23.31565,68.16546] "337"
+delete point:0xd00 [23.61762,68.27965] "367"
+delete point:0xd00 [23.90412,68.14735] "380"
+delete point:0xd00 [23.90926,68.15666] "407"
+delete point:0xd00 [23.76532,68.22448] "517"
+delete point:0xd00 [23.82538,68.26508] "531"
+delete point:0xd00 [23.72218,68.15795] "544"
+delete point:0xd00 [23.42942,68.10354] "283"
+delete point:0xd00 [23.52425,68.19105] "327"
+delete point:0xd00 [23.42936,68.16738] "339"
+delete point:0xd00 [23.47339,68.20289] "375"
+delete point:0xd00 [23.58987,68.14275] "399"
+delete point:0xd00 [23.76249,68.27627] "690"
+
+# SE mountains
+chtype point:0x2800 [23.01162,68.26922] "Aittavaara" point:0x1100
+chtype point:0x2800 [23.12256,68.00278] "Feltinvuomankuusivaara" point:0x1100
+chtype point:0x2800 [23.01382,68.20394] "Haihkamaavaara" point:0x1100
+chtype point:0x2800 [23.06005,68.21720] "Hangasvaara" point:0x1100
+chtype point:0x2800 [23.14208,68.02406] "Heinäjärvenvaara" point:0x1100
+chtype point:0x2800 [23.41146,68.01257] "Kahtovaara" point:0x1100
+chtype point:0x2800 [23.06989,68.10888] "Kiekerövaara" point:0x1100
+chtype point:0x2800 [23.11564,68.09534] "Kivilaki" point:0x1100
+chtype point:0x2800 [23.06296,68.16422] "Koivulaki" point:0x1100
+chtype point:0x2800 [23.23949,68.09044] "Kuusiselkä" point:0x1100
+chtype point:0x2800 [23.19270,68.02788] "Kuusivaara" point:0x1100
+chtype point:0x2800 [23.27987,68.10686] "Kynisselkä" point:0x1100
+chtype point:0x2800 [23.16412,68.03727] "Laakapalo" point:0x1100
+chtype point:0x2800 [23.22518,68.11123] "Liikavaara" point:0x1100
+chtype point:0x2800 [23.11882,68.07912] "Namalaselkä" point:0x1100
+chtype point:0x2800 [23.05989,68.06921] "Namalavaara" point:0x1100
+chtype point:0x2800 [23.08655,68.15982] "Palolaki" point:0x1100
+chtype point:0x2800 [23.10112,68.10753] "Palovaara" point:0x1100
+chtype point:0x2800 [23.21895,68.00183] "Petäjäselkä" point:0x1100
+chtype point:0x2800 [23.02398,68.25901] "Pingisvaara" point:0x1100
+chtype point:0x2800 [23.12493,68.03377] "Pirttijärvenvaara" point:0x1100
+chtype point:0x2800 [23.11164,68.21688] "Rantahaihkamaa" point:0x1100
+chtype point:0x2800 [23.08309,68.07855] "Rantavaara" point:0x1100
+chtype point:0x2800 [23.07363,68.02980] "Rukolompolonvaara" point:0x1100
+chtype point:0x2800 [23.03725,68.28111] "Särkipalo" point:0x1100
+chtype point:0x2800 [23.25486,68.10302] "Vittaselkä" point:0x1100
+chtype point:0x2800 [23.11024,68.05742] "Ahmaselkä"  point:0x1100
+chtype point:0x2800 [23.27847,68.13932] "Kesunkivaara"  point:0x1100
+chtype point:0x2800 [23.26654,68.06555] "Länsi-Kuusivaara"  point:0x1100
+chtype point:0x2800 [23.35691,68.05010] "Noijanpolanvaara"  point:0x1100
+chtype point:0x2800 [23.07831,68.06007] "Sammalvaara"  point:0x1100
+chtype point:0x2800 [23.24852,68.13957] "Sammalvaara"  point:0x1100
+
+chtype point:0x1100 [23.42942,68.10354] "Kaltonharjut" point:0x2800
+chtype point:0x1100 [23.82538,68.26508] "Ounastunturi" point:0x2800
+chtype point:0x1100 [23.47339,68.20289] "Vuosukkaselkä" point:0x2800
+
+# SE altitude (manual)
+add point:0xd00 [23.218575,68.001527] "353"
+add point:0xd00 [23.411679,68.012156] "328"
+add point:0xd00 [23.253422,68.103488] "398"
+add point:0xd00 [23.248787,68.090488] "390"
+
+add point:0x1000 [23.073006,68.069843] "306"
+add point:0x1000 [23.308525,68.002492] "248"
+add point:0x1000 [23.225784,68.052847] "271"
+add point:0x1000 [23.291874,68.133594] "254"
+
+# move mountains
+move   point:0x1100 [23.51733,68.05301] "Kylkirova" [23.51108,68.05259]
+move   point:0x1100 [23.40099,68.21155] "Aittaselkä" [23.40053,68.21318]
+move   point:0x1100 [23.31565,68.16546] "Etuvaara" [23.31640,68.16655]
+move   point:0x1100 [23.90926,68.15666] "Isopaljas" [23.90571,68.16195]
+move   point:0x1100 [23.72218,68.15795] "Könkäsentunturi" [23.72521,68.15805]
+move   point:0x1100 [23.90412,68.14735] "Pikkupaljas" [23.90893,68.15055]
+move   point:0x1100 [23.52425,68.19105] "Mustarova" [23.53954,68.19418]
+move   point:0x1100 [23.58987,68.14275] "Nirronkero" [23.59120,68.14235]
+move   point:0x1100 [23.76249,68.27627] "Rautuvaara" [23.76217,68.27487]
+move   point:0x1100 [23.42936,68.16738] "Vuosukkavaara" [23.42198,68.16677]
+move   point:0x1100 [23.01382,68.20394] "Haihkamaavaara" [23.01524,68.20559]
+move   point:0x1100 [23.06005,68.21720] "Hangasvaara" [23.05748,68.21708]
+move   point:0x1100 [23.14208,68.02406] "Heinäjärvenvaara" [23.14793,68.02370]
+move   point:0x1100 [23.41146,68.01257] "Kahtovaara" [23.41177,68.01224]
+move   point:0x1100 [23.06989,68.10888] "Kiekerövaara" [23.06811,68.10830]
+move   point:0x1100 [23.11564,68.09534] "Kivilaki" [23.11404,68.09411]
+move   point:0x1100 [23.23949,68.09044] "Kuusiselkä" [23.24868,68.09048]
+move   point:0x1100 [23.19270,68.02788] "Kuusivaara" [23.19345,68.02847]
+move   point:0x1100 [23.27987,68.10686] "Kynisselkä" [23.28072,68.10858]
+move   point:0x1100 [23.16412,68.03727] "Laakapalo" [23.16367,68.03833]
+move   point:0x1100 [23.22518,68.11123] "Liikavaara" [23.22297,68.11226]
+move   point:0x1100 [23.35691,68.05010] "Noijanpolanvaara" [23.35561,68.04943]
+move   point:0x1100 [23.21895,68.00183] "Petäjäselkä" [23.21894,68.00166]
+move   point:0x1100 [23.02398,68.25901] "Pingisvaara" [23.02302,68.25936]
+move   point:0x1100 [23.12493,68.03377] "Pirttijärvenvaara" [23.12777,68.03351]
+move   point:0x1100 [23.07363,68.02980] "Rukolompolonvaara" [23.07560,68.02626]
+move   point:0x1100 [23.07831,68.06007] "Sammalvaara" [23.08034,68.06141]
+move   point:0x1100 [23.25486,68.10302] "Vittaselkä" [23.25318,68.10350]
+
+# water altitude marks
+move   point:0x1000 [23.12309,68.27367] "282" [23.12727,68.27545]
+move   point:0x1000 [23.21375,68.17343] "283" [23.21223,68.17274]
+move   point:0x1000 [23.18242,68.31973] "287" [23.18568,68.32222]
+move   point:0x1000 [23.21568,68.31694] "288" [23.22670,68.31632]
+move   point:0x1000 [23.28906,68.32007] "289" [23.29502,68.32641]
+move   point:0x1000 [23.16427,68.33155] "290" [23.16633,68.32981]
+move   point:0x1000 [23.18270,68.30018] "290" [23.19044,68.30083]
+move   point:0x1000 [23.25931,68.28021] "291" [23.26597,68.28642]
+move   point:0x1000 [23.13712,68.32886] "292" [23.13855,68.32808]
+move   point:0x1000 [23.21624,68.30420] "293" [23.21271,68.29777]
+move   point:0x1000 [23.34378,68.32535] "293" [23.34346,68.32710]
+move   point:0x1000 [23.01804,68.33201] "296" [23.02025,68.33054]
+move   point:0x1000 [23.40138,68.32262] "299" [23.40444,68.32089]
+move   point:0x1000 [23.31206,68.29093] "300" [23.31573,68.29569]
+move   point:0x1000 [23.46375,68.31934] "312" [23.46634,68.32026]
+move   point:0x1000 [23.62623,68.33207] "331" [23.63401,68.33431]
+move   point:0x1000 [23.74524,68.03174] "235" [23.72020,68.02491]
+move   point:0x1000 [23.37197,68.16512] "244" [23.37142,68.17372]
+move   point:0x1000 [23.72178,68.01065] "249" [23.72406,68.01226]
+move   point:0x1000 [23.27131,68.16998] "253" [23.26842,68.16956]
+move   point:0x1000 [23.28410,68.16980] "253" [23.29026,68.16851]
+move   point:0x1000 [23.86490,68.03024] "266" [23.85434,68.03239]
+move   point:0x1000 [23.90597,68.00808] "267" [23.91665,68.01242]
+move   point:0x1000 [23.90643,68.01478] "267" [23.91184,68.01684]
+move   point:0x1000 [23.34905,68.20318] "273" [23.35009,68.20224]
+move   point:0x1000 [23.19866,68.24270] "276" [23.20232,68.24400]
+move   point:0x1000 [23.26877,68.23288] "276" [23.28325,68.23084]
+move   point:0x1000 [23.25353,68.23879] "280" [23.25786,68.23724]
+move   point:0x1000 [23.26597,68.28642] "291" [23.26124,68.28882]
+move   point:0x1000 [23.26783,68.28953] "291" [23.25663,68.28206]
+move   point:0x1000 [23.32179,68.25571] "291" [23.32224,68.25485]
+move   point:0x1000 [23.34488,68.30905] "291" [23.35768,68.31092]
+move   point:0x1000 [23.30524,68.30432] "293" [23.30873,68.30378]
+move   point:0x1000 [23.29431,68.30461] "294" [23.28914,68.30362]
+move   point:0x1000 [23.31573,68.29569] "300" [23.31499,68.29594]
+move   point:0x1000 [23.47074,68.24623] "300" [23.47364,68.24705]
+move   point:0x1000 [23.98556,68.25148] "300" [23.98268,68.24746]
+move   point:0x1000 [23.96063,68.14128] "305" [23.97423,68.14056]
+move   point:0x1000 [23.63401,68.33431] "331" [23.63186,68.33236]
+move   point:0x1000 [23.53078,68.31260] "334" [23.53545,68.31316]
+move   point:0x1000 [23.44592,68.26590] "342" [23.44465,68.26583]
+move   point:0x1000 [23.61214,68.31405] "345" [23.61749,68.31580]
+move   point:0x1000 [23.58664,68.27070] "347" [23.58940,68.26982]
+move   point:0x1000 [23.55746,68.24920] "359" [23.56268,68.24965]
+move   point:0x1000 [23.36125,68.27665] "364" [23.36278,68.27686]
+move   point:0x1000 [23.89663,68.19697] "405" [23.90389,68.19861]
+move   point:0x1000 [23.88588,68.20064] "407" [23.89308,68.20216]
+move   point:0x1000 [23.89158,68.21551] "410" [23.88922,68.21478]
+move   point:0x1000 [23.73105,68.27801] "497" [23.73295,68.27723]
+move   point:0x1000 [23.55454,68.01651] "231" [23.54780,68.01294]
+move   point:0x1000 [23.55946,68.03956] "231" [23.58586,68.04245]
+move   point:0x1000 [23.58870,68.00342] "231" [23.60140,68.00333]
+move   point:0x1000 [23.60598,68.03398] "231" [23.60728,68.03448]
+move   point:0x1000 [23.64157,68.04697] "231" [23.64642,68.04888]
+move   point:0x1000 [23.67319,68.03418] "233" [23.67703,68.03435]
+move   point:0x1000 [23.67619,68.06484] "233" [23.67679,68.06598]
+move   point:0x1000 [23.52230,68.08102] "236" [23.52811,68.08362]
+move   point:0x1000 [23.52860,68.09242] "236" [23.52903,68.09513]
+move   point:0x1000 [23.53351,68.08701] "236" [23.61384,68.08267]
+move   point:0x1000 [23.60375,68.08085] "236" [23.61526,68.08878]
+move   point:0x1000 [23.60918,68.08649] "236" [23.62054,68.06948]
+move   point:0x1000 [23.54913,68.08194] "237" [23.54645,68.08563]
+move   point:0x1000 [23.70532,68.04641] "237" [23.71450,68.04697]
+move   point:0x1000 [23.71814,68.04014] "237" [23.72161,68.03901]
+move   point:0x1000 [23.46388,68.12142] "239" [23.47186,68.11924]
+move   point:0x1000 [23.49252,68.11001] "241" [23.49392,68.11165]
+move   point:0x1000 [23.58777,68.09587] "241" [23.59144,68.09529]
+move   point:0x1000 [23.34123,68.12727] "244" [23.34000,68.12765]
+move   point:0x1000 [23.43157,68.10810] "245" [23.42799,68.10960]
+move   point:0x1000 [23.75869,68.06678] "246" [23.75612,68.07010]
+move   point:0x1000 [23.39809,68.09729] "247" [23.40275,68.09622]
+move   point:0x1000 [23.69219,68.11046] "247" [23.69442,68.10965]
+move   point:0x1000 [23.64922,68.11262] "248" [23.64380,68.11617]
+move   point:0x1000 [23.36432,68.11568] "250" [23.37643,68.11868]
+move   point:0x1000 [23.55227,68.13506] "250" [23.55788,68.13664]
+move   point:0x1000 [23.56827,68.12565] "250" [23.56901,68.12206]
+move   point:0x1000 [23.46207,68.17085] "251" [23.47051,68.16992]
+move   point:0x1000 [23.42785,68.10069] "252" [23.43704,68.10118]
+move   point:0x1000 [23.18425,68.22109] "274" [23.18721,68.22154]
+move   point:0x1000 [23.57476,68.10704] "279" [23.57035,68.10793]
+move   point:0x1000 [23.64820,68.16612] "293" [23.65348,68.16602]
+move   point:0x1000 [23.60026,68.19245] "297" [23.60507,68.19411]
+move   point:0x1000 [23.66063,68.18895] "298" [23.66423,68.18807]
+move   point:0x1000 [23.66136,68.17490] "299" [23.66404,68.17631]
+move   point:0x1000 [23.62865,68.21156] "302" [23.62575,68.21356]
+move   point:0x1000 [23.88419,68.11306] "303" [23.89183,68.11647]
+move   point:0x1000 [23.60388,68.20824] "307" [23.61425,68.20841]
+move   point:0x1000 [23.57083,68.19069] "323" [23.56992,68.19240]
+move   point:0x1000 [23.54988,68.21611] "338" [23.55502,68.21439]
+move   point:0x1000 [23.65020,68.26750] "339" [23.64846,68.26738]
+move   point:0x1000 [23.68457,68.26339] "363" [23.69201,68.26214]
+move   point:0x1000 [23.30852,68.00249] "248" [23.32674,68.00293]
+
+delete point:0x1000 [23.61291,68.06786] "236"
+delete point:0x1000 [23.61757,68.08660] "238"
+delete point:0x1000 [23.53440,68.13317] "252"
+delete point:0x1000 [23.49543,68.12807] "257"
+delete point:0x1000 [23.59305,68.10755] "282"
+delete point:0x1000 [23.68843,68.25886] "363"
+

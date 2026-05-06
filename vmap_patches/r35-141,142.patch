@@ -1,0 +1,64 @@
+include common.patch
+
+add point:0x650c [28.33729,68.33087] "Harrijoki"
+add point:0x650c [28.42253,68.11600] "Jaurujoki"
+add point:0x650c [28.52934,68.12325] "Jaurujoki"
+delete point:0x650c [27.54568,67.21332] "Luiro"
+add point:0x650c [28.02596,68.11614] "Luiro"
+add point:0x650c [28.07235,68.01091] "Luiro"
+delete point:0x650c [28.22141,68.40112] "Muorravaarakanjoki"
+add point:0x650c [28.24101,68.22585] "Muorravaarakanjoki"
+add point:0x650c [28.25864,68.32067] "Muorravaarakanjoki"
+delete point:0x650c [28.38389,67.96336] "Pihtijoki"
+add point:0x650c [28.49704,68.01260] "Pihtijoki"
+add point:0x650c [28.52254,68.04962] "Pihtijoki"
+add point:0x650c [28.12898,68.32187] "Sarvijoki"
+
+chtype point:0x1100 [28.29725,68.29817] "Saariselkä"        point:0x2800
+chtype point:0x1100 [28.18388,68.19851] "Kärppäpäät"     point:0x2800
+chtype point:0x1100 [28.05488,68.29703] "Seisomakivenselkä" point:0x2800
+chtype point:0x1100 [28.63611,68.10829] "Auhtiseljänlaita"  point:0x2800
+chtype point:0x1100 [28.09751,68.13250] "Iskemävaara"    point:0x2800
+chtype point:0x1100 [28.86333,68.04837] "Keskirovat"      point:0x2800
+chtype point:0x1100 [28.56712,68.05697] "Peskiseljät"    point:0x2800
+chtype point:0x1100 [28.16181,68.15174] "Suovainpäät"   point:0x2800
+chtype point:0x1100 [28.28267,68.05703] "Äimivuotsonmaa" point:0x2800
+
+move   point:0x1100 [28.42244,68.10758] "Auhtijoenselkä" [28.43211,68.10740]
+
+rename point:0x2b04 [28.02135,68.20921] "Kuuselankämppä\\vuokratupa" "vuokratupa"
+rename point:0x2b04 [28.25822,68.25843] "Muorravaarakanruoktu" "Muorravaarakanruoktu\\varauskammi\\Muorravaarakka\\autio- ja varaustupa"
+delete point:0x2b04 [28.25819,68.25842] "varauskammi\\Muorravaarakka\\autio- ja varaustupa"
+rename point:0x2b04 [28.02618,68.21075] "Rajankämppä\\autiotupa" ""
+
+move   point:0x1100 [28.50246,68.21510] "Lokan Alen Muurivaara" [28.49599,68.21739]
+rename point:0x1100 [28.49599,68.21739] "Lokan Alen Muurivaara" "Lokan Alen\\Muurivaara"
+rename point:0x1100 [28.52245,68.29227] "Länsimmäinen Helttamorosto" "Länsimmäinen\\Helttamorosto"
+rename point:0x1100 [28.30475,68.24372] "Muorravaarakan Purnuvaara" "Muorravaarakan\\Purnuvaara"
+rename point:0x1100 [28.36215,68.27807] "Sara-Pieran Muurivaara" "Sara-Pieran\\Muurivaara"
+
+move   point:0x1000 [28.16260,68.11419] "245" [28.16511,68.11241]
+move   point:0x1000 [28.20429,68.10128] "245" [28.19967,68.09938]
+move   point:0x1000 [28.24536,68.09381] "246" [28.23626,68.09382]
+move   point:0x1000 [28.02484,68.21512] "282" [28.01777,68.22136]
+move   point:0x1000 [28.02276,68.24168] "300" [28.02702,68.24055]
+move   point:0x1000 [28.17704,68.17487] "309" [28.17407,68.17644]
+move   point:0x1000 [28.03978,68.25648] "319" [28.04525,68.25511]
+move   point:0x1000 [28.01390,68.23309] "285" [28.01852,68.23203]
+
+delete point:0xd00 [28.27525,68.33195] "286"
+delete point:0xd00 [28.42244,68.10758] "307"
+delete point:0xd00 [29.00031,68.07460] "341"
+delete point:0xd00 [29.01125,68.13042] "341"
+delete point:0xd00 [28.29725,68.29817] "382"
+delete point:0xd00 [28.05488,68.29703] "406"
+delete point:0xd00 [28.18388,68.19851] "541"
+delete point:0xd00 [28.50246,68.21510] "607"
+delete point:0xd00 [28.63611,68.10829] "242"
+delete point:0xd00 [28.28267,68.05703] "267"
+delete point:0xd00 [28.86333,68.04837] "289"
+delete point:0xd00 [28.56712,68.05697] "332"
+delete point:0xd00 [28.09751,68.13250] "356"
+delete point:0xd00 [28.16181,68.15174] "463"
+
+
