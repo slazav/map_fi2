@@ -1,0 +1,43 @@
+#!/bin/sh -efu
+
+# Create fig files
+# Derived from vmaps_get_fig script from mapsoft2
+
+# read global configuration and functions
+. vmaps.sh ||:
+
+# read local configuration
+. ../vmaps.conf ||:
+
+for i in "$@"; do
+  map=${i%.*}
+  nom=${map%s}
+  vmap="$map.vmap2"
+
+  sc=""
+  [ "$nom" = "$map" ] || sc="--mag 1.5"
+
+  # files
+  mkdir -p "../$FIG_DIR"
+  fig_tmpl="../$FIG_DIR/$map.fig"
+  fig_in="$map.fig"
+
+  if [ ! -f "$vmap" ]; then
+    echo "no $VMAP_EXT file"
+    continue
+  fi
+
+  if [ ! -f "$fig_tmpl" ]; then
+    echo "creating fig template"
+    $MS2GEOFIG create --mkref nom --name $nom\
+      --mag $NOM_MAG --north $sc -o "$fig_tmpl"
+  fi
+
+  cp -f -- "$fig_tmpl" "$fig_in" ||:
+
+  $MS2VMAP "$vmap" -o "$fig_in"\
+    --types "../$TYPEINFO" --define "$(vmap_defs "$nom")"\
+    --fig_enc UTF-8
+
+  touch "$fig_in" -r "$vmap"
+done

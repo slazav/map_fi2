@@ -1,0 +1,23 @@
+#!/bin/sh -efu
+
+# Assemble final vmap file using src, patch, labels
+
+for i in "$@"; do
+  map=${i%.*}
+  nom=${map%s}
+
+  vmap="$map.vmap2"
+  src="../vmap_src/$nom.vmap2.gz"
+  patch="../vmap_patches/$map.patch"
+  labels="../vmap_labels/$map.labels.vmap2"
+  add="$map.add.vmap2"
+  [ -f "$add" ] || add=""
+
+
+  # Assemble vmap
+  ../progs/update_map -t ../types.cfg --patch "$patch" --apply "$src" "$labels" $add -o "$vmap"
+
+  # Update fig if it exists
+  ./xfig_put "$map"
+
+done

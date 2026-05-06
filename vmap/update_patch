@@ -1,0 +1,37 @@
+#!/bin/sh -efu
+
+# Disassemble vmap, update patch and labels files
+
+
+for i in "$@"; do
+  map=${i%.*}
+  nom=${map%s}
+
+  vmap="$map.vmap2"
+  src="../vmap_src/$nom.vmap2.gz"
+  patch="../vmap_patches/$map.patch"
+  labels="../vmap_labels/$map.labels.vmap2"
+
+  # create additional patch file
+  ../progs/update_map -t ../types.cfg --patch "$patch" "$src" -o "$vmap" > tmp.patch
+
+  # cleanup patch
+  sed -i '
+    /^\s*$/d
+    s|\\|\\\\|g
+    /point:0x2fa6/d
+    /point:0x2fa8/d
+  ' tmp.patch
+
+  # add to the main patch file
+  if [ -s "tmp.patch" ]; then
+    echo "## " >> $map.patch1
+    cat tmp.patch >> $map.patch1
+  fi
+  rm -f tmp.patch
+
+  # create label file
+  cp "$vmap" "$labels"
+  ms2vmap --keep_labels -1 -o "$labels"
+
+done

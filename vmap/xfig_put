@@ -1,0 +1,59 @@
+#!/bin/sh -efu
+
+# Collect information from FIG files
+# Derived from vmaps_in script from mapsoft2
+
+# read global configuration and functions
+. vmaps.sh ||:
+
+# read local configuration
+. ../vmaps.conf ||:
+
+for i in "$@"; do
+  map=${i%.*}
+  nom=${map%s}
+  vmap="$map.vmap2"
+  fig=$map.fig
+
+  if [ ! -f "$vmap" ]; then
+    echo " . skipping unknown file: $fig"
+    continue;
+  fi
+
+  if [ ! "$i" -nt "$vmap" ]; then
+    echo " . skipping old file: $fig"
+    continue;
+  fi
+
+  echo " * updating from: $fig"
+
+  # save .bak file
+  cp -f "$fig" "$fig.bak"
+
+  args="--fig_enc UTF-8 ${IN_FIG_EDIT:+--edit $IN_FIG_EDIT}"
+
+  if [ "$CROP_NOM" = "1" ]; then
+    args="$args --crop_nom $map "
+  fi
+
+  # update vmap from the input file
+  $MS2VMAP "$fig" --out "$vmap"\
+    --types "../$TYPEINFO" --define "$(vmap_defs "$map")"\
+    --skip_unknown 1 --quite 0 \
+    --update_labels 1 --fix_rounding 1 $args
+
+  # save fig template
+  if true; then
+    mkdir -p "../$FIG_DIR"
+    fig_tmpl="../$FIG_DIR/$map.fig"
+    cp -f -- "$fig" "$fig_tmpl"
+    $MS2VMAP --out "$fig_tmpl"\
+      --types "../$TYPEINFO" --define "$(vmap_defs "$map")"
+
+    # update fig, restore old timestamp
+    ot="$(stat "$fig" -c %y)"
+    ./xfig_get "$fig"
+    touch -d "$ot" "$fig"
+  fi
+
+done
