@@ -7,4 +7,4 @@ out:
 	vmaps_out
 
 pr:
-	vmaps_preview
+	./vmaps_preview

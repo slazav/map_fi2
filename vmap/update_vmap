@@ -11,13 +11,17 @@ for i in "$@"; do
   patch="../vmap_patches/$map.patch"
   labels="../vmap_labels/$map.labels.vmap2"
   add="$map.add.vmap2"
+  fig=$map.fig
+
   [ -f "$add" ] || add=""
+  [ -f "$labels" ] || labels=""
+  [ -f "$patch" ] || echo "include common.patch" > "$patch"
 
 
   # Assemble vmap
-  ../progs/update_map -t ../types.cfg --patch "$patch" --apply "$src" "$labels" $add -o "$vmap"
+  ../progs/update_map -t ../types.cfg --patch "$patch" --apply "$src" $labels $add -o "$vmap"
 
-  # Update fig if it exists
-  ./xfig_put "$map"
+  # Update fig if it exists -- duplicated at xfig_put
+#  if [ -f "$fig" ]; then ./xfig_get "$map"; fi
 
 done

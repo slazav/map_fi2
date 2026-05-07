@@ -25,8 +25,8 @@ for i in "$@"; do
 
   # add to the main patch file
   if [ -s "tmp.patch" ]; then
-    echo "## " >> $map.patch1
-    cat tmp.patch >> $map.patch1
+    echo "## $(date "+%Y-%m-%d %H:%M:%S")" >> "$patch"
+    cat tmp.patch >> "$patch"
   fi
   rm -f tmp.patch
 
