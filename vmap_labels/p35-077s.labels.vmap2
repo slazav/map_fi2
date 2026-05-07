@@ -410,6 +410,14 @@ crds 26.196374 61.955998
 
 text:0x2
 scle 0.75
+name Kumpu
+opts lang: fin
+reft point:0x900
+refp 26.004843 61.752788
+crds 26.004470 61.751067
+
+text:0x2
+scle 0.75
 name Kurki
 opts lang: fin
 reft point:0x900
@@ -785,14 +793,6 @@ crds 26.111081 61.872701
 
 text:0x2
 scle 0.75
-name Rusila
-opts lang: fin
-reft point:0x900
-refp 26.050848 61.787086
-crds 26.053602 61.787859
-
-text:0x2
-scle 0.75
 name Santala
 opts lang: fin
 reft point:0x900
@@ -1058,15 +1058,6 @@ crds 26.053751 61.853764
 text:0x2
 scle 0.75
 algn SE
-name Kumpu
-opts lang: fin
-reft point:0x900
-refp 26.004843 61.752788
-crds 26.002980 61.752353
-
-text:0x2
-scle 0.75
-algn SE
 name Kuusisto
 opts lang: fin
 reft point:0x900
@@ -1189,6 +1180,15 @@ opts lang: fin
 reft point:0x900
 refp 26.266758 61.990253
 crds 26.264959 61.990513
+
+text:0x2
+scle 0.75
+algn SE
+name Rusila
+opts lang: fin
+reft point:0x900
+refp 26.050848 61.787086
+crds 26.050797 61.786064
 
 text:0x2
 scle 0.75
@@ -1983,6 +1983,13 @@ crds 26.427696 61.840074
 
 text:0x3
 scle 0.75
+name Punainensilta
+reft point:0x2800
+refp 26.008987 61.872880
+crds 26.011143 61.870745
+
+text:0x3
+scle 0.75
 name Putkisaari
 opts lang: fin
 reft point:0x2800
@@ -2274,7 +2281,7 @@ scle 0.75
 name luolia
 opts legend: 1
 reft point:0x6601
-refp 26.440525 61.887723
+refp 26.440519 61.887722
 crds 26.440980 61.888012
 
 text:0x3
@@ -2436,14 +2443,6 @@ crds 26.494097 61.736896
 text:0x3
 scle 0.75
 algn SE
-name Punainensilta
-reft point:0x2800
-refp 26.008987 61.872880
-crds 26.008075 61.873497
-
-text:0x3
-scle 0.75
-algn SE
 name Väätynsaari
 opts lang: fin
 reft point:0x2800
@@ -2580,14 +2579,6 @@ opts lang: fin
 reft point:0x2800
 refp 26.328108 61.688796
 crds 26.312420 61.696767
-
-text:0x3
-scle 0.8
-name Kailasuo
-opts lang: fin
-reft point:0x2800
-refp 25.995399 61.855991
-crds 25.998692 61.853504
 
 text:0x3
 scle 0.8
@@ -2862,6 +2853,20 @@ refp 26.432652 61.853664
 crds 26.432652 61.853664
 
 text:0x3
+algn S
+name Syvänlahdenniemi
+reft point:0x2800
+refp 26.432652 61.853664
+crds 26.432652 61.853664
+
+text:0x3
+algn S
+name Syvänlahdenniemi
+reft point:0x2800
+refp 26.432652 61.853664
+crds 26.432652 61.853664
+
+text:0x3
 scle 1.12
 algn S
 name Haapasuo
@@ -2898,6 +2903,15 @@ opts lang: fin
 reft point:0x2800
 refp 26.035982 61.858803
 crds 26.037895 61.859359
+
+text:0x3
+angl -305.223
+scle 0.8
+name Kailasuo
+opts lang: fin
+reft point:0x2800
+refp 25.995399 61.855991
+crds 26.000012 61.858123
 
 text:0x3
 angl -305.014
@@ -3091,7 +3105,7 @@ scle 0.75
 name Myllykoski
 reft point:0x6508
 refp 26.041893 61.787538
-crds 26.041639 61.786086
+crds 26.043349 61.787342
 
 text:0x4
 scle 0.75
@@ -4069,6 +4083,7 @@ crds 26.384012 61.721411
 
 text:0x4
 angl -318.247
+scle 0.9
 algn S
 name Rutajoki
 opts lang: fin
@@ -4130,7 +4145,7 @@ name Oravakivensalmi
 opts lang: fin
 reft point:0x650c
 refp 26.065944 61.712018
-crds 26.066846 61.712072
+crds 26.067324 61.711843
 
 text:0x4
 angl -299.972
@@ -4340,7 +4355,7 @@ name Matkus
 opts lang: fin
 reft point:0x650c
 refp 25.998011 61.983591
-crds 26.000624 61.983359
+crds 26.000792 61.983532
 
 text:0x4
 angl -67.7297

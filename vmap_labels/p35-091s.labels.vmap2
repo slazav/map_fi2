@@ -3366,13 +3366,6 @@ crds 27.456447 61.611886
 
 text:0x4
 scle 0.825
-name Kuikkolahti
-reft point:0x650c
-refp 27.001720 61.426768
-crds 26.998420 61.426251
-
-text:0x4
-scle 0.825
 name Laihanlampi
 opts lang: fin
 reft point:0x650c
@@ -4740,41 +4733,6 @@ crds 27.273241 61.398860
 
 text:0x4
 algn S
-name Kallavesi
-reft point:0x650c
-refp 27.105770 61.400156
-crds 27.105770 61.400156
-
-text:0x4
-algn S
-name Kallavesi
-reft point:0x650c
-refp 27.105770 61.400156
-crds 27.105770 61.400156
-
-text:0x4
-algn S
-name Kallavesi
-reft point:0x650c
-refp 27.105770 61.400156
-crds 27.105770 61.400156
-
-text:0x4
-algn S
-name Kallavesi
-reft point:0x650c
-refp 27.105770 61.400156
-crds 27.105770 61.400156
-
-text:0x4
-algn S
-name Kallavesi
-reft point:0x650c
-refp 27.105770 61.400156
-crds 27.105770 61.400156
-
-text:0x4
-algn S
 name Kinkjärvi
 opts lang: fin
 reft point:0x650c
@@ -4862,7 +4820,7 @@ name Louhivesi
 opts lang: fin
 reft point:0x650c
 refp 27.496365 61.498894
-crds 27.492705 61.497821
+crds 27.472740 61.499420
 
 text:0x4
 scle 1.35
@@ -4871,7 +4829,7 @@ name Kallavesi
 opts lang: fin
 reft point:0x650c
 refp 27.105770 61.400156
-crds 27.110451 61.400058
+crds 27.109800 61.399902
 
 text:0x4
 angl -355.188
@@ -4899,6 +4857,14 @@ opts lang: fin
 reft point:0x650c
 refp 27.376671 61.454677
 crds 27.354676 61.460742
+
+text:0x4
+angl -330.222
+scle 0.825
+name Kuikkolahti
+reft point:0x650c
+refp 27.001720 61.426768
+crds 26.998493 61.427474
 
 text:0x4
 angl -325.655

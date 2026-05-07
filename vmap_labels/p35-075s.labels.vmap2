@@ -43,14 +43,6 @@ crds 25.253290 61.953509
 
 text:0x2
 scle 0.75
-name Hakamaa
-opts lang: fin
-reft point:0x900
-refp 25.226393 61.971195
-crds 25.220274 61.971707
-
-text:0x2
-scle 0.75
 name Hakonen
 opts lang: fin
 reft point:0x900
@@ -207,7 +199,7 @@ name Nuijala
 opts lang: fin
 reft point:0x900
 refp 25.231203 61.963246
-crds 25.230268 61.963835
+crds 25.230636 61.964026
 
 text:0x2
 scle 0.75
@@ -231,7 +223,7 @@ name Ojala
 opts lang: fin
 reft point:0x900
 refp 25.442858 61.966928
-crds 25.446582 61.966582
+crds 25.447063 61.966256
 
 text:0x2
 scle 0.75
@@ -344,6 +336,15 @@ opts lang: fin
 reft point:0x900
 refp 25.442232 61.751452
 crds 25.443145 61.750312
+
+text:0x2
+scle 0.75
+algn SE
+name Hakamaa
+opts lang: fin
+reft point:0x900
+refp 25.226393 61.971195
+crds 25.224729 61.970033
 
 text:0x2
 scle 0.75
@@ -592,7 +593,7 @@ name Harjunkangas
 opts lang: fin
 reft point:0x900
 refp 25.196747 61.935792
-crds 25.190769 61.939783
+crds 25.188612 61.940088
 
 text:0x2
 scle 1.1
@@ -680,7 +681,7 @@ name Orivuori
 opts lang: fin
 reft point:0x900
 refp 25.189520 61.918423
-crds 25.196321 61.917621
+crds 25.196096 61.920672
 
 text:0x2
 scle 1.1
@@ -784,7 +785,7 @@ name Yläkoski
 opts lang: fin
 reft point:0x800
 refp 25.378607 61.984819
-crds 25.373154 61.989657
+crds 25.373792 61.990519
 
 text:0x2
 scle 1.1
@@ -1112,14 +1113,6 @@ scle 0.75
 name kota
 opts legend: 1
 reft point:0x2b04
-refp 25.303196 61.994374
-crds 25.302157 61.996079
-
-text:0x3
-scle 0.75
-name kota
-opts legend: 1
-reft point:0x2b04
 refp 25.322590 61.938006
 crds 25.320747 61.939163
 
@@ -1398,6 +1391,15 @@ opts lang: fin
 reft point:0x2800
 refp 25.312307 61.681928
 crds 25.315836 61.679916
+
+text:0x3
+scle 0.75
+algn SE
+name kota
+opts legend: 1
+reft point:0x2b04
+refp 25.303196 61.994374
+crds 25.302720 61.995069
 
 text:0x3
 scle 0.75
@@ -2009,7 +2011,7 @@ name Kytöjärvi
 opts lang: fin
 reft point:0x650c
 refp 25.268871 61.987538
-crds 25.273157 61.990357
+crds 25.273038 61.990571
 
 text:0x4
 scle 0.9
@@ -2412,7 +2414,7 @@ name Autionvuori
 opts lang: fin
 reft point:0x1100
 refp 25.454788 61.983621
-crds 25.449342 61.982021
+crds 25.449595 61.982310
 
 text:0x5
 name Hattuvuori
@@ -2420,13 +2422,6 @@ opts lang: fin
 reft point:0x1100
 refp 25.212926 61.776824
 crds 25.210962 61.775228
-
-text:0x5
-name Haukivuori
-opts lang: fin
-reft point:0x1100
-refp 25.392670 61.961817
-crds 25.386320 61.962794
 
 text:0x5
 name Haukkavuori
@@ -2629,7 +2624,7 @@ name Linnasenvuori
 opts lang: fin
 reft point:0x1100
 refp 25.329200 61.960620
-crds 25.326670 61.961125
+crds 25.327004 61.961442
 
 text:0x5
 name Loikkomäki
@@ -2685,14 +2680,14 @@ name Mäntymäki
 opts lang: fin
 reft point:0x1100
 refp 25.209717 61.922280
-crds 25.205816 61.922935
+crds 25.207005 61.923068
 
 text:0x5
 name Mäyrämäki
 opts lang: fin
 reft point:0x1100
 refp 25.223752 61.939512
-crds 25.223588 61.940135
+crds 25.223655 61.940445
 
 text:0x5
 name Nevonvuori
@@ -2741,7 +2736,7 @@ name Pikku-Morva
 opts lang: fin
 reft point:0x1100
 refp 25.259160 61.967651
-crds 25.259726 61.968322
+crds 25.259128 61.968401
 
 text:0x5
 name Pitkävuori
@@ -2860,7 +2855,7 @@ name Tevätvuori
 opts lang: fin
 reft point:0x1100
 refp 25.302903 61.994105
-crds 25.304215 61.993101
+crds 25.304894 61.993234
 
 text:0x5
 name Tilusvuori
@@ -2903,6 +2898,14 @@ opts lang: fin
 reft point:0x1100
 refp 25.490256 61.853414
 crds 25.489807 61.854176
+
+text:0x5
+algn SE
+name Haukivuori
+opts lang: fin
+reft point:0x1100
+refp 25.392670 61.961817
+crds 25.393728 61.962533
 
 text:0x5
 algn SE
@@ -3035,12 +3038,6 @@ refp 25.228587 61.702448
 crds 25.227934 61.699807
 
 text:0x6
-name 152
-reft point:0xd00
-refp 25.392670 61.961817
-crds 25.394198 61.961704
-
-text:0x6
 name 154
 reft point:0xd00
 refp 25.309454 61.912798
@@ -3092,7 +3089,7 @@ text:0x6
 name 173
 reft point:0xd00
 refp 25.209717 61.922280
-crds 25.211067 61.921824
+crds 25.211152 61.922006
 
 text:0x6
 name 173
@@ -3122,7 +3119,7 @@ text:0x6
 name 178
 reft point:0xd00
 refp 25.223752 61.939512
-crds 25.225022 61.939346
+crds 25.225208 61.939236
 
 text:0x6
 name 180
@@ -3260,7 +3257,14 @@ text:0x6
 name 226
 reft point:0xd00
 refp 25.302903 61.994105
-crds 25.305570 61.992330
+crds 25.304892 61.992197
+
+text:0x6
+algn SE
+name 152
+reft point:0xd00
+refp 25.392670 61.961817
+crds 25.391070 61.961552
 
 text:0x6
 algn SE

@@ -744,7 +744,7 @@ name Mattila
 opts lang: fin
 reft point:0x900
 refp 25.982679 61.822532
-crds 25.983934 61.820774
+crds 25.983713 61.823289
 
 text:0x2
 scle 0.75
@@ -875,6 +875,14 @@ crds 25.678017 61.813376
 text:0x2
 scle 0.75
 algn SE
+name Ylä-Ottola
+reft point:0x900
+refp 25.996550 61.821396
+crds 25.995802 61.820024
+
+text:0x2
+scle 0.75
+algn SE
 name Ylätalo
 opts lang: fin
 reft point:0x900
@@ -882,34 +890,10 @@ refp 25.726986 61.881750
 crds 25.725626 61.882354
 
 text:0x2
-name Kumpu
-reft point:0x900
-refp 26.004843 61.752788
-crds 26.006639 61.752788
-
-text:0x2
-name Piikkilä
-reft point:0x900
-refp 25.999447 61.679304
-crds 26.001243 61.679304
-
-text:0x2
 name Sihveri
 reft point:0x900
 refp 25.569303 61.999813
 crds 25.577724 61.998484
-
-text:0x2
-name Tuomikallio
-reft point:0x900
-refp 26.005722 61.844615
-crds 26.007518 61.844615
-
-text:0x2
-name Ylä-Ottola
-reft point:0x900
-refp 25.996550 61.821396
-crds 25.998346 61.821396
 
 text:0x2
 scle 1.1
@@ -1113,14 +1097,6 @@ crds 25.892201 61.730404
 
 text:0x2
 scle 1.1
-name Väihkölä
-opts lang: fin
-reft point:0x800
-refp 26.000324 61.770818
-crds 25.989777 61.773595
-
-text:0x2
-scle 1.1
 name Ylä-Sydänmaa
 opts lang: fin
 reft point:0x800
@@ -1250,14 +1226,6 @@ crds 25.739240 61.857479
 
 text:0x2
 scle 1.3
-name Rutalahti
-opts lang: fin
-reft point:0x800
-refp 25.975233 61.995741
-crds 25.979608 61.996797
-
-text:0x2
-scle 1.3
 name Synsiä
 opts lang: fin
 reft point:0x800
@@ -1325,6 +1293,15 @@ opts lang: fin
 reft point:0x800
 refp 25.896515 62.000488
 crds 25.890961 61.998192
+
+text:0x2
+scle 1.3
+algn SE
+name Rutalahti
+opts lang: fin
+reft point:0x800
+refp 25.975233 61.995741
+crds 25.960750 61.996508
 
 text:0x2
 scle 1.6
@@ -1629,14 +1606,6 @@ crds 25.709531 61.770886
 
 text:0x3
 scle 0.75
-name Ruokasaari
-opts lang: fin
-reft point:0x2800
-refp 25.991289 61.688515
-crds 25.984683 61.691058
-
-text:0x3
-scle 0.75
 name Sahinsaaret
 opts lang: fin
 reft point:0x2800
@@ -1846,13 +1815,6 @@ crds 25.802580 61.834191
 text:0x3
 scle 0.75
 name näkötorni
-reft point:0x6606
-refp 25.996593 61.835057
-crds 25.997940 61.835057
-
-text:0x3
-scle 0.75
-name näkötorni
 opts legend: 1
 reft point:0x6606
 refp 25.533697 61.926861
@@ -1870,8 +1832,8 @@ text:0x3
 scle 0.75
 name rauh.
 reft point:0x6601
-refp 25.854970 61.994909
-crds 25.856317 61.994909
+refp 25.854970 61.994910
+crds 25.856317 61.994910
 
 text:0x3
 scle 0.75
@@ -2057,6 +2019,15 @@ crds 25.517949 61.732503
 text:0x3
 scle 0.75
 algn SE
+name Ruokasaari
+opts lang: fin
+reft point:0x2800
+refp 25.991289 61.688515
+crds 25.996255 61.691038
+
+text:0x3
+scle 0.75
+algn SE
 name Ruppasaari
 opts lang: fin
 reft point:0x2800
@@ -2179,6 +2150,14 @@ opts legend: 1
 reft point:0x2b04
 refp 25.966912 61.908361
 crds 25.966309 61.909534
+
+text:0x3
+scle 0.75
+algn SE
+name näkötorni
+reft point:0x6606
+refp 25.996593 61.835057
+crds 25.993809 61.834504
 
 text:0x3
 scle 0.75
@@ -2450,15 +2429,6 @@ refp 25.663636 61.946186
 crds 25.654024 61.947712
 
 text:0x3
-scle 0.8
-algn S
-name Harjujärvensuo
-opts lang: fin
-reft point:0x2800
-refp 25.987360 61.883150
-crds 25.995453 61.884447
-
-text:0x3
 scle 0.96
 name Kouhinsalo
 opts lang: fin
@@ -2522,7 +2492,7 @@ algn S
 name Kailasuo
 reft point:0x2800
 refp 25.995399 61.855991
-crds 25.995399 61.855991
+crds 26.009736 61.855837
 
 text:0x3
 scle 1.12
@@ -2570,6 +2540,16 @@ opts lang: fin
 reft point:0x2800
 refp 25.673988 61.752213
 crds 25.682724 61.754734
+
+text:0x3
+angl -49.793
+scle 0.8
+algn S
+name Harjujärvensuo
+opts lang: fin
+reft point:0x2800
+refp 25.987360 61.883150
+crds 25.987606 61.883354
 
 text:0x3
 angl -40.436
@@ -2675,14 +2655,6 @@ opts lang: fin
 reft point:0x650c
 refp 25.639944 61.808842
 crds 25.635049 61.810512
-
-text:0x4
-scle 0.825
-name Kaituenlampi
-opts lang: fin
-reft point:0x650c
-refp 25.983800 61.763958
-crds 25.973517 61.760442
 
 text:0x4
 scle 0.825
@@ -2874,11 +2846,20 @@ crds 25.996953 61.935540
 text:0x4
 scle 0.825
 algn SE
+name Kaituenlampi
+opts lang: fin
+reft point:0x650c
+refp 25.983800 61.763958
+crds 25.988144 61.760457
+
+text:0x4
+scle 0.825
+algn SE
 name Kapeemmanlampi
 opts lang: fin
 reft point:0x650c
 refp 25.984544 61.756345
-crds 25.985030 61.750557
+crds 25.985744 61.751036
 
 text:0x4
 scle 0.825
@@ -2896,7 +2877,16 @@ name Mustalampi
 opts lang: fin
 reft point:0x650c
 refp 25.987842 61.745870
-crds 25.989108 61.747834
+crds 25.987516 61.748082
+
+text:0x4
+scle 0.825
+algn SE
+name Pirttilampi
+opts lang: fin
+reft point:0x650c
+refp 25.995907 61.766157
+crds 25.989917 61.768350
 
 text:0x4
 scle 0.825
@@ -3143,14 +3133,6 @@ opts lang: fin
 reft point:0x650c
 refp 25.784020 61.667482
 crds 25.789590 61.666691
-
-text:0x4
-scle 0.9
-name Pirttilampi
-opts lang: fin
-reft point:0x650c
-refp 25.995907 61.766157
-crds 25.994453 61.760366
 
 text:0x4
 scle 0.9
@@ -3455,13 +3437,6 @@ crds 25.933184 61.793235
 
 text:0x4
 algn S
-name Harjujärvi
-reft point:0x650c
-refp 26.004112 61.881361
-crds 26.004112 61.881361
-
-text:0x4
-algn S
 name Kalliosaarenselkä
 opts lang: fin
 reft point:0x650c
@@ -3483,22 +3458,6 @@ opts lang: fin
 reft point:0x650c
 refp 25.715252 61.753826
 crds 25.723350 61.754061
-
-text:0x4
-algn S
-name Puttolanselkä
-opts lang: fin
-reft point:0x650c
-refp 25.977997 61.791017
-crds 25.986976 61.787663
-
-text:0x4
-algn S
-name Sorsanselkä
-opts lang: fin
-reft point:0x650c
-refp 25.988514 61.917304
-crds 25.985510 61.918585
 
 text:0x4
 algn S
@@ -3588,6 +3547,15 @@ refp 25.659049 61.894377
 crds 25.659681 61.894389
 
 text:0x4
+angl -329.795
+algn S
+name Puttolanselkä
+opts lang: fin
+reft point:0x650c
+refp 25.977997 61.791017
+crds 25.982593 61.790576
+
+text:0x4
 angl -320.348
 algn S
 name Korospohja
@@ -3615,12 +3583,13 @@ refp 25.881681 61.669894
 crds 25.883705 61.671656
 
 text:0x4
-angl -314.796
+angl -314.793
 algn S
-name Rutajoki
+name Sorsanselkä
+opts lang: fin
 reft point:0x650c
-refp 25.986335 61.989392
-crds 25.983771 61.986675
+refp 25.988514 61.917304
+crds 25.986690 61.917998
 
 text:0x4
 angl -310.436
@@ -3631,6 +3600,15 @@ opts lang: fin
 reft point:0x650c
 refp 25.599223 61.710859
 crds 25.598876 61.711018
+
+text:0x4
+angl -309.794
+scle 0.9
+algn S
+name Rutajoki
+reft point:0x650c
+refp 25.986335 61.989392
+crds 25.983773 61.986887
 
 text:0x4
 angl -300.144
@@ -3746,13 +3724,13 @@ refp 25.958135 61.688401
 crds 25.958339 61.683547
 
 text:0x4
-angl -80.0891
+angl -70.0941
 algn S
 name Rääpönsalmi
 opts lang: fin
 reft point:0x650c
 refp 25.987941 61.720941
-crds 25.996540 61.713236
+crds 25.991044 61.708275
 
 text:0x4
 angl -65.5055
@@ -4042,12 +4020,6 @@ opts lang: fin
 reft point:0x1100
 refp 25.630074 61.714438
 crds 25.628235 61.715071
-
-text:0x5
-name Iso-Kypärä
-reft point:0x1100
-refp 26.001226 61.801858
-crds 26.003022 61.801858
 
 text:0x5
 name Jalaanvuori
@@ -4513,7 +4485,7 @@ name Tammimäki
 opts lang: fin
 reft point:0x1100
 refp 25.994125 61.834023
-crds 25.996212 61.832526
+crds 25.995398 61.832840
 
 text:0x6
 name 130
@@ -4538,12 +4510,6 @@ name 165
 reft point:0xd00
 refp 25.661378 61.727374
 crds 25.662450 61.727059
-
-text:0x6
-name 165
-reft point:0xd00
-refp 26.001226 61.801858
-crds 26.003022 61.801858
 
 text:0x6
 name 169
@@ -4625,7 +4591,7 @@ algn SE
 name 240
 reft point:0xd00
 refp 25.994125 61.834023
-crds 25.993138 61.834665
+crds 25.994998 61.832016
 
 text:0x8
 name (99-99)
@@ -4768,8 +4734,8 @@ crds 25.721920 61.670527
 text:0x8
 name 125
 reft point:0x1000
-refp 25.997970 61.932400
-crds 25.999766 61.932400
+refp 25.993752 61.933818
+crds 25.994346 61.934003
 
 text:0x8
 name 126
@@ -5066,12 +5032,6 @@ refp 25.630550 61.775670
 crds 25.631612 61.775658
 
 text:0x8
-name 96
-reft point:0x1000
-refp 26.001140 61.766930
-crds 26.002936 61.766930
-
-text:0x8
 name 97
 reft point:0x1000
 refp 25.840610 61.699230
@@ -5220,6 +5180,13 @@ name 85
 reft point:0x1000
 refp 25.681600 61.961570
 crds 25.680048 61.961315
+
+text:0x8
+algn SE
+name 96
+reft point:0x1000
+refp 25.993583 61.767055
+crds 25.993855 61.766057
 
 text:0x8
 algn SE

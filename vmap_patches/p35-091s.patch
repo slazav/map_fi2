@@ -10,14 +10,13 @@ add point:0x1100 [27.11527,61.39501] "Puukonvuori"
 
 move   point:0x1100 [27.18299,61.50167] "Kokkokallio" [27.17860,61.50422]
 
+delete point:0x650c [27.10577,61.40016] "Kallavesi" # duplicate
 delete point:0x2800 [27.04092,61.66751] "Röppäänniemi"
-delete point:0x2800 [27.23648,61.65784] "kuntorata"
 delete point:0x2800 [27.24551,61.65164] "kuntorata"
 delete point:0x2b04 [27.40031,61.35425] "b."
 delete point:0x2b04 [27.07170,61.64450] "kpa"
 delete point:0x2b04 [27.07437,61.64518] "kpa"
 delete point:0x2b04 [27.07419,61.64718] "opisto"
-delete point:0x2b04 [27.26218,61.50164] "venesatama"
 delete point:0x650c [27.05060,61.67630] "Kotalahti"
 delete point:0x650c [27.22959,61.42381] "Suuri-Varpanen"
 delete point:0x6601 [27.07830,61.64410] "rauh."
