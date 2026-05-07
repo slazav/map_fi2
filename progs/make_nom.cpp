@@ -160,6 +160,9 @@ import_fi1(VMap2 & vmap, const std::string & fname, const dRect & box){
         vmap.add(obj1);
       }
 
+      // tunnels (medium == [UTL])
+      if (oi.opts.get<int>("level")==-11) t = "line:0x38";
+
       // special type: swamps
       if (t == "swamp"){
         auto t1 = oi.opts.get("type1"); // original type
