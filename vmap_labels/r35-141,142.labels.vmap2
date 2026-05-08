@@ -249,6 +249,13 @@ crds 28.303843 68.068967
 
 text:0x3
 scle 0.9
+name Käyläkkävuotso
+reft point:0x2800
+refp 28.565234 68.044404
+crds 28.566836 68.042256
+
+text:0x3
+scle 0.9
 name Luikonaapa
 reft point:0x2800
 refp 28.102502 68.039936
@@ -285,17 +292,11 @@ refp 28.104176 68.102558
 crds 28.104385 68.102399
 
 text:0x3
-name Käyläkkävuotso
-reft point:0x2800
-refp 28.565234 68.044404
-crds 28.566836 68.042256
-
-text:0x3
 algn S
 name Auhtiseljänlaita
 reft point:0x2800
 refp 28.636107 68.108288
-crds 28.636088 68.108297
+crds 28.627068 68.108623
 
 text:0x3
 algn S
@@ -303,27 +304,6 @@ name Iskemävaara
 reft point:0x2800
 refp 28.097507 68.132498
 crds 28.087613 68.135809
-
-text:0x3
-algn S
-name Peskiaapa
-reft point:0x2800
-refp 28.820637 68.002173
-crds 28.705631 68.064768
-
-text:0x3
-algn S
-name Peskiseljät
-reft point:0x2800
-refp 28.567116 68.056966
-crds 28.567077 68.056979
-
-text:0x3
-algn S
-name Vongoivanmänniköt
-reft point:0x2800
-refp 28.528758 68.128801
-crds 28.520720 68.127568
 
 text:0x3
 scle 1.2
@@ -366,6 +346,14 @@ name Lissikuolpunat
 reft point:0x2800
 refp 28.454230 68.014361
 crds 28.473814 68.010430
+
+text:0x3
+angl -354.981
+algn S
+name Vongoivanmänniköt
+reft point:0x2800
+refp 28.528758 68.128801
+crds 28.519998 68.128573
 
 text:0x3
 angl -354.602
@@ -513,7 +501,7 @@ algn S
 name Nummerusvaaranpalo
 reft point:0x2800
 refp 28.731807 68.072974
-crds 28.721800 68.072782
+crds 28.721747 68.072782
 
 text:0x3
 angl -323.972
@@ -585,7 +573,7 @@ algn S
 name Hirvaspäänpalot
 reft point:0x2800
 refp 28.520471 68.310394
-crds 28.507884 68.313074
+crds 28.507830 68.313074
 
 text:0x3
 angl -304.01
@@ -697,14 +685,6 @@ refp 28.161808 68.151741
 crds 28.161775 68.155701
 
 text:0x3
-angl -44.831
-algn S
-name Peuraselkä
-reft point:0x2800
-refp 28.691288 68.093247
-crds 28.683000 68.093350
-
-text:0x3
 angl -44.6841
 scle 0.9
 name Keskipakat
@@ -730,6 +710,14 @@ refp 28.008128 68.199939
 crds 28.000787 68.196038
 
 text:0x3
+angl -19.8106
+algn S
+name Peskiaapa
+reft point:0x2800
+refp 28.820637 68.002173
+crds 28.707324 68.063238
+
+text:0x3
 angl -19.7652
 scle 0.75
 algn S
@@ -737,6 +725,22 @@ name Jaurutuskuru
 reft point:0x2800
 refp 28.106952 68.224299
 crds 28.109209 68.225894
+
+text:0x3
+angl -14.8335
+algn S
+name Peuraselkä
+reft point:0x2800
+refp 28.691288 68.093247
+crds 28.680206 68.090843
+
+text:0x3
+angl -9.93544
+algn S
+name Peskiseljät
+reft point:0x2800
+refp 28.567116 68.056966
+crds 28.568679 68.058392
 
 text:0x3
 angl -9.20005
@@ -1211,7 +1215,7 @@ crds 28.610420 68.092782
 text:0x5
 name Aukkiselkä
 reft point:0x1100
-refp 28.229488 68.011025
+refp 28.229440 68.011044
 crds 28.219446 68.008882
 
 text:0x5
@@ -1775,11 +1779,11 @@ refp 28.563523 68.328893
 crds 28.562432 68.327107
 
 text:0x5
-scle 1.5
+scle 1.4
 name Sokosti
 reft point:0x1100
 refp 28.138828 68.218470
-crds 28.142471 68.217144
+crds 28.147280 68.218310
 
 text:0x6
 name 222
@@ -1832,7 +1836,7 @@ crds 28.211116 68.133754
 text:0x6
 name 292
 reft point:0xd00
-refp 28.229488 68.011025
+refp 28.229440 68.011044
 crds 28.231284 68.011025
 
 text:0x6
@@ -2295,7 +2299,7 @@ text:0x6
 name 713
 reft point:0xd00
 refp 28.138828 68.218470
-crds 28.141690 68.215628
+crds 28.140126 68.216123
 
 text:0x6
 algn SE
