@@ -1,0 +1,111 @@
+include common.patch
+
+delete_all point:0x2800 "moottorikelkkareitti"
+delete_all point:0x2800 "mottorikelkkareitti"
+delete_all point:0x2b04 "hot."
+
+chtype point:0x1100 [24.05776,67.55844] "Malmivaara" point:0x2800
+chtype point:0x1100 [24.05005,67.47443] "Niesaselkä" point:0x2800
+chtype point:0x1100 [24.46674,67.42469] "Kallovaara" point:0x2800
+chtype point:0x1100 [24.44383,67.65039] "Karhukummut" point:0x2800
+chtype point:0x1100 [24.45335,67.35836] "Tiekkosenmaankummut" point:0x2800
+chtype point:0x1100 [24.41668,67.34796] "Ylijärvenvaara" point:0x2800
+chtype point:0x1100 [24.98153,67.55582] "Autiomänniköntievat" point:0x2800
+
+## 2026-05-08 14:58:25
+delete point:0xd00 [25.01041,67.51865] "237"
+delete point:0x1100 [25.01041,67.51865] "Särestönvaara"
+delete point:0x650c [23.89470,66.94320] "Naamijoki"
+delete point:0x650c [23.90764,67.45425] "Niesajoki"
+delete point:0x650c [25.66493,66.55715] "Ounasjoki"
+delete point:0x650c [25.66493,66.55715] "Ounasjoki"
+delete point:0x650c [23.94141,67.37139] "Ylläsjoki"
+delete point:0x650c [23.72147,67.46151] "Äkäsjoki"
+add point:0x650c [24.29159,67.34934] "Naamijoki"
+add point:0x650c [24.02073,67.51529] "Niesajoki"
+add point:0x650c [24.86718,67.38345] "Ounasjoki"
+add point:0x650c [24.91682,67.49905] "Ounasjoki"
+add point:0x650c [24.07599,67.40171] "Ylläsjoki"
+add point:0x650c [24.20351,67.43509] "Ylläsjoki"
+add point:0x650c [24.10945,67.59183] "Äkäsjoki"
+add point:0x650c [24.18624,67.65864] "Äkäsjoki"
+## 2026-05-08 15:17:17
+move   point:0x1000 [24.16034,67.60946] "217" [24.15941,67.60633]
+move   point:0x1000 [24.23663,67.59943] "218" [24.24233,67.60048]
+move   point:0x1000 [24.10924,67.62442] "225" [24.10226,67.62464]
+move   point:0x1000 [24.17735,67.64817] "235" [24.17979,67.64798]
+move   point:0x1000 [24.16017,67.55334] "303" [24.16350,67.55428]
+move   point:0x1100 [24.16218,67.65911] "Kukaslompolonvaara" [24.16380,67.66118]
+delete point:0xd00 [24.16218,67.65911] "284"
+delete point:0x2800 [24.25342,67.65862] "Kotamaja"
+rename point:0x2b04 [24.20444,67.58942] "Yllästunturin luontokeskus" "luontokeskus"
+delete point:0x2b04 [24.14922,67.61616] "hot."
+delete point:0x2b04 [24.15016,67.61396] "hot."
+delete point:0x2b04 [24.17157,67.60430] "hot."
+delete point:0x2b04 [24.15460,67.60529] "kpa"
+delete point:0x6402 [24.15064,67.60186] ""
+delete point:0x6402 [24.25346,67.65862] ""
+## 2026-05-11 06:57:29
+move   point:0x1000 [24.08191,67.51560] "194" [24.08769,67.51617]
+move   point:0x1000 [24.11639,67.52818] "197" [24.14691,67.53084]
+move   point:0x1000 [24.11943,67.50797] "212" [24.11906,67.50707]
+delete point:0xd00 [24.05776,67.55844] "295"
+delete point:0xd00 [24.05005,67.47443] "383"
+delete point:0x2800 [24.18285,67.52962] "retkeilyreitti"
+## 2026-05-11 08:04:07
+move   point:0x1000 [24.31650,67.52224] "192" [24.32063,67.51672]
+move   point:0x1000 [24.48713,67.46840] "198" [24.49400,67.46673]
+move   point:0x1000 [24.36771,67.47676] "199" [24.36967,67.47555]
+move   point:0x1000 [24.43885,67.52166] "200" [24.43699,67.52155]
+move   point:0x1000 [24.55008,67.61954] "238" [24.55684,67.62032]
+move   point:0x1000 [24.72732,67.63509] "254" [24.73097,67.63105]
+move   point:0x1100 [24.70744,67.62137] "Hangasselkä" [24.70189,67.62523]
+move   point:0x1100 [24.59163,67.59771] "Kapustaselkä" [24.59704,67.59501]
+move   point:0x1100 [24.79913,67.62038] "Kolmivaaranen" [24.80076,67.62113]
+move   point:0x1100 [24.52516,67.39225] "Petäjävaara" [24.52726,67.39405]
+move   point:0x1100 [24.43582,67.33618] "Rykimälaki" [24.43333,67.33675]
+move   point:0x1100 [24.79609,67.60173] "Sarvivaara" [24.79262,67.60495]
+move   point:0x1100 [24.50515,67.56345] "Vesikkovaara" [24.51656,67.56138]
+move   point:0x1100 [24.75246,67.63633] "Vuotsukka" [24.75242,67.63243]
+delete point:0xd00 [24.45335,67.35836] "237"
+delete point:0xd00 [24.79609,67.60173] "244"
+delete point:0xd00 [24.79913,67.62038] "246"
+delete point:0xd00 [24.46674,67.42469] "251"
+delete point:0xd00 [24.52516,67.39225] "258"
+delete point:0xd00 [24.44383,67.65039] "261"
+delete point:0xd00 [24.70744,67.62137] "262"
+delete point:0xd00 [24.50515,67.56345] "279"
+delete point:0xd00 [24.41668,67.34796] "290"
+delete point:0xd00 [24.75246,67.63633] "302"
+delete point:0xd00 [24.59163,67.59771] "305"
+delete point:0xd00 [24.43582,67.33618] "339"
+delete point:0x1000 [24.45150,67.52374] "200"
+delete point:0x1000 [24.44072,67.54832] "204"
+## 2026-05-11 09:15:24
+move   point:0x1000 [24.33148,67.50506] "192" [24.33422,67.50044]
+move   point:0x1000 [24.36967,67.47555] "199" [24.36482,67.47913]
+move   point:0x1100 [24.65310,67.33993] "Haisujupukka" [24.65369,67.34531]
+move   point:0x1100 [24.85010,67.46857] "Hangasvaara" [24.85177,67.47187]
+move   point:0x1100 [24.68510,67.53275] "Pahtapuura" [24.68074,67.53212]
+move   point:0x1100 [24.93990,67.54548] "Tiukuvaara" [24.92764,67.55435]
+delete point:0xd00 [24.98153,67.55582] "179"
+delete point:0xd00 [24.93990,67.54548] "191"
+delete point:0xd00 [24.85010,67.46857] "197"
+delete point:0xd00 [24.65310,67.33993] "235"
+delete point:0xd00 [24.68510,67.53275] "269"
+delete point:0xd00 [24.21782,67.53666] "328"
+delete point:0x2800 [24.24491,67.51944] "Kotarovanvuoma"
+delete point:0x2b04 [24.30562,67.52438] "kpa\\b"
+delete point:0x650c [25.01427,67.56581] "Repsunjärvi"
+## 2026-05-12 02:57:10
+move   point:0x1000 [24.37670,67.51217] "195" [24.37962,67.51123]
+move   point:0x1000 [24.47089,67.44588] "196" [24.46681,67.44932]
+move   point:0x1000 [24.48827,67.44415] "196" [24.48809,67.44382]
+move   point:0x1000 [24.43743,67.44753] "197" [24.44123,67.44742]
+move   point:0x1000 [24.49900,67.49617] "200" [24.50065,67.49329]
+move   point:0x1000 [24.46818,67.50843] "201" [24.46210,67.50572]
+delete point:0x2800 [24.23283,67.43421] "Kaunismaa"
+delete point:0x2800 [24.47727,67.43761] "Kivijärvenvuoma"
+delete point:0x2800 [24.44880,67.45698] "Kuruvuoma"
+delete point:0x2800 [25.00389,67.33896] "Murtovuoma"
+delete point:0x2800 [24.48369,67.44894] "Paskajärvenvuoma"
