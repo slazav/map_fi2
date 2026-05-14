@@ -23,7 +23,7 @@ rename point:0x1100 [21.82546,68.80535] "Gaskkamus Bovnnoaivi" "Gaskkamus\\Bovnn
 rename point:0x1100 [21.79060,68.81872] "Davimus Bovnnoaivi" "Davimus\\Bovnnoaivi"
 rename point:0x1100 [21.84547,68.79274] "Lulimus Bovnnoaivi" "Lulimus\\Bovnnoaivi"
 
-# SE water points
+# FI water points
 move   point:0x1000 [21.59452,68.66750] "398" [21.56641,68.66783]
 move   point:0x1000 [21.44918,68.68877] "405" [21.44270,68.68704]
 move   point:0x1000 [21.26736,68.82458] "445" [21.26037,68.82253]

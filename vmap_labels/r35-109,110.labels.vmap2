@@ -1,9 +1,3 @@
-text:0x1
-name Lulešbáiki
-reft point:0x8728
-refp 24.665008 68.936204
-crds 24.665008 68.936204
-
 text:0x3
 scle 0.75
 name palsasuo
@@ -145,7 +139,7 @@ scle 0.9
 algn S
 name Geađgeborgielas
 reft point:0x2800
-refp 24.805220 68.956530
+refp 24.805165 68.956548
 crds 24.807261 68.959771
 
 text:0x3
@@ -570,7 +564,7 @@ algn SE
 name Ahvenjärvi
 opts lang: fin
 reft point:0x650c
-refp 24.070694 68.747489
+refp 24.070641 68.747502
 crds 24.072842 68.744361
 
 text:0x4
@@ -800,7 +794,7 @@ text:0x4
 scle 0.9
 name Sieiddejávri
 reft point:0x650c
-refp 24.719897 68.671352
+refp 24.719846 68.671365
 crds 24.716862 68.668341
 
 text:0x4
@@ -1171,11 +1165,11 @@ algn S
 name Gietnjojávrrit
 reft point:0x650c
 refp 24.590225 68.949994
-crds 24.582050 68.949985
+crds 24.581995 68.949985
 
 text:0x4
 angl -84.8369
-scle 0.916667
+scle 1.2
 algn S
 name Heavvojohka
 reft point:0x650c
@@ -1375,12 +1369,29 @@ refp 24.973970 68.678637
 crds 24.967659 68.672933
 
 text:0x4
+angl -29.7311
+algn S
+name Rávdojohka
+reft point:0x650c
+refp 24.784050 68.736750
+crds 24.786857 68.733275
+
+text:0x4
 angl -24.5654
 algn S
 name Geađgeborjohka
 reft point:0x650c
 refp 24.963877 68.932587
 crds 24.965401 68.935132
+
+text:0x4
+angl -19.6712
+scle 1.4
+algn S
+name Anárjohka
+reft point:0x650c
+refp 24.846390 68.764880
+crds 24.853599 68.761913
 
 text:0x4
 angl -9.21737
@@ -2929,7 +2940,7 @@ crds 24.291027 68.928740
 text:0x8
 name 378
 reft point:0x1000
-refp 24.327900 68.941650
+refp 24.327847 68.941669
 crds 24.328746 68.939997
 
 text:0x8
@@ -3019,7 +3030,7 @@ crds 24.357923 68.864770
 text:0x8
 name 391
 reft point:0x1000
-refp 24.245460 68.948420
+refp 24.245408 68.948437
 crds 24.248404 68.948123
 
 text:0x8
@@ -3301,7 +3312,7 @@ crds 24.660258 68.716596
 text:0x8
 name 440
 reft point:0x1000
-refp 24.013580 68.871420
+refp 24.013529 68.871424
 crds 24.016566 68.871372
 
 text:0x8
@@ -3313,7 +3324,7 @@ crds 24.724010 68.673755
 text:0x8
 name 441
 reft point:0x1000
-refp 24.632070 68.743610
+refp 24.632017 68.743627
 crds 24.633825 68.742989
 
 text:0x8
@@ -3659,7 +3670,7 @@ text:0x8
 algn SE
 name 462
 reft point:0x1000
-refp 24.065040 68.761530
+refp 24.064988 68.761531
 crds 24.062044 68.760348
 
 text:0x8

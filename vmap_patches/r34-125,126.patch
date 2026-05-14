@@ -1,8 +1,12 @@
+include common.patch
+
 delete point:0x2800 [20.20466,68.66572] "Rr 285"
 chtype point:0x2800 [20.89290,68.66201] "Biggosoaivi"          point:0x1100
 chtype point:0x2800 [20.90729,68.64455] "Biggosoaivváš"        point:0x1100
 chtype point:0x2800 [20.54085,68.66571] "Boggevárdu"           point:0x1100
 chtype point:0x2800 [20.73078,68.63834] "Doaresoaivi"          point:0x1100
+exit
+
 chtype point:0x2800 [20.83234,68.63766] "Gussavárit"           point:0x1100
 chtype point:0x2800 [20.57011,68.64085] "Jiehtanasgielas"      point:0x1100
 chtype point:0x2800 [20.36846,68.63383] "Njuokččačohkka"       point:0x1100

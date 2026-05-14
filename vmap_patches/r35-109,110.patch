@@ -2,6 +2,9 @@ include common.patch
 
 delete point:0x650c [24.06122,68.78820] "Alitjávri" # duplicate
 
+add point:0x650c [24.84639,68.76488] "Anárjohka"
+add point:0x650c [24.78405,68.73675] "Rávdojohka"
+
 rename point:0x650c [24.36745,68.87639] "Davimus Guhkesjávri" "Davimus\\Guhkesjávri"
 rename point:0x650c [24.34204,68.85333] "Gaskkamus Guhkesjávri" "Gaskkamus\\Guhkesjávri"
 rename point:0x650c [24.33239,68.82707] "Lulimus Guhkesjávri" "Lulimus\\Guhkesjávri"

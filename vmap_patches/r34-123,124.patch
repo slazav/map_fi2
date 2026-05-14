@@ -1,3 +1,6 @@
+include common.patch
+exit
+
 # move across map boundary
 add point:0x1100 [19.19843,68.67043] "Čoalbmoaivi"
 
