@@ -1,23 +1,236 @@
 include common.patch
-exit
+## 2026-05-14 19:43:47
+move   point:0x1000 [21.96605,68.61022] "405" [21.95720,68.60919]
+move   point:0x1000 [21.88732,68.65322] "485" [21.90427,68.65818]
+move   point:0x1000 [21.95846,68.66243] "505" [21.96299,68.66227]
 
-move point:0x1000 [21.69245,68.60450] "388" [21.71795,68.60373]
-move point:0x1000 [21.97718,68.59629] "392" [21.97652,68.59483]
-move point:0x1000 [21.71656,68.63625] "402" [21.71348,68.63657]
-move point:0x1000 [21.96605,68.61022] "405" [21.95975,68.61228]
-move point:0x1000 [21.88732,68.65322] "485" [21.88340,68.65461]
-delete point:0x1000 [21.98663,68.55834] "382"
-delete point:0x1000 [21.95670,68.57778] "383"
-delete point:0x1000 [21.77431,68.59385] "385"
-delete point:0x1000 [21.66319,68.64998] "401"
-delete point:0x1000 [21.67237,68.64862] "401"
+move   point:0x1100 [21.95657,68.64443] "Beahceluohkká" [21.95304,68.64927]
+
+delete point:0xd00 [21.95657,68.64443] "578"
+
+delete point:0x650c [21.90353,68.57228] "Könkämäälven"  # SE/FI name duplicate
+
+
+# too dense
+delete point:0x2800 [21.55985,68.36720] "Niittysaari"
+delete point:0x650c [21.55709,68.36094] "Liedakkasuanto"
+
+delete point:0x2800 [21.45290,68.39382] "rengärde"
+delete point:0x2800 [21.74636,68.45937] "rengärde"
+
+delete point:0x650c [21.66172,68.64410] "Leveäsuvanto"
+delete point:0x650c [21.40228,68.50178] "Liinesavvon"
+delete point:0x650c [21.63700,68.65383] "Rasanivansuvanto"
+delete point:0x650c [21.70055,68.61378] "Siikavuopio"
+delete point:0x650c [21.74039,68.33577] "Säyrisjoki"
+
+move   point:0x1000 [21.71656,68.63625] "402" [21.72047,68.63752]
 delete point:0x1000 [21.72956,68.63608] "404"
-delete point:0x1000 [21.73207,68.62990] "407"
-delete point:0x1000 [21.95178,68.62592] "493"
-delete point:0x1000 [21.95846,68.66243] "505"
-delete point:0x1000 [21.92148,68.65088] "519"
-move point:0x1100 [21.95657,68.64443] "Beahceluohkká" [21.95713,68.64696]
-delete point:0x650c [21.59435,68.66490] "Naimakkajärvi"
-chtype point:0x2800 [21.34850,68.65180] "Áidnavárppioaivi"     point:0x1100
-delete point:0x1000 [21.61656,68.66106] "398"
-delete point:0x1000 [21.65977,68.66468] "432"
+
+# SE villages
+chtype point:0x2800 [21.01728,68.37095] "Järämä" point:0x800
+chtype point:0x2800 [21.07965,68.43524] "Pulsujärvi" point:0x800
+chtype point:0x2800 [21.56939,68.36751] "Liedakka" point:0x800
+
+# Se rapids
+chtype point:0x650c [21.53992,68.35356] "Al.Liedakkakoski" point:0x6508
+chtype point:0x650c [21.56149,68.38752] "Yl.Liedakkakoski" point:0x6508
+
+# SE mountains
+chtype point:0x2800 [21.90876,68.55250] "Aattavaara" point:0x1100
+chtype point:0x2800 [21.40315,68.34616] "Al.Ristivaara" point:0x1100
+chtype point:0x2800 [21.15821,68.51712] "Bajit Roaváš" point:0x1100
+chtype point:0x2800 [21.01726,68.61874] "Bassevárri" point:0x1100
+chtype point:0x2800 [21.57759,68.41036] "Bearrevárri" point:0x1100
+chtype point:0x2800 [21.36800,68.60296] "Boaimmášoaivi" point:0x1100
+chtype point:0x2800 [21.49633,68.52940] "Borjjasoaivi" point:0x1100
+chtype point:0x2800 [21.04682,68.51513] "Buoiddesoaivi" point:0x1100
+chtype point:0x2800 [21.54339,68.56386] "Buollán" point:0x1100
+chtype point:0x2800 [21.70964,68.47631] "Buollángielas" point:0x1100
+chtype point:0x2800 [21.44523,68.40460] "Buollánoaivi" point:0x1100
+chtype point:0x2800 [21.18564,68.33826] "Buollánvárri" point:0x1100
+chtype point:0x2800 [21.13688,68.35604] "Buolžavárri" point:0x1100
+chtype point:0x2800 [21.74286,68.55573] "Bávkkanoaivvit" point:0x1100
+chtype point:0x2800 [21.09724,68.56726] "Diiban" point:0x1100
+chtype point:0x2800 [21.23733,68.38255] "Gamsi" point:0x1100
+chtype point:0x2800 [21.64717,68.46353] "Geađgečohkka" point:0x1100
+chtype point:0x2800 [21.49168,68.65834] "Geičorru" point:0x1100
+chtype point:0x2800 [21.26392,68.58529] "Guolbanoaivi" point:0x1100
+chtype point:0x2800 [21.55180,68.58444] "Gutnjoloaivi" point:0x1100
+chtype point:0x2800 [21.79957,68.42786] "Gállgielas" point:0x1100
+chtype point:0x2800 [21.16790,68.40933] "Gárdevárri" point:0x1100
+chtype point:0x2800 [21.09472,68.48080] "Heaikkuhačohkka" point:0x1100
+chtype point:0x2800 [21.65533,68.63067] "Herravaara" point:0x1100
+chtype point:0x2800 [21.28187,68.40795] "Herudesvárit" point:0x1100
+chtype point:0x2800 [21.43510,68.53685] "Hiittanoaivvit" point:0x1100
+chtype point:0x2800 [21.55909,68.51203] "Hohavárri" point:0x1100
+chtype point:0x2800 [21.98876,68.36278] "Iso Mustavaara" point:0x1100
+chtype point:0x2800 [21.85843,68.50472] "Jeytinen" point:0x1100
+chtype point:0x2800 [21.60240,68.64119] "Juovavaara" point:0x1100
+chtype point:0x2800 [21.09393,68.36645] "Juovlavárri" point:0x1100
+chtype point:0x2800 [21.28784,68.53141] "Jáhkotvárri" point:0x1100
+chtype point:0x2800 [21.81210,68.38792] "Jámetčohkat" point:0x1100
+chtype point:0x2800 [21.97365,68.44452] "Kermikkäkelinen" point:0x1100
+chtype point:0x2800 [21.93518,68.45697] "Koppavaara" point:0x1100
+chtype point:0x2800 [21.85732,68.53041] "Koutta" point:0x1100
+chtype point:0x2800 [21.87203,68.44950] "Kutsuroivi" point:0x1100
+chtype point:0x2800 [21.79458,68.55699] "Latnjavaara" point:0x1100
+chtype point:0x2800 [21.60168,68.37187] "Lieđekvárri" point:0x1100
+chtype point:0x2800 [21.42486,68.48148] "Liinevárri" point:0x1100
+chtype point:0x2800 [21.26548,68.47588] "Liinečearru" point:0x1100
+chtype point:0x2800 [21.22733,68.46654] "Lohgeresčohkka" point:0x1100
+chtype point:0x2800 [21.33958,68.56900] "Láfoloaivi" point:0x1100
+chtype point:0x2800 [21.09292,68.58009] "Láttenjunni" point:0x1100
+chtype point:0x2800 [21.23786,68.54718] "Lávnjitvárri" point:0x1100
+chtype point:0x2800 [21.97493,68.50804] "Mustamarasto" point:0x1100
+chtype point:0x2800 [21.37626,68.41363] "Nibbačohkka" point:0x1100
+chtype point:0x2800 [21.41625,68.56783] "Njivlohuortnáš" point:0x1100
+chtype point:0x2800 [21.44884,68.58147] "Njuokččavárri" point:0x1100
+chtype point:0x2800 [21.87891,68.54337] "Nuortaborri" point:0x1100
+chtype point:0x2800 [21.10510,68.50893] "Nuvtevárri" point:0x1100
+chtype point:0x2800 [21.14863,68.48677] "Návdečohkat" point:0x1100
+chtype point:0x2800 [21.56370,68.63811] "Pahtavaara" point:0x1100
+chtype point:0x2800 [21.96389,68.34785] "Pikku Mustavaara" point:0x1100
+chtype point:0x2800 [21.71476,68.55118] "Pikku Pauhkutanoivi" point:0x1100
+chtype point:0x2800 [21.02601,68.49122] "Ribatoaivi" point:0x1100
+chtype point:0x2800 [21.32714,68.42258] "Robihuortnáš" point:0x1100
+chtype point:0x2800 [21.36028,68.43978] "Rohpi" point:0x1100
+chtype point:0x2800 [21.50801,68.42094] "Rotnovárri" point:0x1100
+chtype point:0x2800 [21.48639,68.60786] "Rudusoaivi" point:0x1100
+chtype point:0x2800 [21.03000,68.47120] "Ráhpesoaivvit" point:0x1100
+chtype point:0x2800 [21.28691,68.49129] "Ráhpesoaivvit" point:0x1100
+chtype point:0x2800 [21.61539,68.51575] "Rávdoaivi" point:0x1100
+chtype point:0x2800 [21.23560,68.56412] "Skierreoaivi" point:0x1100
+chtype point:0x2800 [21.86741,68.41131] "Tjuonakielinen" point:0x1100
+chtype point:0x2800 [21.17901,68.44476] "Unna Čohkažat" point:0x1100
+chtype point:0x2800 [21.45903,68.37258] "Varttavaara" point:0x1100
+chtype point:0x2800 [21.48901,68.63819] "Veavnji" point:0x1100
+chtype point:0x2800 [21.82173,68.58148] "Vuokkasenvaara" point:0x1100
+chtype point:0x2800 [21.16260,68.52915] "Vuolit Roaváš" point:0x1100
+chtype point:0x2800 [21.56232,68.65075] "Vuoskuvaara" point:0x1100
+chtype point:0x2800 [21.06440,68.41781] "Vuovdevárri" point:0x1100
+chtype point:0x2800 [21.41109,68.35847] "Yl.Ristivaara" point:0x1100
+chtype point:0x2800 [21.34850,68.65180] "Áidnavárppioaivi" point:0x1100
+chtype point:0x2800 [21.60903,68.61739] "Čolli" point:0x1100
+chtype point:0x2800 [21.08133,68.62241] "Geavggosoaivi" point:0x1100
+chtype point:0x2800 [21.06963,68.59404] "Ragatoaivi" point:0x1100
+chtype point:0x2800 [21.79577,68.48876] "Vuoggásoaivi" point:0x1100
+chtype point:0x2800 [21.53244,68.43867] "Guovjá" point:0x1100
+
+
+move   point:0x1100 [21.90876,68.55250] "Aattavaara" [21.90991,68.55672]
+move   point:0x1100 [21.40315,68.34616] "Al.Ristivaara" [21.40446,68.34531]
+move   point:0x1100 [21.15821,68.51712] "Bajit Roaváš" [21.15965,68.51641]
+move   point:0x1100 [21.01726,68.61874] "Bassevárri" [21.01654,68.61813]
+move   point:0x1100 [21.36800,68.60296] "Boaimmášoaivi" [21.37721,68.60662]
+move   point:0x1100 [21.49633,68.52940] "Borjjasoaivi" [21.49520,68.52865]
+move   point:0x1100 [21.04682,68.51513] "Buoiddesoaivi" [21.05427,68.51606]
+move   point:0x1100 [21.74286,68.55573] "Bávkkanoaivvit" [21.74291,68.55515]
+move   point:0x1100 [21.09724,68.56726] "Diiban" [21.09657,68.56701]
+move   point:0x1100 [21.08133,68.62241] "Geavggosoaivi" [21.08198,68.62240]
+move   point:0x1100 [21.49168,68.65834] "Geičorru" [21.49162,68.65623]
+move   point:0x1100 [21.26392,68.58529] "Guolbanoaivi" [21.26671,68.58572]
+move   point:0x1100 [21.16790,68.40933] "Gárdevárri" [21.16727,68.40878]
+move   point:0x1100 [21.09472,68.48080] "Heaikkuhačohkka" [21.09412,68.47935]
+move   point:0x1100 [21.65533,68.63067] "Herravaara" [21.65687,68.63018]
+move   point:0x1100 [21.43510,68.53685] "Hiittanoaivvit" [21.42780,68.53684]
+move   point:0x1100 [21.55909,68.51203] "Hohavárri" [21.55149,68.50830]
+move   point:0x1100 [21.98876,68.36278] "Iso Mustavaara" [21.99100,68.36508]
+move   point:0x1100 [21.60240,68.64119] "Juovavaara" [21.60147,68.64044]
+move   point:0x1100 [21.28784,68.53141] "Jáhkotvárri" [21.28560,68.53114]
+move   point:0x1100 [21.81210,68.38792] "Jámetčohkat" [21.81532,68.39200]
+move   point:0x1100 [21.93518,68.45697] "Koppavaara" [21.93808,68.45960]
+move   point:0x1100 [21.85732,68.53041] "Koutta" [21.85793,68.53002]
+move   point:0x1100 [21.87203,68.44950] "Kutsuroivi" [21.87090,68.44911]
+move   point:0x1100 [21.79458,68.55699] "Latnjavaara" [21.78557,68.55785]
+move   point:0x1100 [21.60168,68.37187] "Lieđekvárri" [21.60145,68.36997]
+move   point:0x1100 [21.42486,68.48148] "Liinevárri" [21.42651,68.48171]
+move   point:0x1100 [21.26548,68.47588] "Liinečearru" [21.26905,68.47988]
+move   point:0x1100 [21.22733,68.46654] "Lohgeresčohkka" [21.22737,68.46713]
+move   point:0x1100 [21.33958,68.56900] "Láfoloaivi" [21.34184,68.56910]
+move   point:0x1100 [21.37626,68.41363] "Nibbačohkka" [21.36495,68.41290]
+move   point:0x1100 [21.44884,68.58147] "Njuokččavárri" [21.42962,68.58065]
+move   point:0x1100 [21.87891,68.54337] "Nuortaborri" [21.88278,68.54286]
+move   point:0x1100 [21.10510,68.50893] "Nuvtevárri" [21.10609,68.50862]
+move   point:0x1100 [21.56370,68.63811] "Pahtavaara" [21.56256,68.64052]
+move   point:0x1100 [21.96389,68.34785] "Pikku Mustavaara" [21.96771,68.34807]
+move   point:0x1100 [21.02601,68.49122] "Ribatoaivi" [21.02730,68.49079]
+move   point:0x1100 [21.36028,68.43978] "Rohpi" [21.36003,68.43930]
+move   point:0x1100 [21.48639,68.60786] "Rudusoaivi" [21.46992,68.60802]
+move   point:0x1100 [21.03000,68.47120] "Ráhpesoaivvit" [21.02052,68.46491]
+move   point:0x1100 [21.61539,68.51575] "Rávdoaivi" [21.61601,68.51414]
+move   point:0x1100 [21.23560,68.56412] "Skierreoaivi" [21.23874,68.56225]
+move   point:0x1100 [21.17901,68.44476] "Unna Čohkažat" [21.18289,68.44836]
+move   point:0x1100 [21.45903,68.37258] "Varttavaara" [21.45641,68.37117]
+move   point:0x1100 [21.48901,68.63819] "Veavnji" [21.48529,68.63487]
+move   point:0x1100 [21.79577,68.48876] "Vuoggásoaivi" [21.80239,68.49252]
+move   point:0x1100 [21.16260,68.52915] "Vuolit Roaváš" [21.16376,68.52873]
+move   point:0x1100 [21.06440,68.41781] "Vuovdevárri" [21.07029,68.41699]
+move   point:0x1100 [21.41109,68.35847] "Yl.Ristivaara" [21.41207,68.35859]
+move   point:0x1100 [21.60903,68.61739] "Čolli" [21.61196,68.61760]
+
+add point:0xd00 [21.94001,68.34130] "481"
+add point:0xd00 [21.65725,68.63038] "514"
+add point:0xd00 [21.23703,68.38245] "540"
+add point:0xd00 [21.77713,68.37199] "542"
+add point:0xd00 [21.42640,68.48170] "545"
+add point:0xd00 [21.28598,68.53108] "547"
+add point:0xd00 [21.32479,68.38744] "547"
+add point:0xd00 [21.87647,68.30184] "550"
+add point:0xd00 [21.13663,68.35614] "557"
+add point:0xd00 [21.16738,68.40872] "569"
+add point:0xd00 [21.56259,68.65074] "581"
+add point:0xd00 [21.23783,68.54709] "600"
+add point:0xd00 [21.79974,68.42793] "600"
+add point:0xd00 [21.16338,68.52887] "610"
+add point:0xd00 [21.61196,68.61764] "615"
+add point:0xd00 [21.74307,68.55529] "620"
+add point:0xd00 [21.85760,68.53006] "621"
+add point:0xd00 [21.36484,68.41302] "633"
+add point:0xd00 [21.64698,68.46354] "642"
+add point:0xd00 [21.27704,68.56040] "648"
+add point:0xd00 [21.15976,68.51639] "649"
+add point:0xd00 [21.05411,68.51604] "650"
+add point:0xd00 [21.78059,68.48624] "654"
+add point:0xd00 [21.23518,68.60554] "659"
+add point:0xd00 [21.18300,68.44830] "660"
+add point:0xd00 [21.23907,68.56221] "662"
+add point:0xd00 [21.27087,68.45564] "662"
+add point:0xd00 [21.34195,68.56920] "674"
+add point:0xd00 [21.09679,68.56691] "680"
+add point:0xd00 [21.07348,68.60672] "682"
+add point:0xd00 [21.12184,68.63881] "685"
+add point:0xd00 [21.80244,68.49262] "690"
+add point:0xd00 [21.04705,68.47526] "692"
+add point:0xd00 [21.27790,68.61190] "719"
+add point:0xd00 [21.55143,68.50822] "724"
+add point:0xd00 [21.65891,68.54091] "743"
+add point:0xd00 [21.49520,68.52869] "750"
+add point:0xd00 [21.08192,68.62250] "763"
+add point:0xd00 [21.61595,68.51421] "771"
+add point:0xd00 [21.48507,68.63483] "772"
+add point:0xd00 [21.37743,68.60650] "797"
+add point:0xd00 [21.36013,68.43934] "798"
+add point:0xd00 [21.42951,68.58071] "802"
+add point:0xd00 [21.34837,68.65184] "806"
+add point:0xd00 [21.47002,68.60816] "841"
+
+add point:0x1000 [21.83085,68.57520] "387"
+add point:0x1000 [21.86309,68.56015] "407"
+add point:0x1000 [21.87038,68.34085] "434"
+add point:0x1000 [21.32768,68.34782] "466"
+add point:0x1000 [21.11674,68.39313] "489"
+add point:0x1000 [21.32152,68.52140] "502"
+add point:0x1000 [21.17937,68.52870] "525"
+add point:0x1000 [21.08407,68.52674] "551"
+add point:0x1000 [21.23570,68.57996] "593"
+add point:0x1000 [21.17629,68.59520] "606"
+add point:0x1000 [21.20633,68.63412] "696"
+add point:0x1000 [21.08889,68.65362] "702"
+add point:0x1000 [21.22026,68.66024] "765"
+
+## 2026-05-14 21:38:52
+move   point:0x6508 [21.53992,68.35356] "Al.Liedakkakoski" [21.54159,68.35366]
+move   point:0x6508 [21.56149,68.38752] "Yl.Liedakkakoski" [21.56483,68.38738]
+delete point:0x6402 [21.02646,68.37057] ""
+add point:0x6402 [21.02644,68.37057] ""

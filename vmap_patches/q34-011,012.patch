@@ -1,0 +1,320 @@
+include common.patch
+
+
+# big rivers
+delete point:0x650c [23.58150,67.21362] "Muonionjoki"
+add point:0x650c [23.48287,67.71263] "Muonionjoki"
+add point:0x650c [23.62493,67.91053] "Muonionjoki"
+add point:0x650c [23.43770,67.84420] "Ranta-Puristajoki" #?!
+
+delete point:0x650c [23.13606,67.97789] "Alasuanto"
+delete point:0x650c [23.11267,67.97653] "Harrisuanto"
+delete point:0x650c [23.07881,67.97745] "Saukkosuanto"
+delete point:0x650c [23.02691,67.99402] "Tervasuanto"
+delete point:0x650c [23.20066,67.95265] "Ylivuopio"
+delete point:0x650c [23.47836,67.93008] "Kinnassuanto"
+delete point:0x650c [23.49181,67.69516] "Pyssykorva"
+delete point:0x650c [23.46007,67.95710] "Sammallahti"
+delete point:0x650c [23.50322,67.96365] "Viiksenlahti"
+delete point:0x650c [23.47829,67.70459] "Ärsönlahti"
+delete point:0x650c [23.48761,67.97282] "Savivuopio"
+delete point:0x650c [23.50468,67.87473] "Saarikoski" # duplicate
+delete point:0x650c [23.59532,67.90369] "Äijänkoski" # duplicate
+delete point:0x650c [23.48273,67.76245] "Muonionväylä"
+delete point:0x650c [23.48549,67.76252] "Muonioälven"
+delete point:0x650c [23.58981,67.89906] "Harmajatkorvat"
+delete point:0x650c [23.50697,67.88348] "Muonioälven"
+delete point:0x650c [23.64392,67.92712] "Kuivonen"
+delete point:0x650c [23.66163,67.93904] "Myllykorva"
+delete point:0x650c [23.77636,67.97367] "Oloslompolo"
+delete point:0x650c [23.63408,67.91337] "Pahtonen"
+delete point:0x650c [23.65393,67.93678] "Porttinen"
+
+delete point:0x2800 [23.24920,67.91524] "Jaarasaari"
+delete point:0x2800 [23.47065,67.96621] "Tölppäniemi"
+delete point:0x2800 [23.14627,67.82576] "Mellasaari"
+delete point:0x2800 [23.11668,67.81709] "Korvakkoniemi"
+delete point:0x2800 [23.12542,67.71778] "Suksilehto"
+delete point:0x2800 [23.14900,67.71898] "Tuohikoanlehto"
+delete point:0x2800 [23.19990,67.78779] "Lompolovuoma"
+delete point:0x2800 [23.20804,67.77814] "Lompolovuoma"
+delete point:0x2800 [23.00295,67.68322] "Naakavuoma"
+delete point:0x2800 [23.19717,67.81543] "Puristapalo"
+delete point:0x2800 [23.20133,67.81091] "Siikasuannonvuoma"
+delete point:0x2800 [23.17537,67.81874] "Vääräkoskenvuoma"
+delete point:0x2800 [23.26351,67.68906] "Lompolonperänvaara"
+delete point:0x2800 [23.35842,67.94924] "Meraslompolonvuoma"
+delete point:0x2800 [23.48535,67.97140] "Vigeliusniemi"
+delete point:0x2800 [23.54377,67.90909] "Hietasaari"
+delete point:0x2800 [23.50588,67.95673] "Kotivuoma"
+delete point:0x2800 [23.54360,67.90526] "Peltosaari"
+delete point:0x2800 [23.53590,67.97979] "Saivojänkkä"
+delete point:0x2800 [23.55847,67.96752] "Sorvajänkkä"
+delete point:0x2800 [23.60139,67.93951] "Takalammenjänkkä"
+delete point:0x2800 [23.56402,67.95186] "Ymmyräinenjänkkä"
+delete point:0x2800 [23.56380,67.88177] "Joukkovuoma"
+delete point:0x2800 [23.54621,67.89490] "Karisaari"
+delete point:0x2800 [23.80694,67.82584] "Nivunkijoenkarhakisto"
+delete point:0x2800 [23.57821,67.89596] "Pitkätieva"
+delete point:0x2800 [23.73700,67.97744] "Isojänkkä"
+delete point:0x2800 [23.71626,67.95078] "Lompolovuoma"
+delete point:0x2800 [23.60040,67.86592] "Lumiovuoma"
+delete point:0x2800 [23.71223,67.97032] "Vääräkänvuoma"
+
+delete point:0x2b04 [23.81343,67.93092] "hotelli"
+delete point:0x2b04 [23.66809,67.94669] "museo"
+delete point:0x2b04 [23.68313,67.96259] "terv.k."
+delete point:0x2b04 [23.67474,67.95876] "pappila"
+delete point:0x2b04 [23.67029,67.94112] "rajav.as."
+
+delete point:0x2800 [23.87706,67.96458] "moottorikelkkareitti"
+delete point:0x2800 [23.94123,67.83904] "moottorikelkkareitti"
+delete point:0x2800 [23.66434,67.90109] "moottorikelkkareitti"
+delete point:0x2800 [23.86734,67.91060] "moottorikelkkareitti"
+delete point:0x2800 [23.67561,67.82528] "moottorikelkkareitti"
+delete point:0x2800 [23.64163,67.96512] "moottorikelkkareitti"
+delete point:0x2800 [23.78054,67.96983] "moottorikelkkareitti"
+delete point:0x2800 [23.66369,67.93989] "Rr Muonio"
+delete point:0x2800 [23.51280,67.89130] "Äijävuoma"
+
+delete point:0x1100 [23.90997,67.70096] "Ahvenkielinen"
+
+# SE altitudes
+add point:0xd00 [23.104591,67.911782] "403"
+add point:0xd00 [23.223295,67.858677] "318"
+add point:0xd00 [23.419347,67.888780] "338"
+add point:0xd00 [23.601723,67.951511] "339"
+add point:0xd00 [23.175488,67.765050] "283"
+add point:0xd00 [23.353243,67.804727] "347"
+add point:0xd00 [23.355389,67.724612] "391"
+
+add point:0x1000 [23.068714,67.991623] "297"
+add point:0x1000 [23.465252,67.960596] "220"
+add point:0x1000 [23.282919,67.934987] "261"
+add point:0x1000 [23.248057,67.913837] "260"
+add point:0x1000 [23.245268,67.885657] "263"
+add point:0x1000 [23.152313,67.824346] "255"
+add point:0x1000 [23.242478,67.811524] "242"
+
+# SE rapids
+chtype point:0x650c [23.46954,67.92901] "Kinnaskoski" point:0x6508
+chtype point:0x650c [23.61801,67.90807] "Saarikoski" point:0x6508
+chtype point:0x650c [23.64405,67.92150] "Vääräniva" point:0x6508
+chtype point:0x650c [23.49561,67.67783] "Karimellanniva" point:0x6508
+chtype point:0x650c [23.48261,67.74506] "Al.Reponiva" point:0x6508
+chtype point:0x650c [23.47843,67.72499] "Kotaniva" point:0x6508
+chtype point:0x650c [23.48143,67.70610] "Ärsönniva" point:0x6508
+chtype point:0x650c [23.54083,67.89069] "Al.Lapinniva" point:0x6508
+
+chtype point:0x650c [23.54549,67.89372] "Yl.Lapinniva" point:0x6508
+rename point:0x6508 [23.54549,67.89372] "Yl.Lapinniva" ""
+
+rename point:0x6508 [23.48261,67.74506] "Al.Reponiva" "Lapinniva"
+rename point:0x6508 [23.54083,67.89069] "Al.Lapinniva" "Lapinniva"
+delete point:0x6508 [23.54279,67.89034] "Al.Lapinniva"
+
+move   point:0x6508 [23.49561,67.67783] "Karimellanniva" [23.49689,67.67751]
+move   point:0x6508 [23.48143,67.70610] "Ärsönniva" [23.48345,67.70620]
+move   point:0x6508 [23.64405,67.92150] "Vääräniva" [23.64617,67.92126]
+
+# SE stones
+chtype point:0x2800 [23.57011,67.95273] "Seitakivi" point:0x6415
+chtype point:0x2800 [23.52037,67.96801] "Soivintokivi" point:0x6415
+
+# SE villages
+add point:0x800 [23.23984,67.77362] "Kitkiöjoki"
+chtype point:0x2800 [23.19100,67.78212] "Lehto" point:0x900
+chtype point:0x2800 [23.18229,67.81134] "Puristapalo" point:0x900
+chtype point:0x2800 [23.43072,67.94735] "Muodoslompolo"  point:0x800
+chtype point:0x2800 [23.38480,67.94862] "Vähälompolo" point:0x800
+chtype point:0x2800 [23.22814,67.92082] "Västra Merasjärvi" point:0x800
+chtype point:0x2800 [23.25191,67.92085] "Östra Merasjärvi" point:0x800
+chtype point:0x2800 [23.15244,67.81404] "Kitkiöjärvi" point:0x800
+chtype point:0x2800 [23.19791,67.80469] "Siikasuanto" point:0x900
+chtype point:0x2800 [23.21670,67.76706] "Tjäderbo" point:0x900
+chtype point:0x2800 [23.48658,67.66939] "Granvik" point:0x900
+chtype point:0x2800 [23.49276,67.95598] "Mellansjö" point:0x900
+chtype point:0x2800 [23.56143,67.90371] "Muonionalusta" point:0x800
+chtype point:0x2800 [23.54564,67.91204] "Taipalheensuu" point:0x900
+chtype point:0x2800 [23.47933,67.73124] "Parkajoki" point:0x800
+chtype point:0x2800 [23.62814,67.94481] "Muoniovaara" point:0x900
+chtype point:0x2800 [23.64460,67.94581] "Vasikkaniemi" point:0x900
+
+# parts of Muonio
+delete point:0x900 [23.67073,67.94961] "Lahdenranta"
+delete point:0x900 [23.67125,67.96636] "Putaanranta"
+delete point:0x900 [23.68939,67.95808] "Reuhalanmaa"
+
+# SE mountains
+chtype point:0x2800 [23.33010,67.89262] "Ahvenvaara" point:0x1100
+chtype point:0x2800 [23.02189,67.69883] "Al.Hietakursunvaara" point:0x1100
+chtype point:0x2800 [23.40829,67.77468] "Al.Reponivanvaara" point:0x1100
+chtype point:0x2800 [23.22307,67.85918] "Al.Roukovaara" point:0x1100
+chtype point:0x2800 [23.07025,67.80636] "Al.Salmivaara" point:0x1100
+chtype point:0x2800 [23.16544,67.72732] "Al.Takkivaara" point:0x1100
+chtype point:0x2800 [23.11407,67.98917] "Alasuannonvaara" point:0x1100
+chtype point:0x2800 [23.37038,67.88969] "Hangasmaa" point:0x1100
+chtype point:0x2800 [23.08427,67.70593] "Isovaara" point:0x1100
+chtype point:0x2800 [23.11186,67.95914] "Järämävaara" point:0x1100
+chtype point:0x2800 [23.32471,67.83290] "Karhakkavaara" point:0x1100
+chtype point:0x2800 [23.43652,67.71231] "Karhakkavaara" point:0x1100
+chtype point:0x2800 [23.25968,67.87636] "Keskinen Roukovaara" point:0x1100
+chtype point:0x2800 [22.99995,67.98585] "Kiekerövaara" point:0x1100
+chtype point:0x2800 [23.29129,67.70753] "Kiuhtisvaara" point:0x1100
+chtype point:0x2800 [23.31866,67.69233] "Kiuhtisvaara" point:0x1100
+chtype point:0x2800 [23.20898,67.70269] "Korvapuolet" point:0x1100
+chtype point:0x2800 [23.45663,67.75732] "Kuusilaki" point:0x1100
+chtype point:0x2800 [23.04264,67.91369] "Kuusimaa" point:0x1100
+chtype point:0x2800 [23.40591,67.87613] "Kuusimaa" point:0x1100
+chtype point:0x2800 [23.27707,67.73694] "Lamumaa" point:0x1100
+chtype point:0x2800 [23.17775,67.68106] "Lamuvaara" point:0x1100
+chtype point:0x2800 [23.07438,67.86131] "Lapikkavaara" point:0x1100
+chtype point:0x2800 [23.12222,67.94052] "Liikalaki" point:0x1100
+chtype point:0x2800 [23.41904,67.88850] "Metelivaara" point:0x1100
+chtype point:0x2800 [23.03569,67.66787] "Naakajupukka" point:0x1100
+chtype point:0x2800 [23.07130,67.67548] "Naakakarhakka" point:0x1100
+chtype point:0x2800 [23.03984,67.70418] "Naakarova" point:0x1100
+chtype point:0x2800 [23.31332,67.73162] "Niittysaarenlaki" point:0x1100
+chtype point:0x2800 [23.09638,67.92614] "Pahtalaki" point:0x1100
+chtype point:0x2800 [23.39117,67.71349] "Paljaanlaenperät" point:0x1100
+chtype point:0x2800 [23.35461,67.72399] "Paljaslaki" point:0x1100
+chtype point:0x2800 [23.30934,67.90493] "Palolaki" point:0x1100
+chtype point:0x2800 [23.17921,67.76448] "Palovaara" point:0x1100
+chtype point:0x2800 [23.32634,67.77148] "Palovaara" point:0x1100
+chtype point:0x2800 [23.45985,67.72838] "Patovaara" point:0x1100
+chtype point:0x2800 [23.45701,67.89408] "Porrasmaa" point:0x1100
+chtype point:0x2800 [23.35147,67.80488] "Puristakero" point:0x1100
+chtype point:0x2800 [23.38556,67.74268] "Puristavaara" point:0x1100
+chtype point:0x2800 [23.38618,67.83356] "Rantavaara" point:0x1100
+chtype point:0x2800 [23.48240,67.90218] "Saarikoskenvaara" point:0x1100
+chtype point:0x2800 [23.06423,67.97386] "Saukkosuannonvaara" point:0x1100
+chtype point:0x2800 [23.24106,67.72915] "Selänvaara" point:0x1100
+chtype point:0x2800 [23.06358,67.72509] "Suksivaara" point:0x1100
+chtype point:0x2800 [23.18021,67.74803] "Takapalo" point:0x1100
+chtype point:0x2800 [23.42276,67.73580] "Takapalo" point:0x1100
+chtype point:0x2800 [23.26767,67.78889] "Terävälaki" point:0x1100
+chtype point:0x2800 [23.03904,67.88624] "Uusipalo" point:0x1100
+chtype point:0x2800 [23.01848,67.78046] "Vaijasuannonvaara" point:0x1100
+chtype point:0x2800 [23.20434,67.75903] "Varkhaanvaara" point:0x1100
+chtype point:0x2800 [23.10587,67.91162] "Vittalaki" point:0x1100
+chtype point:0x2800 [23.37744,67.90241] "Vittamaa" point:0x1100
+chtype point:0x2800 [23.43036,67.78362] "Yl.Reponivanvaara" point:0x1100
+chtype point:0x2800 [23.27842,67.90018] "Yl.Roukovaara" point:0x1100
+chtype point:0x2800 [23.10253,67.73115] "Yl.Takkivaara" point:0x1100
+chtype point:0x2800 [23.21676,67.98537] "Ylisenvuomantausta" point:0x1100
+chtype point:0x2800 [23.41558,67.96025] "Äijävaara" point:0x1100
+chtype point:0x2800 [23.40916,67.69061] "Ärsönlehto" point:0x1100
+chtype point:0x2800 [23.42847,67.69704] "Ärsönvaara" point:0x1100
+chtype point:0x2800 [23.10126,67.68389] "Saarenmaat"  point:0x1100
+chtype point:0x2800 [23.16831,67.70922] "Tuohikoanvaara"  point:0x1100
+chtype point:0x2800 [23.23670,67.83601] "Riukurova" point:0x1100
+chtype point:0x2800 [23.07981,67.82048] "Yl.Salmivaara" point:0x1100
+chtype point:0x2800 [23.26647,67.98501] "Kiimajoenharjut" point:0x1100
+chtype point:0x2800 [23.38338,67.96197] "Myllysaajo" point:0x1100
+chtype point:0x2800 [23.24961,67.97654] "Tuohiauttovaara" point:0x1100
+chtype point:0x2800 [23.00111,67.71280] "Yl.Hietakursunvaara" point:0x1100
+chtype point:0x2800 [23.35118,67.78321] "Al.Puristaselkä" point:0x1100
+chtype point:0x2800 [23.23750,67.77723] "Kitkiövaara" point:0x1100
+chtype point:0x2800 [23.22204,67.93318] "Aukeatunturi" point:0x1100
+chtype point:0x2800 [23.27673,67.68664] "Lompolonperänvaara" point:0x1100
+chtype point:0x2800 [23.52440,67.98166] "Mellavaara" point:0x1100
+chtype point:0x2800 [23.59884,67.94522] "Muoniovaara" point:0x1100
+chtype point:0x2800 [23.51606,67.89965] "Pahtalaki" point:0x1100
+chtype point:0x2800 [23.59089,67.92119] "Sisnakkapalo" point:0x1100
+chtype point:0x2800 [23.62292,67.92119] "Väärännivanpalo" point:0x1100
+
+move   point:0x1000 [23.62419,67.80166] "247" [23.62029,67.80160]
+move   point:0x1000 [23.63553,67.79941] "250" [23.63718,67.79844]
+move   point:0x1000 [23.60290,67.81609] "273" [23.60398,67.81797]
+move   point:0x1000 [23.81241,67.96700] "241" [23.83243,67.96510]
+move   point:0x1000 [23.86511,67.95331] "245" [23.86216,67.95324]
+move   point:0x1000 [23.86139,67.97319] "246" [23.86322,67.97969]
+move   point:0x1000 [23.58454,67.98681] "231" [23.58876,67.98583]
+move   point:0x1000 [23.60210,67.99257] "231" [23.59442,67.99370]
+move   point:0x1000 [23.78813,67.99679] "246" [23.79085,67.99504]
+move   point:0x1000 [23.85932,67.89442] "252" [23.85660,67.89160]
+move   point:0x1000 [23.88465,67.70125] "256" [23.88113,67.70325]
+move   point:0x1000 [23.69686,67.99204] "260" [23.70874,67.98980]
+move   point:0x1000 [23.90280,67.70173] "260" [23.91090,67.70513]
+move   point:0x1000 [23.95843,67.90594] "260" [23.97956,67.89493]
+move   point:0x1000 [23.85642,67.72702] "268" [23.85307,67.72823]
+move   point:0x1000 [23.90993,67.92730] "273" [23.91456,67.92742]
+move   point:0x1000 [23.87024,67.92601] "282" [23.88342,67.93048]
+move   point:0x1000 [23.95719,67.94124] "292" [23.95910,67.94316]
+move   point:0x1000 [23.88530,67.69196] "241" [23.88529,67.69127]
+move   point:0x1000 [23.81741,67.71579] "243" [23.81374,67.71638]
+move   point:0x1000 [23.91322,67.95383] "246" [23.91273,67.95850]
+move   point:0x1000 [23.71111,67.72601] "248" [23.71292,67.72294]
+move   point:0x1000 [23.78947,67.75000] "252" [23.78670,67.75016]
+move   point:0x1000 [23.89869,67.90229] "255" [23.89203,67.90440]
+move   point:0x1000 [23.93101,67.68358] "259" [23.92873,67.68411]
+move   point:0x1000 [23.97289,67.82813] "297" [23.97139,67.82330]
+move   point:0x1000 [23.96583,67.83898] "300" [23.96165,67.83982]
+move   point:0x1000 [23.96245,67.79594] "311" [23.95959,67.79413]
+move   point:0x1000 [23.98991,67.84720] "314" [23.99032,67.84585]
+move   point:0x1000 [23.56843,67.98788] "231" [23.57024,67.99086]
+move   point:0x1000 [23.57375,67.97688] "231" [23.57747,67.97598]
+move   point:0x1000 [23.56063,67.88632] "206" [23.55575,67.88755]
+move   point:0x1000 [23.67770,67.82880] "218" [23.65651,67.83761]
+move   point:0x1000 [23.60141,67.85421] "227" [23.59818,67.85429]
+move   point:0x1000 [23.55096,67.86558] "236" [23.55401,67.86743]
+move   point:0x1000 [23.73401,67.75476] "251" [23.74153,67.75879]
+move   point:0x1000 [23.70990,67.75801] "255" [23.71096,67.76175]
+move   point:0x1000 [23.66678,67.78490] "257" [23.67683,67.78320]
+move   point:0x1000 [23.71804,67.95675] "232" [23.71373,67.96185]
+move   point:0x1000 [23.69262,67.94048] "235" [23.69873,67.93774]
+move   point:0x1000 [23.68491,67.87322] "238" [23.67816,67.87533]
+move   point:0x1000 [23.71735,67.87236] "242" [23.71824,67.87150]
+move   point:0x1000 [23.67136,67.98999] "263" [23.67156,67.98921]
+move   point:0x1000 [23.84415,67.91443] "303" [23.84162,67.91587]
+move   point:0x1000 [23.15231,67.82435] "255" [23.14675,67.82991]
+
+delete point:0x1000 [23.67890,67.78580] "256"
+
+move   point:0x1100 [23.02189,67.69883] "Al.Hietakursunvaara" [23.01970,67.69897]
+move   point:0x1100 [23.11407,67.98917] "Alasuannonvaara" [23.12423,67.98767]
+move   point:0x1100 [23.08427,67.70593] "Isovaara" [23.07124,67.70559]
+move   point:0x1100 [23.42276,67.73580] "Takapalo" [23.42459,67.73678]
+move   point:0x1100 [23.03904,67.88624] "Uusipalo" [23.03012,67.88857]
+move   point:0x1100 [23.01848,67.78046] "Vaijasuannonvaara" [23.01859,67.78105]
+move   point:0x1100 [23.10587,67.91162] "Vittalaki" [23.10423,67.91153]
+move   point:0x1100 [23.20898,67.70269] "Korvapuolet" [23.21214,67.69925]
+move   point:0x1100 [23.17775,67.68106] "Lamuvaara" [23.16521,67.67597]
+move   point:0x1100 [23.07438,67.86131] "Lapikkavaara" [23.07682,67.86172]
+move   point:0x1100 [23.03569,67.66787] "Naakajupukka" [23.03387,67.66932]
+move   point:0x1100 [23.07130,67.67548] "Naakakarhakka" [23.07104,67.67680]
+move   point:0x1100 [23.30934,67.90493] "Palolaki" [23.30986,67.90523]
+move   point:0x1100 [23.37744,67.90241] "Vittamaa" [23.37739,67.90160]
+move   point:0x1100 [23.27842,67.90018] "Yl.Roukovaara" [23.27387,67.90048]
+move   point:0x1100 [23.16544,67.72732] "Al.Takkivaara" [23.16207,67.72694]
+move   point:0x1100 [23.29129,67.70753] "Kiuhtisvaara" [23.29068,67.70839]
+move   point:0x1100 [23.10253,67.73115] "Yl.Takkivaara" [23.10532,67.73199]
+move   point:0x1100 [23.07981,67.82048] "Yl.Salmivaara" [23.06413,67.81746]
+move   point:0x1100 [23.23749,67.77725] "Kitkiövaara" [23.24439,67.77670]
+move   point:0x1100 [23.26767,67.78889] "Terävälaki" [23.26863,67.78945]
+move   point:0x1100 [23.00111,67.71280] "Yl.Hietakursunvaara" [23.00714,67.71252]
+move   point:0x1100 [23.35118,67.78321] "Al.Puristaselkä" [23.35090,67.78484]
+move   point:0x1100 [23.40829,67.77468] "Al.Reponivanvaara" [23.41553,67.77371]
+move   point:0x1100 [23.43652,67.71231] "Karhakkavaara" [23.43837,67.71220]
+move   point:0x1100 [23.31866,67.69233] "Kiuhtisvaara" [23.30475,67.69472]
+move   point:0x1100 [23.45663,67.75732] "Kuusilaki" [23.45170,67.76173]
+move   point:0x1100 [23.39117,67.71349] "Paljaanlaenperät" [23.38254,67.71042]
+move   point:0x1100 [23.42847,67.69704] "Ärsönvaara" [23.42650,67.69759]
+move   point:0x1100 [23.81305,67.70315] "Särkiselkä" [23.81233,67.70505]
+move   point:0x1100 [23.45701,67.89408] "Porrasmaa" [23.45930,67.89433]
+move   point:0x1100 [23.48240,67.90218] "Saarikoskenvaara" [23.47506,67.90288]
+move   point:0x1100 [23.43036,67.78362] "Yl.Reponivanvaara" [23.42480,67.78451]
+move   point:0x1100 [23.25968,67.87636] "Keskinen Roukovaara" [23.26287,67.87964]
+move   point:0x1100 [23.59089,67.92119] "Sisnakkapalo" [23.59333,67.92330]
+move   point:0x1100 [23.62292,67.92119] "Väärännivanpalo" [23.63045,67.92213]
+move   point:0x1100 [23.22307,67.85918] "Al.Roukovaara" [23.22326,67.85874]
+move   point:0x1100 [23.41904,67.88850] "Metelivaara" [23.41950,67.88874]
+move   point:0x1100 [23.35461,67.72399] "Paljaslaki" [23.35512,67.72448]
+move   point:0x1100 [23.17921,67.76448] "Palovaara" [23.17535,67.76520]
+
+rename point:0x1100 [23.26287,67.87964] "Keskinen Roukovaara" "Keskinen\\Roukovaara"
+rename point:0x650c [23.96320,67.79655] "Matala Nivunkijärvi" "Matala\\Nivunkijärvi"
+
+delete point:0xd00 [23.90997,67.70096] "290"
+delete point:0xd00 [23.81305,67.70315] "315"
+
